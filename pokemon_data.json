@@ -38125,11 +38125,11 @@
             "tm": ["Aerial Ace", "Avalanche", "Blizzard", "Body Press", "Body Slam", "Breaking Swipe", "Brutal Swing", "Confide", "Cut", "Double Team", "Draco Meteor", "Dragon Cheer", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Dual Wingbeat", "Earth Power", "Echoed Voice", "Endeavor", "Endure", "Facade", "Flash Cannon", "Fling", "Fly", "Focus Blast", "Frustration", "Giga Impact", "Hail", "Helping Hand", "Hidden Power", "Hone Claws", "Hyper Beam", "Hyper Voice", "Ice Beam", "Ice Fang", "Icicle Spear", "Icy Wind", "Imprison", "Iron Head", "Light Screen", "Outrage", "Payback", "Protect", "Psychic", "Rain Dance", "Reflect", "Rest", "Return", "Roar", "Rock Slide", "Rock Smash", "Rock Tomb", "Roost", "Round", "Safeguard", "Scale Shot", "Scary Face", "Secret Power", "Shadow Ball", "Shadow Claw", "Sleep Talk", "Snore", "Snowscape", "Steel Wing", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Tera Blast", "Toxic", "Weather Ball", "Zen Headbutt"]
         }
     },
-    "Keldeo Ordinary": {
+    "Keldeo": {
         "Pokedex": {
             "pokedex_number": "0647",
             "type": "Water, Fighting",
-            "description": "'''Keldeo Ordinary''' (Japanese: ケルディオ) is a Water/Fighting-type Pokémon introduced in Generation V, which is known as the 'Colt Pokémon'. It is standing at 1.4 meters tall and weighing around 48.5 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Keldeo''' (Japanese: ケルディオ) is a Water/Fighting-type Pokémon introduced in Generation V, which is known as the 'Colt Pokémon'. It is standing at 1.4 meters tall and weighing around 48.5 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "hp": 91,

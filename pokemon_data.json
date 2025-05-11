@@ -33108,11 +33108,11 @@
             "tm": ["Attract", "Avalanche", "Blizzard", "Brick Break", "Dig", "Encore", "Endure", "Facade", "Fire Blast", "Fire Fang", "Fire Punch", "Fire Spin", "Flamethrower", "Flare Blitz", "Fling", "Focus Energy", "Grass Knot", "Gyro Ball", "Heat Wave", "Ice Beam", "Ice Fang", "Ice Punch", "Mega Kick", "Mega Punch", "Overheat", "Protect", "Rest", "Rock Slide", "Rock Tomb", "Round", "Sleep Talk", "Snore", "Solar Beam", "Substitute", "Sunny Day", "Superpower", "Taunt", "Thief", "U Turn", "Uproar", "Will O Wisp", "Work Up", "Zen Headbutt"]
         }
     },
-    "Darmanitan Standard": {
+    "Darmanitan": {
         "Pokedex": {
             "pokedex_number": "0555",
             "type": "Fire",
-            "description": "'''Darmanitan Standard''' (Japanese: ヒヒダルマ) is a Fire-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.3 meters tall and weighing around 92.9 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Darmanitan''' (Japanese: ヒヒダルマ) is a Fire-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.3 meters tall and weighing around 92.9 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "hp": 105,
@@ -51212,11 +51212,11 @@
             "tm": ["Assurance", "Attract", "Body Press", "Body Slam", "Brutal Swing", "Bulldoze", "Curse", "Earth Power", "Earthquake", "Endeavor", "Endure", "Facade", "Giga Impact", "Gravity", "Hard Press", "Heat Crash", "Heavy Slam", "High Horsepower", "Hyper Beam", "Imprison", "Iron Defense", "Low Kick", "Low Sweep", "Mega Kick", "Meteor Beam", "Power Gem", "Protect", "Psych Up", "Rest", "Rock Blast", "Rock Slide", "Rock Tomb", "Round", "Safeguard", "Sand Tomb", "Sandstorm", "Self Destruct", "Sleep Talk", "Smack Down", "Snore", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Substitute", "Sunny Day", "Superpower", "Take Down", "Tera Blast", "Wonder Room"]
         }
     },
-    "Eiscue Ice": {
+    "Eiscue": {
         "Pokedex": {
             "pokedex_number": "0875",
             "type": "Ice",
-            "description": "'''Eiscue Ice''' (Japanese: コオリッポ) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Eiscue''' (Japanese: コオリッポ) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "hp": 75,
@@ -53789,11 +53789,11 @@
             "tm": ["Body Press", "Body Slam", "Bulldoze", "Bullet Seed", "Chilling Water", "Curse", "Dig", "Disarming Voice", "Double Edge", "Earth Power", "Endeavor", "Endure", "Energy Ball", "Facade", "Giga Impact", "Helping Hand", "High Horsepower", "Hyper Beam", "Hyper Voice", "Iron Head", "Lash Out", "Mud Shot", "Mud Slap", "Play Rough", "Protect", "Rain Dance", "Rest", "Seed Bomb", "Sleep Talk", "Stomping Tantrum", "Substitute", "Sunny Day", "Super Fang", "Take Down", "Tera Blast", "Thief", "Trailblaze", "Uproar", "Zen Headbutt"]
         }
     },
-    "Oinkologne Male": {
+    "Oinkologne": {
         "Pokedex": {
             "pokedex_number": "0916",
             "type": "Normal",
-            "description": "'''Oinkologne Male''' (Japanese: パフュートン) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Hog Pokémon'. It is standing at 1.0 meters tall and weighing around 120.0 kilograms, with a gray-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Oinkologne''' (Japanese: パフュートン) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Hog Pokémon'. It is standing at 1.0 meters tall and weighing around 120.0 kilograms, with a gray-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "hp": 110,
@@ -54195,11 +54195,11 @@
             "tm": ["Aerial Ace", "Agility", "Baton Pass", "Bullet Seed", "Charm", "Crunch", "Dig", "Double Edge", "Encore", "Endure", "Facade", "Fake Tears", "Grass Knot", "Helping Hand", "Hyper Voice", "Low Kick", "Low Sweep", "Mud Shot", "Mud Slap", "Play Rough", "Protect", "Rain Dance", "Rest", "Seed Bomb", "Shadow Claw", "Sleep Talk", "Substitute", "Sunny Day", "Super Fang", "Swift", "Take Down", "Taunt", "Tera Blast", "Thief", "Thunder Wave", "U Turn", "Water Pulse"]
         }
     },
-    "Maushold Family Of Four": {
+    "Maushold": {
         "Pokedex": {
             "pokedex_number": "0925",
             "type": "Normal",
-            "description": "'''Maushold Family Of Four''' (Japanese: イッカネズミ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Family Pokémon'. It is standing at 0.3 meters tall and weighing around 2.3 kilograms, with a white-colored body and a heads appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Maushold''' (Japanese: イッカネズミ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Family Pokémon'. It is standing at 0.3 meters tall and weighing around 2.3 kilograms, with a white-colored body and a heads appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "hp": 74,
@@ -54505,11 +54505,11 @@
             "tm": ["Alluring Voice", "Bullet Seed", "Charm", "Dazzling Gleam", "Earth Power", "Encore", "Endure", "Energy Ball", "Facade", "Fling", "Giga Drain", "Giga Impact", "Grass Knot", "Grassy Terrain", "Helping Hand", "Hyper Beam", "Hyper Voice", "Leaf Storm", "Light Screen", "Magical Leaf", "Metronome", "Petal Blizzard", "Pollen Puff", "Protect", "Psych Up", "Reflect", "Rest", "Seed Bomb", "Sleep Talk", "Solar Beam", "Solar Blade", "Substitute", "Sunny Day", "Swift", "Tera Blast", "Trailblaze", "Weather Ball"]
         }
     },
-    "Squawkabilly Blue Plumage": {
+    "Squawkabilly": {
         "Pokedex": {
             "pokedex_number": "0931",
             "type": "Normal, Flying",
-            "description": "'''Squawkabilly Blue Plumage''' (Japanese: イキリンコ) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Squawkabilly''' (Japanese: イキリンコ) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "hp": 82,
@@ -56068,11 +56068,11 @@
             "tm": ["Acrobatics", "Agility", "Blizzard", "Body Slam", "Charm", "Chilling Water", "Disarming Voice", "Draining Kiss", "Encore", "Endure", "Facade", "Fling", "Haze", "Helping Hand", "Hydro Pump", "Ice Beam", "Icy Wind", "Liquidation", "Protect", "Psych Up", "Rain Dance", "Rest", "Sleep Talk", "Substitute", "Surf", "Swift", "Take Down", "Tera Blast", "Water Pulse", "Waterfall", "Zen Headbutt"]
         }
     },
-    "Palafin Hero": {
+    "Palafin": {
         "Pokedex": {
             "pokedex_number": "0964",
             "type": "Water",
-            "description": "'''Palafin Hero''' (Japanese: イルカマン) is a Water-type Pokémon introduced in Generation IX, which is known as the 'Dolphin Pokémon'. It is standing at 1.8 meters tall and weighing around 97.4 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Palafin''' (Japanese: イルカマン) is a Water-type Pokémon introduced in Generation IX, which is known as the 'Dolphin Pokémon'. It is standing at 1.8 meters tall and weighing around 97.4 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "hp": 100,
@@ -56999,11 +56999,11 @@
             "tm": ["Agility", "Amnesia", "Baton Pass", "Body Slam", "Bulldoze", "Calm Mind", "Charge Beam", "Confuse Ray", "Crunch", "Curse", "Dazzling Gleam", "Double Edge", "Earthquake", "Endeavor", "Endure", "Energy Ball", "Expanding Force", "Facade", "Foul Play", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Helping Hand", "High Horsepower", "Hyper Beam", "Hyper Voice", "Imprison", "Iron Head", "Light Screen", "Low Kick", "Nasty Plot", "Night Shade", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Fangs", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rain Dance", "Reflect", "Rest", "Roar", "Shadow Ball", "Skill Swap", "Sleep Talk", "Stomping Tantrum", "Stored Power", "Substitute", "Sunny Day", "Swift", "Take Down", "Tera Blast", "Thief", "Thunder", "Thunder Wave", "Thunderbolt", "Trailblaze", "Trick", "Trick Room", "Uproar", "Zen Headbutt"]
         }
     },
-    "Dudunsparce Three Segment": {
+    "Dudunsparce": {
         "Pokedex": {
             "pokedex_number": "0982",
             "type": "Normal",
-            "description": "'''Dudunsparce Three Segment''' (Japanese: ノココッチ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Land Snake Pokémon'. It is standing at 4.5 meters tall and weighing around 47.4 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Dudunsparce''' (Japanese: ノココッチ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Land Snake Pokémon'. It is standing at 4.5 meters tall and weighing around 47.4 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "hp": 125,

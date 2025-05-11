@@ -43557,11 +43557,11 @@
             "tm": ["Amnesia", "Attract", "Avalanche", "Blizzard", "Body Press", "Body Slam", "Brick Break", "Brutal Swing", "Bulk Up", "Bulldoze", "Chilling Water", "Close Combat", "Coaching", "Confide", "Dig", "Double Team", "Drain Punch", "Earthquake", "Endeavor", "Endure", "Facade", "Fling", "Focus Blast", "Focus Punch", "Frost Breath", "Frustration", "Giga Impact", "Gunk Shot", "Hail", "Hard Press", "Helping Hand", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Punch", "Ice Spinner", "Icy Wind", "Iron Defense", "Iron Head", "Knock Off", "Liquidation", "Mud Shot", "Mud Slap", "Payback", "Protect", "Rain Dance", "Rest", "Return", "Reversal", "Rock Slide", "Rock Tomb", "Round", "Scald", "Scary Face", "Sleep Talk", "Snowscape", "Stomping Tantrum", "Stone Edge", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Tera Blast", "Thief", "Thunder Punch", "Toxic", "Upper Hand", "Work Up", "Zen Headbutt"]
         }
     },
-    "Oricorio Baile": {
+    "Oricorio": {
         "Pokedex": {
             "pokedex_number": "0741",
             "type": "Fire, Flying",
-            "description": "'''Oricorio Baile''' (Japanese: オドリドリ) is a Fire/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Oricorio''' (Japanese: オドリドリ) is a Fire/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "hp": 75,

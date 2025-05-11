@@ -137,7 +137,7 @@
             "tm": ["Acid Spray", "Amnesia", "Attract", "Bide", "Body Slam", "Bulldoze", "Bullet Seed", "Captivate", "Charm", "Confide", "Curse", "Cut", "Defense Curl", "Double Edge", "Double Team", "Earth Power", "Earthquake", "Echoed Voice", "Endure", "Energy Ball", "Facade", "False Swipe", "Flash", "Frenzy Plant", "Frustration", "Fury Cutter", "Giga Drain", "Giga Impact", "Grass Knot", "Grass Pledge", "Grassy Glide", "Grassy Terrain", "Headbutt", "Helping Hand", "Hidden Power", "Hyper Beam", "Knock Off", "Leaf Storm", "Light Screen", "Magical Leaf", "Mega Drain", "Mimic", "Mud Slap", "Natural Gift", "Nature Power", "Outrage", "Petal Blizzard", "Poison Jab", "Power Whip", "Protect", "Rage", "Reflect", "Rest", "Return", "Roar", "Rock Climb", "Rock Smash", "Round", "Safeguard", "Scary Face", "Secret Power", "Seed Bomb", "Sleep Talk", "Sludge Bomb", "Snore", "Solar Beam", "Stomping Tantrum", "Strength", "Substitute", "Sunny Day", "Swagger", "Sweet Scent", "Swords Dance", "Take Down", "Tera Blast", "Toxic", "Trailblaze", "Venoshock", "Weather Ball", "Work Up"]
         }
     },
-    "Gigantamax Venusaur Gmax": {
+    "Gigantamax Venusaur": {
         "Pokedex": {
             "pokedex_number": "0003",
             "type": "Grass, Poison",
@@ -359,7 +359,7 @@
             "tm": ["Acrobatics", "Aerial Ace", "Air Cutter", "Air Slash", "Attract", "Beat Up", "Bide", "Blast Burn", "Blaze Kick", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Captivate", "Confide", "Counter", "Crunch", "Curse", "Cut", "Defense Curl", "Defog", "Dig", "Double Edge", "Double Team", "Dragon Breath", "Dragon Cheer", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dragon Rage", "Dragon Tail", "Dynamic Punch", "Earthquake", "Echoed Voice", "Endure", "Facade", "False Swipe", "Fire Blast", "Fire Fang", "Fire Pledge", "Fire Punch", "Fire Spin", "Fissure", "Flame Charge", "Flamethrower", "Flare Blitz", "Fling", "Fly", "Focus Blast", "Focus Punch", "Frustration", "Fury Cutter", "Giga Impact", "Headbutt", "Heat Crash", "Heat Wave", "Helping Hand", "Hidden Power", "Hone Claws", "Hurricane", "Hyper Beam", "Incinerate", "Iron Tail", "Mega Kick", "Mega Punch", "Mimic", "Mud Slap", "Mystical Fire", "Natural Gift", "Outrage", "Overheat", "Power Up Punch", "Protect", "Rage", "Reflect", "Rest", "Return", "Roar", "Rock Slide", "Rock Smash", "Rock Tomb", "Roost", "Round", "Sandstorm", "Scary Face", "Scorching Sands", "Secret Power", "Seismic Toss", "Shadow Claw", "Skull Bash", "Sky Drop", "Sleep Talk", "Snore", "Solar Beam", "Steel Wing", "Strength", "Submission", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Take Down", "Temper Flare", "Tera Blast", "Thunder Punch", "Toxic", "Weather Ball", "Will O Wisp", "Work Up"]
         }
     },
-    "Gigantamax Charizard Gmax": {
+    "Gigantamax Charizard": {
         "Pokedex": {
             "pokedex_number": "0006",
             "type": "Fire, Flying",
@@ -630,7 +630,7 @@
             "tm": ["Attract", "Aura Sphere", "Avalanche", "Bide", "Blizzard", "Body Press", "Body Slam", "Brick Break", "Brine", "Bubble Beam", "Bulldoze", "Captivate", "Chilling Water", "Confide", "Counter", "Crunch", "Curse", "Dark Pulse", "Defense Curl", "Dig", "Dive", "Double Edge", "Double Team", "Dragon Pulse", "Dragon Tail", "Dynamic Punch", "Earthquake", "Endure", "Facade", "False Swipe", "Fissure", "Flash Cannon", "Fling", "Flip Turn", "Focus Blast", "Focus Punch", "Frustration", "Giga Impact", "Gyro Ball", "Hail", "Haze", "Headbutt", "Helping Hand", "Hidden Power", "Hydro Cannon", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Punch", "Ice Spinner", "Icy Wind", "Iron Defense", "Iron Tail", "Liquidation", "Mega Kick", "Mega Punch", "Mimic", "Mud Shot", "Mud Slap", "Muddy Water", "Natural Gift", "Outrage", "Power Up Punch", "Protect", "Rage", "Rain Dance", "Reflect", "Rest", "Return", "Roar", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Rollout", "Round", "Scald", "Scary Face", "Secret Power", "Seismic Toss", "Skull Bash", "Sleep Talk", "Smack Down", "Snore", "Strength", "Submission", "Substitute", "Surf", "Swagger", "Take Down", "Tera Blast", "Toxic", "Water Gun", "Water Pledge", "Water Pulse", "Waterfall", "Weather Ball", "Whirlpool", "Work Up", "Zen Headbutt"]
         }
     },
-    "Gigantamax Blastoise Gmax": {
+    "Gigantamax Blastoise": {
         "Pokedex": {
             "pokedex_number": "0009",
             "type": "Water",
@@ -815,7 +815,7 @@
             "tm": ["Acrobatics", "Aerial Ace", "Air Slash", "Attract", "Baton Pass", "Bide", "Bug Buzz", "Captivate", "Confide", "Curse", "Defog", "Double Edge", "Double Team", "Draining Kiss", "Dream Eater", "Electroweb", "Endure", "Energy Ball", "Facade", "Flash", "Frustration", "Giga Drain", "Giga Impact", "Headbutt", "Hidden Power", "Hurricane", "Hyper Beam", "Infestation", "Iron Defense", "Mega Drain", "Mimic", "Natural Gift", "Nightmare", "Pollen Puff", "Protect", "Psych Up", "Psychic", "Psywave", "Rage", "Rain Dance", "Razor Wind", "Reflect", "Rest", "Return", "Roost", "Round", "Safeguard", "Secret Power", "Shadow Ball", "Silver Wind", "Skill Swap", "Sleep Talk", "Snore", "Solar Beam", "Struggle Bug", "Substitute", "Sunny Day", "Swagger", "Sweet Scent", "Swift", "Take Down", "Teleport", "Thief", "Toxic", "U Turn", "Venoshock", "Whirlwind"]
         }
     },
-    "Gigantamax Butterfree Gmax": {
+    "Gigantamax Butterfree": {
         "Pokedex": {
             "pokedex_number": "0012",
             "type": "Bug, Flying",
@@ -1892,7 +1892,7 @@
             "tm": ["Brick Break", "Calm Mind", "Dig", "Facade", "Headbutt", "Helping Hand", "Iron Tail", "Light Screen", "Pay Day", "Protect", "Reflect", "Rest", "Seismic Toss", "Substitute", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Toxic"]
         }
     },
-    "Gigantamax Pikachu Gmax": {
+    "Gigantamax Pikachu": {
         "Pokedex": {
             "pokedex_number": "0025",
             "type": "Electric",
@@ -3747,7 +3747,7 @@
             "tm": ["Aerial Ace", "Amnesia", "Assurance", "Attract", "Body Slam", "Brick Break", "Charm", "Crunch", "Curse", "Dark Pulse", "Dig", "Double Edge", "Endeavor", "Endure", "Facade", "Fake Tears", "False Swipe", "Flash Cannon", "Fling", "Foul Play", "Gunk Shot", "Gyro Ball", "Helping Hand", "Hyper Voice", "Iron Defense", "Iron Head", "Iron Tail", "Knock Off", "Lash Out", "Metal Claw", "Metal Sound", "Metronome", "Nasty Plot", "Pay Day", "Payback", "Play Rough", "Protect", "Rain Dance", "Rest", "Retaliate", "Round", "Screech", "Seed Bomb", "Shadow Ball", "Shadow Claw", "Sleep Talk", "Snore", "Spite", "Stealth Rock", "Steel Beam", "Substitute", "Sunny Day", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Thief", "Throat Chop", "Thunder", "Thunderbolt", "Trailblaze", "U Turn", "Uproar", "Work Up", "X Scissor"]
         }
     },
-    "Gigantamax Meowth Gmax": {
+    "Gigantamax Meowth": {
         "Pokedex": {
             "pokedex_number": "0052",
             "type": "Normal",
@@ -4807,7 +4807,7 @@
             "tm": ["Assurance", "Attract", "Bide", "Body Slam", "Brick Break", "Bulk Up", "Bulldoze", "Captivate", "Close Combat", "Confide", "Counter", "Cross Poison", "Curse", "Darkest Lariat", "Detect", "Dig", "Double Edge", "Double Team", "Dynamic Punch", "Earthquake", "Encore", "Endure", "Facade", "Fire Blast", "Fire Punch", "Fissure", "Flamethrower", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Frustration", "Giga Impact", "Headbutt", "Heavy Slam", "Helping Hand", "Hidden Power", "High Horsepower", "Hyper Beam", "Ice Punch", "Incinerate", "Light Screen", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Metronome", "Mimic", "Mud Slap", "Natural Gift", "Payback", "Poison Jab", "Power Up Punch", "Protect", "Rage", "Rain Dance", "Rest", "Retaliate", "Return", "Revenge", "Reversal", "Rock Blast", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Scary Face", "Secret Power", "Seismic Toss", "Skull Bash", "Sleep Talk", "Smack Down", "Snore", "Stomping Tantrum", "Stone Edge", "Strength", "Submission", "Substitute", "Sunny Day", "Superpower", "Swagger", "Take Down", "Thief", "Throat Chop", "Thunder Punch", "Toxic", "Work Up"]
         }
     },
-    "Gigantamax Machamp Gmax": {
+    "Gigantamax Machamp": {
         "Pokedex": {
             "pokedex_number": "0068",
             "type": "Fighting",
@@ -6697,7 +6697,7 @@
             "tm": ["Acid Spray", "Ally Switch", "Attract", "Bide", "Body Slam", "Brick Break", "Captivate", "Confide", "Confuse Ray", "Counter", "Curse", "Dark Pulse", "Dazzling Gleam", "Double Edge", "Double Team", "Drain Punch", "Dream Eater", "Dynamic Punch", "Embargo", "Encore", "Endure", "Energy Ball", "Explosion", "Facade", "Fire Punch", "Fling", "Focus Blast", "Focus Punch", "Foul Play", "Frustration", "Giga Drain", "Giga Impact", "Gunk Shot", "Haze", "Headbutt", "Hex", "Hidden Power", "Hyper Beam", "Ice Punch", "Icy Wind", "Imprison", "Infestation", "Knock Off", "Mega Drain", "Mega Kick", "Mega Punch", "Metronome", "Mimic", "Nasty Plot", "Natural Gift", "Night Shade", "Nightmare", "Pain Split", "Payback", "Phantom Force", "Poison Jab", "Poltergeist", "Power Up Punch", "Protect", "Psych Up", "Psychic", "Psychic Noise", "Psywave", "Rage", "Rain Dance", "Rest", "Return", "Rock Smash", "Round", "Scary Face", "Secret Power", "Seismic Toss", "Self Destruct", "Shadow Ball", "Shadow Claw", "Skill Swap", "Skitter Smack", "Skull Bash", "Sleep Talk", "Sludge Bomb", "Sludge Wave", "Snatch", "Snore", "Spite", "Strength", "Submission", "Substitute", "Sunny Day", "Swagger", "Take Down", "Taunt", "Telekinesis", "Tera Blast", "Thief", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Toxic Spikes", "Trick", "Trick Room", "Uproar", "Venoshock", "Will O Wisp", "Wonder Room", "Zap Cannon"]
         }
     },
-    "Gigantamax Gengar Gmax": {
+    "Gigantamax Gengar": {
         "Pokedex": {
             "pokedex_number": "0094",
             "type": "Ghost, Poison",
@@ -7031,7 +7031,7 @@
             "tm": ["Agility", "Ally Switch", "Amnesia", "Attract", "Bide", "Blizzard", "Body Slam", "Brick Break", "Brine", "Brutal Swing", "Bubble Beam", "Captivate", "Confide", "Curse", "Cut", "Dig", "Dive", "Double Edge", "Double Team", "Endure", "Facade", "False Swipe", "Fling", "Frustration", "Fury Cutter", "Giga Impact", "Hail", "Headbutt", "Hidden Power", "High Horsepower", "Hone Claws", "Hydro Pump", "Hyper Beam", "Ice Beam", "Icy Wind", "Iron Defense", "Liquidation", "Mimic", "Mud Shot", "Mud Slap", "Natural Gift", "Protect", "Quash", "Rage", "Rain Dance", "Razor Shell", "Rest", "Return", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Scald", "Secret Power", "Sleep Talk", "Snore", "Stomping Tantrum", "Strength", "Substitute", "Superpower", "Surf", "Swagger", "Swords Dance", "Take Down", "Thief", "Toxic", "Water Gun", "Water Pulse", "Whirlpool", "X Scissor"]
         }
     },
-    "Gigantamax Kingler Gmax": {
+    "Gigantamax Kingler": {
         "Pokedex": {
             "pokedex_number": "0099",
             "type": "Water",
@@ -9273,7 +9273,7 @@
             "tm": ["Alluring Voice", "Attract", "Avalanche", "Bide", "Blizzard", "Body Press", "Body Slam", "Brine", "Bubble Beam", "Bulldoze", "Captivate", "Charm", "Chilling Water", "Confide", "Confuse Ray", "Curse", "Disarming Voice", "Dive", "Double Edge", "Double Team", "Dragon Breath", "Dragon Cheer", "Dragon Dance", "Dragon Pulse", "Dragon Rage", "Dream Eater", "Drill Run", "Earthquake", "Echoed Voice", "Endure", "Facade", "Frost Breath", "Frustration", "Future Sight", "Giga Impact", "Hail", "Haze", "Headbutt", "Helping Hand", "Hidden Power", "Horn Drill", "Hydro Pump", "Hyper Beam", "Hyper Voice", "Ice Beam", "Icicle Spear", "Icy Wind", "Iron Head", "Iron Tail", "Liquidation", "Megahorn", "Mimic", "Muddy Water", "Natural Gift", "Nightmare", "Outrage", "Protect", "Psychic", "Psychic Noise", "Psywave", "Rage", "Rain Dance", "Reflect", "Rest", "Return", "Roar", "Rock Smash", "Round", "Safeguard", "Secret Power", "Shock Wave", "Skull Bash", "Sleep Talk", "Smart Strike", "Snore", "Snowscape", "Solar Beam", "Strength", "Substitute", "Surf", "Swagger", "Take Down", "Tera Blast", "Thunder", "Thunderbolt", "Toxic", "Water Gun", "Water Pulse", "Waterfall", "Weather Ball", "Whirlpool", "Zap Cannon", "Zen Headbutt"]
         }
     },
-    "Gigantamax Lapras Gmax": {
+    "Gigantamax Lapras": {
         "Pokedex": {
             "pokedex_number": "0131",
             "type": "Water, Ice",
@@ -9425,7 +9425,7 @@
             "tm": ["Dig", "Facade", "Headbutt", "Helping Hand", "Iron Tail", "Pay Day", "Protect", "Reflect", "Rest", "Shadow Ball", "Substitute", "Toxic"]
         }
     },
-    "Gigantamax Eevee Gmax": {
+    "Gigantamax Eevee": {
         "Pokedex": {
             "pokedex_number": "0133",
             "type": "Normal",
@@ -10060,7 +10060,7 @@
             "tm": ["Amnesia", "Attract", "Bide", "Blizzard", "Body Press", "Body Slam", "Brick Break", "Bubble Beam", "Bulldoze", "Captivate", "Charm", "Chilling Water", "Confide", "Counter", "Crunch", "Curse", "Darkest Lariat", "Defense Curl", "Dig", "Double Edge", "Double Team", "Dynamic Punch", "Earthquake", "Encore", "Endure", "Facade", "Fire Blast", "Fire Punch", "Fissure", "Flamethrower", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Giga Impact", "Gunk Shot", "Hard Press", "Headbutt", "Heat Crash", "Heavy Slam", "Helping Hand", "Hidden Power", "High Horsepower", "Hydro Pump", "Hyper Beam", "Hyper Voice", "Ice Beam", "Ice Punch", "Icy Wind", "Incinerate", "Iron Head", "Mega Kick", "Mega Punch", "Metronome", "Mimic", "Mud Slap", "Natural Gift", "Outrage", "Pay Day", "Power Up Punch", "Protect", "Psych Up", "Psychic", "Psywave", "Rage", "Rain Dance", "Recycle", "Reflect", "Rest", "Retaliate", "Return", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Rollout", "Round", "Sandstorm", "Screech", "Secret Power", "Seed Bomb", "Seismic Toss", "Self Destruct", "Shadow Ball", "Shock Wave", "Skull Bash", "Sleep Talk", "Smack Down", "Snore", "Solar Beam", "Stomping Tantrum", "Strength", "Submission", "Substitute", "Sunny Day", "Supercell Slam", "Superpower", "Surf", "Swagger", "Take Down", "Tera Blast", "Thunder", "Thunder Punch", "Thunderbolt", "Toxic", "Trailblaze", "Uproar", "Water Gun", "Water Pulse", "Whirlpool", "Wild Charge", "Work Up", "Zap Cannon", "Zen Headbutt"]
         }
     },
-    "Gigantamax Snorlax Gmax": {
+    "Gigantamax Snorlax": {
         "Pokedex": {
             "pokedex_number": "0143",
             "type": "Normal",
@@ -29612,7 +29612,7 @@
         "Pokedex": {
             "pokedex_number": "0487",
             "type": "Ghost, Dragon",
-            "description": "'''Giratina''' (Japanese: ギラティナ) is a Ghost/Dragon-type Pokémon introduced in Generation IV, which is known as the 'Renegade Pokémon'. It is standing at 4.5 meters tall and weighing around 750.0 kilograms, with a black-colored body and a tentacles appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Giratina Altered''' (Japanese: ギラティナ) is a Ghost/Dragon-type Pokémon introduced in Generation IV, which is known as the 'Renegade Pokémon'. It is standing at 4.5 meters tall and weighing around 750.0 kilograms, with a black-colored body and a tentacles appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 150,
@@ -29885,7 +29885,7 @@
             "tm": ["Aerial Ace", "Blizzard", "Brick Break", "Calm Mind", "Charge Beam", "Confide", "Confuse Ray", "Curse", "Cut", "Dark Pulse", "Double Team", "Drain Punch", "Dream Eater", "Embargo", "Endure", "Facade", "Flash", "Fling", "Focus Blast", "Focus Punch", "Foul Play", "Frustration", "Giga Impact", "Haze", "Hex", "Hidden Power", "Hyper Beam", "Ice Beam", "Icy Wind", "Incinerate", "Knock Off", "Lash Out", "Nasty Plot", "Natural Gift", "Night Shade", "Payback", "Poison Jab", "Power Up Punch", "Protect", "Psych Up", "Psychic", "Psyshock", "Rain Dance", "Rest", "Retaliate", "Return", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Scary Face", "Secret Power", "Shadow Ball", "Shadow Claw", "Shock Wave", "Sleep Talk", "Sludge Bomb", "Snarl", "Snatch", "Spite", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Taunt", "Tera Blast", "Thief", "Throat Chop", "Thunder", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trick", "Will O Wisp", "X Scissor"]
         }
     },
-    "Shaymin Land": {
+    "Shaymin": {
         "Pokedex": {
             "pokedex_number": "0492",
             "type": "Grass",
@@ -33112,7 +33112,7 @@
         "Pokedex": {
             "pokedex_number": "0555",
             "type": "Fire",
-            "description": "'''Darmanitan''' (Japanese: ヒヒダルマ) is a Fire-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.3 meters tall and weighing around 92.9 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Darmanitan Standard''' (Japanese: ヒヒダルマ) is a Fire-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.3 meters tall and weighing around 92.9 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 105,
@@ -34008,7 +34008,7 @@
             "tm": ["Amnesia", "Attract", "Body Press", "Body Slam", "Confide", "Cross Poison", "Dark Pulse", "Double Team", "Drain Punch", "Endure", "Explosion", "Facade", "Fling", "Focus Blast", "Frustration", "Giga Drain", "Giga Impact", "Gunk Shot", "Hidden Power", "Hyper Beam", "Infestation", "Payback", "Protect", "Psychic", "Rain Dance", "Rest", "Return", "Rock Blast", "Rock Polish", "Round", "Screech", "Secret Power", "Seed Bomb", "Self Destruct", "Sleep Talk", "Sludge Bomb", "Sludge Wave", "Smack Down", "Snore", "Solar Beam", "Spikes", "Stomping Tantrum", "Substitute", "Sunny Day", "Swagger", "Thief", "Thunderbolt", "Toxic", "Toxic Spikes", "Venom Drench", "Venoshock"]
         }
     },
-    "Gigantamax Garbodor Gmax": {
+    "Gigantamax Garbodor": {
         "Pokedex": {
             "pokedex_number": "0569",
             "type": "Poison",
@@ -37601,7 +37601,7 @@
         "Pokedex": {
             "pokedex_number": "0641",
             "type": "Flying",
-            "description": "'''Tornadus''' (Japanese: トルネロス) is a Flying-type Pokémon introduced in Generation V, which is known as the 'Cyclone Pokémon'. It is standing at 1.5 meters tall and weighing around 63.0 kilograms, with a green-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Tornadus Incarnate''' (Japanese: トルネロス) is a Flying-type Pokémon introduced in Generation V, which is known as the 'Cyclone Pokémon'. It is standing at 1.5 meters tall and weighing around 63.0 kilograms, with a green-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 79,
@@ -37699,7 +37699,7 @@
         "Pokedex": {
             "pokedex_number": "0642",
             "type": "Electric, Flying",
-            "description": "'''Thundurus''' (Japanese: ボルトロス) is a Electric/Flying-type Pokémon introduced in Generation V, which is known as the 'Bolt Strike Pokémon'. It is standing at 1.5 meters tall and weighing around 61.0 kilograms, with a blue-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Thundurus Incarnate''' (Japanese: ボルトロス) is a Electric/Flying-type Pokémon introduced in Generation V, which is known as the 'Bolt Strike Pokémon'. It is standing at 1.5 meters tall and weighing around 61.0 kilograms, with a blue-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 79,
@@ -37890,7 +37890,7 @@
         "Pokedex": {
             "pokedex_number": "0645",
             "type": "Ground, Flying",
-            "description": "'''Landorus''' (Japanese: ランドロス) is a Ground/Flying-type Pokémon introduced in Generation V, which is known as the 'Abundance Pokémon'. It is standing at 1.5 meters tall and weighing around 68.0 kilograms, with a brown-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Landorus Incarnate''' (Japanese: ランドロス) is a Ground/Flying-type Pokémon introduced in Generation V, which is known as the 'Abundance Pokémon'. It is standing at 1.5 meters tall and weighing around 68.0 kilograms, with a brown-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 89,
@@ -38211,7 +38211,7 @@
             "tm": ["Aerial Ace", "Air Slash", "Aura Sphere", "Baton Pass", "Bounce", "Brick Break", "Calm Mind", "Chilling Water", "Close Combat", "Coaching", "Confide", "Cut", "Double Edge", "Double Team", "Endure", "Facade", "False Swipe", "Flip Turn", "Focus Blast", "Frustration", "Giga Impact", "Hail", "Helping Hand", "Hidden Power", "Hydro Pump", "Hyper Beam", "Icy Wind", "Liquidation", "Low Kick", "Megahorn", "Muddy Water", "Pain Split", "Poison Jab", "Protect", "Psych Up", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Revenge", "Reversal", "Roar", "Rock Smash", "Round", "Safeguard", "Scald", "Secret Power", "Sleep Talk", "Smart Strike", "Snore", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Superpower", "Surf", "Swagger", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Toxic", "Trailblaze", "Upper Hand", "Vacuum Wave", "Water Pulse", "Work Up", "X Scissor"]
         }
     },
-    "Meloetta Aria": {
+    "Meloetta": {
         "Pokedex": {
             "pokedex_number": "0648",
             "type": "Normal, Psychic",
@@ -39797,7 +39797,7 @@
             "tm": ["Alluring Voice", "Ally Switch", "Attract", "Baton Pass", "Calm Mind", "Charge Beam", "Charm", "Confide", "Cut", "Dark Pulse", "Dig", "Disarming Voice", "Double Team", "Dream Eater", "Echoed Voice", "Endure", "Energy Ball", "Expanding Force", "Facade", "Fake Tears", "Flash", "Frustration", "Future Sight", "Giga Impact", "Gravity", "Helping Hand", "Hidden Power", "Hyper Beam", "Iron Tail", "Light Screen", "Magic Room", "Magical Leaf", "Nasty Plot", "Pay Day", "Payback", "Play Rough", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rain Dance", "Reflect", "Rest", "Return", "Round", "Safeguard", "Secret Power", "Shadow Ball", "Skill Swap", "Sleep Talk", "Snore", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Tail Slap", "Tera Blast", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trailblaze", "Trick", "Trick Room", "Wonder Room", "Work Up", "Zen Headbutt"]
         }
     },
-    "Meowstic Male": {
+    "Meowstic": {
         "Pokedex": {
             "pokedex_number": "0678",
             "type": "Psychic",
@@ -39933,7 +39933,7 @@
             "tm": ["Aerial Ace", "Attract", "Brick Break", "Brutal Swing", "Close Combat", "Confide", "Cut", "Double Team", "Endure", "Facade", "False Swipe", "Flash Cannon", "Frustration", "Gyro Ball", "Hidden Power", "Iron Defense", "Iron Head", "Protect", "Psycho Cut", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Rock Smash", "Round", "Screech", "Secret Power", "Shadow Claw", "Sleep Talk", "Snore", "Solar Blade", "Substitute", "Swagger", "Swords Dance", "Toxic"]
         }
     },
-    "Aegislash Blade": {
+    "Aegislash": {
         "Pokedex": {
             "pokedex_number": "0681",
             "type": "Steel, Ghost",
@@ -41451,7 +41451,7 @@
             "tm": ["Ally Switch", "Attract", "Brutal Swing", "Bulldoze", "Burning Jealousy", "Calm Mind", "Confide", "Confuse Ray", "Curse", "Cut", "Dark Pulse", "Dig", "Double Team", "Drain Punch", "Dream Eater", "Earthquake", "Endure", "Energy Ball", "Facade", "Focus Blast", "Foul Play", "Frustration", "Giga Drain", "Giga Impact", "Grass Knot", "Grassy Glide", "Grassy Terrain", "Haze", "Hex", "Hidden Power", "Hone Claws", "Hyper Beam", "Imprison", "Knock Off", "Lash Out", "Leaf Storm", "Magical Leaf", "Nature Power", "Night Shade", "Pain Split", "Phantom Force", "Poison Jab", "Poltergeist", "Power Up Punch", "Protect", "Psych Up", "Psychic", "Psychic Noise", "Rain Dance", "Reflect", "Rest", "Return", "Rock Slide", "Rock Smash", "Round", "Safeguard", "Scary Face", "Secret Power", "Seed Bomb", "Shadow Ball", "Shadow Claw", "Skill Swap", "Skitter Smack", "Sleep Talk", "Snore", "Solar Beam", "Spite", "Strength", "Substitute", "Sunny Day", "Swagger", "Take Down", "Tera Blast", "Thief", "Toxic", "Trailblaze", "Trick", "Trick Room", "Venom Drench", "Will O Wisp", "X Scissor"]
         }
     },
-    "Pumpkaboo Average": {
+    "Pumpkaboo": {
         "Pokedex": {
             "pokedex_number": "0710",
             "type": "Ghost, Grass",
@@ -41623,7 +41623,7 @@
             "tm": ["Ally Switch", "Attract", "Bullet Seed", "Charge Beam", "Confide", "Dark Pulse", "Double Team", "Dream Eater", "Endure", "Energy Ball", "Explosion", "Facade", "Fire Blast", "Flame Charge", "Flamethrower", "Flash", "Foul Play", "Frustration", "Giga Drain", "Grass Knot", "Gyro Ball", "Hex", "Hidden Power", "Imprison", "Incinerate", "Light Screen", "Mystical Fire", "Nature Power", "Protect", "Psychic", "Rest", "Return", "Rock Slide", "Rock Smash", "Round", "Safeguard", "Scary Face", "Secret Power", "Seed Bomb", "Shadow Ball", "Skill Swap", "Sleep Talk", "Sludge Bomb", "Snore", "Solar Beam", "Substitute", "Sunny Day", "Swagger", "Thief", "Toxic", "Trick", "Trick Room", "Will O Wisp"]
         }
     },
-    "Gourgeist Average": {
+    "Gourgeist": {
         "Pokedex": {
             "pokedex_number": "0711",
             "type": "Ghost, Grass",
@@ -42254,7 +42254,7 @@
         "Pokedex": {
             "pokedex_number": "0718",
             "type": "Dragon, Ground",
-            "description": "'''Zygarde''' (Japanese: ジガルデ) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 4.5 meters tall and weighing around 610.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Zygarde Complete''' (Japanese: ジガルデ) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 4.5 meters tall and weighing around 610.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 216,
@@ -42395,7 +42395,7 @@
         "Pokedex": {
             "pokedex_number": "0720",
             "type": "Psychic, Ghost",
-            "description": "'''Hoopa''' (Japanese: フーパ) is a Psychic/Ghost-type Pokémon introduced in Generation VI, which is known as the 'Mischief Pokémon'. It is standing at 0.5 meters tall and weighing around 9.0 kilograms, with a purple-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Hoopa Confined''' (Japanese: フーパ) is a Psychic/Ghost-type Pokémon introduced in Generation VI, which is known as the 'Mischief Pokémon'. It is standing at 0.5 meters tall and weighing around 9.0 kilograms, with a purple-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 80,
@@ -43878,7 +43878,7 @@
             "tm": ["Attract", "Brick Break", "Bulk Up", "Bulldoze", "Charm", "Close Combat", "Confide", "Crunch", "Dig", "Double Edge", "Double Team", "Drill Run", "Earth Power", "Echoed Voice", "Endeavor", "Endure", "Facade", "Fire Fang", "Focus Energy", "Frustration", "Giga Impact", "Helping Hand", "Hidden Power", "Hyper Voice", "Iron Defense", "Iron Head", "Iron Tail", "Outrage", "Play Rough", "Protect", "Psychic Fangs", "Rest", "Return", "Reversal", "Roar", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Sleep Talk", "Snarl", "Snore", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Substitute", "Swagger", "Swords Dance", "Tail Slap", "Take Down", "Taunt", "Tera Blast", "Throat Chop", "Thunder Fang", "Toxic", "Trailblaze", "Work Up", "Zen Headbutt"]
         }
     },
-    "Lycanroc Midday": {
+    "Lycanroc": {
         "Pokedex": {
             "pokedex_number": "0745",
             "type": "Rock",
@@ -44022,7 +44022,7 @@
             "tm": ["Attract", "Beat Up", "Brine", "Bulldoze", "Confide", "Dive", "Double Team", "Earthquake", "Endure", "Facade", "Frustration", "Hail", "Helping Hand", "Hidden Power", "Hydro Pump", "Ice Beam", "Iron Tail", "Liquidation", "Mud Shot", "Muddy Water", "Protect", "Rain Dance", "Rest", "Return", "Round", "Scald", "Sleep Talk", "Snore", "Substitute", "Surf", "Swagger", "Toxic", "U Turn", "Uproar", "Waterfall", "Whirlpool"]
         }
     },
-    "Wishiwashi Solo": {
+    "Wishiwashi": {
         "Pokedex": {
             "pokedex_number": "0746",
             "type": "Water",
@@ -47124,11 +47124,11 @@
             "tm": ["Aerial Ace", "Ally Switch", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Calm Mind", "Charge Beam", "Confide", "Cosmic Power", "Dark Pulse", "Double Team", "Dragon Dance", "Dragon Pulse", "Earth Power", "Earthquake", "Embargo", "Endure", "Expanding Force", "Facade", "Flash Cannon", "Fling", "Frustration", "Future Sight", "Giga Impact", "Gravity", "Gyro Ball", "Heat Wave", "Hidden Power", "Hyper Beam", "Hyper Voice", "Imprison", "Iron Defense", "Iron Head", "Knock Off", "Light Screen", "Metal Claw", "Meteor Beam", "Outrage", "Power Gem", "Protect", "Psychic", "Psychic Fangs", "Psycho Cut", "Psyshock", "Reflect", "Rest", "Return", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Shadow Claw", "Sleep Talk", "Smart Strike", "Snore", "Solar Beam", "Stealth Rock", "Stone Edge", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Tera Blast", "Thief", "Thunder Wave", "Toxic", "Trick Room", "X Scissor"]
         }
     },
-    "Necrozma Dawn": {
+    "Necrozma Dawn Wings": {
         "Pokedex": {
             "pokedex_number": "0800",
             "type": "Psychic, Ghost",
-            "description": "'''Necrozma Dawn''' (Japanese: ネクロズマ) is a Psychic/Ghost-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 4.2 meters tall and weighing around 350.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Necrozma Dawn Wings''' (Japanese: ネクロズマ) is a Psychic/Ghost-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 4.2 meters tall and weighing around 350.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 97,
@@ -47171,11 +47171,11 @@
             "tm": ["Aerial Ace", "Ally Switch", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Calm Mind", "Charge Beam", "Confide", "Cosmic Power", "Dark Pulse", "Double Team", "Dragon Dance", "Dragon Pulse", "Earth Power", "Earthquake", "Embargo", "Endure", "Expanding Force", "Facade", "Flash Cannon", "Fling", "Frustration", "Future Sight", "Giga Impact", "Gravity", "Gyro Ball", "Heat Wave", "Hidden Power", "Hyper Beam", "Hyper Voice", "Imprison", "Iron Defense", "Iron Head", "Knock Off", "Light Screen", "Metal Claw", "Meteor Beam", "Outrage", "Power Gem", "Protect", "Psychic", "Psychic Fangs", "Psycho Cut", "Psyshock", "Reflect", "Rest", "Return", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Shadow Claw", "Sleep Talk", "Smart Strike", "Snore", "Solar Beam", "Stealth Rock", "Stone Edge", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Tera Blast", "Thief", "Thunder Wave", "Toxic", "Trick Room", "X Scissor"]
         }
     },
-    "Necrozma Dusk": {
+    "Necrozma Dusk Mane": {
         "Pokedex": {
             "pokedex_number": "0800",
             "type": "Psychic, Steel",
-            "description": "'''Necrozma Dusk''' (Japanese: ネクロズマ) is a Psychic/Steel-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 3.8 meters tall and weighing around 460.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Necrozma Dusk Mane''' (Japanese: ネクロズマ) is a Psychic/Steel-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 3.8 meters tall and weighing around 460.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 97,
@@ -47724,7 +47724,7 @@
             "tm": ["Body Press", "Body Slam", "Brick Break", "Brutal Swing", "Darkest Lariat", "Earthquake", "Electric Terrain", "Endure", "Facade", "Flash Cannon", "Giga Impact", "Gyro Ball", "Headbutt", "Heavy Slam", "High Horsepower", "Hyper Beam", "Ice Beam", "Ice Punch", "Iron Defense", "Iron Head", "Mega Kick", "Mega Punch", "Protect", "Rest", "Rock Slide", "Rock Tomb", "Round", "Self Destruct", "Sleep Talk", "Snore", "Solar Beam", "Substitute", "Superpower", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Toxic"]
         }
     },
-    "Gigantamax Melmetal Gmax": {
+    "Gigantamax Melmetal": {
         "Pokedex": {
             "pokedex_number": "0809",
             "type": "Steel",
@@ -47877,7 +47877,7 @@
             "tm": ["Acrobatics", "Assurance", "Attract", "Body Press", "Body Slam", "Brick Break", "Brutal Swing", "Bulk Up", "Bulldoze", "Bullet Seed", "Darkest Lariat", "Double Edge", "Drain Punch", "Earth Power", "Earthquake", "Endeavor", "Endure", "Energy Ball", "Facade", "False Swipe", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Frenzy Plant", "Giga Drain", "Giga Impact", "Grass Knot", "Grass Pledge", "Grassy Glide", "Grassy Terrain", "High Horsepower", "Hyper Beam", "Hyper Voice", "Knock Off", "Leaf Storm", "Low Kick", "Low Sweep", "Magical Leaf", "Mega Kick", "Mega Punch", "Mud Shot", "Protect", "Rest", "Round", "Scary Face", "Screech", "Seed Bomb", "Sleep Talk", "Snarl", "Snore", "Solar Beam", "Solar Blade", "Stomping Tantrum", "Substitute", "Sunny Day", "Superpower", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Thief", "Trailblaze", "U Turn", "Uproar", "Work Up"]
         }
     },
-    "Gigantamax Rillaboom Gmax": {
+    "Gigantamax Rillaboom": {
         "Pokedex": {
             "pokedex_number": "0812",
             "type": "Grass",
@@ -48028,7 +48028,7 @@
             "tm": ["Acrobatics", "Agility", "Ally Switch", "Assurance", "Attract", "Baton Pass", "Blast Burn", "Blaze Kick", "Bounce", "Bulk Up", "Burning Jealousy", "Coaching", "Double Edge", "Electro Ball", "Endure", "Facade", "Fire Blast", "Fire Fang", "Fire Pledge", "Fire Punch", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Fling", "Focus Blast", "Focus Energy", "Giga Impact", "Gunk Shot", "Heat Wave", "Helping Hand", "Hyper Beam", "Iron Head", "Low Kick", "Low Sweep", "Mega Kick", "Mud Shot", "Mud Slap", "Overheat", "Protect", "Rest", "Revenge", "Reversal", "Round", "Scorching Sands", "Shadow Ball", "Sleep Talk", "Smack Down", "Snarl", "Snore", "Substitute", "Sunny Day", "Super Fang", "Swift", "Swords Dance", "Take Down", "Taunt", "Temper Flare", "Tera Blast", "Trailblaze", "U Turn", "Weather Ball", "Will O Wisp", "Work Up", "Zen Headbutt"]
         }
     },
-    "Gigantamax Cinderace Gmax": {
+    "Gigantamax Cinderace": {
         "Pokedex": {
             "pokedex_number": "0815",
             "type": "Fire",
@@ -48179,7 +48179,7 @@
             "tm": ["Acrobatics", "Agility", "Air Cutter", "Air Slash", "Attract", "Baton Pass", "Blizzard", "Bounce", "Breaking Swipe", "Chilling Water", "Dark Pulse", "Dive", "Endure", "Facade", "Fling", "Flip Turn", "Focus Energy", "Giga Impact", "Haze", "Hydro Cannon", "Hydro Pump", "Hyper Beam", "Ice Beam", "Icicle Spear", "Icy Wind", "Light Screen", "Liquidation", "Metronome", "Mud Shot", "Muddy Water", "Protect", "Psych Up", "Rain Dance", "Reflect", "Rest", "Round", "Safeguard", "Scald", "Shadow Ball", "Skitter Smack", "Sleep Talk", "Smack Down", "Snore", "Snowscape", "Substitute", "Surf", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "U Turn", "Vacuum Wave", "Water Pledge", "Water Pulse", "Waterfall", "Weather Ball", "Whirlpool", "Work Up"]
         }
     },
-    "Gigantamax Inteleon Gmax": {
+    "Gigantamax Inteleon": {
         "Pokedex": {
             "pokedex_number": "0818",
             "type": "Water",
@@ -48419,7 +48419,7 @@
             "tm": ["Aerial Ace", "Agility", "Air Cutter", "Air Slash", "Assurance", "Attract", "Body Press", "Body Slam", "Brave Bird", "Bulk Up", "Curse", "Double Edge", "Dual Wingbeat", "Endure", "Facade", "Fake Tears", "Flash Cannon", "Fly", "Focus Energy", "Giga Impact", "Heavy Slam", "Hurricane", "Hyper Beam", "Iron Defense", "Iron Head", "Light Screen", "Metal Claw", "Metal Sound", "Nasty Plot", "Payback", "Protect", "Rain Dance", "Reflect", "Rest", "Retaliate", "Revenge", "Reversal", "Round", "Scary Face", "Screech", "Sleep Talk", "Snore", "Spite", "Steel Beam", "Steel Wing", "Substitute", "Sunny Day", "Swift", "Tailwind", "Take Down", "Taunt", "Tera Blast", "Thief", "U Turn", "Work Up"]
         }
     },
-    "Gigantamax Corviknight Gmax": {
+    "Gigantamax Corviknight": {
         "Pokedex": {
             "pokedex_number": "0823",
             "type": "Flying, Steel",
@@ -48559,7 +48559,7 @@
             "tm": ["Agility", "Ally Switch", "Attract", "Baton Pass", "Body Press", "Bug Buzz", "Calm Mind", "Endure", "Energy Ball", "Facade", "Future Sight", "Giga Drain", "Giga Impact", "Guard Swap", "Helping Hand", "Hyper Beam", "Imprison", "Iron Defense", "Leech Life", "Light Screen", "Magic Room", "Payback", "Power Swap", "Protect", "Psychic", "Psychic Terrain", "Psycho Cut", "Psyshock", "Reflect", "Rest", "Round", "Safeguard", "Shadow Ball", "Skill Swap", "Sleep Talk", "Snore", "Solar Beam", "Stored Power", "Substitute", "Trick", "Trick Room", "U Turn", "Wonder Room", "Zen Headbutt"]
         }
     },
-    "Gigantamax Orbeetle Gmax": {
+    "Gigantamax Orbeetle": {
         "Pokedex": {
             "pokedex_number": "0826",
             "type": "Bug, Psychic",
@@ -48924,7 +48924,7 @@
             "tm": ["Assurance", "Attract", "Blizzard", "Body Press", "Body Slam", "Bulldoze", "Chilling Water", "Crunch", "Dig", "Dive", "Double Edge", "Earth Power", "Earthquake", "Endure", "Facade", "False Swipe", "Giga Impact", "High Horsepower", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Ice Spinner", "Iron Defense", "Iron Tail", "Liquidation", "Megahorn", "Meteor Beam", "Mud Shot", "Muddy Water", "Payback", "Poison Jab", "Protect", "Rain Dance", "Razor Shell", "Rest", "Revenge", "Rock Blast", "Rock Slide", "Rock Tomb", "Round", "Sand Tomb", "Sandstorm", "Scald", "Scary Face", "Skitter Smack", "Sleep Talk", "Smart Strike", "Snore", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Substitute", "Super Fang", "Superpower", "Surf", "Swords Dance", "Take Down", "Tera Blast", "Throat Chop", "Water Pulse", "Waterfall", "Whirlpool"]
         }
     },
-    "Gigantamax Drednaw Gmax": {
+    "Gigantamax Drednaw": {
         "Pokedex": {
             "pokedex_number": "0834",
             "type": "Water, Rock",
@@ -49162,7 +49162,7 @@
             "tm": ["Attract", "Body Press", "Body Slam", "Bulldoze", "Curse", "Dig", "Earth Power", "Earthquake", "Endure", "Facade", "Fire Blast", "Fire Punch", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Giga Impact", "Gyro Ball", "Heat Crash", "Heat Wave", "Heavy Slam", "High Horsepower", "Hyper Beam", "Iron Defense", "Iron Head", "Mega Kick", "Mega Punch", "Meteor Beam", "Overheat", "Power Gem", "Protect", "Reflect", "Rest", "Rock Blast", "Rock Slide", "Rock Tomb", "Round", "Sand Tomb", "Sandstorm", "Scald", "Scorching Sands", "Self Destruct", "Sleep Talk", "Smack Down", "Snore", "Solar Beam", "Spikes", "Stealth Rock", "Stone Edge", "Substitute", "Sunny Day", "Take Down", "Temper Flare", "Tera Blast", "Will O Wisp"]
         }
     },
-    "Gigantamax Coalossal Gmax": {
+    "Gigantamax Coalossal": {
         "Pokedex": {
             "pokedex_number": "0839",
             "type": "Rock, Fire",
@@ -49270,7 +49270,7 @@
             "tm": ["Acid Spray", "Acrobatics", "Aerial Ace", "Air Slash", "Attract", "Bullet Seed", "Draco Meteor", "Dragon Dance", "Dragon Pulse", "Dual Wingbeat", "Endeavor", "Endure", "Energy Ball", "Facade", "Fly", "Focus Energy", "Giga Drain", "Giga Impact", "Grass Knot", "Grassy Glide", "Grassy Terrain", "Heavy Slam", "Hyper Beam", "Iron Defense", "Leaf Storm", "Magical Leaf", "Outrage", "Pounce", "Protect", "Rest", "Round", "Scary Face", "Seed Bomb", "Sleep Talk", "Snore", "Solar Beam", "Substitute", "Sunny Day", "Take Down", "Tera Blast", "Trailblaze", "U Turn"]
         }
     },
-    "Gigantamax Flapple Gmax": {
+    "Gigantamax Flapple": {
         "Pokedex": {
             "pokedex_number": "0841",
             "type": "Grass, Dragon",
@@ -49346,7 +49346,7 @@
             "tm": ["Amnesia", "Attract", "Body Press", "Body Slam", "Bulldoze", "Bullet Seed", "Curse", "Draco Meteor", "Dragon Pulse", "Dragon Tail", "Earthquake", "Endure", "Energy Ball", "Facade", "Giga Drain", "Giga Impact", "Grass Knot", "Grassy Glide", "Grassy Terrain", "Gyro Ball", "Heavy Slam", "Helping Hand", "High Horsepower", "Hyper Beam", "Iron Defense", "Iron Head", "Leaf Storm", "Light Screen", "Magical Leaf", "Outrage", "Payback", "Pounce", "Protect", "Rain Dance", "Reflect", "Rest", "Round", "Safeguard", "Seed Bomb", "Sleep Talk", "Snore", "Solar Beam", "Stomping Tantrum", "Substitute", "Sunny Day", "Superpower", "Take Down", "Tera Blast", "Trailblaze", "Zen Headbutt"]
         }
     },
-    "Gigantamax Appletun Gmax": {
+    "Gigantamax Appletun": {
         "Pokedex": {
             "pokedex_number": "0842",
             "type": "Grass, Dragon",
@@ -49460,7 +49460,7 @@
             "tm": ["Attract", "Body Press", "Body Slam", "Brutal Swing", "Bulldoze", "Dig", "Drill Run", "Earth Power", "Earthquake", "Endeavor", "Endure", "Facade", "Fire Fang", "Giga Impact", "High Horsepower", "Hurricane", "Hyper Beam", "Iron Defense", "Iron Head", "Mud Shot", "Mud Slap", "Outrage", "Poison Tail", "Protect", "Rest", "Rock Blast", "Rock Slide", "Rock Tomb", "Round", "Sand Tomb", "Sandstorm", "Scale Shot", "Scary Face", "Scorching Sands", "Screech", "Skitter Smack", "Sleep Talk", "Snore", "Stealth Rock", "Stone Edge", "Substitute", "Take Down", "Tera Blast", "Thunder Fang", "Zen Headbutt"]
         }
     },
-    "Gigantamax Sandaconda Gmax": {
+    "Gigantamax Sandaconda": {
         "Pokedex": {
             "pokedex_number": "0844",
             "type": "Ground",
@@ -49729,7 +49729,7 @@
             "tm": ["Attract", "Charm", "Encore", "Endeavor", "Endure", "Facade", "Metal Sound", "Protect", "Rest", "Round", "Sleep Talk", "Snore", "Substitute", "Tera Blast"]
         }
     },
-    "Toxtricity Amped": {
+    "Toxtricity": {
         "Pokedex": {
             "pokedex_number": "0849",
             "type": "Electric, Poison",
@@ -49839,7 +49839,7 @@
             "tm": ["Acid Spray", "Attract", "Brick Break", "Charge", "Charge Beam", "Charm", "Drain Punch", "Eerie Impulse", "Electric Terrain", "Electro Ball", "Electroweb", "Encore", "Endeavor", "Endure", "Facade", "Fire Punch", "Fling", "Giga Impact", "Gunk Shot", "Helping Hand", "Hex", "Hyper Beam", "Hyper Voice", "Mega Kick", "Mega Punch", "Metal Sound", "Metronome", "Payback", "Poison Jab", "Poison Tail", "Protect", "Psychic Noise", "Rain Dance", "Rest", "Round", "Scary Face", "Screech", "Sleep Talk", "Sludge Bomb", "Sludge Wave", "Snarl", "Snore", "Stored Power", "Substitute", "Sunny Day", "Swift", "Take Down", "Taunt", "Tera Blast", "Thief", "Throat Chop", "Thunder", "Thunder Fang", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Toxic", "Toxic Spikes", "Trailblaze", "Uproar", "Venom Drench", "Venoshock", "Volt Switch", "Wild Charge"]
         }
     },
-    "Gigantamax Toxtricity Amped Gmax": {
+    "Gigantamax Toxtricity Amped": {
         "Pokedex": {
             "pokedex_number": "0849",
             "type": "Electric, Poison",
@@ -49868,7 +49868,7 @@
             "tm": []
         }
     },
-    "Gigantamax Toxtricity Low Key Gmax": {
+    "Gigantamax Toxtricity Low Key": {
         "Pokedex": {
             "pokedex_number": "0849",
             "type": "Electric, Poison",
@@ -49984,7 +49984,7 @@
             "tm": ["Attract", "Brutal Swing", "Bug Buzz", "Crunch", "Endure", "Facade", "Fire Blast", "Fire Fang", "Fire Spin", "Flamethrower", "Flare Blitz", "Giga Impact", "Heat Crash", "Heat Wave", "Hyper Beam", "Leech Life", "Mystical Fire", "Overheat", "Power Whip", "Protect", "Rest", "Round", "Scald", "Sleep Talk", "Snore", "Solar Beam", "Substitute", "Sunny Day", "Thunder Fang", "Venoshock", "Will O Wisp", "X Scissor"]
         }
     },
-    "Gigantamax Centiskorch Gmax": {
+    "Gigantamax Centiskorch": {
         "Pokedex": {
             "pokedex_number": "0851",
             "type": "Fire, Bug",
@@ -50313,7 +50313,7 @@
             "tm": ["Agility", "Attract", "Baton Pass", "Brutal Swing", "Calm Mind", "Charm", "Dark Pulse", "Dazzling Gleam", "Disarming Voice", "Draining Kiss", "Endure", "Expanding Force", "Facade", "Future Sight", "Giga Drain", "Giga Impact", "Gravity", "Guard Swap", "Helping Hand", "Hyper Beam", "Imprison", "Light Screen", "Magic Room", "Magical Leaf", "Metronome", "Misty Explosion", "Misty Terrain", "Mystical Fire", "Pain Split", "Play Rough", "Power Swap", "Power Whip", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psycho Cut", "Psyshock", "Reflect", "Rest", "Round", "Safeguard", "Shadow Ball", "Shadow Claw", "Skill Swap", "Sleep Talk", "Snore", "Stored Power", "Substitute", "Swift", "Swords Dance", "Tera Blast", "Thunder Wave", "Trick", "Trick Room", "Wonder Room"]
         }
     },
-    "Gigantamax Hatterene Gmax": {
+    "Gigantamax Hatterene": {
         "Pokedex": {
             "pokedex_number": "0858",
             "type": "Psychic, Fairy",
@@ -50477,7 +50477,7 @@
             "tm": ["Assurance", "Attract", "Body Press", "Body Slam", "Brick Break", "Bulk Up", "Burning Jealousy", "Chilling Water", "Crunch", "Dark Pulse", "Darkest Lariat", "Dazzling Gleam", "Drain Punch", "Draining Kiss", "Endure", "Facade", "Fake Tears", "Fire Punch", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Foul Play", "Giga Impact", "Hyper Beam", "Ice Punch", "Imprison", "Lash Out", "Leech Life", "Light Screen", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Metronome", "Misty Terrain", "Nasty Plot", "Play Rough", "Power Swap", "Power Whip", "Protect", "Reflect", "Rest", "Retaliate", "Revenge", "Round", "Scary Face", "Shadow Claw", "Sleep Talk", "Snore", "Stomping Tantrum", "Substitute", "Superpower", "Take Down", "Taunt", "Tera Blast", "Thief", "Throat Chop", "Thunder Punch", "Thunder Wave", "Trailblaze", "Trick", "Uproar", "Wonder Room"]
         }
     },
-    "Gigantamax Grimmsnarl Gmax": {
+    "Gigantamax Grimmsnarl": {
         "Pokedex": {
             "pokedex_number": "0861",
             "type": "Dark, Fairy",
@@ -50884,7 +50884,7 @@
             "tm": ["Alluring Voice", "Attract", "Calm Mind", "Charm", "Dazzling Gleam", "Disarming Voice", "Drain Punch", "Draining Kiss", "Encore", "Endeavor", "Endure", "Energy Ball", "Facade", "Fake Tears", "Fling", "Giga Drain", "Giga Impact", "Helping Hand", "Hyper Beam", "Imprison", "Light Screen", "Magic Room", "Magical Leaf", "Metronome", "Misty Explosion", "Misty Terrain", "Mystical Fire", "Pain Split", "Play Rough", "Protect", "Psych Up", "Psychic", "Psyshock", "Rest", "Round", "Safeguard", "Sleep Talk", "Snore", "Solar Beam", "Stored Power", "Substitute", "Tera Blast", "Tri Attack", "Wonder Room"]
         }
     },
-    "Gigantamax Alcremie Gmax": {
+    "Gigantamax Alcremie": {
         "Pokedex": {
             "pokedex_number": "0869",
             "type": "Fairy",
@@ -51122,7 +51122,7 @@
         "Pokedex": {
             "pokedex_number": "0875",
             "type": "Ice",
-            "description": "'''Eiscue''' (Japanese: コオリッポ) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Eiscue Ice Face''' (Japanese: コオリッポ) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 75,
@@ -51159,11 +51159,11 @@
             "tm": ["Agility", "Amnesia", "Attract", "Avalanche", "Blizzard", "Body Slam", "Brine", "Chilling Water", "Dive", "Double Edge", "Endure", "Facade", "Feather Dance", "Flip Turn", "Giga Impact", "Hail", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Punch", "Ice Spinner", "Icicle Spear", "Icy Wind", "Iron Defense", "Iron Head", "Liquidation", "Protect", "Rain Dance", "Reflect", "Rest", "Reversal", "Round", "Sleep Talk", "Snore", "Snowscape", "Substitute", "Surf", "Take Down", "Tera Blast", "Water Pulse", "Waterfall", "Weather Ball", "Whirlpool", "Zen Headbutt"]
         }
     },
-    "Eiscue Noice": {
+    "Eiscue Noice Face": {
         "Pokedex": {
             "pokedex_number": "0875",
             "type": "Ice",
-            "description": "'''Eiscue Noice''' (Japanese: コオリッポ) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Eiscue Noice Face''' (Japanese: コオリッポ) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 75,
@@ -51243,7 +51243,7 @@
             "tm": ["Ally Switch", "Attract", "Baton Pass", "Body Slam", "Calm Mind", "Charm", "Dazzling Gleam", "Disarming Voice", "Drain Punch", "Draining Kiss", "Endure", "Energy Ball", "Expanding Force", "Facade", "Future Sight", "Gravity", "Guard Swap", "Helping Hand", "Hyper Voice", "Imprison", "Light Screen", "Magical Leaf", "Metronome", "Mystical Fire", "Pay Day", "Play Rough", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Reflect", "Rest", "Round", "Safeguard", "Shadow Ball", "Skill Swap", "Sleep Talk", "Snore", "Stored Power", "Substitute", "Swift", "Take Down", "Tera Blast", "Trick", "Trick Room", "Zen Headbutt"]
         }
     },
-    "Indeedee Male": {
+    "Indeedee": {
         "Pokedex": {
             "pokedex_number": "0876",
             "type": "Psychic, Normal",
@@ -51287,7 +51287,7 @@
             "tm": ["Ally Switch", "Attract", "Body Slam", "Calm Mind", "Dazzling Gleam", "Disarming Voice", "Drain Punch", "Draining Kiss", "Encore", "Endure", "Energy Ball", "Expanding Force", "Facade", "Future Sight", "Gravity", "Helping Hand", "Hyper Voice", "Imprison", "Magic Room", "Magical Leaf", "Metronome", "Mystical Fire", "Pay Day", "Play Rough", "Power Swap", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rest", "Round", "Shadow Ball", "Skill Swap", "Sleep Talk", "Snore", "Stored Power", "Substitute", "Swift", "Take Down", "Tera Blast", "Tri Attack", "Trick", "Trick Room", "Wonder Room", "Zen Headbutt"]
         }
     },
-    "Morpeko Full Belly": {
+    "Morpeko": {
         "Pokedex": {
             "pokedex_number": "0877",
             "type": "Electric, Dark",
@@ -51456,7 +51456,7 @@
             "tm": ["Attract", "Body Press", "Body Slam", "Brick Break", "Brutal Swing", "Bulldoze", "Curse", "Dig", "Double Edge", "Earth Power", "Earthquake", "Endeavor", "Endure", "Facade", "Flash Cannon", "Fling", "Giga Impact", "Hard Press", "Heat Crash", "Heavy Slam", "High Horsepower", "Hyper Beam", "Iron Defense", "Iron Head", "Knock Off", "Mega Kick", "Mud Shot", "Outrage", "Payback", "Play Rough", "Power Whip", "Protect", "Rest", "Revenge", "Rock Blast", "Rock Slide", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Screech", "Sleep Talk", "Smack Down", "Snarl", "Snore", "Stealth Rock", "Steel Beam", "Stomping Tantrum", "Stone Edge", "Substitute", "Supercell Slam", "Superpower", "Take Down", "Taunt", "Tera Blast", "Work Up", "Zen Headbutt"]
         }
     },
-    "Gigantamax Copperajah Gmax": {
+    "Gigantamax Copperajah": {
         "Pokedex": {
             "pokedex_number": "0879",
             "type": "Steel",
@@ -51700,7 +51700,7 @@
             "tm": ["Attract", "Body Press", "Body Slam", "Breaking Swipe", "Brick Break", "Dark Pulse", "Double Edge", "Draco Meteor", "Dragon Cheer", "Dragon Claw", "Dragon Pulse", "Dragon Tail", "Endure", "Facade", "Flash Cannon", "Foul Play", "Giga Impact", "Gyro Ball", "Heavy Slam", "Hyper Beam", "Iron Defense", "Iron Head", "Light Screen", "Metal Claw", "Metal Sound", "Outrage", "Protect", "Reflect", "Rest", "Roar", "Rock Slide", "Rock Tomb", "Round", "Scary Face", "Screech", "Sleep Talk", "Snarl", "Snore", "Solar Beam", "Stealth Rock", "Steel Beam", "Stomping Tantrum", "Stone Edge", "Substitute", "Swords Dance", "Take Down", "Tera Blast", "Thunder", "Thunder Wave", "Thunderbolt"]
         }
     },
-    "Gigantamax Duraludon Gmax": {
+    "Gigantamax Duraludon": {
         "Pokedex": {
             "pokedex_number": "0884",
             "type": "Steel, Dragon",
@@ -51863,7 +51863,7 @@
         "Pokedex": {
             "pokedex_number": "0888",
             "type": "Fairy",
-            "description": "'''Zacian''' (Japanese: ザシアン) is a Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.8 meters tall and weighing around 110.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Zacian Hero of Many Battles''' (Japanese: ザシアン) is a Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.8 meters tall and weighing around 110.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 92,
@@ -51949,7 +51949,7 @@
         "Pokedex": {
             "pokedex_number": "0889",
             "type": "Fighting",
-            "description": "'''Zamazenta''' (Japanese: ザマゼンタ) is a Fighting-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.9 meters tall and weighing around 210.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Zamazenta Hero of Many Battles''' (Japanese: ザマゼンタ) is a Fighting-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.9 meters tall and weighing around 210.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 92,
@@ -52204,7 +52204,7 @@
             "tm": ["Acrobatics", "Aerial Ace", "Attract", "Aura Sphere", "Body Press", "Body Slam", "Brick Break", "Brine", "Bulk Up", "Chilling Water", "Close Combat", "Coaching", "Dig", "Dive", "Double Edge", "Drain Punch", "Endure", "Facade", "False Swipe", "Fire Punch", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Giga Impact", "Helping Hand", "Ice Punch", "Ice Spinner", "Iron Defense", "Iron Head", "Liquidation", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Poison Jab", "Protect", "Rain Dance", "Rest", "Retaliate", "Revenge", "Reversal", "Rock Slide", "Rock Tomb", "Round", "Scald", "Scary Face", "Sleep Talk", "Snore", "Stone Edge", "Substitute", "Superpower", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Thunder Punch", "Trailblaze", "U Turn", "Waterfall", "Whirlpool", "Work Up", "Zen Headbutt"]
         }
     },
-    "Urshifu Single Strike": {
+    "Urshifu": {
         "Pokedex": {
             "pokedex_number": "0892",
             "type": "Fighting, Dark",
@@ -52249,7 +52249,7 @@
             "tm": ["Acrobatics", "Aerial Ace", "Assurance", "Attract", "Aura Sphere", "Beat Up", "Body Press", "Body Slam", "Brick Break", "Bulk Up", "Close Combat", "Coaching", "Crunch", "Dark Pulse", "Darkest Lariat", "Dig", "Double Edge", "Drain Punch", "Endure", "Facade", "False Swipe", "Fire Punch", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Foul Play", "Giga Impact", "Helping Hand", "Ice Punch", "Iron Defense", "Iron Head", "Lash Out", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Metal Claw", "Payback", "Poison Jab", "Protect", "Rest", "Retaliate", "Revenge", "Reversal", "Roar", "Rock Slide", "Rock Tomb", "Round", "Scary Face", "Sleep Talk", "Snarl", "Snore", "Stone Edge", "Substitute", "Superpower", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Throat Chop", "Thunder Punch", "Trailblaze", "U Turn", "Work Up", "Zen Headbutt"]
         }
     },
-    "Gigantamax Urshifu Rapid Strike Gmax": {
+    "Gigantamax Urshifu Rapid Strike": {
         "Pokedex": {
             "pokedex_number": "0892",
             "type": "Fighting, Water",
@@ -52276,7 +52276,7 @@
             "tm": []
         }
     },
-    "Gigantamax Urshifu Single Strike Gmax": {
+    "Gigantamax Urshifu Single Strike": {
         "Pokedex": {
             "pokedex_number": "0892",
             "type": "Fighting, Dark",
@@ -52967,7 +52967,7 @@
             "tm": ["Agility", "Blizzard", "Chilling Water", "Confuse Ray", "Crunch", "Double Edge", "Endeavor", "Facade", "Flip Turn", "Giga Impact", "Hex", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Liquidation", "Mud Shot", "Muddy Water", "Night Shade", "Outrage", "Pain Split", "Phantom Force", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Scale Shot", "Scary Face", "Shadow Ball", "Sleep Talk", "Snowscape", "Spite", "Substitute", "Surf", "Take Down", "Tera Blast", "Uproar", "Water Pulse", "Waterfall", "Whirlpool"]
         }
     },
-    "Basculegion Male": {
+    "Basculegion": {
         "Pokedex": {
             "pokedex_number": "0902",
             "type": "Water, Ghost",
@@ -53121,7 +53121,7 @@
         "Pokedex": {
             "pokedex_number": "0905",
             "type": "Fairy, Flying",
-            "description": "'''Enamorus''' (Japanese: ラブトロス) is a Fairy/Flying-type Pokémon introduced in Generation VIII, which is known as the 'Love-Hate Pokémon'. It is standing at 1.6 meters tall and weighing around 48.0 kilograms, with a pink-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Enamorus Incarnate''' (Japanese: ラブトロス) is a Fairy/Flying-type Pokémon introduced in Generation VIII, which is known as the 'Love-Hate Pokémon'. It is standing at 1.6 meters tall and weighing around 48.0 kilograms, with a pink-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 74,
@@ -54105,7 +54105,7 @@
         "Pokedex": {
             "pokedex_number": "0925",
             "type": "Normal",
-            "description": "'''Maushold''' (Japanese: イッカネズミ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Family Pokémon'. It is standing at 0.3 meters tall and weighing around 2.3 kilograms, with a white-colored body and a heads appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Maushold Family of Four''' (Japanese: イッカネズミ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Family Pokémon'. It is standing at 0.3 meters tall and weighing around 2.3 kilograms, with a white-colored body and a heads appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 74,

@@ -42201,53 +42201,6 @@
             "tm": ["Body Slam", "Breaking Swipe", "Brick Break", "Bulldoze", "Confide", "Crunch", "Dig", "Double Team", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Earth Power", "Earthquake", "Endure", "Facade", "Focus Blast", "Frustration", "Giga Impact", "Grass Knot", "Hidden Power", "High Horsepower", "Hyper Beam", "Hyper Voice", "Iron Tail", "Outrage", "Payback", "Protect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Round", "Safeguard", "Sandstorm", "Sleep Talk", "Sludge Wave", "Snore", "Stomping Tantrum", "Stone Edge", "Substitute", "Sunny Day", "Superpower", "Swagger", "Swift", "Toxic", "Zen Headbutt"]
         }
     },
-    "Zygarde 10 Power Construct": {
-        "Pokedex": {
-            "pokedex_number": "0718",
-            "type": "Dragon, Ground",
-            "description": "'''Zygarde 10 Power Construct''' (Japanese: ジガルデ) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 1.2 meters tall and weighing around 33.5 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
-        },
-        "Stats": {
-            "hp": 54,
-            "attack": 100,
-            "defense": 71,
-            "sp_attack": 61,
-            "sp_defense": 85,
-            "speed": 115
-        },
-        "Defenses": {
-            "weaknesses": ["dragon", "fairy", "ice"],
-            "resistances": ["fire", "poison", "rock"],
-            "immunities": ["electric"]
-        },
-        "Abilities": [
-            "Power Construct"
-        ],
-        "Moves": {
-            "level_up": {
-                "Bind": 1,
-                "Bite": 1,
-                "Dragon Breath": 1,
-                "Bulldoze": 1,
-                "Thousand Arrows": 1,
-                "Thousand Waves": 1,
-                "Core Enforcer": 1,
-                "Haze": 8,
-                "Dig": 16,
-                "Safeguard": 24,
-                "Crunch": 32,
-                "Dragon Pulse": 40,
-                "Lands Wrath": 48,
-                "Glare": 56,
-                "Camouflage": 59,
-                "Sandstorm": 64,
-                "Coil": 72,
-                "Earthquake": 80,
-                "Outrage": 88
-            },
-            "tm": ["Body Slam", "Breaking Swipe", "Brick Break", "Bulldoze", "Confide", "Crunch", "Dig", "Double Team", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Earth Power", "Earthquake", "Endure", "Facade", "Focus Blast", "Frustration", "Giga Impact", "Grass Knot", "Hidden Power", "High Horsepower", "Hyper Beam", "Hyper Voice", "Iron Tail", "Outrage", "Payback", "Protect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Round", "Safeguard", "Sandstorm", "Sleep Talk", "Sludge Wave", "Snore", "Stomping Tantrum", "Stone Edge", "Substitute", "Sunny Day", "Superpower", "Swagger", "Swift", "Toxic", "Zen Headbutt"]
-        }
-    },
     "Zygarde 50": {
         "Pokedex": {
             "pokedex_number": "0718",
@@ -42297,58 +42250,11 @@
             "tm": ["Body Slam", "Breaking Swipe", "Brick Break", "Bulldoze", "Confide", "Crunch", "Dig", "Double Team", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Earth Power", "Earthquake", "Endure", "Facade", "Focus Blast", "Frustration", "Giga Impact", "Grass Knot", "Hidden Power", "High Horsepower", "Hyper Beam", "Hyper Voice", "Iron Tail", "Outrage", "Payback", "Protect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Rock Smash", "Round", "Safeguard", "Sandstorm", "Secret Power", "Sleep Talk", "Sludge Wave", "Snore", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Superpower", "Swagger", "Swift", "Toxic", "Zen Headbutt"]
         }
     },
-    "Zygarde 50 Power Construct": {
+    "Zygarde": {
         "Pokedex": {
             "pokedex_number": "0718",
             "type": "Dragon, Ground",
-            "description": "'''Zygarde 50 Power Construct''' (Japanese: ジガルデ) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 5.0 meters tall and weighing around 305.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
-        },
-        "Stats": {
-            "hp": 108,
-            "attack": 100,
-            "defense": 121,
-            "sp_attack": 81,
-            "sp_defense": 95,
-            "speed": 95
-        },
-        "Defenses": {
-            "weaknesses": ["dragon", "fairy", "ice"],
-            "resistances": ["fire", "poison", "rock"],
-            "immunities": ["electric"]
-        },
-        "Abilities": [
-            "Power Construct"
-        ],
-        "Moves": {
-            "level_up": {
-                "Bind": 1,
-                "Bite": 1,
-                "Dragon Breath": 1,
-                "Bulldoze": 1,
-                "Thousand Arrows": 1,
-                "Thousand Waves": 1,
-                "Core Enforcer": 1,
-                "Haze": 8,
-                "Dig": 16,
-                "Safeguard": 24,
-                "Crunch": 32,
-                "Dragon Pulse": 40,
-                "Lands Wrath": 48,
-                "Glare": 56,
-                "Camouflage": 59,
-                "Sandstorm": 64,
-                "Coil": 72,
-                "Earthquake": 80,
-                "Outrage": 88
-            },
-            "tm": ["Body Slam", "Breaking Swipe", "Brick Break", "Bulldoze", "Confide", "Crunch", "Dig", "Double Team", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Earth Power", "Earthquake", "Endure", "Facade", "Focus Blast", "Frustration", "Giga Impact", "Grass Knot", "Hidden Power", "High Horsepower", "Hyper Beam", "Hyper Voice", "Iron Tail", "Outrage", "Payback", "Protect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Round", "Safeguard", "Sandstorm", "Sleep Talk", "Sludge Wave", "Snore", "Stomping Tantrum", "Stone Edge", "Substitute", "Sunny Day", "Superpower", "Swagger", "Swift", "Toxic", "Zen Headbutt"]
-        }
-    },
-    "Zygarde Complete": {
-        "Pokedex": {
-            "pokedex_number": "0718",
-            "type": "Dragon, Ground",
-            "description": "'''Zygarde Complete''' (Japanese: ジガルデ) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 4.5 meters tall and weighing around 610.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Zygarde''' (Japanese: ジガルデ) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 4.5 meters tall and weighing around 610.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "hp": 216,

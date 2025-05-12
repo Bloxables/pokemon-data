@@ -32774,7 +32774,7 @@
             "tm": ["Agility", "Assurance", "Attract", "Blizzard", "Bounce", "Brine", "Chilling Water", "Confide", "Crunch", "Cut", "Dive", "Double Edge", "Double Team", "Endeavor", "Endure", "Facade", "Flip Turn", "Frustration", "Giga Impact", "Hail", "Hidden Power", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Liquidation", "Mud Shot", "Muddy Water", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Return", "Revenge", "Reversal", "Round", "Scald", "Scale Shot", "Scary Face", "Secret Power", "Sleep Talk", "Snore", "Snowscape", "Substitute", "Superpower", "Surf", "Swagger", "Swift", "Take Down", "Taunt", "Tera Blast", "Toxic", "Uproar", "Water Pulse", "Waterfall", "Whirlpool", "Zen Headbutt"]
         }
     },
-    "Basculin Red Striped": {
+    "Basculin": {
         "Pokedex": {
             "pokedex_number": "0550",
             "type": "Water",
@@ -52608,11 +52608,11 @@
             "tm": ["Agility", "Ally Switch", "Baton Pass", "Body Press", "Bullet Seed", "Calm Mind", "Draining Kiss", "Encore", "Endure", "Energy Ball", "Expanding Force", "Facade", "Future Sight", "Giga Drain", "Giga Impact", "Grass Knot", "Grassy Terrain", "Gravity", "Guard Swap", "Helping Hand", "Hyper Beam", "Imprison", "Leaf Storm", "Light Screen", "Magic Room", "Magical Leaf", "Metronome", "Mud Shot", "Pay Day", "Pollen Puff", "Power Swap", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Terrain", "Psyshock", "Reflect", "Rest", "Round", "Safeguard", "Scary Face", "Seed Bomb", "Skill Swap", "Sleep Talk", "Snarl", "Snore", "Solar Beam", "Solar Blade", "Speed Swap", "Stored Power", "Substitute", "Sunny Day", "Swift", "Take Down", "Tera Blast", "Tri Attack", "Trick", "Trick Room", "Wonder Room", "Zen Headbutt"]
         }
     },
-    "Calyrex Ice": {
+    "Calyrex Ice Rider": {
         "Pokedex": {
             "pokedex_number": "0898",
             "type": "Psychic, Ice",
-            "description": "'''Calyrex Ice''' (Japanese: バドレックス) is a Psychic/Ice-type Pokémon introduced in Generation VIII, which is known as the 'King Pokémon'. It is standing at 2.4 meters tall and weighing around 809.1 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Calyrex Ice Rider''' (Japanese: バドレックス) is a Psychic/Ice-type Pokémon introduced in Generation VIII, which is known as the 'King Pokémon'. It is standing at 2.4 meters tall and weighing around 809.1 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,
@@ -52667,11 +52667,11 @@
             "tm": ["Agility", "Ally Switch", "Assurance", "Avalanche", "Baton Pass", "Blizzard", "Body Press", "Body Slam", "Bulldoze", "Bullet Seed", "Calm Mind", "Close Combat", "Crunch", "Draining Kiss", "Encore", "Endure", "Energy Ball", "Facade", "Future Sight", "Giga Drain", "Giga Impact", "Grass Knot", "Grassy Terrain", "Guard Swap", "Hail", "Heavy Slam", "Helping Hand", "High Horsepower", "Hyper Beam", "Ice Beam", "Icicle Spear", "Icy Wind", "Imprison", "Iron Defense", "Leaf Storm", "Light Screen", "Magic Room", "Magical Leaf", "Megahorn", "Metronome", "Mud Shot", "Outrage", "Pay Day", "Payback", "Pollen Puff", "Power Swap", "Protect", "Psybeam", "Psychic", "Psychic Terrain", "Psyshock", "Reflect", "Rest", "Round", "Safeguard", "Scary Face", "Seed Bomb", "Skill Swap", "Sleep Talk", "Smart Strike", "Snarl", "Snore", "Snowscape", "Solar Beam", "Solar Blade", "Speed Swap", "Stomping Tantrum", "Stored Power", "Substitute", "Sunny Day", "Superpower", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Throat Chop", "Trailblaze", "Tri Attack", "Trick", "Trick Room", "Uproar", "Wonder Room", "Zen Headbutt"]
         }
     },
-    "Calyrex Shadow": {
+    "Calyrex Shadow Rider": {
         "Pokedex": {
             "pokedex_number": "0898",
             "type": "Psychic, Ghost",
-            "description": "'''Calyrex Shadow''' (Japanese: バドレックス) is a Psychic/Ghost-type Pokémon introduced in Generation VIII, which is known as the 'King Pokémon'. It is standing at 2.4 meters tall and weighing around 53.6 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Calyrex Shadow Rider''' (Japanese: バドレックス) is a Psychic/Ghost-type Pokémon introduced in Generation VIII, which is known as the 'King Pokémon'. It is standing at 2.4 meters tall and weighing around 53.6 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,

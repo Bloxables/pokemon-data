@@ -165,7 +165,7 @@
             "tm": []
         }
     },
-    "Mega Venusaur Mega": {
+    "Mega Venusaur": {
         "Pokedex": {
             "pokedex_number": "0003",
             "type": "Grass, Poison",
@@ -658,7 +658,7 @@
             "tm": []
         }
     },
-    "Mega Blastoise Mega": {
+    "Mega Blastoise": {
         "Pokedex": {
             "pokedex_number": "0009",
             "type": "Water",
@@ -954,7 +954,7 @@
             "tm": ["Acrobatics", "Aerial Ace", "Attract", "Bide", "Brick Break", "Brutal Swing", "Captivate", "Confide", "Curse", "Cut", "Defog", "Double Edge", "Double Team", "Drill Run", "Endure", "Facade", "False Swipe", "Flash", "Frustration", "Fury Cutter", "Giga Drain", "Giga Impact", "Headbutt", "Hidden Power", "Hyper Beam", "Infestation", "Mega Drain", "Mimic", "Natural Gift", "Outrage", "Payback", "Poison Jab", "Protect", "Rage", "Reflect", "Rest", "Return", "Rock Smash", "Roost", "Round", "Secret Power", "Silver Wind", "Skull Bash", "Sleep Talk", "Sludge Bomb", "Snore", "Solar Beam", "Struggle Bug", "Substitute", "Sunny Day", "Swagger", "Sweet Scent", "Swift", "Swords Dance", "Take Down", "Thief", "Toxic", "U Turn", "Venoshock", "X Scissor"]
         }
     },
-    "Mega Beedrill Mega": {
+    "Mega Beedrill": {
         "Pokedex": {
             "pokedex_number": "0015",
             "type": "Bug, Poison",
@@ -1137,7 +1137,7 @@
             "tm": ["Aerial Ace", "Attract", "Bide", "Captivate", "Confide", "Curse", "Defog", "Detect", "Double Edge", "Double Team", "Endure", "Facade", "Fly", "Frustration", "Giga Impact", "Headbutt", "Hidden Power", "Hyper Beam", "Mimic", "Mud Slap", "Natural Gift", "Pluck", "Protect", "Rage", "Rain Dance", "Razor Wind", "Reflect", "Rest", "Return", "Roost", "Round", "Secret Power", "Sky Attack", "Sleep Talk", "Snore", "Steel Wing", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Thief", "Toxic", "U Turn", "Whirlwind", "Work Up"]
         }
     },
-    "Mega Pidgeot Mega": {
+    "Mega Pidgeot": {
         "Pokedex": {
             "pokedex_number": "0018",
             "type": "Normal, Flying",
@@ -4581,7 +4581,7 @@
             "tm": ["Ally Switch", "Attract", "Bide", "Body Slam", "Calm Mind", "Captivate", "Charge Beam", "Confide", "Counter", "Curse", "Dazzling Gleam", "Dig", "Double Edge", "Double Team", "Drain Punch", "Dream Eater", "Dynamic Punch", "Embargo", "Encore", "Endure", "Energy Ball", "Facade", "Fire Punch", "Flash", "Fling", "Focus Blast", "Focus Punch", "Foul Play", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Guard Swap", "Headbutt", "Hidden Power", "Hyper Beam", "Ice Punch", "Imprison", "Iron Tail", "Light Screen", "Magic Room", "Mega Kick", "Mega Punch", "Metronome", "Mimic", "Nasty Plot", "Natural Gift", "Nightmare", "Power Swap", "Protect", "Psych Up", "Psychic", "Psychic Terrain", "Psycho Cut", "Psyshock", "Psywave", "Rage", "Rain Dance", "Recycle", "Reflect", "Rest", "Return", "Round", "Safeguard", "Secret Power", "Seismic Toss", "Shadow Ball", "Shock Wave", "Skill Swap", "Skull Bash", "Sleep Talk", "Snatch", "Snore", "Speed Swap", "Stored Power", "Submission", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Taunt", "Telekinesis", "Teleport", "Thief", "Thunder Punch", "Thunder Wave", "Torment", "Toxic", "Tri Attack", "Trick", "Trick Room", "Wonder Room", "Zap Cannon", "Zen Headbutt"]
         }
     },
-    "Mega Alakazam Mega": {
+    "Mega Alakazam": {
         "Pokedex": {
             "pokedex_number": "0065",
             "type": "Psychic",
@@ -5785,7 +5785,7 @@
             "tm": ["Acid Spray", "Amnesia", "Attract", "Avalanche", "Blizzard", "Body Press", "Body Slam", "Brick Break", "Brine", "Brutal Swing", "Bulldoze", "Calm Mind", "Chilling Water", "Curse", "Dig", "Dive", "Double Edge", "Drain Punch", "Earthquake", "Endure", "Expanding Force", "Facade", "Fire Blast", "Flamethrower", "Fling", "Focus Blast", "Foul Play", "Future Sight", "Giga Impact", "Grass Knot", "Gunk Shot", "Hail", "Haze", "Helping Hand", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Ice Punch", "Icy Wind", "Imprison", "Iron Defense", "Iron Tail", "Light Screen", "Liquidation", "Mega Kick", "Mega Punch", "Metronome", "Mud Shot", "Muddy Water", "Nasty Plot", "Pay Day", "Poison Jab", "Power Gem", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Terrain", "Psyshock", "Rain Dance", "Razor Shell", "Rest", "Rock Blast", "Round", "Safeguard", "Sandstorm", "Scald", "Scary Face", "Shadow Ball", "Skill Swap", "Sleep Talk", "Sludge Bomb", "Sludge Wave", "Smack Down", "Snore", "Snowscape", "Stored Power", "Substitute", "Sunny Day", "Surf", "Swift", "Take Down", "Tera Blast", "Thunder Wave", "Toxic", "Tri Attack", "Trick", "Trick Room", "Venoshock", "Water Pulse", "Waterfall", "Weather Ball", "Whirlpool", "Wonder Room", "Zen Headbutt"]
         }
     },
-    "Mega Slowbro Mega": {
+    "Mega Slowbro": {
         "Pokedex": {
             "pokedex_number": "0080",
             "type": "Water, Psychic",
@@ -6724,7 +6724,7 @@
             "tm": []
         }
     },
-    "Mega Gengar Mega": {
+    "Mega Gengar": {
         "Pokedex": {
             "pokedex_number": "0094",
             "type": "Ghost, Poison",
@@ -8162,7 +8162,7 @@
             "tm": ["Aerial Ace", "Assurance", "Attract", "Avalanche", "Beat Up", "Bide", "Blizzard", "Body Slam", "Brick Break", "Bubble Beam", "Bulldoze", "Captivate", "Confide", "Counter", "Crunch", "Curse", "Cut", "Dig", "Double Edge", "Double Team", "Drain Punch", "Dynamic Punch", "Earthquake", "Endure", "Facade", "Fire Blast", "Fire Punch", "Fissure", "Flamethrower", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Frustration", "Fury Cutter", "Giga Impact", "Hail", "Headbutt", "Helping Hand", "Hidden Power", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Punch", "Icy Wind", "Incinerate", "Iron Tail", "Low Kick", "Mega Kick", "Mega Punch", "Mimic", "Mud Slap", "Natural Gift", "Outrage", "Power Up Punch", "Protect", "Rage", "Rain Dance", "Rest", "Retaliate", "Return", "Reversal", "Roar", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Sandstorm", "Secret Power", "Seismic Toss", "Shadow Ball", "Shadow Claw", "Shock Wave", "Skull Bash", "Sleep Talk", "Snore", "Solar Beam", "Strength", "Submission", "Substitute", "Sunny Day", "Surf", "Swagger", "Take Down", "Thief", "Thunder", "Thunder Punch", "Thunderbolt", "Toxic", "Uproar", "Water Gun", "Water Pulse", "Whirlpool", "Work Up", "Zap Cannon"]
         }
     },
-    "Mega Kangaskhan Mega": {
+    "Mega Kangaskhan": {
         "Pokedex": {
             "pokedex_number": "0115",
             "type": "Normal",
@@ -8863,7 +8863,7 @@
             "tm": ["Attract", "Bide", "Body Slam", "Brick Break", "Brutal Swing", "Bulk Up", "Bulldoze", "Captivate", "Close Combat", "Confide", "Curse", "Cut", "Dig", "Double Edge", "Double Team", "Earthquake", "Endure", "Facade", "False Swipe", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Frustration", "Fury Cutter", "Giga Impact", "Headbutt", "Helping Hand", "Hidden Power", "High Horsepower", "Hyper Beam", "Iron Defense", "Mimic", "Natural Gift", "Outrage", "Protect", "Rage", "Rain Dance", "Rest", "Return", "Revenge", "Reversal", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Secret Power", "Seismic Toss", "Sleep Talk", "Smack Down", "Snore", "Stealth Rock", "Stone Edge", "Strength", "Struggle Bug", "Submission", "Substitute", "Sunny Day", "Superpower", "Swagger", "Swords Dance", "Take Down", "Thief", "Throat Chop", "Toxic", "X Scissor"]
         }
     },
-    "Mega Pinsir Mega": {
+    "Mega Pinsir": {
         "Pokedex": {
             "pokedex_number": "0127",
             "type": "Bug, Flying",
@@ -9177,7 +9177,7 @@
             "tm": ["Attract", "Avalanche", "Bide", "Blizzard", "Body Slam", "Bounce", "Brine", "Brutal Swing", "Bubble Beam", "Bulldoze", "Captivate", "Chilling Water", "Confide", "Crunch", "Curse", "Dark Pulse", "Dive", "Double Edge", "Double Team", "Dragon Breath", "Dragon Cheer", "Dragon Dance", "Dragon Pulse", "Dragon Rage", "Dragon Tail", "Earthquake", "Endeavor", "Endure", "Facade", "Fire Blast", "Flamethrower", "Frustration", "Giga Impact", "Hail", "Headbutt", "Helping Hand", "Hidden Power", "Hurricane", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Incinerate", "Iron Head", "Iron Tail", "Lash Out", "Mimic", "Muddy Water", "Natural Gift", "Outrage", "Payback", "Power Whip", "Protect", "Rage", "Rain Dance", "Reflect", "Rest", "Return", "Roar", "Rock Smash", "Round", "Sandstorm", "Scald", "Scale Shot", "Scary Face", "Secret Power", "Skull Bash", "Sleep Talk", "Snore", "Spite", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Surf", "Swagger", "Take Down", "Taunt", "Temper Flare", "Tera Blast", "Thunder", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Uproar", "Water Gun", "Water Pulse", "Waterfall", "Whirlpool", "Zap Cannon"]
         }
     },
-    "Mega Gyarados Mega": {
+    "Mega Gyarados": {
         "Pokedex": {
             "pokedex_number": "0130",
             "type": "Water, Dark",
@@ -9947,7 +9947,7 @@
             "tm": ["Aerial Ace", "Agility", "Assurance", "Attract", "Bide", "Brutal Swing", "Bulldoze", "Captivate", "Confide", "Crunch", "Curse", "Defog", "Detect", "Double Edge", "Double Team", "Dragon Breath", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dragon Rage", "Earth Power", "Earthquake", "Endure", "Facade", "Fire Blast", "Fire Fang", "Flamethrower", "Fly", "Frustration", "Giga Impact", "Headbutt", "Heat Wave", "Hidden Power", "Hone Claws", "Hurricane", "Hyper Beam", "Ice Fang", "Incinerate", "Iron Head", "Iron Tail", "Mimic", "Natural Gift", "Payback", "Protect", "Psychic Fangs", "Rage", "Rain Dance", "Razor Wind", "Reflect", "Rest", "Return", "Roar", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Roost", "Round", "Sandstorm", "Scary Face", "Secret Power", "Sky Attack", "Sky Drop", "Sleep Talk", "Smack Down", "Snore", "Stealth Rock", "Steel Wing", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Taunt", "Thief", "Thunder Fang", "Torment", "Toxic", "Whirlwind"]
         }
     },
-    "Mega Aerodactyl Mega": {
+    "Mega Aerodactyl": {
         "Pokedex": {
             "pokedex_number": "0142",
             "type": "Rock, Flying",
@@ -12207,7 +12207,7 @@
             "tm": ["Agility", "Attract", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Captivate", "Charge", "Charge Beam", "Confide", "Confuse Ray", "Curse", "Dazzling Gleam", "Defense Curl", "Dig", "Double Edge", "Double Team", "Dragon Cheer", "Dragon Pulse", "Dragon Tail", "Dynamic Punch", "Echoed Voice", "Eerie Impulse", "Electric Terrain", "Electro Ball", "Electroweb", "Endeavor", "Endure", "Facade", "Fire Punch", "Flash", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Giga Impact", "Headbutt", "Helping Hand", "Hidden Power", "Hyper Beam", "Ice Punch", "Iron Tail", "Light Screen", "Low Kick", "Meteor Beam", "Natural Gift", "Outrage", "Power Gem", "Power Up Punch", "Protect", "Rain Dance", "Reflect", "Rest", "Return", "Roar", "Rock Climb", "Rock Smash", "Round", "Safeguard", "Secret Power", "Shock Wave", "Sleep Talk", "Snore", "Stomping Tantrum", "Strength", "Substitute", "Sunny Day", "Supercell Slam", "Swagger", "Swift", "Take Down", "Tera Blast", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Toxic", "Trailblaze", "Volt Switch", "Wild Charge", "Zap Cannon"]
         }
     },
-    "Mega Ampharos Mega": {
+    "Mega Ampharos": {
         "Pokedex": {
             "pokedex_number": "0181",
             "type": "Electric, Dragon",
@@ -13681,7 +13681,7 @@
             "tm": ["Attract", "Body Press", "Body Slam", "Breaking Swipe", "Brutal Swing", "Bulldoze", "Captivate", "Confide", "Crunch", "Curse", "Cut", "Dark Pulse", "Defense Curl", "Dig", "Double Team", "Dragon Breath", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Drill Run", "Earth Power", "Earthquake", "Endure", "Explosion", "Facade", "Fire Fang", "Flash Cannon", "Frustration", "Giga Impact", "Gyro Ball", "Headbutt", "Heavy Slam", "Hidden Power", "High Horsepower", "Hyper Beam", "Ice Fang", "Iron Defense", "Iron Head", "Iron Tail", "Mud Slap", "Natural Gift", "Nature Power", "Payback", "Protect", "Psych Up", "Psychic Fangs", "Rest", "Return", "Roar", "Rock Blast", "Rock Climb", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Rollout", "Round", "Sand Tomb", "Sandstorm", "Scary Face", "Screech", "Secret Power", "Self Destruct", "Sleep Talk", "Smack Down", "Snore", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Taunt", "Thunder Fang", "Torment", "Toxic"]
         }
     },
-    "Mega Steelix Mega": {
+    "Mega Steelix": {
         "Pokedex": {
             "pokedex_number": "0208",
             "type": "Steel, Ground",
@@ -13993,7 +13993,7 @@
             "tm": ["Acrobatics", "Aerial Ace", "Agility", "Air Cutter", "Air Slash", "Assurance", "Attract", "Baton Pass", "Brick Break", "Brutal Swing", "Bug Bite", "Bug Buzz", "Captivate", "Close Combat", "Confide", "Cross Poison", "Curse", "Cut", "Defog", "Detect", "Double Edge", "Double Team", "Dual Wingbeat", "Endure", "Facade", "False Swipe", "Flash Cannon", "Fling", "Focus Energy", "Frustration", "Fury Cutter", "Giga Impact", "Hard Press", "Headbutt", "Helping Hand", "Hidden Power", "Hyper Beam", "Iron Defense", "Iron Head", "Knock Off", "Light Screen", "Lunge", "Metal Claw", "Natural Gift", "Pounce", "Protect", "Psycho Cut", "Rain Dance", "Rest", "Return", "Reversal", "Rock Smash", "Roost", "Round", "Safeguard", "Sand Tomb", "Sandstorm", "Scary Face", "Secret Power", "Silver Wind", "Skitter Smack", "Sleep Talk", "Snore", "Steel Beam", "Steel Wing", "Strength", "Struggle Bug", "Substitute", "Sunny Day", "Superpower", "Swagger", "Swift", "Swords Dance", "Tailwind", "Take Down", "Tera Blast", "Thief", "Toxic", "Trailblaze", "U Turn", "Vacuum Wave", "Venoshock", "X Scissor"]
         }
     },
-    "Mega Scizor Mega": {
+    "Mega Scizor": {
         "Pokedex": {
             "pokedex_number": "0212",
             "type": "Bug, Steel",
@@ -14142,7 +14142,7 @@
             "tm": ["Aerial Ace", "Assurance", "Attract", "Body Slam", "Brick Break", "Brutal Swing", "Bug Bite", "Bug Buzz", "Bulk Up", "Bulldoze", "Bullet Seed", "Captivate", "Close Combat", "Coaching", "Confide", "Curse", "Cut", "Detect", "Dig", "Double Edge", "Double Team", "Earthquake", "Endeavor", "Endure", "Facade", "False Swipe", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Fury Cutter", "Giga Impact", "Headbutt", "Helping Hand", "Hidden Power", "High Horsepower", "Hyper Beam", "Iron Defense", "Knock Off", "Low Kick", "Lunge", "Megahorn", "Natural Gift", "Pin Missile", "Pounce", "Protect", "Rain Dance", "Rest", "Retaliate", "Return", "Revenge", "Reversal", "Rock Blast", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Secret Power", "Shadow Claw", "Skitter Smack", "Sleep Talk", "Smack Down", "Smart Strike", "Snore", "Spikes", "Stone Edge", "Strength", "Struggle Bug", "Substitute", "Sunny Day", "Swagger", "Swords Dance", "Take Down", "Tera Blast", "Thief", "Throat Chop", "Toxic", "Trailblaze", "Upper Hand", "Vacuum Wave", "Venoshock", "Work Up"]
         }
     },
-    "Mega Heracross Mega": {
+    "Mega Heracross": {
         "Pokedex": {
             "pokedex_number": "0214",
             "type": "Bug, Fighting",
@@ -15019,7 +15019,7 @@
             "tm": ["Attract", "Body Slam", "Burning Jealousy", "Captivate", "Confide", "Crunch", "Curse", "Dark Pulse", "Detect", "Double Edge", "Double Team", "Dream Eater", "Embargo", "Endeavor", "Endure", "Facade", "Fire Blast", "Fire Fang", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Foul Play", "Frustration", "Giga Impact", "Headbutt", "Heat Wave", "Helping Hand", "Hidden Power", "Hyper Beam", "Hyper Voice", "Incinerate", "Iron Tail", "Lash Out", "Mud Shot", "Mud Slap", "Nasty Plot", "Natural Gift", "Nightmare", "Overheat", "Pain Split", "Payback", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Retaliate", "Return", "Reversal", "Roar", "Rock Smash", "Round", "Scary Face", "Secret Power", "Shadow Ball", "Sleep Talk", "Sludge Bomb", "Snarl", "Snatch", "Snore", "Solar Beam", "Spite", "Strength", "Substitute", "Sunny Day", "Super Fang", "Swagger", "Swift", "Take Down", "Taunt", "Temper Flare", "Tera Blast", "Thief", "Throat Chop", "Thunder Fang", "Torment", "Toxic", "Trailblaze", "Will O Wisp"]
         }
     },
-    "Mega Houndoom Mega": {
+    "Mega Houndoom": {
         "Pokedex": {
             "pokedex_number": "0229",
             "type": "Dark, Fire",
@@ -15967,7 +15967,7 @@
             "tm": ["Aerial Ace", "Assurance", "Attract", "Avalanche", "Blizzard", "Body Press", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Captivate", "Confide", "Crunch", "Curse", "Cut", "Dark Pulse", "Detect", "Dig", "Double Edge", "Double Team", "Dragon Breath", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Dynamic Punch", "Earth Power", "Earthquake", "Endure", "Facade", "Fire Blast", "Fire Fang", "Fire Punch", "Flamethrower", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Foul Play", "Frustration", "Fury Cutter", "Giga Impact", "Hard Press", "Headbutt", "Heavy Slam", "Helping Hand", "Hidden Power", "High Horsepower", "Hone Claws", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Ice Punch", "Icy Wind", "Incinerate", "Iron Defense", "Iron Head", "Iron Tail", "Knock Off", "Lash Out", "Low Kick", "Mega Kick", "Mega Punch", "Mud Shot", "Mud Slap", "Muddy Water", "Natural Gift", "Nightmare", "Outrage", "Payback", "Power Gem", "Power Up Punch", "Protect", "Rain Dance", "Rest", "Retaliate", "Return", "Revenge", "Roar", "Rock Blast", "Rock Climb", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sand Tomb", "Sandstorm", "Scary Face", "Screech", "Secret Power", "Shadow Claw", "Shock Wave", "Sleep Talk", "Smack Down", "Snarl", "Snore", "Spite", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Superpower", "Surf", "Swagger", "Take Down", "Taunt", "Tera Blast", "Thunder", "Thunder Fang", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Uproar", "Water Pulse", "Whirlpool"]
         }
     },
-    "Mega Tyranitar Mega": {
+    "Mega Tyranitar": {
         "Pokedex": {
             "pokedex_number": "0248",
             "type": "Rock, Dark",
@@ -16303,7 +16303,7 @@
             "tm": ["Acrobatics", "Aerial Ace", "Agility", "Assurance", "Attract", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Bullet Seed", "Captivate", "Confide", "Cross Poison", "Crunch", "Cut", "Dig", "Double Edge", "Double Team", "Dragon Cheer", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Drain Punch", "Earthquake", "Endeavor", "Endure", "Energy Ball", "Facade", "False Swipe", "Flash", "Fling", "Focus Blast", "Focus Punch", "Frenzy Plant", "Frustration", "Giga Drain", "Giga Impact", "Grass Knot", "Grass Pledge", "Grassy Glide", "Grassy Terrain", "Helping Hand", "Hidden Power", "Hone Claws", "Hyper Beam", "Iron Tail", "Leaf Blade", "Leaf Storm", "Low Kick", "Low Sweep", "Magical Leaf", "Mega Kick", "Mega Punch", "Natural Gift", "Nature Power", "Outrage", "Power Up Punch", "Protect", "Rest", "Return", "Roar", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Scale Shot", "Screech", "Secret Power", "Seed Bomb", "Sleep Talk", "Snore", "Solar Beam", "Solar Blade", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Take Down", "Tera Blast", "Thief", "Throat Chop", "Thunder Punch", "Toxic", "Trailblaze", "Upper Hand", "Vacuum Wave", "Work Up", "X Scissor"]
         }
     },
-    "Mega Sceptile Mega": {
+    "Mega Sceptile": {
         "Pokedex": {
             "pokedex_number": "0254",
             "type": "Grass, Dragon",
@@ -16501,7 +16501,7 @@
             "tm": ["Acrobatics", "Aerial Ace", "Agility", "Assurance", "Attract", "Aura Sphere", "Baton Pass", "Blast Burn", "Blaze Kick", "Body Slam", "Bounce", "Brave Bird", "Brick Break", "Bulk Up", "Bulldoze", "Captivate", "Close Combat", "Coaching", "Confide", "Curse", "Cut", "Dig", "Double Edge", "Double Team", "Earthquake", "Echoed Voice", "Endure", "Facade", "Feather Dance", "Fire Blast", "Fire Pledge", "Fire Punch", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Frustration", "Giga Impact", "Heat Crash", "Heat Wave", "Helping Hand", "Hidden Power", "Hone Claws", "Hyper Beam", "Incinerate", "Knock Off", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Mud Slap", "Natural Gift", "Overheat", "Poison Jab", "Power Up Punch", "Protect", "Rest", "Return", "Revenge", "Reversal", "Roar", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Scorching Sands", "Secret Power", "Shadow Claw", "Sleep Talk", "Snore", "Solar Beam", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Superpower", "Swagger", "Swift", "Swords Dance", "Take Down", "Temper Flare", "Tera Blast", "Thief", "Thunder Punch", "Toxic", "U Turn", "Upper Hand", "Uproar", "Vacuum Wave", "Will O Wisp", "Work Up"]
         }
     },
-    "Mega Blaziken Mega": {
+    "Mega Blaziken": {
         "Pokedex": {
             "pokedex_number": "0257",
             "type": "Fire, Fighting",
@@ -16700,7 +16700,7 @@
             "tm": ["Amnesia", "Attract", "Avalanche", "Blizzard", "Body Press", "Body Slam", "Brick Break", "Bulk Up", "Bulldoze", "Captivate", "Chilling Water", "Confide", "Curse", "Darkest Lariat", "Dig", "Dive", "Double Edge", "Double Team", "Earth Power", "Earthquake", "Echoed Voice", "Endeavor", "Endure", "Facade", "Fling", "Flip Turn", "Focus Blast", "Focus Punch", "Frustration", "Giga Impact", "Hail", "Hard Press", "Helping Hand", "Hidden Power", "High Horsepower", "Hydro Cannon", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Punch", "Icy Wind", "Iron Tail", "Knock Off", "Liquidation", "Low Kick", "Mega Kick", "Mega Punch", "Mud Shot", "Mud Slap", "Muddy Water", "Natural Gift", "Outrage", "Poison Jab", "Power Up Punch", "Protect", "Rain Dance", "Rest", "Return", "Roar", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sand Tomb", "Scald", "Scary Face", "Screech", "Secret Power", "Sleep Talk", "Sludge Wave", "Smack Down", "Snore", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Superpower", "Surf", "Swagger", "Take Down", "Tera Blast", "Toxic", "Uproar", "Water Pledge", "Water Pulse", "Waterfall", "Weather Ball", "Whirlpool", "Work Up"]
         }
     },
-    "Mega Swampert Mega": {
+    "Mega Swampert": {
         "Pokedex": {
             "pokedex_number": "0260",
             "type": "Water, Ground",
@@ -17876,7 +17876,7 @@
             "tm": ["Alluring Voice", "Ally Switch", "Attract", "Aura Sphere", "Body Slam", "Calm Mind", "Captivate", "Charge Beam", "Charm", "Confide", "Confuse Ray", "Dazzling Gleam", "Disarming Voice", "Double Team", "Draining Kiss", "Dream Eater", "Echoed Voice", "Encore", "Endure", "Energy Ball", "Expanding Force", "Facade", "Fire Punch", "Flash", "Fling", "Focus Blast", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Guard Swap", "Helping Hand", "Hidden Power", "Hyper Beam", "Hyper Voice", "Ice Punch", "Icy Wind", "Imprison", "Knock Off", "Light Screen", "Magic Room", "Magical Leaf", "Mega Kick", "Mega Punch", "Metronome", "Misty Explosion", "Misty Terrain", "Mystical Fire", "Natural Gift", "Night Shade", "Pain Split", "Power Swap", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rain Dance", "Recycle", "Reflect", "Rest", "Return", "Round", "Safeguard", "Secret Power", "Shadow Ball", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Taunt", "Telekinesis", "Tera Blast", "Thief", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trick", "Trick Room", "Triple Axel", "Vacuum Wave", "Will O Wisp", "Wonder Room", "Zen Headbutt"]
         }
     },
-    "Mega Gardevoir Mega": {
+    "Mega Gardevoir": {
         "Pokedex": {
             "pokedex_number": "0282",
             "type": "Psychic, Fairy",
@@ -18874,7 +18874,7 @@
             "tm": ["Aerial Ace", "Ally Switch", "Attract", "Body Slam", "Brick Break", "Bulk Up", "Calm Mind", "Captivate", "Confide", "Confuse Ray", "Cut", "Dark Pulse", "Dazzling Gleam", "Dig", "Double Team", "Drain Punch", "Dream Eater", "Embargo", "Encore", "Endure", "Energy Ball", "Facade", "Fire Punch", "Flash", "Fling", "Focus Punch", "Foul Play", "Frustration", "Giga Drain", "Giga Impact", "Gravity", "Gyro Ball", "Helping Hand", "Hex", "Hidden Power", "Hone Claws", "Hyper Beam", "Ice Punch", "Icy Wind", "Imprison", "Incinerate", "Knock Off", "Lash Out", "Light Screen", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Metal Claw", "Metronome", "Mud Shot", "Mud Slap", "Nasty Plot", "Natural Gift", "Night Shade", "Pain Split", "Payback", "Phantom Force", "Poison Jab", "Poltergeist", "Power Gem", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Quash", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Rock Smash", "Rock Tomb", "Round", "Secret Power", "Shadow Ball", "Shadow Claw", "Shock Wave", "Skill Swap", "Skitter Smack", "Sleep Talk", "Snarl", "Snatch", "Snore", "Spite", "Substitute", "Sunny Day", "Swagger", "Take Down", "Taunt", "Telekinesis", "Tera Blast", "Thief", "Throat Chop", "Thunder Punch", "Thunder Wave", "Torment", "Toxic", "Trick", "Water Pulse", "Will O Wisp", "Wonder Room", "X Scissor", "Zen Headbutt"]
         }
     },
-    "Mega Sableye Mega": {
+    "Mega Sableye": {
         "Pokedex": {
             "pokedex_number": "0302",
             "type": "Dark, Ghost",
@@ -18970,7 +18970,7 @@
             "tm": ["Assurance", "Attract", "Baton Pass", "Body Slam", "Brick Break", "Brutal Swing", "Captivate", "Charge Beam", "Confide", "Crunch", "Dark Pulse", "Double Team", "Draining Kiss", "Embargo", "Endure", "Facade", "Fake Tears", "False Swipe", "Fire Blast", "Fire Fang", "Flamethrower", "Flash Cannon", "Fling", "Focus Blast", "Focus Punch", "Foul Play", "Frustration", "Giga Impact", "Grass Knot", "Guard Swap", "Helping Hand", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Fang", "Ice Punch", "Icy Wind", "Incinerate", "Iron Defense", "Iron Head", "Mega Kick", "Mega Punch", "Misty Terrain", "Natural Gift", "Payback", "Play Rough", "Power Up Punch", "Protect", "Psych Up", "Psychic Fangs", "Rain Dance", "Rest", "Return", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sandstorm", "Secret Power", "Shadow Ball", "Sleep Talk", "Sludge Bomb", "Snore", "Solar Beam", "Stealth Rock", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Swords Dance", "Taunt", "Thunder Fang", "Thunder Punch", "Torment", "Toxic"]
         }
     },
-    "Mega Mawile Mega": {
+    "Mega Mawile": {
         "Pokedex": {
             "pokedex_number": "0303",
             "type": "Steel, Fairy",
@@ -19160,7 +19160,7 @@
             "tm": ["Aerial Ace", "Attract", "Avalanche", "Blizzard", "Body Press", "Body Slam", "Brick Break", "Brutal Swing", "Bulldoze", "Captivate", "Confide", "Crunch", "Cut", "Dark Pulse", "Dig", "Double Team", "Dragon Claw", "Dragon Pulse", "Dragon Tail", "Earth Power", "Earthquake", "Endure", "Facade", "Fire Blast", "Fire Punch", "Flamethrower", "Flash Cannon", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Giga Impact", "Heavy Slam", "Hidden Power", "High Horsepower", "Hone Claws", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Punch", "Icy Wind", "Incinerate", "Iron Defense", "Iron Head", "Iron Tail", "Low Kick", "Mega Kick", "Mega Punch", "Natural Gift", "Outrage", "Payback", "Power Up Punch", "Protect", "Rain Dance", "Rest", "Return", "Reversal", "Roar", "Rock Blast", "Rock Climb", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sand Tomb", "Sandstorm", "Scary Face", "Screech", "Secret Power", "Shadow Claw", "Shock Wave", "Sleep Talk", "Smack Down", "Smart Strike", "Snore", "Solar Beam", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Superpower", "Surf", "Swagger", "Taunt", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Toxic", "Uproar", "Water Pulse", "Whirlpool"]
         }
     },
-    "Mega Aggron Mega": {
+    "Mega Aggron": {
         "Pokedex": {
             "pokedex_number": "0306",
             "type": "Steel",
@@ -19314,7 +19314,7 @@
             "tm": ["Aerial Ace", "Attract", "Aura Sphere", "Baton Pass", "Body Slam", "Brick Break", "Bulk Up", "Calm Mind", "Captivate", "Close Combat", "Confide", "Double Team", "Drain Punch", "Dream Eater", "Endure", "Energy Ball", "Expanding Force", "Facade", "Fire Punch", "Flash", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Giga Impact", "Grass Knot", "Gravity", "Helping Hand", "Hidden Power", "Hyper Beam", "Ice Punch", "Imprison", "Light Screen", "Low Kick", "Low Sweep", "Metronome", "Natural Gift", "Night Shade", "Pain Split", "Poison Jab", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Terrain", "Psyshock", "Rain Dance", "Recycle", "Reflect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Secret Power", "Shadow Ball", "Skill Swap", "Sleep Talk", "Stored Power", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Taunt", "Telekinesis", "Tera Blast", "Thief", "Thunder Punch", "Toxic", "Trailblaze", "Trick", "Trick Room", "Upper Hand", "Vacuum Wave", "Work Up", "Zen Headbutt"]
         }
     },
-    "Mega Medicham Mega": {
+    "Mega Medicham": {
         "Pokedex": {
             "pokedex_number": "0308",
             "type": "Fighting, Psychic",
@@ -19455,7 +19455,7 @@
             "tm": ["Agility", "Attract", "Body Slam", "Captivate", "Charge Beam", "Confide", "Crunch", "Double Team", "Eerie Impulse", "Electric Terrain", "Electro Ball", "Endure", "Facade", "Fire Fang", "Flamethrower", "Flash", "Frustration", "Giga Impact", "Hidden Power", "Hyper Beam", "Hyper Voice", "Ice Fang", "Iron Tail", "Light Screen", "Natural Gift", "Overheat", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Return", "Roar", "Round", "Scary Face", "Secret Power", "Shock Wave", "Sleep Talk", "Snarl", "Snore", "Strength", "Substitute", "Swagger", "Swift", "Thief", "Thunder", "Thunder Fang", "Thunder Wave", "Thunderbolt", "Toxic", "Uproar", "Volt Switch", "Wild Charge"]
         }
     },
-    "Mega Manectric Mega": {
+    "Mega Manectric": {
         "Pokedex": {
             "pokedex_number": "0310",
             "type": "Electric",
@@ -19939,7 +19939,7 @@
             "tm": ["Agility", "Assurance", "Attract", "Avalanche", "Blizzard", "Bounce", "Brine", "Bulldoze", "Captivate", "Close Combat", "Confide", "Crunch", "Dark Pulse", "Dive", "Double Team", "Earthquake", "Endure", "Facade", "Focus Energy", "Frustration", "Giga Impact", "Hail", "Hidden Power", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Liquidation", "Natural Gift", "Payback", "Poison Jab", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Retaliate", "Return", "Roar", "Rock Smash", "Rock Tomb", "Round", "Scald", "Scary Face", "Screech", "Secret Power", "Sleep Talk", "Snarl", "Snore", "Strength", "Substitute", "Surf", "Swagger", "Swift", "Taunt", "Thief", "Torment", "Toxic", "Uproar", "Water Pulse", "Waterfall", "Whirlpool", "Zen Headbutt"]
         }
     },
-    "Mega Sharpedo Mega": {
+    "Mega Sharpedo": {
         "Pokedex": {
             "pokedex_number": "0319",
             "type": "Water, Dark",
@@ -20180,7 +20180,7 @@
             "tm": ["Amnesia", "Attract", "Body Press", "Body Slam", "Bulldoze", "Captivate", "Charm", "Confide", "Curse", "Dig", "Double Edge", "Double Team", "Earth Power", "Earthquake", "Echoed Voice", "Endeavor", "Endure", "Explosion", "Facade", "Fire Blast", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Flash Cannon", "Frustration", "Giga Impact", "Heat Crash", "Heat Wave", "Heavy Slam", "Helping Hand", "Hidden Power", "High Horsepower", "Hyper Beam", "Incinerate", "Iron Head", "Lash Out", "Mud Shot", "Mud Slap", "Natural Gift", "Nature Power", "Overheat", "Protect", "Rain Dance", "Rest", "Return", "Roar", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Scorching Sands", "Secret Power", "Sleep Talk", "Smack Down", "Solar Beam", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Take Down", "Temper Flare", "Tera Blast", "Toxic", "Trailblaze", "Will O Wisp", "Zen Headbutt"]
         }
     },
-    "Mega Camerupt Mega": {
+    "Mega Camerupt": {
         "Pokedex": {
             "pokedex_number": "0323",
             "type": "Fire, Ground",
@@ -20776,7 +20776,7 @@
             "tm": ["Acrobatics", "Aerial Ace", "Agility", "Alluring Voice", "Attract", "Body Slam", "Brave Bird", "Breaking Swipe", "Bulldoze", "Captivate", "Confide", "Dazzling Gleam", "Disarming Voice", "Double Edge", "Double Team", "Draco Meteor", "Dragon Cheer", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dream Eater", "Dual Wingbeat", "Earthquake", "Echoed Voice", "Endeavor", "Endure", "Facade", "False Swipe", "Feather Dance", "Fire Blast", "Fire Spin", "Flamethrower", "Fly", "Frustration", "Giga Impact", "Haze", "Heat Wave", "Helping Hand", "Hidden Power", "Hone Claws", "Hurricane", "Hyper Beam", "Hyper Voice", "Ice Beam", "Incinerate", "Iron Tail", "Natural Gift", "Outrage", "Play Rough", "Pluck", "Power Swap", "Protect", "Psych Up", "Rain Dance", "Rest", "Return", "Roar", "Rock Smash", "Roost", "Round", "Safeguard", "Secret Power", "Sleep Talk", "Snore", "Snowscape", "Solar Beam", "Steel Wing", "Substitute", "Sunny Day", "Swagger", "Swift", "Tailwind", "Take Down", "Tera Blast", "Thief", "Toxic", "Trailblaze", "Uproar", "Weather Ball", "Will O Wisp", "Wonder Room"]
         }
     },
-    "Mega Altaria Mega": {
+    "Mega Altaria": {
         "Pokedex": {
             "pokedex_number": "0334",
             "type": "Dragon, Fairy",
@@ -21884,7 +21884,7 @@
             "tm": ["Attract", "Burning Jealousy", "Calm Mind", "Captivate", "Charge Beam", "Confide", "Confuse Ray", "Curse", "Dark Pulse", "Dazzling Gleam", "Double Team", "Dream Eater", "Embargo", "Encore", "Endure", "Facade", "Flash", "Fling", "Foul Play", "Frustration", "Giga Impact", "Gunk Shot", "Helping Hand", "Hex", "Hidden Power", "Hyper Beam", "Icy Wind", "Imprison", "Infestation", "Knock Off", "Lash Out", "Metronome", "Nasty Plot", "Natural Gift", "Night Shade", "Pain Split", "Payback", "Phantom Force", "Poltergeist", "Pounce", "Protect", "Psybeam", "Psych Up", "Psychic", "Rain Dance", "Rest", "Return", "Round", "Scary Face", "Secret Power", "Shadow Ball", "Shadow Claw", "Shock Wave", "Skill Swap", "Skitter Smack", "Sleep Talk", "Snatch", "Spite", "Substitute", "Sunny Day", "Swagger", "Swords Dance", "Taunt", "Telekinesis", "Tera Blast", "Thief", "Throat Chop", "Thunder", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trailblaze", "Trick", "Trick Room", "Will O Wisp"]
         }
     },
-    "Mega Banette Mega": {
+    "Mega Banette": {
         "Pokedex": {
             "pokedex_number": "0354",
             "type": "Ghost",
@@ -22182,7 +22182,7 @@
             "tm": ["Aerial Ace", "Air Slash", "Assurance", "Attract", "Baton Pass", "Blizzard", "Body Slam", "Bounce", "Brutal Swing", "Calm Mind", "Captivate", "Charge Beam", "Close Combat", "Confide", "Cut", "Dark Pulse", "Double Team", "Dream Eater", "Echoed Voice", "Endure", "Facade", "False Swipe", "Fire Blast", "Flamethrower", "Flash", "Focus Energy", "Foul Play", "Frustration", "Future Sight", "Giga Impact", "Hail", "Hex", "Hidden Power", "Hone Claws", "Hyper Beam", "Ice Beam", "Icy Wind", "Incinerate", "Iron Tail", "Megahorn", "Natural Gift", "Payback", "Play Rough", "Protect", "Psych Up", "Psycho Cut", "Rain Dance", "Rest", "Retaliate", "Return", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sandstorm", "Secret Power", "Shadow Ball", "Shadow Claw", "Shock Wave", "Sleep Talk", "Snarl", "Snatch", "Snore", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Superpower", "Swagger", "Swift", "Swords Dance", "Taunt", "Thief", "Throat Chop", "Thunder", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Water Pulse", "Will O Wisp", "X Scissor", "Zen Headbutt"]
         }
     },
-    "Mega Absol Mega": {
+    "Mega Absol": {
         "Pokedex": {
             "pokedex_number": "0359",
             "type": "Dark",
@@ -22364,7 +22364,7 @@
             "tm": ["Attract", "Avalanche", "Blizzard", "Body Slam", "Bulldoze", "Captivate", "Chilling Water", "Confide", "Crunch", "Dark Pulse", "Double Team", "Earthquake", "Endure", "Explosion", "Facade", "Fake Tears", "Flash", "Foul Play", "Frost Breath", "Frustration", "Giga Impact", "Gyro Ball", "Hail", "Helping Hand", "Hex", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Fang", "Ice Spinner", "Icicle Spear", "Icy Wind", "Iron Head", "Light Screen", "Natural Gift", "Payback", "Protect", "Rain Dance", "Rest", "Return", "Round", "Safeguard", "Scary Face", "Secret Power", "Self Destruct", "Shadow Ball", "Sleep Talk", "Snore", "Snowscape", "Spikes", "Spite", "Substitute", "Swagger", "Take Down", "Taunt", "Tera Blast", "Torment", "Toxic", "Trailblaze", "Water Pulse", "Weather Ball"]
         }
     },
-    "Mega Glalie Mega": {
+    "Mega Glalie": {
         "Pokedex": {
             "pokedex_number": "0362",
             "type": "Ice",
@@ -22921,7 +22921,7 @@
             "tm": ["Aerial Ace", "Air Slash", "Attract", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Captivate", "Confide", "Crunch", "Cut", "Defog", "Double Edge", "Double Team", "Draco Meteor", "Dragon Cheer", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Dual Wingbeat", "Earthquake", "Endure", "Facade", "Fire Blast", "Fire Fang", "Fire Spin", "Flamethrower", "Fly", "Focus Energy", "Frustration", "Giga Impact", "Heat Wave", "Helping Hand", "Hidden Power", "Hone Claws", "Hurricane", "Hydro Pump", "Hyper Beam", "Hyper Voice", "Incinerate", "Iron Defense", "Iron Head", "Iron Tail", "Mud Slap", "Natural Gift", "Outrage", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Return", "Roar", "Rock Slide", "Rock Smash", "Rock Tomb", "Roost", "Round", "Scary Face", "Secret Power", "Shadow Claw", "Sleep Talk", "Snore", "Steel Wing", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Tailwind", "Take Down", "Temper Flare", "Tera Blast", "Thunder Fang", "Toxic", "Zen Headbutt"]
         }
     },
-    "Mega Salamence Mega": {
+    "Mega Salamence": {
         "Pokedex": {
             "pokedex_number": "0373",
             "type": "Dragon, Flying",
@@ -23090,7 +23090,7 @@
             "tm": ["Aerial Ace", "Agility", "Ally Switch", "Body Press", "Body Slam", "Brick Break", "Brutal Swing", "Bulldoze", "Confide", "Cosmic Power", "Cut", "Double Edge", "Double Team", "Earthquake", "Endure", "Expanding Force", "Explosion", "Facade", "Flash", "Flash Cannon", "Focus Punch", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Gyro Ball", "Hard Press", "Heavy Slam", "Hidden Power", "Hone Claws", "Hyper Beam", "Ice Punch", "Icy Wind", "Iron Defense", "Iron Head", "Knock Off", "Light Screen", "Metal Claw", "Meteor Beam", "Mud Slap", "Natural Gift", "Power Up Punch", "Protect", "Psych Up", "Psychic", "Psychic Fangs", "Psychic Noise", "Psycho Cut", "Psyshock", "Rain Dance", "Reflect", "Rest", "Return", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Secret Power", "Self Destruct", "Shadow Ball", "Shadow Claw", "Sleep Talk", "Sludge Bomb", "Snore", "Stealth Rock", "Steel Beam", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Telekinesis", "Tera Blast", "Thunder Punch", "Toxic", "Trailblaze", "Trick", "Zen Headbutt"]
         }
     },
-    "Mega Metagross Mega": {
+    "Mega Metagross": {
         "Pokedex": {
             "pokedex_number": "0376",
             "type": "Steel, Psychic",
@@ -23316,7 +23316,7 @@
             "tm": ["Aerial Ace", "Agility", "Air Cutter", "Air Slash", "Alluring Voice", "Ally Switch", "Attract", "Aura Sphere", "Baton Pass", "Body Slam", "Breaking Swipe", "Bulldoze", "Calm Mind", "Captivate", "Charge Beam", "Charm", "Chilling Water", "Confide", "Cut", "Defog", "Disarming Voice", "Dive", "Double Edge", "Double Team", "Draco Meteor", "Dragon Cheer", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Draining Kiss", "Dream Eater", "Dual Wingbeat", "Earthquake", "Endure", "Energy Ball", "Facade", "Flash", "Fly", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Helping Hand", "Hidden Power", "Hone Claws", "Hyper Beam", "Ice Beam", "Icy Wind", "Light Screen", "Liquidation", "Magic Room", "Mystical Fire", "Natural Gift", "Outrage", "Protect", "Psych Up", "Psychic", "Psycho Cut", "Psyshock", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Roar", "Roost", "Round", "Safeguard", "Sandstorm", "Scale Shot", "Secret Power", "Shadow Ball", "Shadow Claw", "Shock Wave", "Sleep Talk", "Snore", "Solar Beam", "Steel Wing", "Stored Power", "Substitute", "Sunny Day", "Surf", "Swagger", "Swift", "Tailwind", "Take Down", "Telekinesis", "Tera Blast", "Thunder", "Thunder Wave", "Thunderbolt", "Toxic", "Tri Attack", "Trick", "Water Pulse", "Waterfall", "Weather Ball", "Whirlpool", "Zen Headbutt"]
         }
     },
-    "Mega Latias Mega": {
+    "Mega Latias": {
         "Pokedex": {
             "pokedex_number": "0380",
             "type": "Dragon, Psychic",
@@ -23414,7 +23414,7 @@
             "tm": ["Aerial Ace", "Agility", "Air Cutter", "Air Slash", "Ally Switch", "Attract", "Aura Sphere", "Baton Pass", "Body Slam", "Breaking Swipe", "Bulldoze", "Calm Mind", "Captivate", "Charge Beam", "Chilling Water", "Confide", "Cut", "Defog", "Dive", "Double Edge", "Double Team", "Draco Meteor", "Dragon Cheer", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dream Eater", "Dual Wingbeat", "Earthquake", "Endure", "Energy Ball", "Facade", "Flash", "Flip Turn", "Fly", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Helping Hand", "Hidden Power", "Hone Claws", "Hyper Beam", "Ice Beam", "Icy Wind", "Light Screen", "Liquidation", "Mystical Fire", "Natural Gift", "Outrage", "Protect", "Psych Up", "Psychic", "Psychic Noise", "Psycho Cut", "Psyshock", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Roar", "Roost", "Round", "Safeguard", "Sandstorm", "Scale Shot", "Secret Power", "Shadow Ball", "Shadow Claw", "Shock Wave", "Sleep Talk", "Snore", "Solar Beam", "Steel Wing", "Stored Power", "Substitute", "Sunny Day", "Surf", "Swagger", "Swift", "Tailwind", "Take Down", "Telekinesis", "Tera Blast", "Thunder", "Thunder Wave", "Thunderbolt", "Toxic", "Tri Attack", "Trick", "Water Pulse", "Waterfall", "Weather Ball", "Whirlpool", "Wonder Room", "Zen Headbutt"]
         }
     },
-    "Mega Latios Mega": {
+    "Mega Latios": {
         "Pokedex": {
             "pokedex_number": "0381",
             "type": "Dragon, Psychic",
@@ -23675,7 +23675,7 @@
             "tm": ["Aerial Ace", "Air Slash", "Avalanche", "Blizzard", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulk Up", "Bulldoze", "Confide", "Cosmic Power", "Crunch", "Dive", "Double Edge", "Double Team", "Draco Meteor", "Dragon Cheer", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Earth Power", "Earthquake", "Echoed Voice", "Endure", "Energy Ball", "Facade", "Fire Blast", "Flamethrower", "Fling", "Fly", "Focus Blast", "Frustration", "Giga Impact", "Gyro Ball", "Helping Hand", "Hidden Power", "Hone Claws", "Hurricane", "Hydro Pump", "Hyper Beam", "Hyper Voice", "Ice Beam", "Icy Wind", "Incinerate", "Iron Head", "Iron Tail", "Meteor Beam", "Natural Gift", "Outrage", "Overheat", "Protect", "Psych Up", "Rain Dance", "Rest", "Return", "Roar", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sandstorm", "Scale Shot", "Scary Face", "Secret Power", "Shadow Claw", "Shock Wave", "Sky Drop", "Sleep Talk", "Snore", "Solar Beam", "Stealth Rock", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Surf", "Swagger", "Swift", "Swords Dance", "Tailwind", "Take Down", "Tera Blast", "Thunder", "Thunder Wave", "Thunderbolt", "Toxic", "U Turn", "Uproar", "Water Pulse", "Waterfall", "Whirlpool", "Wild Charge"]
         }
     },
-    "Mega Rayquaza Mega": {
+    "Mega Rayquaza": {
         "Pokedex": {
             "pokedex_number": "0384",
             "type": "Dragon, Flying",
@@ -26093,7 +26093,7 @@
             "tm": ["Acrobatics", "Agility", "Assurance", "Attract", "Aura Sphere", "Baton Pass", "Blizzard", "Bounce", "Brutal Swing", "Captivate", "Charge Beam", "Charm", "Close Combat", "Confide", "Cosmic Power", "Cut", "Dig", "Double Team", "Drain Punch", "Encore", "Endure", "Facade", "Fake Tears", "Fire Punch", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Giga Impact", "Grass Knot", "Helping Hand", "Hidden Power", "Hyper Beam", "Hyper Voice", "Ice Beam", "Ice Punch", "Iron Tail", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Natural Gift", "Payback", "Play Rough", "Power Up Punch", "Protect", "Rain Dance", "Rest", "Retaliate", "Return", "Reversal", "Rock Smash", "Round", "Secret Power", "Shadow Ball", "Shock Wave", "Sleep Talk", "Snore", "Solar Beam", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Toxic", "U Turn", "Uproar", "Water Pulse", "Work Up"]
         }
     },
-    "Mega Lopunny Mega": {
+    "Mega Lopunny": {
         "Pokedex": {
             "pokedex_number": "0428",
             "type": "Normal, Fighting",
@@ -26993,7 +26993,7 @@
             "tm": ["Aerial Ace", "Attract", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Captivate", "Confide", "Crunch", "Cut", "Dig", "Double Edge", "Double Team", "Draco Meteor", "Dragon Cheer", "Dragon Claw", "Dragon Pulse", "Dragon Tail", "Earth Power", "Earthquake", "Endure", "Facade", "False Swipe", "Fire Blast", "Fire Fang", "Flamethrower", "Fling", "Frustration", "Giga Impact", "Helping Hand", "Hidden Power", "Hone Claws", "Hyper Beam", "Incinerate", "Iron Head", "Iron Tail", "Liquidation", "Metal Claw", "Mud Shot", "Natural Gift", "Outrage", "Poison Jab", "Power Gem", "Protect", "Rain Dance", "Rest", "Return", "Roar", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sand Tomb", "Sandstorm", "Scale Shot", "Scary Face", "Scorching Sands", "Secret Power", "Shadow Claw", "Sleep Talk", "Snore", "Spikes", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Surf", "Swagger", "Swift", "Swords Dance", "Take Down", "Tera Blast", "Thunder Fang", "Toxic", "Whirlpool"]
         }
     },
-    "Mega Garchomp Mega": {
+    "Mega Garchomp": {
         "Pokedex": {
             "pokedex_number": "0445",
             "type": "Dragon, Ground",
@@ -27214,7 +27214,7 @@
             "tm": ["Aerial Ace", "Agility", "Attract", "Aura Sphere", "Blaze Kick", "Body Slam", "Brick Break", "Bulk Up", "Bulldoze", "Calm Mind", "Captivate", "Close Combat", "Coaching", "Confide", "Crunch", "Dark Pulse", "Dig", "Double Team", "Dragon Pulse", "Drain Punch", "Earthquake", "Endure", "Facade", "Flash Cannon", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Frustration", "Giga Impact", "Helping Hand", "Hidden Power", "Hone Claws", "Hyper Beam", "Ice Punch", "Iron Defense", "Iron Tail", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Metal Claw", "Metal Sound", "Metronome", "Nasty Plot", "Natural Gift", "Payback", "Poison Jab", "Power Up Punch", "Protect", "Psych Up", "Psychic", "Rain Dance", "Rest", "Retaliate", "Return", "Revenge", "Reversal", "Roar", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Scary Face", "Screech", "Secret Power", "Shadow Ball", "Shadow Claw", "Sleep Talk", "Snore", "Steel Beam", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Take Down", "Tera Blast", "Thunder Punch", "Toxic", "Trailblaze", "Upper Hand", "Vacuum Wave", "Water Pulse", "Work Up", "Zen Headbutt"]
         }
     },
-    "Mega Lucario Mega": {
+    "Mega Lucario": {
         "Pokedex": {
             "pokedex_number": "0448",
             "type": "Fighting, Steel",
@@ -27850,7 +27850,7 @@
             "tm": ["Attract", "Avalanche", "Blizzard", "Body Press", "Body Slam", "Brick Break", "Bulldoze", "Bullet Seed", "Captivate", "Chilling Water", "Confide", "Curse", "Double Edge", "Double Team", "Earth Power", "Earthquake", "Endure", "Energy Ball", "Facade", "Flash", "Fling", "Focus Blast", "Focus Punch", "Frost Breath", "Frustration", "Giga Drain", "Giga Impact", "Grass Knot", "Grassy Glide", "Hail", "Hard Press", "Helping Hand", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Punch", "Ice Spinner", "Icicle Spear", "Icy Wind", "Iron Tail", "Leaf Storm", "Light Screen", "Low Kick", "Magical Leaf", "Mega Kick", "Mega Punch", "Mud Slap", "Natural Gift", "Outrage", "Protect", "Rain Dance", "Rest", "Return", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Scary Face", "Secret Power", "Seed Bomb", "Shadow Ball", "Sleep Talk", "Snore", "Snowscape", "Solar Beam", "Stomping Tantrum", "Strength", "Substitute", "Swagger", "Swords Dance", "Take Down", "Tera Blast", "Toxic", "Trailblaze", "Water Pulse", "Weather Ball"]
         }
     },
-    "Mega Abomasnow Mega": {
+    "Mega Abomasnow": {
         "Pokedex": {
             "pokedex_number": "0460",
             "type": "Grass, Ice",
@@ -28724,7 +28724,7 @@
             "tm": ["Aerial Ace", "Agility", "Air Slash", "Alluring Voice", "Ally Switch", "Attract", "Aura Sphere", "Body Slam", "Brick Break", "Bulk Up", "Bulldoze", "Calm Mind", "Captivate", "Charge Beam", "Charm", "Close Combat", "Coaching", "Confide", "Confuse Ray", "Cut", "Dazzling Gleam", "Disarming Voice", "Double Team", "Drain Punch", "Draining Kiss", "Dream Eater", "Earthquake", "Echoed Voice", "Encore", "Endure", "Energy Ball", "Expanding Force", "Facade", "False Swipe", "Fire Punch", "Flash", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Helping Hand", "Hex", "Hidden Power", "Hyper Beam", "Hyper Voice", "Ice Punch", "Icy Wind", "Imprison", "Knock Off", "Leaf Blade", "Light Screen", "Low Kick", "Low Sweep", "Magic Room", "Magical Leaf", "Mega Kick", "Mega Punch", "Misty Terrain", "Natural Gift", "Night Shade", "Pain Split", "Poison Jab", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Terrain", "Psycho Cut", "Psyshock", "Rain Dance", "Recycle", "Reflect", "Rest", "Retaliate", "Return", "Revenge", "Reversal", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Secret Power", "Shadow Ball", "Shadow Claw", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Solar Blade", "Stone Edge", "Stored Power", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Take Down", "Taunt", "Telekinesis", "Tera Blast", "Thief", "Throat Chop", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trick", "Trick Room", "Triple Axel", "Upper Hand", "Vacuum Wave", "Will O Wisp", "Wonder Room", "Work Up", "X Scissor", "Zen Headbutt"]
         }
     },
-    "Mega Gallade Mega": {
+    "Mega Gallade": {
         "Pokedex": {
             "pokedex_number": "0475",
             "type": "Psychic, Fighting",
@@ -31783,7 +31783,7 @@
             "tm": ["Ally Switch", "Amnesia", "Attract", "Blizzard", "Body Slam", "Calm Mind", "Charge Beam", "Confide", "Dazzling Gleam", "Dig", "Double Team", "Drain Punch", "Draining Kiss", "Dream Eater", "Echoed Voice", "Encore", "Endure", "Facade", "Fire Blast", "Fire Punch", "Flamethrower", "Flash", "Fling", "Frustration", "Giga Impact", "Grass Knot", "Helping Hand", "Hidden Power", "Hyper Beam", "Hyper Voice", "Ice Beam", "Ice Punch", "Icy Wind", "Incinerate", "Iron Tail", "Light Screen", "Low Kick", "Mega Kick", "Mega Punch", "Misty Terrain", "Power Up Punch", "Protect", "Psych Up", "Psychic", "Psyshock", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Round", "Safeguard", "Secret Power", "Shadow Ball", "Skill Swap", "Sleep Talk", "Snore", "Solar Beam", "Stomping Tantrum", "Substitute", "Sunny Day", "Surf", "Swagger", "Telekinesis", "Throat Chop", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Toxic", "Trick Room", "Uproar", "Wild Charge", "Work Up", "Zen Headbutt"]
         }
     },
-    "Mega Audino Mega": {
+    "Mega Audino": {
         "Pokedex": {
             "pokedex_number": "0531",
             "type": "Normal, Fairy",
@@ -42345,7 +42345,7 @@
             "tm": ["Ally Switch", "Amnesia", "Baton Pass", "Body Press", "Body Slam", "Bulldoze", "Calm Mind", "Charm", "Confide", "Dazzling Gleam", "Double Team", "Draining Kiss", "Earth Power", "Encore", "Endeavor", "Endure", "Explosion", "Facade", "Fake Tears", "Flash", "Flash Cannon", "Frustration", "Giga Impact", "Gravity", "Guard Swap", "Gyro Ball", "Hail", "Helping Hand", "Hidden Power", "Hyper Beam", "Iron Defense", "Light Screen", "Meteor Beam", "Metronome", "Misty Explosion", "Mystical Fire", "Nature Power", "Play Rough", "Power Gem", "Protect", "Psych Up", "Psychic", "Psyshock", "Rain Dance", "Reflect", "Rest", "Return", "Rock Polish", "Rock Slide", "Rock Tomb", "Round", "Safeguard", "Sand Tomb", "Sandstorm", "Scorching Sands", "Secret Power", "Skill Swap", "Sleep Talk", "Smack Down", "Snore", "Snowscape", "Spikes", "Stealth Rock", "Stone Edge", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Tera Blast", "Toxic", "Trick Room", "Wonder Room"]
         }
     },
-    "Mega Diancie Mega": {
+    "Mega Diancie": {
         "Pokedex": {
             "pokedex_number": "0719",
             "type": "Rock, Fairy",

@@ -141,7 +141,7 @@
         "Pokedex": {
             "pokedex_number": "0003",
             "type": "Grass, Poison",
-            "description": "'''Gigantamax Venusaur Gmax''' (Japanese: フシギバナ) is a Grass/Poison-type Pokémon introduced in Generation I, which is known as the 'Seed Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
+            "description": "'''Gigantamax Venusaur''' (Japanese: フシギバナ) is a Grass/Poison-type Pokémon introduced in Generation I, which is known as the 'Seed Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
         },
         "Stats": {
             "HP": 80,
@@ -169,7 +169,7 @@
         "Pokedex": {
             "pokedex_number": "0003",
             "type": "Grass, Poison",
-            "description": "'''Mega Venusaur Mega''' (Japanese: フシギバナ) is a Grass/Poison-type Pokémon introduced in Generation I, which is known as the 'Seed Pokémon'. It is standing at 2.4 meters tall and weighing around 155.5 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in grassland, and is often recognized for its impressive resilience in battle."
+            "description": "'''Mega Venusaur''' (Japanese: フシギバナ) is a Grass/Poison-type Pokémon introduced in Generation I, which is known as the 'Seed Pokémon'. It is standing at 2.4 meters tall and weighing around 155.5 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in grassland, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 80,
@@ -363,7 +363,7 @@
         "Pokedex": {
             "pokedex_number": "0006",
             "type": "Fire, Flying",
-            "description": "'''Gigantamax Charizard Gmax''' (Japanese: リザードン) is a Fire/Flying-type Pokémon introduced in Generation I, which is known as the 'Flame Pokémon'. It is standing at 28.0 meters tall and weighing around 1000.0 kilograms, with a red-colored body and a upright appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
+            "description": "'''Gigantamax Charizard''' (Japanese: リザードン) is a Fire/Flying-type Pokémon introduced in Generation I, which is known as the 'Flame Pokémon'. It is standing at 28.0 meters tall and weighing around 1000.0 kilograms, with a red-colored body and a upright appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
         },
         "Stats": {
             "HP": 78,
@@ -634,7 +634,7 @@
         "Pokedex": {
             "pokedex_number": "0009",
             "type": "Water",
-            "description": "'''Gigantamax Blastoise Gmax''' (Japanese: カメックス) is a Water-type Pokémon introduced in Generation I, which is known as the 'Shellfish Pokémon'. It is standing at 25.0 meters tall and weighing around 1000.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
+            "description": "'''Gigantamax Blastoise''' (Japanese: カメックス) is a Water-type Pokémon introduced in Generation I, which is known as the 'Shellfish Pokémon'. It is standing at 25.0 meters tall and weighing around 1000.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
         },
         "Stats": {
             "HP": 79,
@@ -662,7 +662,7 @@
         "Pokedex": {
             "pokedex_number": "0009",
             "type": "Water",
-            "description": "'''Mega Blastoise Mega''' (Japanese: カメックス) is a Water-type Pokémon introduced in Generation I, which is known as the 'Shellfish Pokémon'. It is standing at 1.6 meters tall and weighing around 101.1 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
+            "description": "'''Mega Blastoise''' (Japanese: カメックス) is a Water-type Pokémon introduced in Generation I, which is known as the 'Shellfish Pokémon'. It is standing at 1.6 meters tall and weighing around 101.1 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
         },
         "Stats": {
             "HP": 79,
@@ -819,7 +819,7 @@
         "Pokedex": {
             "pokedex_number": "0012",
             "type": "Bug, Flying",
-            "description": "'''Gigantamax Butterfree Gmax''' (Japanese: バタフリー) is a Bug/Flying-type Pokémon introduced in Generation I, which is known as the 'Butterfly Pokémon'. It is standing at 17.0 meters tall and weighing around 1000.0 kilograms, with a white-colored body and a bug wings appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
+            "description": "'''Gigantamax Butterfree''' (Japanese: バタフリー) is a Bug/Flying-type Pokémon introduced in Generation I, which is known as the 'Butterfly Pokémon'. It is standing at 17.0 meters tall and weighing around 1000.0 kilograms, with a white-colored body and a bug wings appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
         },
         "Stats": {
             "HP": 60,
@@ -958,7 +958,7 @@
         "Pokedex": {
             "pokedex_number": "0015",
             "type": "Bug, Poison",
-            "description": "'''Mega Beedrill Mega''' (Japanese: スピアー) is a Bug/Poison-type Pokémon introduced in Generation I, which is known as the 'Poison Bee Pokémon'. It is standing at 1.4 meters tall and weighing around 40.5 kilograms, with a yellow-colored body and a bug wings appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
+            "description": "'''Mega Beedrill''' (Japanese: スピアー) is a Bug/Poison-type Pokémon introduced in Generation I, which is known as the 'Poison Bee Pokémon'. It is standing at 1.4 meters tall and weighing around 40.5 kilograms, with a yellow-colored body and a bug wings appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
         },
         "Stats": {
             "HP": 65,
@@ -1141,7 +1141,7 @@
         "Pokedex": {
             "pokedex_number": "0018",
             "type": "Normal, Flying",
-            "description": "'''Mega Pidgeot Mega''' (Japanese: ピジョット) is a Normal/Flying-type Pokémon introduced in Generation I, which is known as the 'Bird Pokémon'. It is standing at 2.2 meters tall and weighing around 50.5 kilograms, with a brown-colored body and a wings appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
+            "description": "'''Mega Pidgeot''' (Japanese: ピジョット) is a Normal/Flying-type Pokémon introduced in Generation I, which is known as the 'Bird Pokémon'. It is standing at 2.2 meters tall and weighing around 50.5 kilograms, with a brown-colored body and a wings appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
         },
         "Stats": {
             "HP": 83,
@@ -1896,7 +1896,7 @@
         "Pokedex": {
             "pokedex_number": "0025",
             "type": "Electric",
-            "description": "'''Gigantamax Pikachu Gmax''' (Japanese: ピカチュウ) is a Electric-type Pokémon introduced in Generation I, which is known as the 'Mouse Pokémon'. It is standing at 21.0 meters tall and weighing around 1000.0 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in forest, and is often recognized for its incredible swiftness."
+            "description": "'''Gigantamax Pikachu''' (Japanese: ピカチュウ) is a Electric-type Pokémon introduced in Generation I, which is known as the 'Mouse Pokémon'. It is standing at 21.0 meters tall and weighing around 1000.0 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in forest, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 35,
@@ -3751,7 +3751,7 @@
         "Pokedex": {
             "pokedex_number": "0052",
             "type": "Normal",
-            "description": "'''Gigantamax Meowth Gmax''' (Japanese: ニャース) is a Normal-type Pokémon introduced in Generation I, which is known as the 'Scratch Cat Pokémon'. It is standing at 33.0 meters tall and weighing around 1000.0 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in urban, and is often recognized for its incredible swiftness."
+            "description": "'''Gigantamax Meowth''' (Japanese: ニャース) is a Normal-type Pokémon introduced in Generation I, which is known as the 'Scratch Cat Pokémon'. It is standing at 33.0 meters tall and weighing around 1000.0 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in urban, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 40,
@@ -4585,7 +4585,7 @@
         "Pokedex": {
             "pokedex_number": "0065",
             "type": "Psychic",
-            "description": "'''Mega Alakazam Mega''' (Japanese: フーディン) is a Psychic-type Pokémon introduced in Generation I, which is known as the 'Psi Pokémon'. It is standing at 1.2 meters tall and weighing around 48.0 kilograms, with a brown-colored body and a humanoid appearance. This Pokémon is commonly found in urban, and is often recognized for its adaptability in urban environments."
+            "description": "'''Mega Alakazam''' (Japanese: フーディン) is a Psychic-type Pokémon introduced in Generation I, which is known as the 'Psi Pokémon'. It is standing at 1.2 meters tall and weighing around 48.0 kilograms, with a brown-colored body and a humanoid appearance. This Pokémon is commonly found in urban, and is often recognized for its adaptability in urban environments."
         },
         "Stats": {
             "HP": 55,
@@ -4811,7 +4811,7 @@
         "Pokedex": {
             "pokedex_number": "0068",
             "type": "Fighting",
-            "description": "'''Gigantamax Machamp Gmax''' (Japanese: カイリキー) is a Fighting-type Pokémon introduced in Generation I, which is known as the 'Superpower Pokémon'. It is standing at 25.0 meters tall and weighing around 1000.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
+            "description": "'''Gigantamax Machamp''' (Japanese: カイリキー) is a Fighting-type Pokémon introduced in Generation I, which is known as the 'Superpower Pokémon'. It is standing at 25.0 meters tall and weighing around 1000.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
         },
         "Stats": {
             "HP": 90,
@@ -5789,7 +5789,7 @@
         "Pokedex": {
             "pokedex_number": "0080",
             "type": "Water, Psychic",
-            "description": "'''Mega Slowbro Mega''' (Japanese: ヤドラン) is a Water/Psychic-type Pokémon introduced in Generation I, which is known as the 'Hermit Crab Pokémon'. It is standing at 2.0 meters tall and weighing around 120.0 kilograms, with a pink-colored body and a upright appearance. This Pokémon is commonly found in waters edge, and is often recognized for its impressive resilience in battle."
+            "description": "'''Mega Slowbro''' (Japanese: ヤドラン) is a Water/Psychic-type Pokémon introduced in Generation I, which is known as the 'Hermit Crab Pokémon'. It is standing at 2.0 meters tall and weighing around 120.0 kilograms, with a pink-colored body and a upright appearance. This Pokémon is commonly found in waters edge, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 95,
@@ -6701,7 +6701,7 @@
         "Pokedex": {
             "pokedex_number": "0094",
             "type": "Ghost, Poison",
-            "description": "'''Gigantamax Gengar Gmax''' (Japanese: ゲンガー) is a Ghost/Poison-type Pokémon introduced in Generation I, which is known as the 'Shadow Pokémon'. It is standing at 20.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in cave, and is often recognized for its adaptability in cave environments."
+            "description": "'''Gigantamax Gengar''' (Japanese: ゲンガー) is a Ghost/Poison-type Pokémon introduced in Generation I, which is known as the 'Shadow Pokémon'. It is standing at 20.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in cave, and is often recognized for its adaptability in cave environments."
         },
         "Stats": {
             "HP": 60,
@@ -6728,7 +6728,7 @@
         "Pokedex": {
             "pokedex_number": "0094",
             "type": "Ghost, Poison",
-            "description": "'''Mega Gengar Mega''' (Japanese: ゲンガー) is a Ghost/Poison-type Pokémon introduced in Generation I, which is known as the 'Shadow Pokémon'. It is standing at 1.4 meters tall and weighing around 40.5 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in cave, and is often recognized for its adaptability in cave environments."
+            "description": "'''Mega Gengar''' (Japanese: ゲンガー) is a Ghost/Poison-type Pokémon introduced in Generation I, which is known as the 'Shadow Pokémon'. It is standing at 1.4 meters tall and weighing around 40.5 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in cave, and is often recognized for its adaptability in cave environments."
         },
         "Stats": {
             "HP": 60,
@@ -7035,7 +7035,7 @@
         "Pokedex": {
             "pokedex_number": "0099",
             "type": "Water",
-            "description": "'''Gigantamax Kingler Gmax''' (Japanese: キングラー) is a Water-type Pokémon introduced in Generation I, which is known as the 'Pincer Pokémon'. It is standing at 19.0 meters tall and weighing around 1000.0 kilograms, with a red-colored body and a armor appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
+            "description": "'''Gigantamax Kingler''' (Japanese: キングラー) is a Water-type Pokémon introduced in Generation I, which is known as the 'Pincer Pokémon'. It is standing at 19.0 meters tall and weighing around 1000.0 kilograms, with a red-colored body and a armor appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
         },
         "Stats": {
             "HP": 55,
@@ -8166,7 +8166,7 @@
         "Pokedex": {
             "pokedex_number": "0115",
             "type": "Normal",
-            "description": "'''Mega Kangaskhan Mega''' (Japanese: ガルーラ) is a Normal-type Pokémon introduced in Generation I, which is known as the 'Parent Pokémon'. It is standing at 2.2 meters tall and weighing around 100.0 kilograms, with a brown-colored body and a upright appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
+            "description": "'''Mega Kangaskhan''' (Japanese: ガルーラ) is a Normal-type Pokémon introduced in Generation I, which is known as the 'Parent Pokémon'. It is standing at 2.2 meters tall and weighing around 100.0 kilograms, with a brown-colored body and a upright appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
         },
         "Stats": {
             "HP": 105,
@@ -8867,7 +8867,7 @@
         "Pokedex": {
             "pokedex_number": "0127",
             "type": "Bug, Flying",
-            "description": "'''Mega Pinsir Mega''' (Japanese: カイロス) is a Bug/Flying-type Pokémon introduced in Generation I, which is known as the 'Stag Beetle Pokémon'. It is standing at 1.7 meters tall and weighing around 59.0 kilograms, with a brown-colored body and a humanoid appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
+            "description": "'''Mega Pinsir''' (Japanese: カイロス) is a Bug/Flying-type Pokémon introduced in Generation I, which is known as the 'Stag Beetle Pokémon'. It is standing at 1.7 meters tall and weighing around 59.0 kilograms, with a brown-colored body and a humanoid appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
         },
         "Stats": {
             "HP": 65,
@@ -9181,7 +9181,7 @@
         "Pokedex": {
             "pokedex_number": "0130",
             "type": "Water, Dark",
-            "description": "'''Mega Gyarados Mega''' (Japanese: ギャラドス) is a Water/Dark-type Pokémon introduced in Generation I, which is known as the 'Atrocious Pokémon'. It is standing at 6.5 meters tall and weighing around 305.0 kilograms, with a blue-colored body and a squiggle appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
+            "description": "'''Mega Gyarados''' (Japanese: ギャラドス) is a Water/Dark-type Pokémon introduced in Generation I, which is known as the 'Atrocious Pokémon'. It is standing at 6.5 meters tall and weighing around 305.0 kilograms, with a blue-colored body and a squiggle appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
         },
         "Stats": {
             "HP": 95,
@@ -9277,7 +9277,7 @@
         "Pokedex": {
             "pokedex_number": "0131",
             "type": "Water, Ice",
-            "description": "'''Gigantamax Lapras Gmax''' (Japanese: ラプラス) is a Water/Ice-type Pokémon introduced in Generation I, which is known as the 'Transport Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in sea, and is often recognized for its adaptability in sea environments."
+            "description": "'''Gigantamax Lapras''' (Japanese: ラプラス) is a Water/Ice-type Pokémon introduced in Generation I, which is known as the 'Transport Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in sea, and is often recognized for its adaptability in sea environments."
         },
         "Stats": {
             "HP": 130,
@@ -9429,7 +9429,7 @@
         "Pokedex": {
             "pokedex_number": "0133",
             "type": "Normal",
-            "description": "'''Gigantamax Eevee Gmax''' (Japanese: イーブイ) is a Normal-type Pokémon introduced in Generation I, which is known as the 'Evolution Pokémon'. It is standing at 18.0 meters tall and weighing around 1000.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in urban, and is often recognized for its adaptability in urban environments."
+            "description": "'''Gigantamax Eevee''' (Japanese: イーブイ) is a Normal-type Pokémon introduced in Generation I, which is known as the 'Evolution Pokémon'. It is standing at 18.0 meters tall and weighing around 1000.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in urban, and is often recognized for its adaptability in urban environments."
         },
         "Stats": {
             "HP": 55,
@@ -9951,7 +9951,7 @@
         "Pokedex": {
             "pokedex_number": "0142",
             "type": "Rock, Flying",
-            "description": "'''Mega Aerodactyl Mega''' (Japanese: プテラ) is a Rock/Flying-type Pokémon introduced in Generation I, which is known as the 'Fossil Pokémon'. It is standing at 2.1 meters tall and weighing around 79.0 kilograms, with a purple-colored body and a wings appearance. This Pokémon is commonly found in mountain, and is often recognized for its incredible swiftness."
+            "description": "'''Mega Aerodactyl''' (Japanese: プテラ) is a Rock/Flying-type Pokémon introduced in Generation I, which is known as the 'Fossil Pokémon'. It is standing at 2.1 meters tall and weighing around 79.0 kilograms, with a purple-colored body and a wings appearance. This Pokémon is commonly found in mountain, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 80,
@@ -10064,7 +10064,7 @@
         "Pokedex": {
             "pokedex_number": "0143",
             "type": "Normal",
-            "description": "'''Gigantamax Snorlax Gmax''' (Japanese: カビゴン) is a Normal-type Pokémon introduced in Generation I, which is known as the 'Sleeping Pokémon'. It is standing at 35.0 meters tall and weighing around 1000.0 kilograms, with a black-colored body and a humanoid appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
+            "description": "'''Gigantamax Snorlax''' (Japanese: カビゴン) is a Normal-type Pokémon introduced in Generation I, which is known as the 'Sleeping Pokémon'. It is standing at 35.0 meters tall and weighing around 1000.0 kilograms, with a black-colored body and a humanoid appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
         },
         "Stats": {
             "HP": 160,
@@ -12211,7 +12211,7 @@
         "Pokedex": {
             "pokedex_number": "0181",
             "type": "Electric, Dragon",
-            "description": "'''Mega Ampharos Mega''' (Japanese: デンリュウ) is a Electric/Dragon-type Pokémon introduced in Generation II, which is known as the 'Light Pokémon'. It is standing at 1.4 meters tall and weighing around 61.5 kilograms, with a yellow-colored body and a upright appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
+            "description": "'''Mega Ampharos''' (Japanese: デンリュウ) is a Electric/Dragon-type Pokémon introduced in Generation II, which is known as the 'Light Pokémon'. It is standing at 1.4 meters tall and weighing around 61.5 kilograms, with a yellow-colored body and a upright appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
         },
         "Stats": {
             "HP": 90,
@@ -13685,7 +13685,7 @@
         "Pokedex": {
             "pokedex_number": "0208",
             "type": "Steel, Ground",
-            "description": "'''Mega Steelix Mega''' (Japanese: ハガネール) is a Steel/Ground-type Pokémon introduced in Generation II, which is known as the 'Iron Snake Pokémon'. It is standing at 10.5 meters tall and weighing around 740.0 kilograms, with a gray-colored body and a squiggle appearance. This Pokémon is commonly found in cave, and is often recognized for its impressive resilience in battle."
+            "description": "'''Mega Steelix''' (Japanese: ハガネール) is a Steel/Ground-type Pokémon introduced in Generation II, which is known as the 'Iron Snake Pokémon'. It is standing at 10.5 meters tall and weighing around 740.0 kilograms, with a gray-colored body and a squiggle appearance. This Pokémon is commonly found in cave, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 75,
@@ -13997,7 +13997,7 @@
         "Pokedex": {
             "pokedex_number": "0212",
             "type": "Bug, Steel",
-            "description": "'''Mega Scizor Mega''' (Japanese: ハッサム) is a Bug/Steel-type Pokémon introduced in Generation II, which is known as the 'Pincer Pokémon'. It is standing at 2.0 meters tall and weighing around 125.0 kilograms, with a red-colored body and a bug wings appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
+            "description": "'''Mega Scizor''' (Japanese: ハッサム) is a Bug/Steel-type Pokémon introduced in Generation II, which is known as the 'Pincer Pokémon'. It is standing at 2.0 meters tall and weighing around 125.0 kilograms, with a red-colored body and a bug wings appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
         },
         "Stats": {
             "HP": 70,
@@ -14146,7 +14146,7 @@
         "Pokedex": {
             "pokedex_number": "0214",
             "type": "Bug, Fighting",
-            "description": "'''Mega Heracross Mega''' (Japanese: ヘラクロス) is a Bug/Fighting-type Pokémon introduced in Generation II, which is known as the 'Single Horn Pokémon'. It is standing at 1.7 meters tall and weighing around 62.5 kilograms, with a blue-colored body and a humanoid appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
+            "description": "'''Mega Heracross''' (Japanese: ヘラクロス) is a Bug/Fighting-type Pokémon introduced in Generation II, which is known as the 'Single Horn Pokémon'. It is standing at 1.7 meters tall and weighing around 62.5 kilograms, with a blue-colored body and a humanoid appearance. This Pokémon is commonly found in forest, and is often recognized for its adaptability in forest environments."
         },
         "Stats": {
             "HP": 80,
@@ -15023,7 +15023,7 @@
         "Pokedex": {
             "pokedex_number": "0229",
             "type": "Dark, Fire",
-            "description": "'''Mega Houndoom Mega''' (Japanese: ヘルガー) is a Dark/Fire-type Pokémon introduced in Generation II, which is known as the 'Dark Pokémon'. It is standing at 1.9 meters tall and weighing around 49.5 kilograms, with a black-colored body and a quadruped appearance. This Pokémon is commonly found in rough terrain, and is often recognized for its adaptability in rough terrain environments."
+            "description": "'''Mega Houndoom''' (Japanese: ヘルガー) is a Dark/Fire-type Pokémon introduced in Generation II, which is known as the 'Dark Pokémon'. It is standing at 1.9 meters tall and weighing around 49.5 kilograms, with a black-colored body and a quadruped appearance. This Pokémon is commonly found in rough terrain, and is often recognized for its adaptability in rough terrain environments."
         },
         "Stats": {
             "HP": 75,
@@ -15971,7 +15971,7 @@
         "Pokedex": {
             "pokedex_number": "0248",
             "type": "Rock, Dark",
-            "description": "'''Mega Tyranitar Mega''' (Japanese: バンギラス) is a Rock/Dark-type Pokémon introduced in Generation II, which is known as the 'Armor Pokémon'. It is standing at 2.5 meters tall and weighing around 255.0 kilograms, with a green-colored body and a upright appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
+            "description": "'''Mega Tyranitar''' (Japanese: バンギラス) is a Rock/Dark-type Pokémon introduced in Generation II, which is known as the 'Armor Pokémon'. It is standing at 2.5 meters tall and weighing around 255.0 kilograms, with a green-colored body and a upright appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
         },
         "Stats": {
             "HP": 100,
@@ -16307,7 +16307,7 @@
         "Pokedex": {
             "pokedex_number": "0254",
             "type": "Grass, Dragon",
-            "description": "'''Mega Sceptile Mega''' (Japanese: ジュカイン) is a Grass/Dragon-type Pokémon introduced in Generation III, which is known as the 'Forest Pokémon'. It is standing at 1.9 meters tall and weighing around 55.2 kilograms, with a green-colored body and a upright appearance. This Pokémon is commonly found in forest, and is often recognized for its incredible swiftness."
+            "description": "'''Mega Sceptile''' (Japanese: ジュカイン) is a Grass/Dragon-type Pokémon introduced in Generation III, which is known as the 'Forest Pokémon'. It is standing at 1.9 meters tall and weighing around 55.2 kilograms, with a green-colored body and a upright appearance. This Pokémon is commonly found in forest, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 70,
@@ -16505,7 +16505,7 @@
         "Pokedex": {
             "pokedex_number": "0257",
             "type": "Fire, Fighting",
-            "description": "'''Mega Blaziken Mega''' (Japanese: バシャーモ) is a Fire/Fighting-type Pokémon introduced in Generation III, which is known as the 'Blaze Pokémon'. It is standing at 1.9 meters tall and weighing around 52.0 kilograms, with a red-colored body and a upright appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
+            "description": "'''Mega Blaziken''' (Japanese: バシャーモ) is a Fire/Fighting-type Pokémon introduced in Generation III, which is known as the 'Blaze Pokémon'. It is standing at 1.9 meters tall and weighing around 52.0 kilograms, with a red-colored body and a upright appearance. This Pokémon is commonly found in grassland, and is often recognized for its adaptability in grassland environments."
         },
         "Stats": {
             "HP": 80,
@@ -16704,7 +16704,7 @@
         "Pokedex": {
             "pokedex_number": "0260",
             "type": "Water, Ground",
-            "description": "'''Mega Swampert Mega''' (Japanese: ラグラージ) is a Water/Ground-type Pokémon introduced in Generation III, which is known as the 'Mud Fish Pokémon'. It is standing at 1.9 meters tall and weighing around 102.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
+            "description": "'''Mega Swampert''' (Japanese: ラグラージ) is a Water/Ground-type Pokémon introduced in Generation III, which is known as the 'Mud Fish Pokémon'. It is standing at 1.9 meters tall and weighing around 102.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in waters edge, and is often recognized for its adaptability in waters edge environments."
         },
         "Stats": {
             "HP": 100,
@@ -17880,7 +17880,7 @@
         "Pokedex": {
             "pokedex_number": "0282",
             "type": "Psychic, Fairy",
-            "description": "'''Mega Gardevoir Mega''' (Japanese: サーナイト) is a Psychic/Fairy-type Pokémon introduced in Generation III, which is known as the 'Embrace Pokémon'. It is standing at 1.6 meters tall and weighing around 48.4 kilograms, with a white-colored body and a humanoid appearance. This Pokémon is commonly found in urban, and is often recognized for its adaptability in urban environments."
+            "description": "'''Mega Gardevoir''' (Japanese: サーナイト) is a Psychic/Fairy-type Pokémon introduced in Generation III, which is known as the 'Embrace Pokémon'. It is standing at 1.6 meters tall and weighing around 48.4 kilograms, with a white-colored body and a humanoid appearance. This Pokémon is commonly found in urban, and is often recognized for its adaptability in urban environments."
         },
         "Stats": {
             "HP": 68,
@@ -18878,7 +18878,7 @@
         "Pokedex": {
             "pokedex_number": "0302",
             "type": "Dark, Ghost",
-            "description": "'''Mega Sableye Mega''' (Japanese: ヤミラミ) is a Dark/Ghost-type Pokémon introduced in Generation III, which is known as the 'Darkness Pokémon'. It is standing at 0.5 meters tall and weighing around 161.0 kilograms, with a purple-colored body and a humanoid appearance. This Pokémon is commonly found in cave, and is often recognized for its impressive resilience in battle."
+            "description": "'''Mega Sableye''' (Japanese: ヤミラミ) is a Dark/Ghost-type Pokémon introduced in Generation III, which is known as the 'Darkness Pokémon'. It is standing at 0.5 meters tall and weighing around 161.0 kilograms, with a purple-colored body and a humanoid appearance. This Pokémon is commonly found in cave, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 50,
@@ -18974,7 +18974,7 @@
         "Pokedex": {
             "pokedex_number": "0303",
             "type": "Steel, Fairy",
-            "description": "'''Mega Mawile Mega''' (Japanese: クチート) is a Steel/Fairy-type Pokémon introduced in Generation III, which is known as the 'Deceiver Pokémon'. It is standing at 1.0 meters tall and weighing around 23.5 kilograms, with a black-colored body and a humanoid appearance. This Pokémon is commonly found in cave, and is often recognized for its impressive resilience in battle."
+            "description": "'''Mega Mawile''' (Japanese: クチート) is a Steel/Fairy-type Pokémon introduced in Generation III, which is known as the 'Deceiver Pokémon'. It is standing at 1.0 meters tall and weighing around 23.5 kilograms, with a black-colored body and a humanoid appearance. This Pokémon is commonly found in cave, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 50,
@@ -19164,7 +19164,7 @@
         "Pokedex": {
             "pokedex_number": "0306",
             "type": "Steel",
-            "description": "'''Mega Aggron Mega''' (Japanese: ボスゴドラ) is a Steel-type Pokémon introduced in Generation III, which is known as the 'Iron Armor Pokémon'. It is standing at 2.2 meters tall and weighing around 395.0 kilograms, with a gray-colored body and a upright appearance. This Pokémon is commonly found in mountain, and is often recognized for its impressive resilience in battle."
+            "description": "'''Mega Aggron''' (Japanese: ボスゴドラ) is a Steel-type Pokémon introduced in Generation III, which is known as the 'Iron Armor Pokémon'. It is standing at 2.2 meters tall and weighing around 395.0 kilograms, with a gray-colored body and a upright appearance. This Pokémon is commonly found in mountain, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 70,
@@ -19318,7 +19318,7 @@
         "Pokedex": {
             "pokedex_number": "0308",
             "type": "Fighting, Psychic",
-            "description": "'''Mega Medicham Mega''' (Japanese: チャーレム) is a Fighting/Psychic-type Pokémon introduced in Generation III, which is known as the 'Meditate Pokémon'. It is standing at 1.3 meters tall and weighing around 31.5 kilograms, with a red-colored body and a humanoid appearance. This Pokémon is commonly found in mountain, and is often recognized for its incredible swiftness."
+            "description": "'''Mega Medicham''' (Japanese: チャーレム) is a Fighting/Psychic-type Pokémon introduced in Generation III, which is known as the 'Meditate Pokémon'. It is standing at 1.3 meters tall and weighing around 31.5 kilograms, with a red-colored body and a humanoid appearance. This Pokémon is commonly found in mountain, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 60,
@@ -19459,7 +19459,7 @@
         "Pokedex": {
             "pokedex_number": "0310",
             "type": "Electric",
-            "description": "'''Mega Manectric Mega''' (Japanese: ライボルト) is a Electric-type Pokémon introduced in Generation III, which is known as the 'Discharge Pokémon'. It is standing at 1.8 meters tall and weighing around 44.0 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in grassland, and is often recognized for its incredible swiftness."
+            "description": "'''Mega Manectric''' (Japanese: ライボルト) is a Electric-type Pokémon introduced in Generation III, which is known as the 'Discharge Pokémon'. It is standing at 1.8 meters tall and weighing around 44.0 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in grassland, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 70,
@@ -19943,7 +19943,7 @@
         "Pokedex": {
             "pokedex_number": "0319",
             "type": "Water, Dark",
-            "description": "'''Mega Sharpedo Mega''' (Japanese: サメハダー) is a Water/Dark-type Pokémon introduced in Generation III, which is known as the 'Brutal Pokémon'. It is standing at 2.5 meters tall and weighing around 130.3 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in sea, and is often recognized for its adaptability in sea environments."
+            "description": "'''Mega Sharpedo''' (Japanese: サメハダー) is a Water/Dark-type Pokémon introduced in Generation III, which is known as the 'Brutal Pokémon'. It is standing at 2.5 meters tall and weighing around 130.3 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in sea, and is often recognized for its adaptability in sea environments."
         },
         "Stats": {
             "HP": 70,
@@ -20184,7 +20184,7 @@
         "Pokedex": {
             "pokedex_number": "0323",
             "type": "Fire, Ground",
-            "description": "'''Mega Camerupt Mega''' (Japanese: バクーダ) is a Fire/Ground-type Pokémon introduced in Generation III, which is known as the 'Eruption Pokémon'. It is standing at 2.5 meters tall and weighing around 320.5 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
+            "description": "'''Mega Camerupt''' (Japanese: バクーダ) is a Fire/Ground-type Pokémon introduced in Generation III, which is known as the 'Eruption Pokémon'. It is standing at 2.5 meters tall and weighing around 320.5 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
         },
         "Stats": {
             "HP": 70,
@@ -20780,7 +20780,7 @@
         "Pokedex": {
             "pokedex_number": "0334",
             "type": "Dragon, Fairy",
-            "description": "'''Mega Altaria Mega''' (Japanese: チルタリス) is a Dragon/Fairy-type Pokémon introduced in Generation III, which is known as the 'Humming Pokémon'. It is standing at 1.5 meters tall and weighing around 20.6 kilograms, with a blue-colored body and a wings appearance. This Pokémon is commonly found in forest, and is often recognized for its impressive resilience in battle."
+            "description": "'''Mega Altaria''' (Japanese: チルタリス) is a Dragon/Fairy-type Pokémon introduced in Generation III, which is known as the 'Humming Pokémon'. It is standing at 1.5 meters tall and weighing around 20.6 kilograms, with a blue-colored body and a wings appearance. This Pokémon is commonly found in forest, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 75,
@@ -21888,7 +21888,7 @@
         "Pokedex": {
             "pokedex_number": "0354",
             "type": "Ghost",
-            "description": "'''Mega Banette Mega''' (Japanese: ジュペッタ) is a Ghost-type Pokémon introduced in Generation III, which is known as the 'Marionette Pokémon'. It is standing at 1.2 meters tall and weighing around 13.0 kilograms, with a black-colored body and a upright appearance. This Pokémon is commonly found in urban, and is often recognized for its adaptability in urban environments."
+            "description": "'''Mega Banette''' (Japanese: ジュペッタ) is a Ghost-type Pokémon introduced in Generation III, which is known as the 'Marionette Pokémon'. It is standing at 1.2 meters tall and weighing around 13.0 kilograms, with a black-colored body and a upright appearance. This Pokémon is commonly found in urban, and is often recognized for its adaptability in urban environments."
         },
         "Stats": {
             "HP": 64,
@@ -22186,7 +22186,7 @@
         "Pokedex": {
             "pokedex_number": "0359",
             "type": "Dark",
-            "description": "'''Mega Absol Mega''' (Japanese: アブソル) is a Dark-type Pokémon introduced in Generation III, which is known as the 'Disaster Pokémon'. It is standing at 1.2 meters tall and weighing around 49.0 kilograms, with a white-colored body and a quadruped appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
+            "description": "'''Mega Absol''' (Japanese: アブソル) is a Dark-type Pokémon introduced in Generation III, which is known as the 'Disaster Pokémon'. It is standing at 1.2 meters tall and weighing around 49.0 kilograms, with a white-colored body and a quadruped appearance. This Pokémon is commonly found in mountain, and is often recognized for its adaptability in mountain environments."
         },
         "Stats": {
             "HP": 65,
@@ -22368,7 +22368,7 @@
         "Pokedex": {
             "pokedex_number": "0362",
             "type": "Ice",
-            "description": "'''Mega Glalie Mega''' (Japanese: オニゴーリ) is a Ice-type Pokémon introduced in Generation III, which is known as the 'Face Pokémon'. It is standing at 2.1 meters tall and weighing around 350.2 kilograms, with a gray-colored body and a ball appearance. This Pokémon is commonly found in cave, and is often recognized for its adaptability in cave environments."
+            "description": "'''Mega Glalie''' (Japanese: オニゴーリ) is a Ice-type Pokémon introduced in Generation III, which is known as the 'Face Pokémon'. It is standing at 2.1 meters tall and weighing around 350.2 kilograms, with a gray-colored body and a ball appearance. This Pokémon is commonly found in cave, and is often recognized for its adaptability in cave environments."
         },
         "Stats": {
             "HP": 80,
@@ -22925,7 +22925,7 @@
         "Pokedex": {
             "pokedex_number": "0373",
             "type": "Dragon, Flying",
-            "description": "'''Mega Salamence Mega''' (Japanese: ボーマンダ) is a Dragon/Flying-type Pokémon introduced in Generation III, which is known as the 'Dragon Pokémon'. It is standing at 1.8 meters tall and weighing around 112.6 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in rough terrain, and is often recognized for its adaptability in rough terrain environments."
+            "description": "'''Mega Salamence''' (Japanese: ボーマンダ) is a Dragon/Flying-type Pokémon introduced in Generation III, which is known as the 'Dragon Pokémon'. It is standing at 1.8 meters tall and weighing around 112.6 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in rough terrain, and is often recognized for its adaptability in rough terrain environments."
         },
         "Stats": {
             "HP": 95,
@@ -23094,7 +23094,7 @@
         "Pokedex": {
             "pokedex_number": "0376",
             "type": "Steel, Psychic",
-            "description": "'''Mega Metagross Mega''' (Japanese: メタグロス) is a Steel/Psychic-type Pokémon introduced in Generation III, which is known as the 'Iron Leg Pokémon'. It is standing at 2.5 meters tall and weighing around 942.9 kilograms, with a blue-colored body and a heads appearance. This Pokémon is commonly found in rough terrain, and is often recognized for its impressive resilience in battle."
+            "description": "'''Mega Metagross''' (Japanese: メタグロス) is a Steel/Psychic-type Pokémon introduced in Generation III, which is known as the 'Iron Leg Pokémon'. It is standing at 2.5 meters tall and weighing around 942.9 kilograms, with a blue-colored body and a heads appearance. This Pokémon is commonly found in rough terrain, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 80,
@@ -23320,7 +23320,7 @@
         "Pokedex": {
             "pokedex_number": "0380",
             "type": "Dragon, Psychic",
-            "description": "'''Mega Latias Mega''' (Japanese: ラティアス) is a Dragon/Psychic-type Pokémon introduced in Generation III, which is known as the 'Eon Pokémon'. It is standing at 1.8 meters tall and weighing around 52.0 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in waters edge, and is often recognized for its ability to float effortlessly."
+            "description": "'''Mega Latias''' (Japanese: ラティアス) is a Dragon/Psychic-type Pokémon introduced in Generation III, which is known as the 'Eon Pokémon'. It is standing at 1.8 meters tall and weighing around 52.0 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in waters edge, and is often recognized for its ability to float effortlessly."
         },
         "Stats": {
             "HP": 80,
@@ -23418,7 +23418,7 @@
         "Pokedex": {
             "pokedex_number": "0381",
             "type": "Dragon, Psychic",
-            "description": "'''Mega Latios Mega''' (Japanese: ラティオス) is a Dragon/Psychic-type Pokémon introduced in Generation III, which is known as the 'Eon Pokémon'. It is standing at 2.3 meters tall and weighing around 70.0 kilograms, with a blue-colored body and a wings appearance. This Pokémon is commonly found in waters edge, and is often recognized for its ability to float effortlessly."
+            "description": "'''Mega Latios''' (Japanese: ラティオス) is a Dragon/Psychic-type Pokémon introduced in Generation III, which is known as the 'Eon Pokémon'. It is standing at 2.3 meters tall and weighing around 70.0 kilograms, with a blue-colored body and a wings appearance. This Pokémon is commonly found in waters edge, and is often recognized for its ability to float effortlessly."
         },
         "Stats": {
             "HP": 80,
@@ -23679,7 +23679,7 @@
         "Pokedex": {
             "pokedex_number": "0384",
             "type": "Dragon, Flying",
-            "description": "'''Mega Rayquaza Mega''' (Japanese: レックウザ) is a Dragon/Flying-type Pokémon introduced in Generation III, which is known as the 'Sky High Pokémon'. It is standing at 10.8 meters tall and weighing around 392.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in rare, and is often recognized for its adaptability in rare environments."
+            "description": "'''Mega Rayquaza''' (Japanese: レックウザ) is a Dragon/Flying-type Pokémon introduced in Generation III, which is known as the 'Sky High Pokémon'. It is standing at 10.8 meters tall and weighing around 392.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in rare, and is often recognized for its adaptability in rare environments."
         },
         "Stats": {
             "HP": 105,
@@ -26097,7 +26097,7 @@
         "Pokedex": {
             "pokedex_number": "0428",
             "type": "Normal, Fighting",
-            "description": "'''Mega Lopunny Mega''' (Japanese: ミミロップ) is a Normal/Fighting-type Pokémon introduced in Generation IV, which is known as the 'Rabbit Pokémon'. It is standing at 1.3 meters tall and weighing around 28.3 kilograms, with a brown-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Mega Lopunny''' (Japanese: ミミロップ) is a Normal/Fighting-type Pokémon introduced in Generation IV, which is known as the 'Rabbit Pokémon'. It is standing at 1.3 meters tall and weighing around 28.3 kilograms, with a brown-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 65,
@@ -26997,7 +26997,7 @@
         "Pokedex": {
             "pokedex_number": "0445",
             "type": "Dragon, Ground",
-            "description": "'''Mega Garchomp Mega''' (Japanese: ガブリアス) is a Dragon/Ground-type Pokémon introduced in Generation IV, which is known as the 'Mach Pokémon'. It is standing at 1.9 meters tall and weighing around 95.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Mega Garchomp''' (Japanese: ガブリアス) is a Dragon/Ground-type Pokémon introduced in Generation IV, which is known as the 'Mach Pokémon'. It is standing at 1.9 meters tall and weighing around 95.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 108,
@@ -27218,7 +27218,7 @@
         "Pokedex": {
             "pokedex_number": "0448",
             "type": "Fighting, Steel",
-            "description": "'''Mega Lucario Mega''' (Japanese: ルカリオ) is a Fighting/Steel-type Pokémon introduced in Generation IV, which is known as the 'Aura Pokémon'. It is standing at 1.3 meters tall and weighing around 57.5 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Mega Lucario''' (Japanese: ルカリオ) is a Fighting/Steel-type Pokémon introduced in Generation IV, which is known as the 'Aura Pokémon'. It is standing at 1.3 meters tall and weighing around 57.5 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 70,
@@ -27854,7 +27854,7 @@
         "Pokedex": {
             "pokedex_number": "0460",
             "type": "Grass, Ice",
-            "description": "'''Mega Abomasnow Mega''' (Japanese: ユキノオー) is a Grass/Ice-type Pokémon introduced in Generation IV, which is known as the 'Frost Tree Pokémon'. It is standing at 2.7 meters tall and weighing around 185.0 kilograms, with a white-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Mega Abomasnow''' (Japanese: ユキノオー) is a Grass/Ice-type Pokémon introduced in Generation IV, which is known as the 'Frost Tree Pokémon'. It is standing at 2.7 meters tall and weighing around 185.0 kilograms, with a white-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 90,
@@ -28728,7 +28728,7 @@
         "Pokedex": {
             "pokedex_number": "0475",
             "type": "Psychic, Fighting",
-            "description": "'''Mega Gallade Mega''' (Japanese: エルレイド) is a Psychic/Fighting-type Pokémon introduced in Generation IV, which is known as the 'Blade Pokémon'. It is standing at 1.6 meters tall and weighing around 56.4 kilograms, with a white-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Mega Gallade''' (Japanese: エルレイド) is a Psychic/Fighting-type Pokémon introduced in Generation IV, which is known as the 'Blade Pokémon'. It is standing at 1.6 meters tall and weighing around 56.4 kilograms, with a white-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 68,
@@ -31787,7 +31787,7 @@
         "Pokedex": {
             "pokedex_number": "0531",
             "type": "Normal, Fairy",
-            "description": "'''Mega Audino Mega''' (Japanese: タブンネ) is a Normal/Fairy-type Pokémon introduced in Generation V, which is known as the 'Hearing Pokémon'. It is standing at 1.5 meters tall and weighing around 32.0 kilograms, with a pink-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Mega Audino''' (Japanese: タブンネ) is a Normal/Fairy-type Pokémon introduced in Generation V, which is known as the 'Hearing Pokémon'. It is standing at 1.5 meters tall and weighing around 32.0 kilograms, with a pink-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 103,
@@ -34012,7 +34012,7 @@
         "Pokedex": {
             "pokedex_number": "0569",
             "type": "Poison",
-            "description": "'''Gigantamax Garbodor Gmax''' (Japanese: ダストダス) is a Poison-type Pokémon introduced in Generation V, which is known as the 'Trash Heap Pokémon'. It is standing at 21.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Garbodor''' (Japanese: ダストダス) is a Poison-type Pokémon introduced in Generation V, which is known as the 'Trash Heap Pokémon'. It is standing at 21.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 80,
@@ -42349,7 +42349,7 @@
         "Pokedex": {
             "pokedex_number": "0719",
             "type": "Rock, Fairy",
-            "description": "'''Mega Diancie Mega''' (Japanese: ディアンシー) is a Rock/Fairy-type Pokémon introduced in Generation VI, which is known as the 'Jewel Pokémon'. It is standing at 1.1 meters tall and weighing around 27.8 kilograms, with a pink-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Mega Diancie''' (Japanese: ディアンシー) is a Rock/Fairy-type Pokémon introduced in Generation VI, which is known as the 'Jewel Pokémon'. It is standing at 1.1 meters tall and weighing around 27.8 kilograms, with a pink-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 50,
@@ -47728,7 +47728,7 @@
         "Pokedex": {
             "pokedex_number": "0809",
             "type": "Steel",
-            "description": "'''Gigantamax Melmetal Gmax''' (Japanese: メルメタル) is a Steel-type Pokémon introduced in Generation VII, which is known as the 'Hex Nut Pokémon'. It is standing at 25.0 meters tall and weighing around 1000.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Gigantamax Melmetal''' (Japanese: メルメタル) is a Steel-type Pokémon introduced in Generation VII, which is known as the 'Hex Nut Pokémon'. It is standing at 25.0 meters tall and weighing around 1000.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 135,
@@ -47881,7 +47881,7 @@
         "Pokedex": {
             "pokedex_number": "0812",
             "type": "Grass",
-            "description": "'''Gigantamax Rillaboom Gmax''' (Japanese: ゴリランダー) is a Grass-type Pokémon introduced in Generation VIII, which is known as the 'Drummer Pokémon'. It is standing at 28.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Rillaboom''' (Japanese: ゴリランダー) is a Grass-type Pokémon introduced in Generation VIII, which is known as the 'Drummer Pokémon'. It is standing at 28.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,
@@ -48032,7 +48032,7 @@
         "Pokedex": {
             "pokedex_number": "0815",
             "type": "Fire",
-            "description": "'''Gigantamax Cinderace Gmax''' (Japanese: エースバーン) is a Fire-type Pokémon introduced in Generation VIII, which is known as the 'Striker Pokémon'. It is standing at 27.0 meters tall and weighing around 1000.0 kilograms, with a white-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Gigantamax Cinderace''' (Japanese: エースバーン) is a Fire-type Pokémon introduced in Generation VIII, which is known as the 'Striker Pokémon'. It is standing at 27.0 meters tall and weighing around 1000.0 kilograms, with a white-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 80,
@@ -48183,7 +48183,7 @@
         "Pokedex": {
             "pokedex_number": "0818",
             "type": "Water",
-            "description": "'''Gigantamax Inteleon Gmax''' (Japanese: インテレオン) is a Water-type Pokémon introduced in Generation VIII, which is known as the 'Secret Agent Pokémon'. It is standing at 40.0 meters tall and weighing around 1000.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Inteleon''' (Japanese: インテレオン) is a Water-type Pokémon introduced in Generation VIII, which is known as the 'Secret Agent Pokémon'. It is standing at 40.0 meters tall and weighing around 1000.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 70,
@@ -48423,7 +48423,7 @@
         "Pokedex": {
             "pokedex_number": "0823",
             "type": "Flying, Steel",
-            "description": "'''Gigantamax Corviknight Gmax''' (Japanese: アーマーガア) is a Flying/Steel-type Pokémon introduced in Generation VIII, which is known as the 'Raven Pokémon'. It is standing at 14.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Gigantamax Corviknight''' (Japanese: アーマーガア) is a Flying/Steel-type Pokémon introduced in Generation VIII, which is known as the 'Raven Pokémon'. It is standing at 14.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 98,
@@ -48563,7 +48563,7 @@
         "Pokedex": {
             "pokedex_number": "0826",
             "type": "Bug, Psychic",
-            "description": "'''Gigantamax Orbeetle Gmax''' (Japanese: イオルブ) is a Bug/Psychic-type Pokémon introduced in Generation VIII, which is known as the 'Seven Spot Pokémon'. It is standing at 14.0 meters tall and weighing around 1000.0 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Orbeetle''' (Japanese: イオルブ) is a Bug/Psychic-type Pokémon introduced in Generation VIII, which is known as the 'Seven Spot Pokémon'. It is standing at 14.0 meters tall and weighing around 1000.0 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 60,
@@ -48928,7 +48928,7 @@
         "Pokedex": {
             "pokedex_number": "0834",
             "type": "Water, Rock",
-            "description": "'''Gigantamax Drednaw Gmax''' (Japanese: カジリガメ) is a Water/Rock-type Pokémon introduced in Generation VIII, which is known as the 'Bite Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Drednaw''' (Japanese: カジリガメ) is a Water/Rock-type Pokémon introduced in Generation VIII, which is known as the 'Bite Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 90,
@@ -49166,7 +49166,7 @@
         "Pokedex": {
             "pokedex_number": "0839",
             "type": "Rock, Fire",
-            "description": "'''Gigantamax Coalossal Gmax''' (Japanese: セキタンザン) is a Rock/Fire-type Pokémon introduced in Generation VIII, which is known as the 'Coal Pokémon'. It is standing at 42.0 meters tall and weighing around 1000.0 kilograms, with a black-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Gigantamax Coalossal''' (Japanese: セキタンザン) is a Rock/Fire-type Pokémon introduced in Generation VIII, which is known as the 'Coal Pokémon'. It is standing at 42.0 meters tall and weighing around 1000.0 kilograms, with a black-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 110,
@@ -49274,7 +49274,7 @@
         "Pokedex": {
             "pokedex_number": "0841",
             "type": "Grass, Dragon",
-            "description": "'''Gigantamax Flapple Gmax''' (Japanese: アップリュー) is a Grass/Dragon-type Pokémon introduced in Generation VIII, which is known as the 'Apple Wing Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Flapple''' (Japanese: アップリュー) is a Grass/Dragon-type Pokémon introduced in Generation VIII, which is known as the 'Apple Wing Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 70,
@@ -49350,7 +49350,7 @@
         "Pokedex": {
             "pokedex_number": "0842",
             "type": "Grass, Dragon",
-            "description": "'''Gigantamax Appletun Gmax''' (Japanese: タルップル) is a Grass/Dragon-type Pokémon introduced in Generation VIII, which is known as the 'Apple Nectar Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Appletun''' (Japanese: タルップル) is a Grass/Dragon-type Pokémon introduced in Generation VIII, which is known as the 'Apple Nectar Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 110,
@@ -49464,7 +49464,7 @@
         "Pokedex": {
             "pokedex_number": "0844",
             "type": "Ground",
-            "description": "'''Gigantamax Sandaconda Gmax''' (Japanese: サダイジャ) is a Ground-type Pokémon introduced in Generation VIII, which is known as the 'Sand Snake Pokémon'. It is standing at 22.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Gigantamax Sandaconda''' (Japanese: サダイジャ) is a Ground-type Pokémon introduced in Generation VIII, which is known as the 'Sand Snake Pokémon'. It is standing at 22.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 72,
@@ -49843,7 +49843,7 @@
         "Pokedex": {
             "pokedex_number": "0849",
             "type": "Electric, Poison",
-            "description": "'''Gigantamax Toxtricity Amped Gmax''' (Japanese: ストリンダー) is a Electric/Poison-type Pokémon introduced in Generation VIII, which is known as the 'Punk Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Toxtricity Amped''' (Japanese: ストリンダー) is a Electric/Poison-type Pokémon introduced in Generation VIII, which is known as the 'Punk Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 75,
@@ -49872,7 +49872,7 @@
         "Pokedex": {
             "pokedex_number": "0849",
             "type": "Electric, Poison",
-            "description": "'''Gigantamax Toxtricity Low Key Gmax''' (Japanese: ストリンダー) is a Electric/Poison-type Pokémon introduced in Generation VIII, which is known as the 'Punk Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Toxtricity Low Key''' (Japanese: ストリンダー) is a Electric/Poison-type Pokémon introduced in Generation VIII, which is known as the 'Punk Pokémon'. It is standing at 24.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 75,
@@ -49988,7 +49988,7 @@
         "Pokedex": {
             "pokedex_number": "0851",
             "type": "Fire, Bug",
-            "description": "'''Gigantamax Centiskorch Gmax''' (Japanese: マルヤクデ) is a Fire/Bug-type Pokémon introduced in Generation VIII, which is known as the 'Radiator Pokémon'. It is standing at 75.0 meters tall and weighing around 1000.0 kilograms, with a red-colored body and a tentacles appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Centiskorch''' (Japanese: マルヤクデ) is a Fire/Bug-type Pokémon introduced in Generation VIII, which is known as the 'Radiator Pokémon'. It is standing at 75.0 meters tall and weighing around 1000.0 kilograms, with a red-colored body and a tentacles appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,
@@ -50317,7 +50317,7 @@
         "Pokedex": {
             "pokedex_number": "0858",
             "type": "Psychic, Fairy",
-            "description": "'''Gigantamax Hatterene Gmax''' (Japanese: ブリムオン) is a Psychic/Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Silent Pokémon'. It is standing at 26.0 meters tall and weighing around 1000.0 kilograms, with a pink-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Hatterene''' (Japanese: ブリムオン) is a Psychic/Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Silent Pokémon'. It is standing at 26.0 meters tall and weighing around 1000.0 kilograms, with a pink-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 57,
@@ -50481,7 +50481,7 @@
         "Pokedex": {
             "pokedex_number": "0861",
             "type": "Dark, Fairy",
-            "description": "'''Gigantamax Grimmsnarl Gmax''' (Japanese: オーロンゲ) is a Dark/Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Bulk Up Pokémon'. It is standing at 32.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Grimmsnarl''' (Japanese: オーロンゲ) is a Dark/Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Bulk Up Pokémon'. It is standing at 32.0 meters tall and weighing around 1000.0 kilograms, with a purple-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 95,
@@ -50888,7 +50888,7 @@
         "Pokedex": {
             "pokedex_number": "0869",
             "type": "Fairy",
-            "description": "'''Gigantamax Alcremie Gmax''' (Japanese: マホイップ) is a Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Cream Pokémon'. It is standing at 30.0 meters tall and weighing around 1000.0 kilograms, with a white-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Alcremie''' (Japanese: マホイップ) is a Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Cream Pokémon'. It is standing at 30.0 meters tall and weighing around 1000.0 kilograms, with a white-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 65,
@@ -51460,7 +51460,7 @@
         "Pokedex": {
             "pokedex_number": "0879",
             "type": "Steel",
-            "description": "'''Gigantamax Copperajah Gmax''' (Japanese: ダイオウドウ) is a Steel-type Pokémon introduced in Generation VIII, which is known as the 'Copperderm Pokémon'. It is standing at 23.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Copperajah''' (Japanese: ダイオウドウ) is a Steel-type Pokémon introduced in Generation VIII, which is known as the 'Copperderm Pokémon'. It is standing at 23.0 meters tall and weighing around 1000.0 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 122,
@@ -51704,7 +51704,7 @@
         "Pokedex": {
             "pokedex_number": "0884",
             "type": "Steel, Dragon",
-            "description": "'''Gigantamax Duraludon Gmax''' (Japanese: ジュラルドン) is a Steel/Dragon-type Pokémon introduced in Generation VIII, which is known as the 'Alloy Pokémon'. It is standing at 43.0 meters tall and weighing around 1000.0 kilograms, with a white-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Duraludon''' (Japanese: ジュラルドン) is a Steel/Dragon-type Pokémon introduced in Generation VIII, which is known as the 'Alloy Pokémon'. It is standing at 43.0 meters tall and weighing around 1000.0 kilograms, with a white-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 70,
@@ -52253,7 +52253,7 @@
         "Pokedex": {
             "pokedex_number": "0892",
             "type": "Fighting, Water",
-            "description": "'''Gigantamax Urshifu Rapid Strike Gmax''' (Japanese: ウーラオス) is a Fighting/Water-type Pokémon introduced in Generation VIII, which is known as the 'Wushu Pokémon'. It is standing at 26.0 meters tall and weighing around 1000.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Urshifu Rapid Strike''' (Japanese: ウーラオス) is a Fighting/Water-type Pokémon introduced in Generation VIII, which is known as the 'Wushu Pokémon'. It is standing at 26.0 meters tall and weighing around 1000.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,
@@ -52280,7 +52280,7 @@
         "Pokedex": {
             "pokedex_number": "0892",
             "type": "Fighting, Dark",
-            "description": "'''Gigantamax Urshifu Single Strike Gmax''' (Japanese: ウーラオス) is a Fighting/Dark-type Pokémon introduced in Generation VIII, which is known as the 'Wushu Pokémon'. It is standing at 29.0 meters tall and weighing around 1000.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gigantamax Urshifu Single Strike''' (Japanese: ウーラオス) is a Fighting/Dark-type Pokémon introduced in Generation VIII, which is known as the 'Wushu Pokémon'. It is standing at 29.0 meters tall and weighing around 1000.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,

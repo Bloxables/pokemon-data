@@ -39933,7 +39933,7 @@
             "tm": ["Aerial Ace", "Attract", "Brick Break", "Brutal Swing", "Close Combat", "Confide", "Cut", "Double Team", "Endure", "Facade", "False Swipe", "Flash Cannon", "Frustration", "Gyro Ball", "Hidden Power", "Iron Defense", "Iron Head", "Protect", "Psycho Cut", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Rock Smash", "Round", "Screech", "Secret Power", "Shadow Claw", "Sleep Talk", "Snore", "Solar Blade", "Substitute", "Swagger", "Swords Dance", "Toxic"]
         }
     },
-    "Aegislash": {
+    "Aegislash Blade": {
         "Pokedex": {
             "pokedex_number": "0681",
             "type": "Steel, Ghost",
@@ -39978,7 +39978,7 @@
             "tm": ["Aerial Ace", "Air Slash", "Attract", "Brick Break", "Brutal Swing", "Close Combat", "Confide", "Cut", "Double Team", "Endure", "Facade", "False Swipe", "Flash Cannon", "Frustration", "Giga Impact", "Gyro Ball", "Hidden Power", "Hyper Beam", "Iron Defense", "Iron Head", "Protect", "Psycho Cut", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Rock Smash", "Round", "Screech", "Secret Power", "Shadow Ball", "Shadow Claw", "Sleep Talk", "Snore", "Solar Blade", "Substitute", "Sunny Day", "Swagger", "Swords Dance", "Toxic"]
         }
     },
-    "Aegislash Shield": {
+    "Aegislash": {
         "Pokedex": {
             "pokedex_number": "0681",
             "type": "Steel, Ghost",

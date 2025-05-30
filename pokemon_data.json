@@ -23504,11 +23504,11 @@
             "tm": ["Avalanche", "Blizzard", "Body Slam", "Brick Break", "Brine", "Bulldoze", "Calm Mind", "Chilling Water", "Confide", "Dive", "Double Edge", "Double Team", "Earthquake", "Endure", "Facade", "Frustration", "Giga Impact", "Hail", "Heavy Slam", "Helping Hand", "Hidden Power", "Hydro Pump", "Hyper Beam", "Ice Beam", "Icy Wind", "Iron Head", "Liquidation", "Muddy Water", "Natural Gift", "Protect", "Psych Up", "Rain Dance", "Rest", "Return", "Roar", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Scald", "Scary Face", "Secret Power", "Shock Wave", "Sleep Talk", "Snore", "Strength", "Substitute", "Surf", "Swagger", "Take Down", "Tera Blast", "Thunder", "Thunder Wave", "Thunderbolt", "Toxic", "Uproar", "Water Pulse", "Waterfall", "Whirlpool"]
         }
     },
-    "Kyogre Primal": {
+    "Primal Kyogre": {
         "Pokedex": {
             "pokedex_number": "0382",
             "type": "Water",
-            "description": "'''Kyogre Primal''' (Japanese: カイオーガ) is a Water-type Pokémon introduced in Generation III, which is known as the 'Sea Basin Pokémon'. It is standing at 9.8 meters tall and weighing around 430.0 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in sea, and is often recognized for its adaptability in sea environments."
+            "description": "'''Primal Kyogre''' (Japanese: ゲンシ カイオーガ) is a Water-type Pokémon introduced in Generation III, which is known as the 'Sea Basin Pokémon'. It is standing at 9.8 meters tall and weighing around 430.0 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in sea, and is often recognized for its adaptability in sea environments."
         },
         "Stats": {
             "HP": 100,
@@ -23589,11 +23589,11 @@
             "tm": ["Aerial Ace", "Body Press", "Body Slam", "Brick Break", "Brutal Swing", "Bulk Up", "Bulldoze", "Confide", "Crunch", "Cut", "Dig", "Double Edge", "Double Team", "Dragon Claw", "Dragon Pulse", "Dragon Tail", "Earth Power", "Earthquake", "Endure", "Facade", "Fire Blast", "Fire Fang", "Fire Punch", "Flamethrower", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Giga Impact", "Heat Crash", "Heat Wave", "Heavy Slam", "Helping Hand", "Hidden Power", "High Horsepower", "Hone Claws", "Hyper Beam", "Incinerate", "Iron Head", "Iron Tail", "Mega Kick", "Mega Punch", "Metal Claw", "Mud Shot", "Mud Slap", "Natural Gift", "Overheat", "Power Up Punch", "Protect", "Psych Up", "Rest", "Return", "Roar", "Rock Blast", "Rock Climb", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Sand Tomb", "Sandstorm", "Scary Face", "Scorching Sands", "Secret Power", "Shadow Claw", "Shock Wave", "Sleep Talk", "Smack Down", "Snore", "Solar Beam", "Spikes", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Swords Dance", "Take Down", "Tera Blast", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Toxic", "Uproar", "Will O Wisp", "Zen Headbutt"]
         }
     },
-    "Groudon Primal": {
+    "Primal Groudon": {
         "Pokedex": {
             "pokedex_number": "0383",
             "type": "Ground, Fire",
-            "description": "'''Groudon Primal''' (Japanese: グラードン) is a Ground/Fire-type Pokémon introduced in Generation III, which is known as the 'Continent Pokémon'. It is standing at 5.0 meters tall and weighing around 999.7 kilograms, with a red-colored body and a upright appearance. This Pokémon is commonly found in rough terrain, and is often recognized for its adaptability in rough terrain environments."
+            "description": "'''Primal Groudon''' (Japanese: ゲンシ グラードン) is a Ground/Fire-type Pokémon introduced in Generation III, which is known as the 'Continent Pokémon'. It is standing at 5.0 meters tall and weighing around 999.7 kilograms, with a red-colored body and a upright appearance. This Pokémon is commonly found in rough terrain, and is often recognized for its adaptability in rough terrain environments."
         },
         "Stats": {
             "HP": 100,
@@ -23762,96 +23762,6 @@
             "tm": ["Aerial Ace", "Ally Switch", "Amnesia", "Aura Sphere", "Baton Pass", "Body Slam", "Calm Mind", "Charge Beam", "Charm", "Confide", "Confuse Ray", "Cosmic Power", "Dazzling Gleam", "Double Edge", "Double Team", "Drain Punch", "Dream Eater", "Encore", "Endure", "Energy Ball", "Expanding Force", "Facade", "Fake Tears", "Fire Punch", "Flash", "Flash Cannon", "Fling", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Helping Hand", "Hidden Power", "Hyper Beam", "Ice Punch", "Icy Wind", "Imprison", "Iron Defense", "Iron Head", "Light Screen", "Magic Room", "Mega Kick", "Mega Punch", "Metal Sound", "Meteor Beam", "Metronome", "Mud Slap", "Natural Gift", "Play Rough", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psyshock", "Rain Dance", "Recycle", "Reflect", "Rest", "Return", "Round", "Safeguard", "Sandstorm", "Secret Power", "Shadow Ball", "Shock Wave", "Skill Swap", "Sleep Talk", "Snore", "Stealth Rock", "Steel Beam", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Telekinesis", "Tera Blast", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Toxic", "Trick", "Trick Room", "U Turn", "Uproar", "Water Pulse", "Zen Headbutt"]
         }
     },
-    "Deoxys Attack": {
-        "Pokedex": {
-            "pokedex_number": "0386",
-            "type": "Psychic",
-            "description": "'''Deoxys Attack''' (Japanese: デオキシス) is a Psychic-type Pokémon introduced in Generation III, which is known as the 'DNA Pokémon'. It is standing at 1.7 meters tall and weighing around 60.8 kilograms, with a red-colored body and a humanoid appearance. This Pokémon is commonly found in rare, and is often recognized for its adaptability in rare environments."
-        },
-        "Stats": {
-            "HP": 50,
-            "Atk": 180,
-            "Def": 20,
-            "Sp. Atk": 180,
-            "Sp. Def": 20,
-            "Speed": 150
-        },
-        "Defenses": {
-            "weaknesses": ["bug", "dark", "ghost"],
-            "resistances": ["fighting", "psychic"],
-            "immunities": []
-        },
-        "Abilities": [
-            "Pressure"
-        ],
-        "Moves": {
-            "level_up": {
-                "Wrap": 1,
-                "Leer": 1,
-                "Night Shade": 7,
-                "Teleport": 13,
-                "Taunt": 19,
-                "Pursuit": 25,
-                "Psyshock": 25,
-                "Psychic": 31,
-                "Superpower": 37,
-                "Skill Swap": 43,
-                "Psycho Shift": 43,
-                "Zen Headbutt": 49,
-                "Cosmic Power": 55,
-                "Zap Cannon": 61,
-                "Psycho Boost": 67,
-                "Hyper Beam": 73
-            },
-            "tm": ["Aerial Ace", "Agility", "Ally Switch", "Avalanche", "Brick Break", "Brutal Swing", "Calm Mind", "Charge Beam", "Confide", "Cut", "Dark Pulse", "Double Team", "Drain Punch", "Dream Eater", "Endure", "Energy Ball", "Expanding Force", "Facade", "Fire Punch", "Flash", "Flash Cannon", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Punch", "Icy Wind", "Imprison", "Knock Off", "Light Screen", "Low Kick", "Low Sweep", "Meteor Beam", "Nasty Plot", "Natural Gift", "Night Shade", "Pain Split", "Poison Jab", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rain Dance", "Recycle", "Reflect", "Rest", "Return", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Scary Face", "Secret Power", "Shadow Ball", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Solar Beam", "Stealth Rock", "Stomping Tantrum", "Stored Power", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Taunt", "Telekinesis", "Tera Blast", "Throat Chop", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trick", "Trick Room", "Water Pulse", "Zen Headbutt"]
-        }
-    },
-    "Deoxys Defense": {
-        "Pokedex": {
-            "pokedex_number": "0386",
-            "type": "Psychic",
-            "description": "'''Deoxys Defense''' (Japanese: デオキシス) is a Psychic-type Pokémon introduced in Generation III, which is known as the 'DNA Pokémon'. It is standing at 1.7 meters tall and weighing around 60.8 kilograms, with a red-colored body and a humanoid appearance. This Pokémon is commonly found in rare, and is often recognized for its impressive resilience in battle."
-        },
-        "Stats": {
-            "HP": 50,
-            "Atk": 70,
-            "Def": 160,
-            "Sp. Atk": 70,
-            "Sp. Def": 160,
-            "Speed": 90
-        },
-        "Defenses": {
-            "weaknesses": ["bug", "dark", "ghost"],
-            "resistances": ["fighting", "psychic"],
-            "immunities": []
-        },
-        "Abilities": [
-            "Pressure"
-        ],
-        "Moves": {
-            "level_up": {
-                "Wrap": 1,
-                "Leer": 1,
-                "Night Shade": 7,
-                "Teleport": 13,
-                "Knock Off": 19,
-                "Spikes": 25,
-                "Psychic": 31,
-                "Protect": 37,
-                "Snatch": 37,
-                "Skill Swap": 43,
-                "Psycho Shift": 43,
-                "Zen Headbutt": 49,
-                "Amnesia": 55,
-                "Iron Defense": 55,
-                "Recover": 61,
-                "Psycho Boost": 67,
-                "Counter": 73,
-                "Mirror Coat": 73
-            },
-            "tm": ["Aerial Ace", "Agility", "Ally Switch", "Amnesia", "Avalanche", "Brick Break", "Brutal Swing", "Calm Mind", "Charge Beam", "Confide", "Cut", "Dark Pulse", "Double Team", "Drain Punch", "Dream Eater", "Endure", "Energy Ball", "Expanding Force", "Facade", "Fire Punch", "Flash", "Flash Cannon", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Punch", "Icy Wind", "Imprison", "Iron Defense", "Knock Off", "Light Screen", "Low Kick", "Low Sweep", "Meteor Beam", "Natural Gift", "Night Shade", "Pain Split", "Poison Jab", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rain Dance", "Recycle", "Reflect", "Rest", "Return", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Scary Face", "Secret Power", "Shadow Ball", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Solar Beam", "Spikes", "Stealth Rock", "Stomping Tantrum", "Stored Power", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Taunt", "Telekinesis", "Tera Blast", "Throat Chop", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trick", "Trick Room", "Water Pulse", "Zen Headbutt"]
-        }
-    },
     "Deoxys Normal": {
         "Pokedex": {
             "pokedex_number": "0386",
@@ -23897,11 +23807,101 @@
             "tm": ["Aerial Ace", "Agility", "Ally Switch", "Avalanche", "Brick Break", "Brutal Swing", "Calm Mind", "Charge Beam", "Confide", "Cut", "Dark Pulse", "Double Team", "Drain Punch", "Dream Eater", "Endure", "Energy Ball", "Expanding Force", "Facade", "Fire Punch", "Flash", "Flash Cannon", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Punch", "Icy Wind", "Imprison", "Knock Off", "Light Screen", "Low Kick", "Low Sweep", "Meteor Beam", "Nasty Plot", "Natural Gift", "Night Shade", "Pain Split", "Poison Jab", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rain Dance", "Recycle", "Reflect", "Rest", "Return", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Scary Face", "Secret Power", "Shadow Ball", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Solar Beam", "Stealth Rock", "Stomping Tantrum", "Stored Power", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Taunt", "Telekinesis", "Tera Blast", "Throat Chop", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trick", "Trick Room", "Water Pulse", "Zen Headbutt"]
         }
     },
+    "Deoxys Attack": {
+        "Pokedex": {
+            "pokedex_number": "0386",
+            "type": "Psychic",
+            "description": "'''Deoxys Attack''' (Japanese: デオキシス アタック) is a Psychic-type Pokémon introduced in Generation III, which is known as the 'DNA Pokémon'. It is standing at 1.7 meters tall and weighing around 60.8 kilograms, with a red-colored body and a humanoid appearance. This Pokémon is commonly found in rare, and is often recognized for its adaptability in rare environments."
+        },
+        "Stats": {
+            "HP": 50,
+            "Atk": 180,
+            "Def": 20,
+            "Sp. Atk": 180,
+            "Sp. Def": 20,
+            "Speed": 150
+        },
+        "Defenses": {
+            "weaknesses": ["bug", "dark", "ghost"],
+            "resistances": ["fighting", "psychic"],
+            "immunities": []
+        },
+        "Abilities": [
+            "Pressure"
+        ],
+        "Moves": {
+            "level_up": {
+                "Wrap": 1,
+                "Leer": 1,
+                "Night Shade": 7,
+                "Teleport": 13,
+                "Taunt": 19,
+                "Pursuit": 25,
+                "Psyshock": 25,
+                "Psychic": 31,
+                "Superpower": 37,
+                "Skill Swap": 43,
+                "Psycho Shift": 43,
+                "Zen Headbutt": 49,
+                "Cosmic Power": 55,
+                "Zap Cannon": 61,
+                "Psycho Boost": 67,
+                "Hyper Beam": 73
+            },
+            "tm": ["Aerial Ace", "Agility", "Ally Switch", "Avalanche", "Brick Break", "Brutal Swing", "Calm Mind", "Charge Beam", "Confide", "Cut", "Dark Pulse", "Double Team", "Drain Punch", "Dream Eater", "Endure", "Energy Ball", "Expanding Force", "Facade", "Fire Punch", "Flash", "Flash Cannon", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Punch", "Icy Wind", "Imprison", "Knock Off", "Light Screen", "Low Kick", "Low Sweep", "Meteor Beam", "Nasty Plot", "Natural Gift", "Night Shade", "Pain Split", "Poison Jab", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rain Dance", "Recycle", "Reflect", "Rest", "Return", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Scary Face", "Secret Power", "Shadow Ball", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Solar Beam", "Stealth Rock", "Stomping Tantrum", "Stored Power", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Taunt", "Telekinesis", "Tera Blast", "Throat Chop", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trick", "Trick Room", "Water Pulse", "Zen Headbutt"]
+        }
+    },
+    "Deoxys Defense": {
+        "Pokedex": {
+            "pokedex_number": "0386",
+            "type": "Psychic",
+            "description": "'''Deoxys Defense''' (Japanese: デオキシス ディフェンス) is a Psychic-type Pokémon introduced in Generation III, which is known as the 'DNA Pokémon'. It is standing at 1.7 meters tall and weighing around 60.8 kilograms, with a red-colored body and a humanoid appearance. This Pokémon is commonly found in rare, and is often recognized for its impressive resilience in battle."
+        },
+        "Stats": {
+            "HP": 50,
+            "Atk": 70,
+            "Def": 160,
+            "Sp. Atk": 70,
+            "Sp. Def": 160,
+            "Speed": 90
+        },
+        "Defenses": {
+            "weaknesses": ["bug", "dark", "ghost"],
+            "resistances": ["fighting", "psychic"],
+            "immunities": []
+        },
+        "Abilities": [
+            "Pressure"
+        ],
+        "Moves": {
+            "level_up": {
+                "Wrap": 1,
+                "Leer": 1,
+                "Night Shade": 7,
+                "Teleport": 13,
+                "Knock Off": 19,
+                "Spikes": 25,
+                "Psychic": 31,
+                "Protect": 37,
+                "Snatch": 37,
+                "Skill Swap": 43,
+                "Psycho Shift": 43,
+                "Zen Headbutt": 49,
+                "Amnesia": 55,
+                "Iron Defense": 55,
+                "Recover": 61,
+                "Psycho Boost": 67,
+                "Counter": 73,
+                "Mirror Coat": 73
+            },
+            "tm": ["Aerial Ace", "Agility", "Ally Switch", "Amnesia", "Avalanche", "Brick Break", "Brutal Swing", "Calm Mind", "Charge Beam", "Confide", "Cut", "Dark Pulse", "Double Team", "Drain Punch", "Dream Eater", "Endure", "Energy Ball", "Expanding Force", "Facade", "Fire Punch", "Flash", "Flash Cannon", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Punch", "Icy Wind", "Imprison", "Iron Defense", "Knock Off", "Light Screen", "Low Kick", "Low Sweep", "Meteor Beam", "Natural Gift", "Night Shade", "Pain Split", "Poison Jab", "Power Up Punch", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rain Dance", "Recycle", "Reflect", "Rest", "Return", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Scary Face", "Secret Power", "Shadow Ball", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Solar Beam", "Spikes", "Stealth Rock", "Stomping Tantrum", "Stored Power", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Take Down", "Taunt", "Telekinesis", "Tera Blast", "Throat Chop", "Thunder", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trick", "Trick Room", "Water Pulse", "Zen Headbutt"]
+        }
+    },
     "Deoxys Speed": {
         "Pokedex": {
             "pokedex_number": "0386",
             "type": "Psychic",
-            "description": "'''Deoxys Speed''' (Japanese: デオキシス) is a Psychic-type Pokémon introduced in Generation III, which is known as the 'DNA Pokémon'. It is standing at 1.7 meters tall and weighing around 60.8 kilograms, with a red-colored body and a humanoid appearance. This Pokémon is commonly found in rare, and is often recognized for its incredible swiftness."
+            "description": "'''Deoxys Speed''' (Japanese: デオキシス スピード) is a Psychic-type Pokémon introduced in Generation III, which is known as the 'DNA Pokémon'. It is standing at 1.7 meters tall and weighing around 60.8 kilograms, with a red-colored body and a humanoid appearance. This Pokémon is commonly found in rare, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 50,
@@ -28988,7 +28988,7 @@
         "Pokedex": {
             "pokedex_number": "0479",
             "type": "Electric, Flying",
-            "description": "'''Rotom Fan''' (Japanese: ロトム) is a Electric/Flying-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
+            "description": "'''Rotom Fan''' (Japanese: ロトム スピン) is a Electric/Flying-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
         },
         "Stats": {
             "HP": 50,
@@ -29030,7 +29030,7 @@
         "Pokedex": {
             "pokedex_number": "0479",
             "type": "Electric, Ice",
-            "description": "'''Rotom Frost''' (Japanese: ロトム) is a Electric/Ice-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
+            "description": "'''Rotom Frost''' (Japanese: ロトム フロスト) is a Electric/Ice-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
         },
         "Stats": {
             "HP": 50,
@@ -29072,7 +29072,7 @@
         "Pokedex": {
             "pokedex_number": "0479",
             "type": "Electric, Fire",
-            "description": "'''Rotom Heat''' (Japanese: ロトム) is a Electric/Fire-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
+            "description": "'''Rotom Heat''' (Japanese: ロトム ヒート) is a Electric/Fire-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
         },
         "Stats": {
             "HP": 50,
@@ -29114,7 +29114,7 @@
         "Pokedex": {
             "pokedex_number": "0479",
             "type": "Electric, Grass",
-            "description": "'''Rotom Mow''' (Japanese: ロトム) is a Electric/Grass-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
+            "description": "'''Rotom Mow''' (Japanese: ロトム カット) is a Electric/Grass-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
         },
         "Stats": {
             "HP": 50,
@@ -29156,7 +29156,7 @@
         "Pokedex": {
             "pokedex_number": "0479",
             "type": "Electric, Water",
-            "description": "'''Rotom Wash''' (Japanese: ロトム) is a Electric/Water-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
+            "description": "'''Rotom Wash''' (Japanese: ロトム ウォッシュ) is a Electric/Water-type Pokémon introduced in Generation IV, which is known as the 'Plasma Pokémon'. It is standing at 0.3 meters tall and weighing around 0.3 kilograms, with a red-colored body and a ball appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
         },
         "Stats": {
             "HP": 50,
@@ -29384,7 +29384,7 @@
         "Pokedex": {
             "pokedex_number": "0483",
             "type": "Steel, Dragon",
-            "description": "'''Dialga Origin''' (Japanese: ディアルガ) is a Steel/Dragon-type Pokémon introduced in Generation IV, which is known as the 'Temporal Pokémon'. It is standing at 7.0 meters tall and weighing around 848.7 kilograms, with a white-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Dialga Origin''' (Japanese: ディアルガ オリジン) is a Steel/Dragon-type Pokémon introduced in Generation IV, which is known as the 'Temporal Pokémon'. It is standing at 7.0 meters tall and weighing around 848.7 kilograms, with a white-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,
@@ -29471,7 +29471,7 @@
         "Pokedex": {
             "pokedex_number": "0484",
             "type": "Water, Dragon",
-            "description": "'''Palkia Origin''' (Japanese: パルキア) is a Water/Dragon-type Pokémon introduced in Generation IV, which is known as the 'Spatial Pokémon'. It is standing at 6.3 meters tall and weighing around 659.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Palkia Origin''' (Japanese: パルキア オリジン) is a Water/Dragon-type Pokémon introduced in Generation IV, which is known as the 'Spatial Pokémon'. It is standing at 6.3 meters tall and weighing around 659.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 90,
@@ -29657,7 +29657,7 @@
         "Pokedex": {
             "pokedex_number": "0487",
             "type": "Ghost, Dragon",
-            "description": "'''Giratina Origin''' (Japanese: ギラティナ) is a Ghost/Dragon-type Pokémon introduced in Generation IV, which is known as the 'Renegade Pokémon'. It is standing at 6.9 meters tall and weighing around 650.0 kilograms, with a black-colored body and a tentacles appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
+            "description": "'''Giratina Origin''' (Japanese: ギラティナ オリジン) is a Ghost/Dragon-type Pokémon introduced in Generation IV, which is known as the 'Renegade Pokémon'. It is standing at 6.9 meters tall and weighing around 650.0 kilograms, with a black-colored body and a tentacles appearance. This Pokémon is commonly found in various areas, and is often recognized for its ability to float effortlessly."
         },
         "Stats": {
             "HP": 150,
@@ -29889,7 +29889,7 @@
         "Pokedex": {
             "pokedex_number": "0492",
             "type": "Grass",
-            "description": "'''Shaymin Land''' (Japanese: シェイミ) is a Grass-type Pokémon introduced in Generation IV, which is known as the 'Gratitude Pokémon'. It is standing at 0.2 meters tall and weighing around 2.1 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Shaymin Land''' (Japanese: シェイミ ランド) is a Grass-type Pokémon introduced in Generation IV, which is known as the 'Gratitude Pokémon'. It is standing at 0.2 meters tall and weighing around 2.1 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 100,
@@ -29940,7 +29940,7 @@
         "Pokedex": {
             "pokedex_number": "0492",
             "type": "Grass, Flying",
-            "description": "'''Shaymin Sky''' (Japanese: シェイミ) is a Grass/Flying-type Pokémon introduced in Generation IV, which is known as the 'Gratitude Pokémon'. It is standing at 0.4 meters tall and weighing around 5.2 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Shaymin Sky''' (Japanese: シェイミ スカイ) is a Grass/Flying-type Pokémon introduced in Generation IV, which is known as the 'Gratitude Pokémon'. It is standing at 0.4 meters tall and weighing around 5.2 kilograms, with a green-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 100,
@@ -32725,60 +32725,11 @@
             "tm": ["Acrobatics", "Aerial Ace", "Air Slash", "Brick Break", "Bullet Seed", "Charm", "Close Combat", "Coaching", "Encore", "Endure", "Energy Ball", "Facade", "Giga Drain", "Giga Impact", "Grass Knot", "Grassy Glide", "Grassy Terrain", "Helping Hand", "Hurricane", "Hyper Beam", "Ice Spinner", "Leaf Storm", "Low Kick", "Low Sweep", "Magical Leaf", "Metronome", "Petal Blizzard", "Poison Jab", "Pollen Puff", "Protect", "Psych Up", "Rain Dance", "Rest", "Seed Bomb", "Sleep Talk", "Solar Beam", "Solar Blade", "Substitute", "Sunny Day", "Swords Dance", "Take Down", "Tera Blast", "Trailblaze", "Triple Axel", "Upper Hand", "Vacuum Wave", "Weather Ball"]
         }
     },
-    "Basculin Blue Striped": {
-        "Pokedex": {
-            "pokedex_number": "0550",
-            "type": "Water",
-            "description": "'''Basculin Blue Striped''' (Japanese: バスラオ) is a Water-type Pokémon introduced in Generation V, which is known as the 'Hostile Pokémon'. It is standing at 1.0 meters tall and weighing around 18.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
-        },
-        "Stats": {
-            "HP": 70,
-            "Atk": 92,
-            "Def": 65,
-            "Sp. Atk": 80,
-            "Sp. Def": 55,
-            "Speed": 98
-        },
-        "Defenses": {
-            "weaknesses": ["electric", "grass"],
-            "resistances": ["fire", "ice", "steel", "water"],
-            "immunities": []
-        },
-        "Abilities": [
-            "Rock Head",
-            "Adaptability",
-            "Mold Breaker"
-        ],
-        "Moves": {
-            "level_up": {
-                "Tail Whip": 1,
-                "Water Gun": 1,
-                "Uproar": 3,
-                "Tackle": 4,
-                "Flail": 8,
-                "Chip Away": 11,
-                "Aqua Jet": 12,
-                "Bite": 16,
-                "Scary Face": 20,
-                "Headbutt": 24,
-                "Soak": 28,
-                "Crunch": 32,
-                "Take Down": 36,
-                "Final Gambit": 40,
-                "Aqua Tail": 44,
-                "Wave Crash": 44,
-                "Thrash": 48,
-                "Double Edge": 52,
-                "Head Smash": 56
-            },
-            "tm": ["Agility", "Assurance", "Attract", "Blizzard", "Bounce", "Brine", "Chilling Water", "Confide", "Crunch", "Cut", "Dive", "Double Edge", "Double Team", "Endeavor", "Endure", "Facade", "Flip Turn", "Frustration", "Giga Impact", "Hail", "Hidden Power", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Liquidation", "Mud Shot", "Muddy Water", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Return", "Revenge", "Reversal", "Round", "Scald", "Scale Shot", "Scary Face", "Secret Power", "Sleep Talk", "Snore", "Snowscape", "Substitute", "Superpower", "Surf", "Swagger", "Swift", "Take Down", "Taunt", "Tera Blast", "Toxic", "Uproar", "Water Pulse", "Waterfall", "Whirlpool", "Zen Headbutt"]
-        }
-    },
     "Basculin": {
         "Pokedex": {
             "pokedex_number": "0550",
             "type": "Water",
-            "description": "'''Basculin Red Striped''' (Japanese: バスラオ) is a Water-type Pokémon introduced in Generation V, which is known as the 'Hostile Pokémon'. It is standing at 1.0 meters tall and weighing around 18.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Basculin Red Striped''' (Japanese: バスラオ あかすじ) is a Water-type Pokémon introduced in Generation V, which is known as the 'Hostile Pokémon'. It is standing at 1.0 meters tall and weighing around 18.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 70,
@@ -32823,11 +32774,60 @@
             "tm": ["Agility", "Assurance", "Attract", "Blizzard", "Bounce", "Brine", "Chilling Water", "Confide", "Crunch", "Cut", "Dive", "Double Edge", "Double Team", "Endeavor", "Endure", "Facade", "Flip Turn", "Frustration", "Giga Impact", "Hail", "Hidden Power", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Liquidation", "Mud Shot", "Muddy Water", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Return", "Revenge", "Reversal", "Round", "Scald", "Scale Shot", "Scary Face", "Secret Power", "Sleep Talk", "Snore", "Snowscape", "Substitute", "Superpower", "Surf", "Swagger", "Swift", "Take Down", "Taunt", "Tera Blast", "Toxic", "Uproar", "Water Pulse", "Waterfall", "Whirlpool", "Zen Headbutt"]
         }
     },
+    "Basculin Blue Striped": {
+        "Pokedex": {
+            "pokedex_number": "0550",
+            "type": "Water",
+            "description": "'''Basculin Blue Striped''' (Japanese: バスラオ あおすじ) is a Water-type Pokémon introduced in Generation V, which is known as the 'Hostile Pokémon'. It is standing at 1.0 meters tall and weighing around 18.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+        },
+        "Stats": {
+            "HP": 70,
+            "Atk": 92,
+            "Def": 65,
+            "Sp. Atk": 80,
+            "Sp. Def": 55,
+            "Speed": 98
+        },
+        "Defenses": {
+            "weaknesses": ["electric", "grass"],
+            "resistances": ["fire", "ice", "steel", "water"],
+            "immunities": []
+        },
+        "Abilities": [
+            "Rock Head",
+            "Adaptability",
+            "Mold Breaker"
+        ],
+        "Moves": {
+            "level_up": {
+                "Tail Whip": 1,
+                "Water Gun": 1,
+                "Uproar": 3,
+                "Tackle": 4,
+                "Flail": 8,
+                "Chip Away": 11,
+                "Aqua Jet": 12,
+                "Bite": 16,
+                "Scary Face": 20,
+                "Headbutt": 24,
+                "Soak": 28,
+                "Crunch": 32,
+                "Take Down": 36,
+                "Final Gambit": 40,
+                "Aqua Tail": 44,
+                "Wave Crash": 44,
+                "Thrash": 48,
+                "Double Edge": 52,
+                "Head Smash": 56
+            },
+            "tm": ["Agility", "Assurance", "Attract", "Blizzard", "Bounce", "Brine", "Chilling Water", "Confide", "Crunch", "Cut", "Dive", "Double Edge", "Double Team", "Endeavor", "Endure", "Facade", "Flip Turn", "Frustration", "Giga Impact", "Hail", "Hidden Power", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Liquidation", "Mud Shot", "Muddy Water", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Return", "Revenge", "Reversal", "Round", "Scald", "Scale Shot", "Scary Face", "Secret Power", "Sleep Talk", "Snore", "Snowscape", "Substitute", "Superpower", "Surf", "Swagger", "Swift", "Take Down", "Taunt", "Tera Blast", "Toxic", "Uproar", "Water Pulse", "Waterfall", "Whirlpool", "Zen Headbutt"]
+        }
+    },
     "Basculin White Striped": {
         "Pokedex": {
             "pokedex_number": "0550",
             "type": "Water",
-            "description": "'''Basculin White Striped''' (Japanese: バスラオ) is a Water-type Pokémon introduced in Generation V, which is known as the 'Hostile Pokémon'. It is standing at 1.0 meters tall and weighing around 18.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Basculin White Striped''' (Japanese: バスラオ しろすじ) is a Water-type Pokémon introduced in Generation V, which is known as the 'Hostile Pokémon'. It is standing at 1.0 meters tall and weighing around 18.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 70,
@@ -33161,7 +33161,7 @@
         "Pokedex": {
             "pokedex_number": "0555",
             "type": "Fire, Psychic",
-            "description": "'''Darmanitan Zen''' (Japanese: ヒヒダルマ) is a Fire/Psychic-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.3 meters tall and weighing around 92.9 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Darmanitan Zen''' (Japanese: ヒヒダルマ・ゼン) is a Fire/Psychic-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.3 meters tall and weighing around 92.9 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 105,
@@ -33210,7 +33210,7 @@
         "Pokedex": {
             "pokedex_number": "0555",
             "type": "Ice",
-            "description": "'''Galarian Darmanitan Standard''' (Japanese: ヒヒダルマ) is a Ice-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.7 meters tall and weighing around 120.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Galarian Darmanitan Standard''' (Japanese: ガラルヒヒダルマ・ノーマル) is a Ice-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.7 meters tall and weighing around 120.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 105,
@@ -33254,7 +33254,7 @@
         "Pokedex": {
             "pokedex_number": "0555",
             "type": "Ice, Fire",
-            "description": "'''Galarian Darmanitan Zen''' (Japanese: ヒヒダルマ) is a Ice/Fire-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.7 meters tall and weighing around 120.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Galarian Darmanitan Zen''' (Japanese: ガラルヒヒダルマ・ゼン) is a Ice/Fire-type Pokémon introduced in Generation V, which is known as the 'Blazing Pokémon'. It is standing at 1.7 meters tall and weighing around 120.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 105,
@@ -37601,7 +37601,7 @@
         "Pokedex": {
             "pokedex_number": "0641",
             "type": "Flying",
-            "description": "'''Tornadus Incarnate''' (Japanese: トルネロス) is a Flying-type Pokémon introduced in Generation V, which is known as the 'Cyclone Pokémon'. It is standing at 1.5 meters tall and weighing around 63.0 kilograms, with a green-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Tornadus Incarnate''' (Japanese: トルネロス・インカーネイト) is a Flying-type Pokémon introduced in Generation V, which is known as the 'Cyclone Pokémon'. It is standing at 1.5 meters tall and weighing around 63.0 kilograms, with a green-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 79,
@@ -37652,7 +37652,7 @@
         "Pokedex": {
             "pokedex_number": "0641",
             "type": "Flying",
-            "description": "'''Tornadus Therian''' (Japanese: トルネロス) is a Flying-type Pokémon introduced in Generation V, which is known as the 'Cyclone Pokémon'. It is standing at 1.4 meters tall and weighing around 63.0 kilograms, with a green-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Tornadus Therian''' (Japanese: トルネロス・セリアン) is a Flying-type Pokémon introduced in Generation V, which is known as the 'Cyclone Pokémon'. It is standing at 1.4 meters tall and weighing around 63.0 kilograms, with a green-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 79,
@@ -37699,7 +37699,7 @@
         "Pokedex": {
             "pokedex_number": "0642",
             "type": "Electric, Flying",
-            "description": "'''Thundurus Incarnate''' (Japanese: ボルトロス) is a Electric/Flying-type Pokémon introduced in Generation V, which is known as the 'Bolt Strike Pokémon'. It is standing at 1.5 meters tall and weighing around 61.0 kilograms, with a blue-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Thundurus Incarnate''' (Japanese: ボルトロス・インカーネイト) is a Electric/Flying-type Pokémon introduced in Generation V, which is known as the 'Bolt Strike Pokémon'. It is standing at 1.5 meters tall and weighing around 61.0 kilograms, with a blue-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 79,
@@ -37753,7 +37753,7 @@
         "Pokedex": {
             "pokedex_number": "0642",
             "type": "Electric, Flying",
-            "description": "'''Thundurus Therian''' (Japanese: ボルトロス) is a Electric/Flying-type Pokémon introduced in Generation V, which is known as the 'Bolt Strike Pokémon'. It is standing at 3.0 meters tall and weighing around 61.0 kilograms, with a blue-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Thundurus Therian''' (Japanese: ボルトロス・セリアン) is a Electric/Flying-type Pokémon introduced in Generation V, which is known as the 'Bolt Strike Pokémon'. It is standing at 3.0 meters tall and weighing around 61.0 kilograms, with a blue-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 79,
@@ -37890,7 +37890,7 @@
         "Pokedex": {
             "pokedex_number": "0645",
             "type": "Ground, Flying",
-            "description": "'''Landorus Incarnate''' (Japanese: ランドロス) is a Ground/Flying-type Pokémon introduced in Generation V, which is known as the 'Abundance Pokémon'. It is standing at 1.5 meters tall and weighing around 68.0 kilograms, with a brown-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Landorus Incarnate''' (Japanese: ランドロス・インカーネイト) is a Ground/Flying-type Pokémon introduced in Generation V, which is known as the 'Abundance Pokémon'. It is standing at 1.5 meters tall and weighing around 68.0 kilograms, with a brown-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 89,
@@ -37945,7 +37945,7 @@
         "Pokedex": {
             "pokedex_number": "0645",
             "type": "Ground, Flying",
-            "description": "'''Landorus Therian''' (Japanese: ランドロス) is a Ground/Flying-type Pokémon introduced in Generation V, which is known as the 'Abundance Pokémon'. It is standing at 1.3 meters tall and weighing around 68.0 kilograms, with a brown-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Landorus Therian''' (Japanese: ランドロス・セリアン) is a Ground/Flying-type Pokémon introduced in Generation V, which is known as the 'Abundance Pokémon'. It is standing at 1.3 meters tall and weighing around 68.0 kilograms, with a brown-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 89,
@@ -38039,7 +38039,7 @@
         "Pokedex": {
             "pokedex_number": "0646",
             "type": "Dragon, Ice",
-            "description": "'''Kyurem Black''' (Japanese: キュレム) is a Dragon/Ice-type Pokémon introduced in Generation V, which is known as the 'Boundary Pokémon'. It is standing at 3.3 meters tall and weighing around 325.0 kilograms, with a gray-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Kyurem Black''' (Japanese: キュレム・ブラック) is a Dragon/Ice-type Pokémon introduced in Generation V, which is known as the 'Boundary Pokémon'. It is standing at 3.3 meters tall and weighing around 325.0 kilograms, with a gray-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 125,
@@ -38084,7 +38084,7 @@
         "Pokedex": {
             "pokedex_number": "0646",
             "type": "Dragon, Ice",
-            "description": "'''Kyurem White''' (Japanese: キュレム) is a Dragon/Ice-type Pokémon introduced in Generation V, which is known as the 'Boundary Pokémon'. It is standing at 3.6 meters tall and weighing around 325.0 kilograms, with a gray-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Kyurem White''' (Japanese: キュレム・ホワイト) is a Dragon/Ice-type Pokémon introduced in Generation V, which is known as the 'Boundary Pokémon'. It is standing at 3.6 meters tall and weighing around 325.0 kilograms, with a gray-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 125,
@@ -38129,7 +38129,7 @@
         "Pokedex": {
             "pokedex_number": "0647",
             "type": "Water, Fighting",
-            "description": "'''Keldeo''' (Japanese: ケルディオ) is a Water/Fighting-type Pokémon introduced in Generation V, which is known as the 'Colt Pokémon'. It is standing at 1.4 meters tall and weighing around 48.5 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Keldeo Ordinary''' (Japanese: ケルディオ・オーディナリー) is a Water/Fighting-type Pokémon introduced in Generation V, which is known as the 'Colt Pokémon'. It is standing at 1.4 meters tall and weighing around 48.5 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 91,
@@ -38172,7 +38172,7 @@
         "Pokedex": {
             "pokedex_number": "0647",
             "type": "Water, Fighting",
-            "description": "'''Keldeo Resolute''' (Japanese: ケルディオ) is a Water/Fighting-type Pokémon introduced in Generation V, which is known as the 'Colt Pokémon'. It is standing at 1.4 meters tall and weighing around 48.5 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Keldeo Resolute''' (Japanese: ケルディオ・かくごのすがた) is a Water/Fighting-type Pokémon introduced in Generation V, which is known as the 'Colt Pokémon'. It is standing at 1.4 meters tall and weighing around 48.5 kilograms, with a yellow-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 91,
@@ -38259,7 +38259,7 @@
         "Pokedex": {
             "pokedex_number": "0648",
             "type": "Normal, Fighting",
-            "description": "'''Meloetta Pirouette''' (Japanese: メロエッタ) is a Normal/Fighting-type Pokémon introduced in Generation V, which is known as the 'Melody Pokémon'. It is standing at 0.6 meters tall and weighing around 6.5 kilograms, with a white-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Meloetta Pirouette''' (Japanese: メロエッタ・ステップフォルム) is a Normal/Fighting-type Pokémon introduced in Generation V, which is known as the 'Melody Pokémon'. It is standing at 0.6 meters tall and weighing around 6.5 kilograms, with a white-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 100,
@@ -39390,11 +39390,11 @@
             "tm": ["Alluring Voice", "Attract", "Baton Pass", "Calm Mind", "Charm", "Chilling Water", "Confide", "Dazzling Gleam", "Disarming Voice", "Double Team", "Draining Kiss", "Echoed Voice", "Endeavor", "Endure", "Energy Ball", "Facade", "Flash", "Frustration", "Giga Drain", "Grass Knot", "Grassy Terrain", "Helping Hand", "Hidden Power", "Light Screen", "Magical Leaf", "Metronome", "Misty Terrain", "Nature Power", "Petal Blizzard", "Pollen Puff", "Protect", "Psychic", "Rain Dance", "Rest", "Return", "Round", "Safeguard", "Secret Power", "Seed Bomb", "Skill Swap", "Sleep Talk", "Solar Beam", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Tera Blast", "Toxic", "Trailblaze", "Trick"]
         }
     },
-    "Floette Eternal": {
+    "Floette Eternal Flower": {
         "Pokedex": {
             "pokedex_number": "0670",
             "type": "Fairy",
-            "description": "'''Floette Eternal''' (Japanese: フラエッテ) is a Fairy-type Pokémon introduced in Generation VI, which is known as the 'Single Bloom Pokémon'. It is standing at 0.2 meters tall and weighing around 0.9 kilograms, with a white-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Floette Eternal Flower''' (Japanese: フラエッテ・えいえんのはな) is a Fairy-type Pokémon introduced in Generation VI, which is known as the 'Single Bloom Pokémon'. It is standing at 0.2 meters tall and weighing around 0.9 kilograms, with a white-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 74,
@@ -39933,18 +39933,18 @@
             "tm": ["Aerial Ace", "Attract", "Brick Break", "Brutal Swing", "Close Combat", "Confide", "Cut", "Double Team", "Endure", "Facade", "False Swipe", "Flash Cannon", "Frustration", "Gyro Ball", "Hidden Power", "Iron Defense", "Iron Head", "Protect", "Psycho Cut", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Rock Smash", "Round", "Screech", "Secret Power", "Shadow Claw", "Sleep Talk", "Snore", "Solar Blade", "Substitute", "Swagger", "Swords Dance", "Toxic"]
         }
     },
-    "Aegislash Blade": {
+    "Aegislash": {
         "Pokedex": {
             "pokedex_number": "0681",
             "type": "Steel, Ghost",
-            "description": "'''Aegislash Blade''' (Japanese: ギルガルド) is a Steel/Ghost-type Pokémon introduced in Generation VI, which is known as the 'Royal Sword Pokémon'. It is standing at 1.7 meters tall and weighing around 53.0 kilograms, with a brown-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Aegislash Shield''' (Japanese: ギルガルド・シールド) is a Steel/Ghost-type Pokémon introduced in Generation VI, which is known as the 'Royal Sword Pokémon'. It is standing at 1.7 meters tall and weighing around 53.0 kilograms, with a brown-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 60,
-            "Atk": 140,
-            "Def": 50,
-            "Sp. Atk": 140,
-            "Sp. Def": 50,
+            "Atk": 50,
+            "Def": 140,
+            "Sp. Atk": 50,
+            "Sp. Def": 140,
             "Speed": 60
         },
         "Defenses": {
@@ -39978,18 +39978,18 @@
             "tm": ["Aerial Ace", "Air Slash", "Attract", "Brick Break", "Brutal Swing", "Close Combat", "Confide", "Cut", "Double Team", "Endure", "Facade", "False Swipe", "Flash Cannon", "Frustration", "Giga Impact", "Gyro Ball", "Hidden Power", "Hyper Beam", "Iron Defense", "Iron Head", "Protect", "Psycho Cut", "Rain Dance", "Reflect", "Rest", "Retaliate", "Return", "Reversal", "Rock Slide", "Rock Smash", "Round", "Screech", "Secret Power", "Shadow Ball", "Shadow Claw", "Sleep Talk", "Snore", "Solar Blade", "Substitute", "Sunny Day", "Swagger", "Swords Dance", "Toxic"]
         }
     },
-    "Aegislash": {
+    "Aegislash Blade": {
         "Pokedex": {
             "pokedex_number": "0681",
             "type": "Steel, Ghost",
-            "description": "'''Aegislash Shield''' (Japanese: ギルガルド) is a Steel/Ghost-type Pokémon introduced in Generation VI, which is known as the 'Royal Sword Pokémon'. It is standing at 1.7 meters tall and weighing around 53.0 kilograms, with a brown-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Aegislash Blade''' (Japanese: ギルガルド・ブレード) is a Steel/Ghost-type Pokémon introduced in Generation VI, which is known as the 'Royal Sword Pokémon'. It is standing at 1.7 meters tall and weighing around 53.0 kilograms, with a brown-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 60,
-            "Atk": 50,
-            "Def": 140,
-            "Sp. Atk": 50,
-            "Sp. Def": 140,
+            "Atk": 140,
+            "Def": 50,
+            "Sp. Atk": 140,
+            "Sp. Def": 50,
             "Speed": 60
         },
         "Defenses": {
@@ -42063,7 +42063,7 @@
         "Pokedex": {
             "pokedex_number": "0716",
             "type": "Fairy",
-            "description": "'''Xerneas''' (Japanese: ゼルネアス) is a Fairy-type Pokémon introduced in Generation VI, which is known as the 'Life Pokémon'. It is standing at 3.0 meters tall and weighing around 215.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Xerneas Active Mode''' (Japanese: ゼルネアス) is a Fairy-type Pokémon introduced in Generation VI, which is known as the 'Life Pokémon'. It is standing at 3.0 meters tall and weighing around 215.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 126,
@@ -42158,7 +42158,7 @@
         "Pokedex": {
             "pokedex_number": "0718",
             "type": "Dragon, Ground",
-            "description": "'''Zygarde 10''' (Japanese: ジガルデ) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 1.2 meters tall and weighing around 33.5 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Zygarde 10%''' (Japanese: ジガルデ・10％) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 1.2 meters tall and weighing around 33.5 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 54,
@@ -42205,7 +42205,7 @@
         "Pokedex": {
             "pokedex_number": "0718",
             "type": "Dragon, Ground",
-            "description": "'''Zygarde 50''' (Japanese: ジガルデ) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 5.0 meters tall and weighing around 305.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Zygarde 50%''' (Japanese: ジガルデ・50％) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 5.0 meters tall and weighing around 305.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 108,
@@ -42254,7 +42254,7 @@
         "Pokedex": {
             "pokedex_number": "0718",
             "type": "Dragon, Ground",
-            "description": "'''Zygarde Complete''' (Japanese: ジガルデ) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 4.5 meters tall and weighing around 610.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Zygarde Complete''' (Japanese: ジガルデ・パーフェクト) is a Dragon/Ground-type Pokémon introduced in Generation VI, which is known as the 'Order Pokémon'. It is standing at 4.5 meters tall and weighing around 610.0 kilograms, with a green-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 216,
@@ -42395,7 +42395,7 @@
         "Pokedex": {
             "pokedex_number": "0720",
             "type": "Psychic, Ghost",
-            "description": "'''Hoopa Confined''' (Japanese: フーパ) is a Psychic/Ghost-type Pokémon introduced in Generation VI, which is known as the 'Mischief Pokémon'. It is standing at 0.5 meters tall and weighing around 9.0 kilograms, with a purple-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Hoopa Confined''' (Japanese: フーパ・いましめられし) is a Psychic/Ghost-type Pokémon introduced in Generation VI, which is known as the 'Mischief Pokémon'. It is standing at 0.5 meters tall and weighing around 9.0 kilograms, with a purple-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 80,
@@ -42442,7 +42442,7 @@
         "Pokedex": {
             "pokedex_number": "0720",
             "type": "Psychic, Dark",
-            "description": "'''Hoopa Unbound''' (Japanese: フーパ) is a Psychic/Dark-type Pokémon introduced in Generation VI, which is known as the 'Mischief Pokémon'. It is standing at 6.5 meters tall and weighing around 490.0 kilograms, with a purple-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Hoopa Unbound''' (Japanese: フーパ・ときはなたれし) is a Psychic/Dark-type Pokémon introduced in Generation VI, which is known as the 'Mischief Pokémon'. It is standing at 6.5 meters tall and weighing around 490.0 kilograms, with a purple-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 80,
@@ -43467,7 +43467,7 @@
         "Pokedex": {
             "pokedex_number": "0741",
             "type": "Fire, Flying",
-            "description": "'''Oricorio''' (Japanese: オドリドリ) is a Fire/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Oricorio Baile Style''' (Japanese: オドリドリ・バイオレットスタイル) is a Fire/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 75,
@@ -43509,57 +43509,11 @@
             "tm": ["Acrobatics", "Aerial Ace", "Agility", "Air Cutter", "Air Slash", "Alluring Voice", "Attract", "Baton Pass", "Calm Mind", "Charm", "Confide", "Double Team", "Dual Wingbeat", "Embargo", "Endure", "Facade", "Feather Dance", "Fly", "Frustration", "Helping Hand", "Hidden Power", "Hurricane", "Icy Wind", "Protect", "Psych Up", "Quash", "Rain Dance", "Rest", "Return", "Reversal", "Roost", "Round", "Safeguard", "Sandstorm", "Sleep Talk", "Steel Wing", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Tailwind", "Take Down", "Taunt", "Tera Blast", "Toxic", "Trailblaze", "U Turn", "Work Up"]
         }
     },
-    "Oricorio Pau": {
-        "Pokedex": {
-            "pokedex_number": "0741",
-            "type": "Psychic, Flying",
-            "description": "'''Oricorio Pau''' (Japanese: オドリドリ) is a Psychic/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
-        },
-        "Stats": {
-            "HP": 75,
-            "Atk": 70,
-            "Def": 70,
-            "Sp. Atk": 98,
-            "Sp. Def": 70,
-            "Speed": 93
-        },
-        "Defenses": {
-            "weaknesses": ["dark", "electric", "ghost", "ice", "rock"],
-            "resistances": ["fighting", "grass", "psychic"],
-            "immunities": ["ground"]
-        },
-        "Abilities": [
-            "Dancer"
-        ],
-        "Moves": {
-            "level_up": {
-                "Pound": 1,
-                "Growl": 4,
-                "Peck": 6,
-                "Helping Hand": 10,
-                "Air Cutter": 13,
-                "Baton Pass": 16,
-                "Feather Dance": 20,
-                "Double Slap": 23,
-                "Acrobatics": 23,
-                "Teeter Dance": 26,
-                "Roost": 30,
-                "Flatter": 33,
-                "Captivate": 33,
-                "Air Slash": 36,
-                "Revelation Dance": 40,
-                "Agility": 43,
-                "Mirror Move": 43,
-                "Hurricane": 47
-            },
-            "tm": ["Acrobatics", "Aerial Ace", "Agility", "Air Cutter", "Air Slash", "Alluring Voice", "Attract", "Baton Pass", "Calm Mind", "Charm", "Confide", "Double Team", "Dual Wingbeat", "Embargo", "Endure", "Facade", "Feather Dance", "Fly", "Frustration", "Helping Hand", "Hidden Power", "Hurricane", "Icy Wind", "Protect", "Psych Up", "Quash", "Rain Dance", "Rest", "Return", "Reversal", "Roost", "Round", "Safeguard", "Sandstorm", "Sleep Talk", "Steel Wing", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Tailwind", "Take Down", "Taunt", "Tera Blast", "Toxic", "Trailblaze", "U Turn", "Work Up"]
-        }
-    },
-    "Oricorio Pom Pom": {
+    "Oricorio Pom-Pom": {
         "Pokedex": {
             "pokedex_number": "0741",
             "type": "Electric, Flying",
-            "description": "'''Oricorio Pom Pom''' (Japanese: オドリドリ) is a Electric/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Oricorio Pom-Pom Style''' (Japanese: オドリドリ・ポンポンスタイル) is a Electric/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 75,
@@ -43601,11 +43555,57 @@
             "tm": ["Acrobatics", "Aerial Ace", "Agility", "Air Cutter", "Air Slash", "Alluring Voice", "Attract", "Baton Pass", "Calm Mind", "Charm", "Confide", "Double Team", "Dual Wingbeat", "Embargo", "Endure", "Facade", "Feather Dance", "Fly", "Frustration", "Helping Hand", "Hidden Power", "Hurricane", "Icy Wind", "Protect", "Psych Up", "Quash", "Rain Dance", "Rest", "Return", "Reversal", "Roost", "Round", "Safeguard", "Sandstorm", "Sleep Talk", "Steel Wing", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Tailwind", "Take Down", "Taunt", "Tera Blast", "Toxic", "Trailblaze", "U Turn", "Work Up"]
         }
     },
+    "Oricorio Pa'u": {
+        "Pokedex": {
+            "pokedex_number": "0741",
+            "type": "Psychic, Flying",
+            "description": "'''Oricorio Pa'u Style''' (Japanese: オドリドリ・パウスタイル) is a Psychic/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+        },
+        "Stats": {
+            "HP": 75,
+            "Atk": 70,
+            "Def": 70,
+            "Sp. Atk": 98,
+            "Sp. Def": 70,
+            "Speed": 93
+        },
+        "Defenses": {
+            "weaknesses": ["dark", "electric", "ghost", "ice", "rock"],
+            "resistances": ["fighting", "grass", "psychic"],
+            "immunities": ["ground"]
+        },
+        "Abilities": [
+            "Dancer"
+        ],
+        "Moves": {
+            "level_up": {
+                "Pound": 1,
+                "Growl": 4,
+                "Peck": 6,
+                "Helping Hand": 10,
+                "Air Cutter": 13,
+                "Baton Pass": 16,
+                "Feather Dance": 20,
+                "Double Slap": 23,
+                "Acrobatics": 23,
+                "Teeter Dance": 26,
+                "Roost": 30,
+                "Flatter": 33,
+                "Captivate": 33,
+                "Air Slash": 36,
+                "Revelation Dance": 40,
+                "Agility": 43,
+                "Mirror Move": 43,
+                "Hurricane": 47
+            },
+            "tm": ["Acrobatics", "Aerial Ace", "Agility", "Air Cutter", "Air Slash", "Alluring Voice", "Attract", "Baton Pass", "Calm Mind", "Charm", "Confide", "Double Team", "Dual Wingbeat", "Embargo", "Endure", "Facade", "Feather Dance", "Fly", "Frustration", "Helping Hand", "Hidden Power", "Hurricane", "Icy Wind", "Protect", "Psych Up", "Quash", "Rain Dance", "Rest", "Return", "Reversal", "Roost", "Round", "Safeguard", "Sandstorm", "Sleep Talk", "Steel Wing", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Tailwind", "Take Down", "Taunt", "Tera Blast", "Toxic", "Trailblaze", "U Turn", "Work Up"]
+        }
+    },
     "Oricorio Sensu": {
         "Pokedex": {
             "pokedex_number": "0741",
             "type": "Ghost, Flying",
-            "description": "'''Oricorio Sensu''' (Japanese: オドリドリ) is a Ghost/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Oricorio Sensu Style''' (Japanese: オドリドリ・せんすスタイル) is a Ghost/Flying-type Pokémon introduced in Generation VII, which is known as the 'Dancing Pokémon'. It is standing at 0.6 meters tall and weighing around 3.4 kilograms, with a red-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 75,
@@ -43828,7 +43828,7 @@
         "Pokedex": {
             "pokedex_number": "0745",
             "type": "Rock",
-            "description": "'''Lycanroc Dusk''' (Japanese: ルガルガン) is a Rock-type Pokémon introduced in Generation VII, which is known as the 'Wolf Pokémon'. It is standing at 0.8 meters tall and weighing around 25.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Lycanroc Dusk''' (Japanese: ルガルガン・たそがれのすがた) is a Rock-type Pokémon introduced in Generation VII, which is known as the 'Wolf Pokémon'. It is standing at 0.8 meters tall and weighing around 25.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 75,
@@ -43882,7 +43882,7 @@
         "Pokedex": {
             "pokedex_number": "0745",
             "type": "Rock",
-            "description": "'''Lycanroc Midday''' (Japanese: ルガルガン) is a Rock-type Pokémon introduced in Generation VII, which is known as the 'Wolf Pokémon'. It is standing at 0.8 meters tall and weighing around 25.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Lycanroc Midday''' (Japanese: ルガルガン・まひるのすがた) is a Rock-type Pokémon introduced in Generation VII, which is known as the 'Wolf Pokémon'. It is standing at 0.8 meters tall and weighing around 25.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 75,
@@ -43932,7 +43932,7 @@
         "Pokedex": {
             "pokedex_number": "0745",
             "type": "Rock",
-            "description": "'''Lycanroc Midnight''' (Japanese: ルガルガン) is a Rock-type Pokémon introduced in Generation VII, which is known as the 'Wolf Pokémon'. It is standing at 1.1 meters tall and weighing around 25.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Lycanroc Midnight''' (Japanese: ルガルガン・まよなかのすがた) is a Rock-type Pokémon introduced in Generation VII, which is known as the 'Wolf Pokémon'. It is standing at 1.1 meters tall and weighing around 25.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 85,
@@ -43982,7 +43982,7 @@
         "Pokedex": {
             "pokedex_number": "0746",
             "type": "Water",
-            "description": "'''Wishiwashi School''' (Japanese: ヨワシ) is a Water-type Pokémon introduced in Generation VII, which is known as the 'Small Fry Pokémon'. It is standing at 8.2 meters tall and weighing around 78.6 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Wishiwashi School''' (Japanese: ヨワシ・むれたすがた) is a Water-type Pokémon introduced in Generation VII, which is known as the 'Small Fry Pokémon'. It is standing at 8.2 meters tall and weighing around 78.6 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 45,
@@ -44026,7 +44026,7 @@
         "Pokedex": {
             "pokedex_number": "0746",
             "type": "Water",
-            "description": "'''Wishiwashi Solo''' (Japanese: ヨワシ) is a Water-type Pokémon introduced in Generation VII, which is known as the 'Small Fry Pokémon'. It is standing at 0.2 meters tall and weighing around 0.3 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Wishiwashi Solo''' (Japanese: ヨワシ・たんどくのすがた) is a Water-type Pokémon introduced in Generation VII, which is known as the 'Small Fry Pokémon'. It is standing at 0.2 meters tall and weighing around 0.3 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 45,
@@ -46032,55 +46032,11 @@
             "tm": ["Agility", "Assurance", "Attract", "Bounce", "Charge Beam", "Confide", "Double Team", "Eerie Impulse", "Electric Terrain", "Electro Ball", "Electroweb", "Encore", "Endure", "Facade", "Fling", "Frustration", "Giga Impact", "Grass Knot", "Gyro Ball", "Helping Hand", "Hidden Power", "Hyper Beam", "Iron Head", "Iron Tail", "Payback", "Pin Missile", "Poison Jab", "Protect", "Reflect", "Rest", "Return", "Reversal", "Round", "Sleep Talk", "Snore", "Substitute", "Swagger", "Swift", "Thief", "Thunder", "Thunder Wave", "Thunderbolt", "Toxic", "U Turn", "Volt Switch", "Wild Charge", "Work Up", "Zen Headbutt"]
         }
     },
-    "Mimikyu Busted": {
-        "Pokedex": {
-            "pokedex_number": "0778",
-            "type": "Ghost, Fairy",
-            "description": "'''Mimikyu Busted''' (Japanese: ミミッキュ) is a Ghost/Fairy-type Pokémon introduced in Generation VII, which is known as the 'Disguise Pokémon'. It is standing at 0.2 meters tall and weighing around 0.7 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
-        },
-        "Stats": {
-            "HP": 55,
-            "Atk": 90,
-            "Def": 80,
-            "Sp. Atk": 50,
-            "Sp. Def": 105,
-            "Speed": 96
-        },
-        "Defenses": {
-            "weaknesses": ["ghost", "steel"],
-            "resistances": ["bug"],
-            "immunities": ["dragon", "fighting", "normal"]
-        },
-        "Abilities": [
-            "Disguise"
-        ],
-        "Moves": {
-            "level_up": {
-                "Scratch": 1,
-                "Splash": 1,
-                "Astonish": 1,
-                "Copycat": 1,
-                "Wood Hammer": 1,
-                "Shadow Sneak": 6,
-                "Double Team": 12,
-                "Baby Doll Eyes": 18,
-                "Feint Attack": 23,
-                "Mimic": 24,
-                "Hone Claws": 30,
-                "Slash": 36,
-                "Shadow Claw": 42,
-                "Charm": 48,
-                "Play Rough": 54,
-                "Pain Split": 60
-            },
-            "tm": ["Attract", "Beat Up", "Bulk Up", "Burning Jealousy", "Charge Beam", "Charm", "Confide", "Confuse Ray", "Curse", "Dark Pulse", "Dazzling Gleam", "Double Team", "Drain Punch", "Draining Kiss", "Dream Eater", "Embargo", "Endure", "Facade", "Fling", "Frustration", "Giga Drain", "Giga Impact", "Hex", "Hidden Power", "Hyper Beam", "Infestation", "Leech Life", "Light Screen", "Magic Room", "Misty Terrain", "Night Shade", "Pain Split", "Payback", "Phantom Force", "Play Rough", "Pounce", "Protect", "Psych Up", "Psychic", "Rain Dance", "Rest", "Return", "Round", "Safeguard", "Screech", "Shadow Ball", "Shadow Claw", "Sleep Talk", "Snore", "Spite", "Substitute", "Sunny Day", "Surf", "Swagger", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Thief", "Thunder", "Thunder Wave", "Thunderbolt", "Toxic", "Trailblaze", "Trick", "Trick Room", "Will O Wisp", "Work Up", "X Scissor"]
-        }
-    },
     "Mimikyu Disguised": {
         "Pokedex": {
             "pokedex_number": "0778",
             "type": "Ghost, Fairy",
-            "description": "'''Mimikyu Disguised''' (Japanese: ミミッキュ) is a Ghost/Fairy-type Pokémon introduced in Generation VII, which is known as the 'Disguise Pokémon'. It is standing at 0.2 meters tall and weighing around 0.7 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Mimikyu Disguised''' (Japanese: ミミッキュ・ばけたすがた) is a Ghost/Fairy-type Pokémon introduced in Generation VII, which is known as the 'Disguise Pokémon'. It is standing at 0.2 meters tall and weighing around 0.7 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 55,
@@ -46118,6 +46074,50 @@
                 "Pain Split": 60
             },
             "tm": ["Attract", "Beat Up", "Bulk Up", "Burning Jealousy", "Charge Beam", "Charm", "Confide", "Confuse Ray", "Curse", "Dark Pulse", "Dazzling Gleam", "Double Team", "Drain Punch", "Draining Kiss", "Dream Eater", "Embargo", "Endure", "Facade", "Fling", "Frustration", "Giga Drain", "Giga Impact", "Hex", "Hidden Power", "Hyper Beam", "Infestation", "Leech Life", "Light Screen", "Magic Room", "Misty Terrain", "Night Shade", "Pain Split", "Payback", "Phantom Force", "Play Rough", "Pounce", "Protect", "Psych Up", "Psychic", "Rain Dance", "Rest", "Return", "Round", "Safeguard", "Screech", "Shadow Ball", "Shadow Claw", "Sleep Talk", "Snore", "Spite", "Substitute", "Sunny Day", "Swagger", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Thief", "Thunder", "Thunder Wave", "Thunderbolt", "Toxic", "Trailblaze", "Trick", "Trick Room", "Will O Wisp", "Work Up", "X Scissor"]
+        }
+    },
+    "Mimikyu Busted": {
+        "Pokedex": {
+            "pokedex_number": "0778",
+            "type": "Ghost, Fairy",
+            "description": "'''Mimikyu Busted''' (Japanese: ミミッキュ・ばれたすがた) is a Ghost/Fairy-type Pokémon introduced in Generation VII, which is known as the 'Disguise Pokémon'. It is standing at 0.2 meters tall and weighing around 0.7 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+        },
+        "Stats": {
+            "HP": 55,
+            "Atk": 90,
+            "Def": 80,
+            "Sp. Atk": 50,
+            "Sp. Def": 105,
+            "Speed": 96
+        },
+        "Defenses": {
+            "weaknesses": ["ghost", "steel"],
+            "resistances": ["bug"],
+            "immunities": ["dragon", "fighting", "normal"]
+        },
+        "Abilities": [
+            "Disguise"
+        ],
+        "Moves": {
+            "level_up": {
+                "Scratch": 1,
+                "Splash": 1,
+                "Astonish": 1,
+                "Copycat": 1,
+                "Wood Hammer": 1,
+                "Shadow Sneak": 6,
+                "Double Team": 12,
+                "Baby Doll Eyes": 18,
+                "Feint Attack": 23,
+                "Mimic": 24,
+                "Hone Claws": 30,
+                "Slash": 36,
+                "Shadow Claw": 42,
+                "Charm": 48,
+                "Play Rough": 54,
+                "Pain Split": 60
+            },
+            "tm": ["Attract", "Beat Up", "Bulk Up", "Burning Jealousy", "Charge Beam", "Charm", "Confide", "Confuse Ray", "Curse", "Dark Pulse", "Dazzling Gleam", "Double Team", "Drain Punch", "Draining Kiss", "Dream Eater", "Embargo", "Endure", "Facade", "Fling", "Frustration", "Giga Drain", "Giga Impact", "Hex", "Hidden Power", "Hyper Beam", "Infestation", "Leech Life", "Light Screen", "Magic Room", "Misty Terrain", "Night Shade", "Pain Split", "Payback", "Phantom Force", "Play Rough", "Pounce", "Protect", "Psych Up", "Psychic", "Rain Dance", "Rest", "Return", "Round", "Safeguard", "Screech", "Shadow Ball", "Shadow Claw", "Sleep Talk", "Snore", "Spite", "Substitute", "Sunny Day", "Surf", "Swagger", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Thief", "Thunder", "Thunder Wave", "Thunderbolt", "Toxic", "Trailblaze", "Trick", "Trick Room", "Will O Wisp", "Work Up", "X Scissor"]
         }
     },
     "Bruxish": {
@@ -47124,11 +47124,11 @@
             "tm": ["Aerial Ace", "Ally Switch", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Calm Mind", "Charge Beam", "Confide", "Cosmic Power", "Dark Pulse", "Double Team", "Dragon Dance", "Dragon Pulse", "Earth Power", "Earthquake", "Embargo", "Endure", "Expanding Force", "Facade", "Flash Cannon", "Fling", "Frustration", "Future Sight", "Giga Impact", "Gravity", "Gyro Ball", "Heat Wave", "Hidden Power", "Hyper Beam", "Hyper Voice", "Imprison", "Iron Defense", "Iron Head", "Knock Off", "Light Screen", "Metal Claw", "Meteor Beam", "Outrage", "Power Gem", "Protect", "Psychic", "Psychic Fangs", "Psycho Cut", "Psyshock", "Reflect", "Rest", "Return", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Shadow Claw", "Sleep Talk", "Smart Strike", "Snore", "Solar Beam", "Stealth Rock", "Stone Edge", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Tera Blast", "Thief", "Thunder Wave", "Toxic", "Trick Room", "X Scissor"]
         }
     },
-    "Necrozma Dawn Wings": {
+    "Dawn Wings Necrozma": {
         "Pokedex": {
             "pokedex_number": "0800",
             "type": "Psychic, Ghost",
-            "description": "'''Necrozma Dawn Wings''' (Japanese: ネクロズマ) is a Psychic/Ghost-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 4.2 meters tall and weighing around 350.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Dawn Wings Necrozma''' (Japanese: ネクロズマ・あかつきのつばさ) is a Psychic/Ghost-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 4.2 meters tall and weighing around 350.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 97,
@@ -47171,11 +47171,11 @@
             "tm": ["Aerial Ace", "Ally Switch", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Calm Mind", "Charge Beam", "Confide", "Cosmic Power", "Dark Pulse", "Double Team", "Dragon Dance", "Dragon Pulse", "Earth Power", "Earthquake", "Embargo", "Endure", "Expanding Force", "Facade", "Flash Cannon", "Fling", "Frustration", "Future Sight", "Giga Impact", "Gravity", "Gyro Ball", "Heat Wave", "Hidden Power", "Hyper Beam", "Hyper Voice", "Imprison", "Iron Defense", "Iron Head", "Knock Off", "Light Screen", "Metal Claw", "Meteor Beam", "Outrage", "Power Gem", "Protect", "Psychic", "Psychic Fangs", "Psycho Cut", "Psyshock", "Reflect", "Rest", "Return", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Shadow Claw", "Sleep Talk", "Smart Strike", "Snore", "Solar Beam", "Stealth Rock", "Stone Edge", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Tera Blast", "Thief", "Thunder Wave", "Toxic", "Trick Room", "X Scissor"]
         }
     },
-    "Necrozma Dusk Mane": {
+    "Dusk Mane Necrozma": {
         "Pokedex": {
             "pokedex_number": "0800",
             "type": "Psychic, Steel",
-            "description": "'''Necrozma Dusk Mane''' (Japanese: ネクロズマ) is a Psychic/Steel-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 3.8 meters tall and weighing around 460.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Dusk Mane Necrozma''' (Japanese: ネクロズマ・たそがれのたてがみ) is a Psychic/Steel-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 3.8 meters tall and weighing around 460.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 97,
@@ -47218,11 +47218,11 @@
             "tm": ["Aerial Ace", "Ally Switch", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Calm Mind", "Charge Beam", "Confide", "Cosmic Power", "Dark Pulse", "Double Team", "Dragon Dance", "Dragon Pulse", "Earth Power", "Earthquake", "Embargo", "Endure", "Expanding Force", "Facade", "Flash Cannon", "Fling", "Frustration", "Future Sight", "Giga Impact", "Gravity", "Gyro Ball", "Heat Wave", "Hidden Power", "Hyper Beam", "Hyper Voice", "Imprison", "Iron Defense", "Iron Head", "Knock Off", "Light Screen", "Metal Claw", "Meteor Beam", "Outrage", "Power Gem", "Protect", "Psychic", "Psychic Fangs", "Psycho Cut", "Psyshock", "Reflect", "Rest", "Return", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Shadow Claw", "Sleep Talk", "Smart Strike", "Snore", "Solar Beam", "Stealth Rock", "Stone Edge", "Stored Power", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Tera Blast", "Thief", "Thunder Wave", "Toxic", "Trick Room", "X Scissor"]
         }
     },
-    "Necrozma Ultra": {
+    "Ultra Necrozma": {
         "Pokedex": {
             "pokedex_number": "0800",
             "type": "Psychic, Dragon",
-            "description": "'''Necrozma Ultra''' (Japanese: ネクロズマ) is a Psychic/Dragon-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 7.5 meters tall and weighing around 230.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Ultra Necrozma''' (Japanese: ウルトラネクロズマ) is a Psychic/Dragon-type Pokémon introduced in Generation VII, which is known as the 'Prism Pokémon'. It is standing at 7.5 meters tall and weighing around 230.0 kilograms, with a black-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 97,
@@ -49534,7 +49534,7 @@
         "Pokedex": {
             "pokedex_number": "0845",
             "type": "Flying, Water",
-            "description": "'''Cramorant Gorging''' (Japanese: ウッウ) is a Flying/Water-type Pokémon introduced in Generation VIII, which is known as the 'Gulp Pokémon'. It is standing at 0.8 meters tall and weighing around 18.0 kilograms, with a blue-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Cramorant Gorging''' (Japanese: ウッウ・うのみのすがた) is a Flying/Water-type Pokémon introduced in Generation VIII, which is known as the 'Gulp Pokémon'. It is standing at 0.8 meters tall and weighing around 18.0 kilograms, with a blue-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 70,
@@ -49575,7 +49575,7 @@
         "Pokedex": {
             "pokedex_number": "0845",
             "type": "Flying, Water",
-            "description": "'''Cramorant Gulping''' (Japanese: ウッウ) is a Flying/Water-type Pokémon introduced in Generation VIII, which is known as the 'Gulp Pokémon'. It is standing at 0.8 meters tall and weighing around 18.0 kilograms, with a blue-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Cramorant Gulping''' (Japanese: ウッウ・まるのみのすがた) is a Flying/Water-type Pokémon introduced in Generation VIII, which is known as the 'Gulp Pokémon'. It is standing at 0.8 meters tall and weighing around 18.0 kilograms, with a blue-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 70,
@@ -49733,7 +49733,7 @@
         "Pokedex": {
             "pokedex_number": "0849",
             "type": "Electric, Poison",
-            "description": "'''Toxtricity Amped''' (Japanese: ストリンダー) is a Electric/Poison-type Pokémon introduced in Generation VIII, which is known as the 'Punk Pokémon'. It is standing at 1.6 meters tall and weighing around 40.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Toxtricity Amped''' (Japanese: ストリンダー・ハイなすがた) is a Electric/Poison-type Pokémon introduced in Generation VIII, which is known as the 'Punk Pokémon'. It is standing at 1.6 meters tall and weighing around 40.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 75,
@@ -49788,7 +49788,7 @@
         "Pokedex": {
             "pokedex_number": "0849",
             "type": "Electric, Poison",
-            "description": "'''Toxtricity Low Key''' (Japanese: ストリンダー) is a Electric/Poison-type Pokémon introduced in Generation VIII, which is known as the 'Punk Pokémon'. It is standing at 1.6 meters tall and weighing around 40.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Toxtricity Low Key''' (Japanese: ストリンダー・ローなすがた) is a Electric/Poison-type Pokémon introduced in Generation VIII, which is known as the 'Punk Pokémon'. It is standing at 1.6 meters tall and weighing around 40.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 75,
@@ -51122,7 +51122,7 @@
         "Pokedex": {
             "pokedex_number": "0875",
             "type": "Ice",
-            "description": "'''Eiscue Ice Face''' (Japanese: コオリッポ) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Eiscue Ice Face''' (Japanese: コオリッポ・アイスフェイス) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 75,
@@ -51163,7 +51163,7 @@
         "Pokedex": {
             "pokedex_number": "0875",
             "type": "Ice",
-            "description": "'''Eiscue Noice Face''' (Japanese: コオリッポ) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Eiscue Noice Face''' (Japanese: コオリッポ・ナイスフェイス) is a Ice-type Pokémon introduced in Generation VIII, which is known as the 'Penguin Pokémon'. It is standing at 1.4 meters tall and weighing around 89.0 kilograms, with a blue-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 75,
@@ -51200,54 +51200,11 @@
             "tm": ["Agility", "Amnesia", "Attract", "Avalanche", "Blizzard", "Body Slam", "Brine", "Chilling Water", "Dive", "Double Edge", "Endure", "Facade", "Feather Dance", "Flip Turn", "Giga Impact", "Hail", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Punch", "Ice Spinner", "Icicle Spear", "Icy Wind", "Iron Defense", "Iron Head", "Liquidation", "Protect", "Rain Dance", "Reflect", "Rest", "Reversal", "Round", "Sleep Talk", "Snore", "Snowscape", "Substitute", "Surf", "Take Down", "Tera Blast", "Water Pulse", "Waterfall", "Weather Ball", "Whirlpool", "Zen Headbutt"]
         }
     },
-    "Indeedee Female": {
-        "Pokedex": {
-            "pokedex_number": "0876",
-            "type": "Psychic, Normal",
-            "description": "'''Indeedee Female''' (Japanese: イエッサン) is a Psychic/Normal-type Pokémon introduced in Generation VIII, which is known as the 'Emotion Pokémon'. It is standing at 0.9 meters tall and weighing around 28.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
-        },
-        "Stats": {
-            "HP": 70,
-            "Atk": 55,
-            "Def": 65,
-            "Sp. Atk": 95,
-            "Sp. Def": 105,
-            "Speed": 85
-        },
-        "Defenses": {
-            "weaknesses": ["bug", "dark"],
-            "resistances": ["psychic"],
-            "immunities": ["ghost"]
-        },
-        "Abilities": [
-            "Own Tempo",
-            "Synchronize",
-            "Psychic Surge"
-        ],
-        "Moves": {
-            "level_up": {
-                "Stored Power": 1,
-                "Play Nice": 1,
-                "Baton Pass": 5,
-                "Disarming Voice": 10,
-                "Psybeam": 15,
-                "Helping Hand": 20,
-                "Follow Me": 25,
-                "Aromatherapy": 30,
-                "Healing Wish": 30,
-                "Psychic": 35,
-                "Calm Mind": 40,
-                "Guard Split": 45,
-                "Psychic Terrain": 50
-            },
-            "tm": ["Ally Switch", "Attract", "Baton Pass", "Body Slam", "Calm Mind", "Charm", "Dazzling Gleam", "Disarming Voice", "Drain Punch", "Draining Kiss", "Endure", "Energy Ball", "Expanding Force", "Facade", "Future Sight", "Gravity", "Guard Swap", "Helping Hand", "Hyper Voice", "Imprison", "Light Screen", "Magical Leaf", "Metronome", "Mystical Fire", "Pay Day", "Play Rough", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Reflect", "Rest", "Round", "Safeguard", "Shadow Ball", "Skill Swap", "Sleep Talk", "Snore", "Stored Power", "Substitute", "Swift", "Take Down", "Tera Blast", "Trick", "Trick Room", "Zen Headbutt"]
-        }
-    },
     "Indeedee": {
         "Pokedex": {
             "pokedex_number": "0876",
             "type": "Psychic, Normal",
-            "description": "'''Indeedee Male''' (Japanese: イエッサン) is a Psychic/Normal-type Pokémon introduced in Generation VIII, which is known as the 'Emotion Pokémon'. It is standing at 0.9 meters tall and weighing around 28.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Indeedee Male''' (Japanese: イエッサン・オスのすがた) is a Psychic/Normal-type Pokémon introduced in Generation VIII, which is known as the 'Emotion Pokémon'. It is standing at 0.9 meters tall and weighing around 28.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 60,
@@ -51287,11 +51244,54 @@
             "tm": ["Ally Switch", "Attract", "Body Slam", "Calm Mind", "Dazzling Gleam", "Disarming Voice", "Drain Punch", "Draining Kiss", "Encore", "Endure", "Energy Ball", "Expanding Force", "Facade", "Future Sight", "Gravity", "Helping Hand", "Hyper Voice", "Imprison", "Magic Room", "Magical Leaf", "Metronome", "Mystical Fire", "Pay Day", "Play Rough", "Power Swap", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rest", "Round", "Shadow Ball", "Skill Swap", "Sleep Talk", "Snore", "Stored Power", "Substitute", "Swift", "Take Down", "Tera Blast", "Tri Attack", "Trick", "Trick Room", "Wonder Room", "Zen Headbutt"]
         }
     },
+    "Indeedee Female": {
+        "Pokedex": {
+            "pokedex_number": "0876",
+            "type": "Psychic, Normal",
+            "description": "'''Indeedee Female''' (Japanese: イエッサン・メスのすがた) is a Psychic/Normal-type Pokémon introduced in Generation VIII, which is known as the 'Emotion Pokémon'. It is standing at 0.9 meters tall and weighing around 28.0 kilograms, with a purple-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+        },
+        "Stats": {
+            "HP": 70,
+            "Atk": 55,
+            "Def": 65,
+            "Sp. Atk": 95,
+            "Sp. Def": 105,
+            "Speed": 85
+        },
+        "Defenses": {
+            "weaknesses": ["bug", "dark"],
+            "resistances": ["psychic"],
+            "immunities": ["ghost"]
+        },
+        "Abilities": [
+            "Own Tempo",
+            "Synchronize",
+            "Psychic Surge"
+        ],
+        "Moves": {
+            "level_up": {
+                "Stored Power": 1,
+                "Play Nice": 1,
+                "Baton Pass": 5,
+                "Disarming Voice": 10,
+                "Psybeam": 15,
+                "Helping Hand": 20,
+                "Follow Me": 25,
+                "Aromatherapy": 30,
+                "Healing Wish": 30,
+                "Psychic": 35,
+                "Calm Mind": 40,
+                "Guard Split": 45,
+                "Psychic Terrain": 50
+            },
+            "tm": ["Ally Switch", "Attract", "Baton Pass", "Body Slam", "Calm Mind", "Charm", "Dazzling Gleam", "Disarming Voice", "Drain Punch", "Draining Kiss", "Endure", "Energy Ball", "Expanding Force", "Facade", "Future Sight", "Gravity", "Guard Swap", "Helping Hand", "Hyper Voice", "Imprison", "Light Screen", "Magical Leaf", "Metronome", "Mystical Fire", "Pay Day", "Play Rough", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Noise", "Psychic Terrain", "Psyshock", "Reflect", "Rest", "Round", "Safeguard", "Shadow Ball", "Skill Swap", "Sleep Talk", "Snore", "Stored Power", "Substitute", "Swift", "Take Down", "Tera Blast", "Trick", "Trick Room", "Zen Headbutt"]
+        }
+    },
     "Morpeko": {
         "Pokedex": {
             "pokedex_number": "0877",
             "type": "Electric, Dark",
-            "description": "'''Morpeko Full Belly''' (Japanese: モルペコ) is a Electric/Dark-type Pokémon introduced in Generation VIII, which is known as the 'Two-Sided Pokémon'. It is standing at 0.3 meters tall and weighing around 3.0 kilograms, with a yellow-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Morpeko Full Belly''' (Japanese: モルペコ・まんぷくもよう) is a Electric/Dark-type Pokémon introduced in Generation VIII, which is known as the 'Two-Sided Pokémon'. It is standing at 0.3 meters tall and weighing around 3.0 kilograms, with a yellow-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 58,
@@ -51333,7 +51333,7 @@
         "Pokedex": {
             "pokedex_number": "0877",
             "type": "Electric, Dark",
-            "description": "'''Morpeko Hangry''' (Japanese: モルペコ) is a Electric/Dark-type Pokémon introduced in Generation VIII, which is known as the 'Two-Sided Pokémon'. It is standing at 0.3 meters tall and weighing around 3.0 kilograms, with a yellow-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Morpeko Hangry''' (Japanese: モルペコ・はらぺこもよう) is a Electric/Dark-type Pokémon introduced in Generation VIII, which is known as the 'Two-Sided Pokémon'. It is standing at 0.3 meters tall and weighing around 3.0 kilograms, with a yellow-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 58,
@@ -51863,7 +51863,7 @@
         "Pokedex": {
             "pokedex_number": "0888",
             "type": "Fairy",
-            "description": "'''Zacian Hero of Many Battles''' (Japanese: ザシアン) is a Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.8 meters tall and weighing around 110.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Zacian Hero of Many Battles''' (Japanese: ザシアン・れきせんのゆうしゃ) is a Fairy-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.8 meters tall and weighing around 110.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 92,
@@ -51906,7 +51906,7 @@
         "Pokedex": {
             "pokedex_number": "0888",
             "type": "Fairy, Steel",
-            "description": "'''Zacian Crowned''' (Japanese: ザシアン) is a Fairy/Steel-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.8 meters tall and weighing around 355.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Zacian Crowned Sword''' (Japanese: ザシアン・けんのおう) is a Fairy/Steel-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.8 meters tall and weighing around 355.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 92,
@@ -51949,7 +51949,7 @@
         "Pokedex": {
             "pokedex_number": "0889",
             "type": "Fighting",
-            "description": "'''Zamazenta Hero of Many Battles''' (Japanese: ザマゼンタ) is a Fighting-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.9 meters tall and weighing around 210.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Zamazenta Hero of Many Battles''' (Japanese: ザマゼンタ・れきせんのゆうしゃ) is a Fighting-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.9 meters tall and weighing around 210.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 92,
@@ -51991,7 +51991,7 @@
         "Pokedex": {
             "pokedex_number": "0889",
             "type": "Fighting, Steel",
-            "description": "'''Zamazenta Crowned''' (Japanese: ザマゼンタ) is a Fighting/Steel-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.9 meters tall and weighing around 785.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Zamazenta Crowned Shield''' (Japanese: ザマゼンタ・たてのおう) is a Fighting/Steel-type Pokémon introduced in Generation VIII, which is known as the 'Warrior Pokémon'. It is standing at 2.9 meters tall and weighing around 785.0 kilograms, with a red-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 92,
@@ -52073,11 +52073,11 @@
             "tm": ["Agility", "Assurance", "Body Slam", "Brutal Swing", "Confuse Ray", "Cosmic Power", "Cross Poison", "Draco Meteor", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Endure", "Facade", "Fire Blast", "Fire Spin", "Flamethrower", "Flash Cannon", "Fly", "Giga Impact", "Gravity", "Gunk Shot", "Hyper Beam", "Light Screen", "Meteor Beam", "Mystical Fire", "Outrage", "Payback", "Poison Jab", "Poison Tail", "Protect", "Rain Dance", "Reflect", "Rest", "Round", "Scary Face", "Screech", "Shadow Ball", "Sleep Talk", "Sludge Bomb", "Sludge Wave", "Snore", "Solar Beam", "Substitute", "Sunny Day", "Take Down", "Tera Blast", "Toxic", "Toxic Spikes", "Venom Drench", "Venoshock"]
         }
     },
-    "Eternamax Eternatus Eternamax": {
+    "Eternatus Eternamax": {
         "Pokedex": {
             "pokedex_number": "0890",
             "type": "Poison, Dragon",
-            "description": "'''Eternamax Eternatus Eternamax''' (Japanese: ムゲンダイナ) is a Poison/Dragon-type Pokémon introduced in Generation VIII, which is known as the 'Gigantic Pokémon'. It is standing at 100.0 meters tall and weighing around 0.0 kilograms, with a purple-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Eternatus Eternamax''' (Japanese: ムゲンダイナ・ムゲンダイマックス) is a Poison/Dragon-type Pokémon introduced in Generation VIII, which is known as the 'Gigantic Pokémon'. It is standing at 100.0 meters tall and weighing around 0.0 kilograms, with a purple-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 255,
@@ -52159,56 +52159,11 @@
             "tm": ["Acrobatics", "Aerial Ace", "Attract", "Body Slam", "Brick Break", "Bulk Up", "Close Combat", "Dig", "Double Edge", "Endure", "Facade", "Fire Punch", "Fling", "Focus Energy", "Focus Punch", "Helping Hand", "Ice Punch", "Iron Head", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Metal Claw", "Protect", "Rest", "Retaliate", "Revenge", "Reversal", "Round", "Scary Face", "Sleep Talk", "Snore", "Substitute", "Superpower", "Swords Dance", "Take Down", "Tera Blast", "Thunder Punch", "U Turn", "Work Up", "Zen Headbutt"]
         }
     },
-    "Urshifu Rapid Strike": {
-        "Pokedex": {
-            "pokedex_number": "0892",
-            "type": "Fighting, Water",
-            "description": "'''Urshifu Rapid Strike''' (Japanese: ウーラオス) is a Fighting/Water-type Pokémon introduced in Generation VIII, which is known as the 'Wushu Pokémon'. It is standing at 1.9 meters tall and weighing around 105.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
-        },
-        "Stats": {
-            "HP": 100,
-            "Atk": 130,
-            "Def": 100,
-            "Sp. Atk": 63,
-            "Sp. Def": 60,
-            "Speed": 97
-        },
-        "Defenses": {
-            "weaknesses": ["electric", "fairy", "flying", "grass", "psychic"],
-            "resistances": ["bug", "dark", "fire", "ice", "rock", "steel", "water"],
-            "immunities": []
-        },
-        "Abilities": [
-            "Unseen Fist"
-        ],
-        "Moves": {
-            "level_up": {
-                "Surging Strikes": 0,
-                "Leer": 1,
-                "Focus Energy": 1,
-                "Endure": 1,
-                "Rock Smash": 1,
-                "Aqua Jet": 1,
-                "Aerial Ace": 12,
-                "Scary Face": 16,
-                "Headbutt": 20,
-                "Brick Break": 24,
-                "Detect": 28,
-                "Bulk Up": 32,
-                "Iron Head": 36,
-                "Dynamic Punch": 40,
-                "Counter": 44,
-                "Close Combat": 48,
-                "Focus Punch": 52
-            },
-            "tm": ["Acrobatics", "Aerial Ace", "Attract", "Aura Sphere", "Body Press", "Body Slam", "Brick Break", "Brine", "Bulk Up", "Chilling Water", "Close Combat", "Coaching", "Dig", "Dive", "Double Edge", "Drain Punch", "Endure", "Facade", "False Swipe", "Fire Punch", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Giga Impact", "Helping Hand", "Ice Punch", "Ice Spinner", "Iron Defense", "Iron Head", "Liquidation", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Poison Jab", "Protect", "Rain Dance", "Rest", "Retaliate", "Revenge", "Reversal", "Rock Slide", "Rock Tomb", "Round", "Scald", "Scary Face", "Sleep Talk", "Snore", "Stone Edge", "Substitute", "Superpower", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Thunder Punch", "Trailblaze", "U Turn", "Waterfall", "Whirlpool", "Work Up", "Zen Headbutt"]
-        }
-    },
-    "Urshifu": {
+    "Urshifu Single Strike": {
         "Pokedex": {
             "pokedex_number": "0892",
             "type": "Fighting, Dark",
-            "description": "'''Urshifu Single Strike''' (Japanese: ウーラオス) is a Fighting/Dark-type Pokémon introduced in Generation VIII, which is known as the 'Wushu Pokémon'. It is standing at 1.9 meters tall and weighing around 105.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Urshifu Single Strike''' (Japanese: ウーラオス・いちげきのかた) is a Fighting/Dark-type Pokémon introduced in Generation VIII, which is known as the 'Wushu Pokémon'. It is standing at 1.9 meters tall and weighing around 105.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,
@@ -52247,6 +52202,51 @@
                 "Focus Punch": 52
             },
             "tm": ["Acrobatics", "Aerial Ace", "Assurance", "Attract", "Aura Sphere", "Beat Up", "Body Press", "Body Slam", "Brick Break", "Bulk Up", "Close Combat", "Coaching", "Crunch", "Dark Pulse", "Darkest Lariat", "Dig", "Double Edge", "Drain Punch", "Endure", "Facade", "False Swipe", "Fire Punch", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Foul Play", "Giga Impact", "Helping Hand", "Ice Punch", "Iron Defense", "Iron Head", "Lash Out", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Metal Claw", "Payback", "Poison Jab", "Protect", "Rest", "Retaliate", "Revenge", "Reversal", "Roar", "Rock Slide", "Rock Tomb", "Round", "Scary Face", "Sleep Talk", "Snarl", "Snore", "Stone Edge", "Substitute", "Superpower", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Throat Chop", "Thunder Punch", "Trailblaze", "U Turn", "Work Up", "Zen Headbutt"]
+        }
+    },
+    "Urshifu Rapid Strike": {
+        "Pokedex": {
+            "pokedex_number": "0892",
+            "type": "Fighting, Water",
+            "description": "'''Urshifu Rapid Strike''' (Japanese: ウーラオス・れんげきのかた) is a Fighting/Water-type Pokémon introduced in Generation VIII, which is known as the 'Wushu Pokémon'. It is standing at 1.9 meters tall and weighing around 105.0 kilograms, with a gray-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+        },
+        "Stats": {
+            "HP": 100,
+            "Atk": 130,
+            "Def": 100,
+            "Sp. Atk": 63,
+            "Sp. Def": 60,
+            "Speed": 97
+        },
+        "Defenses": {
+            "weaknesses": ["electric", "fairy", "flying", "grass", "psychic"],
+            "resistances": ["bug", "dark", "fire", "ice", "rock", "steel", "water"],
+            "immunities": []
+        },
+        "Abilities": [
+            "Unseen Fist"
+        ],
+        "Moves": {
+            "level_up": {
+                "Surging Strikes": 0,
+                "Leer": 1,
+                "Focus Energy": 1,
+                "Endure": 1,
+                "Rock Smash": 1,
+                "Aqua Jet": 1,
+                "Aerial Ace": 12,
+                "Scary Face": 16,
+                "Headbutt": 20,
+                "Brick Break": 24,
+                "Detect": 28,
+                "Bulk Up": 32,
+                "Iron Head": 36,
+                "Dynamic Punch": 40,
+                "Counter": 44,
+                "Close Combat": 48,
+                "Focus Punch": 52
+            },
+            "tm": ["Acrobatics", "Aerial Ace", "Attract", "Aura Sphere", "Body Press", "Body Slam", "Brick Break", "Brine", "Bulk Up", "Chilling Water", "Close Combat", "Coaching", "Dig", "Dive", "Double Edge", "Drain Punch", "Endure", "Facade", "False Swipe", "Fire Punch", "Fling", "Focus Blast", "Focus Energy", "Focus Punch", "Giga Impact", "Helping Hand", "Ice Punch", "Ice Spinner", "Iron Defense", "Iron Head", "Liquidation", "Low Kick", "Low Sweep", "Mega Kick", "Mega Punch", "Poison Jab", "Protect", "Rain Dance", "Rest", "Retaliate", "Revenge", "Reversal", "Rock Slide", "Rock Tomb", "Round", "Scald", "Scary Face", "Sleep Talk", "Snore", "Stone Edge", "Substitute", "Superpower", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Thunder Punch", "Trailblaze", "U Turn", "Waterfall", "Whirlpool", "Work Up", "Zen Headbutt"]
         }
     },
     "Gigantamax Urshifu Rapid Strike": {
@@ -52352,7 +52352,7 @@
         "Pokedex": {
             "pokedex_number": "0893",
             "type": "Dark, Grass",
-            "description": "'''Zarude Dada''' (Japanese: ザルード) is a Dark/Grass-type Pokémon introduced in Generation VIII, which is known as the 'Rogue Monkey Pokémon'. It is standing at 1.8 meters tall and weighing around 70.0 kilograms, with a green-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Zarude Dada''' (Japanese: ザルード・とうちゃん) is a Dark/Grass-type Pokémon introduced in Generation VIII, which is known as the 'Rogue Monkey Pokémon'. It is standing at 1.8 meters tall and weighing around 70.0 kilograms, with a green-colored body and a upright appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 105,
@@ -52612,7 +52612,7 @@
         "Pokedex": {
             "pokedex_number": "0898",
             "type": "Psychic, Ice",
-            "description": "'''Calyrex Ice Rider''' (Japanese: バドレックス) is a Psychic/Ice-type Pokémon introduced in Generation VIII, which is known as the 'King Pokémon'. It is standing at 2.4 meters tall and weighing around 809.1 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Calyrex Ice Rider''' (Japanese: バドレックス・はくばじょうのすがた) is a Psychic/Ice-type Pokémon introduced in Generation VIII, which is known as the 'King Pokémon'. It is standing at 2.4 meters tall and weighing around 809.1 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,
@@ -52671,7 +52671,7 @@
         "Pokedex": {
             "pokedex_number": "0898",
             "type": "Psychic, Ghost",
-            "description": "'''Calyrex Shadow Rider''' (Japanese: バドレックス) is a Psychic/Ghost-type Pokémon introduced in Generation VIII, which is known as the 'King Pokémon'. It is standing at 2.4 meters tall and weighing around 53.6 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Calyrex Shadow Rider''' (Japanese: バドレックス・こくばじょうのすがた) is a Psychic/Ghost-type Pokémon introduced in Generation VIII, which is known as the 'King Pokémon'. It is standing at 2.4 meters tall and weighing around 53.6 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,
@@ -52879,7 +52879,7 @@
         "Pokedex": {
             "pokedex_number": "0901",
             "type": "Ground, Normal",
-            "description": "'''Ursaluna Bloodmoon''' (Japanese: ガチグマ) is a Ground/Normal-type Pokémon introduced in Generation VIII, which is known as the 'Peat Pokémon'. It is standing at 2.4 meters tall and weighing around 290.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Ursaluna Bloodmoon''' (Japanese: ガチグマ・アカツキ) is a Ground/Normal-type Pokémon introduced in Generation VIII, which is known as the 'Peat Pokémon'. It is standing at 2.4 meters tall and weighing around 290.0 kilograms, with a brown-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 113,
@@ -52919,59 +52919,11 @@
             "tm": ["Aerial Ace", "Avalanche", "Body Press", "Body Slam", "Brick Break", "Bulk Up", "Bulldoze", "Calm Mind", "Charm", "Close Combat", "Crunch", "Dig", "Double Edge", "Drain Punch", "Earth Power", "Earthquake", "Endure", "Facade", "Fake Tears", "Fire Punch", "Fling", "Focus Blast", "Focus Punch", "Giga Impact", "Gunk Shot", "Hard Press", "Heavy Slam", "Helping Hand", "High Horsepower", "Hyper Beam", "Hyper Voice", "Ice Punch", "Low Kick", "Metal Claw", "Metronome", "Mud Shot", "Play Rough", "Protect", "Rain Dance", "Rest", "Roar", "Rock Slide", "Rock Tomb", "Scary Face", "Seed Bomb", "Shadow Claw", "Sleep Talk", "Smack Down", "Snarl", "Stomping Tantrum", "Stone Edge", "Substitute", "Sunny Day", "Swift", "Swords Dance", "Take Down", "Taunt", "Tera Blast", "Thief", "Thunder Punch", "Trailblaze", "Uproar", "Vacuum Wave"]
         }
     },
-    "Basculegion Female": {
-        "Pokedex": {
-            "pokedex_number": "0902",
-            "type": "Water, Ghost",
-            "description": "'''Basculegion Female''' (Japanese: イダイトウ) is a Water/Ghost-type Pokémon introduced in Generation VIII, which is known as the 'Big Fish Pokémon'. It is standing at 3.0 meters tall and weighing around 110.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
-        },
-        "Stats": {
-            "HP": 120,
-            "Atk": 92,
-            "Def": 65,
-            "Sp. Atk": 100,
-            "Sp. Def": 75,
-            "Speed": 78
-        },
-        "Defenses": {
-            "weaknesses": ["dark", "electric", "ghost", "grass"],
-            "resistances": ["bug", "fire", "ice", "poison", "steel", "water"],
-            "immunities": ["fighting", "normal"]
-        },
-        "Abilities": [
-            "Swift Swim",
-            "Adaptability",
-            "Mold Breaker"
-        ],
-        "Moves": {
-            "level_up": {
-                "Tail Whip": 1,
-                "Water Gun": 1,
-                "Shadow Ball": 1,
-                "Phantom Force": 1,
-                "Tackle": 4,
-                "Flail": 8,
-                "Aqua Jet": 12,
-                "Bite": 16,
-                "Scary Face": 20,
-                "Headbutt": 24,
-                "Soak": 28,
-                "Crunch": 32,
-                "Take Down": 36,
-                "Uproar": 40,
-                "Wave Crash": 44,
-                "Thrash": 48,
-                "Double Edge": 52,
-                "Head Smash": 56
-            },
-            "tm": ["Agility", "Blizzard", "Chilling Water", "Confuse Ray", "Crunch", "Double Edge", "Endeavor", "Facade", "Flip Turn", "Giga Impact", "Hex", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Liquidation", "Mud Shot", "Muddy Water", "Night Shade", "Outrage", "Pain Split", "Phantom Force", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Scale Shot", "Scary Face", "Shadow Ball", "Sleep Talk", "Snowscape", "Spite", "Substitute", "Surf", "Take Down", "Tera Blast", "Uproar", "Water Pulse", "Waterfall", "Whirlpool"]
-        }
-    },
     "Basculegion": {
         "Pokedex": {
             "pokedex_number": "0902",
             "type": "Water, Ghost",
-            "description": "'''Basculegion Male''' (Japanese: イダイトウ) is a Water/Ghost-type Pokémon introduced in Generation VIII, which is known as the 'Big Fish Pokémon'. It is standing at 3.0 meters tall and weighing around 110.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Basculegion Male''' (Japanese: イダイトウ・オスのすがた) is a Water/Ghost-type Pokémon introduced in Generation VIII, which is known as the 'Big Fish Pokémon'. It is standing at 3.0 meters tall and weighing around 110.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 120,
@@ -53003,6 +52955,54 @@
                 "Aqua Jet": 12,
                 "Bite": 16,
                 "Zen Headbutt": 18,
+                "Scary Face": 20,
+                "Headbutt": 24,
+                "Soak": 28,
+                "Crunch": 32,
+                "Take Down": 36,
+                "Uproar": 40,
+                "Wave Crash": 44,
+                "Thrash": 48,
+                "Double Edge": 52,
+                "Head Smash": 56
+            },
+            "tm": ["Agility", "Blizzard", "Chilling Water", "Confuse Ray", "Crunch", "Double Edge", "Endeavor", "Facade", "Flip Turn", "Giga Impact", "Hex", "Hydro Pump", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Liquidation", "Mud Shot", "Muddy Water", "Night Shade", "Outrage", "Pain Split", "Phantom Force", "Protect", "Psychic Fangs", "Rain Dance", "Rest", "Scale Shot", "Scary Face", "Shadow Ball", "Sleep Talk", "Snowscape", "Spite", "Substitute", "Surf", "Take Down", "Tera Blast", "Uproar", "Water Pulse", "Waterfall", "Whirlpool"]
+        }
+    },
+    "Basculegion Female": {
+        "Pokedex": {
+            "pokedex_number": "0902",
+            "type": "Water, Ghost",
+            "description": "'''Basculegion Female''' (Japanese: イダイトウ・メスのすがた) is a Water/Ghost-type Pokémon introduced in Generation VIII, which is known as the 'Big Fish Pokémon'. It is standing at 3.0 meters tall and weighing around 110.0 kilograms, with a green-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+        },
+        "Stats": {
+            "HP": 120,
+            "Atk": 92,
+            "Def": 65,
+            "Sp. Atk": 100,
+            "Sp. Def": 75,
+            "Speed": 78
+        },
+        "Defenses": {
+            "weaknesses": ["dark", "electric", "ghost", "grass"],
+            "resistances": ["bug", "fire", "ice", "poison", "steel", "water"],
+            "immunities": ["fighting", "normal"]
+        },
+        "Abilities": [
+            "Swift Swim",
+            "Adaptability",
+            "Mold Breaker"
+        ],
+        "Moves": {
+            "level_up": {
+                "Tail Whip": 1,
+                "Water Gun": 1,
+                "Shadow Ball": 1,
+                "Phantom Force": 1,
+                "Tackle": 4,
+                "Flail": 8,
+                "Aqua Jet": 12,
+                "Bite": 16,
                 "Scary Face": 20,
                 "Headbutt": 24,
                 "Soak": 28,
@@ -53121,7 +53121,7 @@
         "Pokedex": {
             "pokedex_number": "0905",
             "type": "Fairy, Flying",
-            "description": "'''Enamorus Incarnate''' (Japanese: ラブトロス) is a Fairy/Flying-type Pokémon introduced in Generation VIII, which is known as the 'Love-Hate Pokémon'. It is standing at 1.6 meters tall and weighing around 48.0 kilograms, with a pink-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Enamorus Incarnate''' (Japanese: ラブトロス・インカーネイト) is a Fairy/Flying-type Pokémon introduced in Generation VIII, which is known as the 'Love-Hate Pokémon'. It is standing at 1.6 meters tall and weighing around 48.0 kilograms, with a pink-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 74,
@@ -53170,7 +53170,7 @@
         "Pokedex": {
             "pokedex_number": "0905",
             "type": "Fairy, Flying",
-            "description": "'''Enamorus Therian''' (Japanese: ラブトロス) is a Fairy/Flying-type Pokémon introduced in Generation VIII, which is known as the 'Love-Hate Pokémon'. It is standing at 1.6 meters tall and weighing around 48.0 kilograms, with a pink-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Enamorus Therian''' (Japanese: ラブトロス・セリアン) is a Fairy/Flying-type Pokémon introduced in Generation VIII, which is known as the 'Love-Hate Pokémon'. It is standing at 1.6 meters tall and weighing around 48.0 kilograms, with a pink-colored body and a arms appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 74,
@@ -53650,56 +53650,11 @@
             "tm": ["Body Slam", "Bulldoze", "Bullet Seed", "Chilling Water", "Curse", "Dig", "Disarming Voice", "Double Edge", "Endeavor", "Endure", "Facade", "Helping Hand", "Hyper Voice", "Iron Head", "Mud Shot", "Mud Slap", "Play Rough", "Protect", "Rain Dance", "Rest", "Seed Bomb", "Sleep Talk", "Substitute", "Sunny Day", "Super Fang", "Take Down", "Tera Blast", "Thief", "Trailblaze", "Uproar", "Zen Headbutt"]
         }
     },
-    "Oinkologne Female": {
-        "Pokedex": {
-            "pokedex_number": "0916",
-            "type": "Normal",
-            "description": "'''Oinkologne Female''' (Japanese: パフュートン) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Hog Pokémon'. It is standing at 1.0 meters tall and weighing around 120.0 kilograms, with a gray-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
-        },
-        "Stats": {
-            "HP": 115,
-            "Atk": 90,
-            "Def": 70,
-            "Sp. Atk": 59,
-            "Sp. Def": 90,
-            "Speed": 65
-        },
-        "Defenses": {
-            "weaknesses": ["fighting"],
-            "resistances": [],
-            "immunities": ["ghost"]
-        },
-        "Abilities": [
-            "Aroma Veil",
-            "Gluttony",
-            "Thick Fat"
-        ],
-        "Moves": {
-            "level_up": {
-                "Tackle": 1,
-                "Tail Whip": 1,
-                "Disarming Voice": 3,
-                "Echoed Voice": 6,
-                "Mud Shot": 9,
-                "Covet": 12,
-                "Dig": 15,
-                "Headbutt": 17,
-                "Yawn": 23,
-                "Take Down": 28,
-                "Work Up": 30,
-                "Uproar": 34,
-                "Double Edge": 39,
-                "Earth Power": 45,
-                "Belch": 51
-            },
-            "tm": ["Body Press", "Body Slam", "Bulldoze", "Bullet Seed", "Chilling Water", "Curse", "Dig", "Disarming Voice", "Double Edge", "Earth Power", "Endeavor", "Endure", "Energy Ball", "Facade", "Giga Impact", "Helping Hand", "High Horsepower", "Hyper Beam", "Hyper Voice", "Iron Head", "Lash Out", "Mud Shot", "Mud Slap", "Play Rough", "Protect", "Rain Dance", "Rest", "Seed Bomb", "Sleep Talk", "Stomping Tantrum", "Substitute", "Sunny Day", "Super Fang", "Take Down", "Tera Blast", "Thief", "Trailblaze", "Uproar", "Zen Headbutt"]
-        }
-    },
     "Oinkologne": {
         "Pokedex": {
             "pokedex_number": "0916",
             "type": "Normal",
-            "description": "'''Oinkologne''' (Japanese: パフュートン) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Hog Pokémon'. It is standing at 1.0 meters tall and weighing around 120.0 kilograms, with a gray-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Oinkologne Male''' (Japanese: パフュートン・オスのすがた) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Hog Pokémon'. It is standing at 1.0 meters tall and weighing around 120.0 kilograms, with a gray-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 110,
@@ -53736,6 +53691,51 @@
                 "Double Edge": 42,
                 "Earth Power": 48,
                 "Belch": 54
+            },
+            "tm": ["Body Press", "Body Slam", "Bulldoze", "Bullet Seed", "Chilling Water", "Curse", "Dig", "Disarming Voice", "Double Edge", "Earth Power", "Endeavor", "Endure", "Energy Ball", "Facade", "Giga Impact", "Helping Hand", "High Horsepower", "Hyper Beam", "Hyper Voice", "Iron Head", "Lash Out", "Mud Shot", "Mud Slap", "Play Rough", "Protect", "Rain Dance", "Rest", "Seed Bomb", "Sleep Talk", "Stomping Tantrum", "Substitute", "Sunny Day", "Super Fang", "Take Down", "Tera Blast", "Thief", "Trailblaze", "Uproar", "Zen Headbutt"]
+        }
+    },
+    "Oinkologne Female": {
+        "Pokedex": {
+            "pokedex_number": "0916",
+            "type": "Normal",
+            "description": "'''Oinkologne Female''' (Japanese: パフュートン・メスのすがた) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Hog Pokémon'. It is standing at 1.0 meters tall and weighing around 120.0 kilograms, with a gray-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+        },
+        "Stats": {
+            "HP": 115,
+            "Atk": 90,
+            "Def": 70,
+            "Sp. Atk": 59,
+            "Sp. Def": 90,
+            "Speed": 65
+        },
+        "Defenses": {
+            "weaknesses": ["fighting"],
+            "resistances": [],
+            "immunities": ["ghost"]
+        },
+        "Abilities": [
+            "Aroma Veil",
+            "Gluttony",
+            "Thick Fat"
+        ],
+        "Moves": {
+            "level_up": {
+                "Tackle": 1,
+                "Tail Whip": 1,
+                "Disarming Voice": 3,
+                "Echoed Voice": 6,
+                "Mud Shot": 9,
+                "Covet": 12,
+                "Dig": 15,
+                "Headbutt": 17,
+                "Yawn": 23,
+                "Take Down": 28,
+                "Work Up": 30,
+                "Uproar": 34,
+                "Double Edge": 39,
+                "Earth Power": 45,
+                "Belch": 51
             },
             "tm": ["Body Press", "Body Slam", "Bulldoze", "Bullet Seed", "Chilling Water", "Curse", "Dig", "Disarming Voice", "Double Edge", "Earth Power", "Endeavor", "Endure", "Energy Ball", "Facade", "Giga Impact", "Helping Hand", "High Horsepower", "Hyper Beam", "Hyper Voice", "Iron Head", "Lash Out", "Mud Shot", "Mud Slap", "Play Rough", "Protect", "Rain Dance", "Rest", "Seed Bomb", "Sleep Talk", "Stomping Tantrum", "Substitute", "Sunny Day", "Super Fang", "Take Down", "Tera Blast", "Thief", "Trailblaze", "Uproar", "Zen Headbutt"]
         }
@@ -54105,7 +54105,7 @@
         "Pokedex": {
             "pokedex_number": "0925",
             "type": "Normal",
-            "description": "'''Maushold Family of Four''' (Japanese: イッカネズミ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Family Pokémon'. It is standing at 0.3 meters tall and weighing around 2.3 kilograms, with a white-colored body and a heads appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Maushold Family of Four''' (Japanese: イッカネズミ・4ひきかぞく) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Family Pokémon'. It is standing at 0.3 meters tall and weighing around 2.3 kilograms, with a white-colored body and a heads appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 74,
@@ -54151,7 +54151,7 @@
         "Pokedex": {
             "pokedex_number": "0925",
             "type": "Normal",
-            "description": "'''Maushold Family Of Three''' (Japanese: イッカネズミ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Family Pokémon'. It is standing at 0.3 meters tall and weighing around 2.8 kilograms, with a white-colored body and a heads appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Maushold Family Of Three''' (Japanese: イッカネズミ・3ひきかぞく) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Family Pokémon'. It is standing at 0.3 meters tall and weighing around 2.8 kilograms, with a white-colored body and a heads appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 74,
@@ -54415,7 +54415,7 @@
         "Pokedex": {
             "pokedex_number": "0931",
             "type": "Normal, Flying",
-            "description": "'''Squawkabilly''' (Japanese: イキリンコ) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Squawkabilly Green Plummage''' (Japanese: イキリンコ・みどりのすがた) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 82,
@@ -54457,11 +54457,11 @@
             "tm": ["Aerial Ace", "Air Cutter", "Air Slash", "Brave Bird", "Double Edge", "Dual Wingbeat", "Endeavor", "Endure", "Facade", "Fake Tears", "Feather Dance", "Fly", "Foul Play", "Giga Impact", "Heat Wave", "Helping Hand", "Hurricane", "Hyper Beam", "Hyper Voice", "Lash Out", "Pounce", "Protect", "Rest", "Reversal", "Scary Face", "Sleep Talk", "Substitute", "Sunny Day", "Tailwind", "Take Down", "Taunt", "Tera Blast", "Thief", "U Turn", "Uproar"]
         }
     },
-    "Squawkabilly Green Plumage": {
+    "Squawkabilly Blue Plumage": {
         "Pokedex": {
             "pokedex_number": "0931",
             "type": "Normal, Flying",
-            "description": "'''Squawkabilly Green Plumage''' (Japanese: イキリンコ) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Squawkabilly Blue Plumage''' (Japanese: イキリンコ・あおのすがた) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 82,
@@ -54503,11 +54503,11 @@
             "tm": ["Aerial Ace", "Air Cutter", "Air Slash", "Brave Bird", "Double Edge", "Dual Wingbeat", "Endeavor", "Endure", "Facade", "Fake Tears", "Feather Dance", "Fly", "Foul Play", "Giga Impact", "Heat Wave", "Helping Hand", "Hurricane", "Hyper Beam", "Hyper Voice", "Lash Out", "Pounce", "Protect", "Rest", "Reversal", "Scary Face", "Sleep Talk", "Substitute", "Sunny Day", "Tailwind", "Take Down", "Taunt", "Tera Blast", "Thief", "U Turn", "Uproar"]
         }
     },
-    "Squawkabilly White Plumage": {
+    "Squawkabilly Yellow Plumage": {
         "Pokedex": {
             "pokedex_number": "0931",
             "type": "Normal, Flying",
-            "description": "'''Squawkabilly White Plumage''' (Japanese: イキリンコ) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Squawkabilly Yellow Plumage''' (Japanese: イキリンコ・きいろのすがた) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 82,
@@ -54549,11 +54549,11 @@
             "tm": ["Aerial Ace", "Air Cutter", "Air Slash", "Brave Bird", "Double Edge", "Dual Wingbeat", "Endeavor", "Endure", "Facade", "Fake Tears", "Feather Dance", "Fly", "Foul Play", "Giga Impact", "Heat Wave", "Helping Hand", "Hurricane", "Hyper Beam", "Hyper Voice", "Lash Out", "Pounce", "Protect", "Rest", "Reversal", "Scary Face", "Sleep Talk", "Substitute", "Sunny Day", "Tailwind", "Take Down", "Taunt", "Tera Blast", "Thief", "U Turn", "Uproar"]
         }
     },
-    "Squawkabilly Yellow Plumage": {
+    "Squawkabilly White Plumage": {
         "Pokedex": {
             "pokedex_number": "0931",
             "type": "Normal, Flying",
-            "description": "'''Squawkabilly Yellow Plumage''' (Japanese: イキリンコ) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Squawkabilly White Plumage''' (Japanese: イキリンコ・しろのすがた) is a Normal/Flying-type Pokémon introduced in Generation IX, which is known as the 'Parrot Pokémon'. It is standing at 0.6 meters tall and weighing around 2.4 kilograms, with a green-colored body and a wings appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 82,
@@ -55974,18 +55974,18 @@
             "tm": ["Acrobatics", "Agility", "Blizzard", "Body Slam", "Charm", "Chilling Water", "Disarming Voice", "Draining Kiss", "Encore", "Endure", "Facade", "Fling", "Haze", "Helping Hand", "Hydro Pump", "Ice Beam", "Icy Wind", "Liquidation", "Protect", "Psych Up", "Rain Dance", "Rest", "Sleep Talk", "Substitute", "Surf", "Swift", "Take Down", "Tera Blast", "Water Pulse", "Waterfall", "Zen Headbutt"]
         }
     },
-    "Palafin": {
+    "Palafin Zero": {
         "Pokedex": {
             "pokedex_number": "0964",
             "type": "Water",
-            "description": "'''Palafin''' (Japanese: イルカマン) is a Water-type Pokémon introduced in Generation IX, which is known as the 'Dolphin Pokémon'. It is standing at 1.8 meters tall and weighing around 97.4 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Palafin Zero''' (Japanese: イルカマン・ナイーブフォルム) is a Water-type Pokémon introduced in Generation IX, which is known as the 'Dolphin Pokémon'. It is standing at 1.3 meters tall and weighing around 60.2 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 100,
-            "Atk": 160,
-            "Def": 97,
-            "Sp. Atk": 106,
-            "Sp. Def": 87,
+            "Atk": 70,
+            "Def": 72,
+            "Sp. Atk": 53,
+            "Sp. Def": 62,
             "Speed": 100
         },
         "Defenses": {
@@ -56020,18 +56020,18 @@
             "tm": ["Acrobatics", "Agility", "Aura Sphere", "Blizzard", "Body Slam", "Bulk Up", "Charm", "Chilling Water", "Close Combat", "Disarming Voice", "Drain Punch", "Draining Kiss", "Encore", "Endeavor", "Endure", "Facade", "Fling", "Flip Turn", "Focus Blast", "Focus Punch", "Giga Impact", "Grass Knot", "Hard Press", "Haze", "Helping Hand", "Hydro Pump", "Hyper Beam", "Hyper Voice", "Ice Beam", "Ice Punch", "Icy Wind", "Iron Head", "Liquidation", "Outrage", "Protect", "Psych Up", "Rain Dance", "Rest", "Reversal", "Sleep Talk", "Substitute", "Surf", "Swift", "Take Down", "Taunt", "Tera Blast", "Throat Chop", "Water Pulse", "Waterfall", "Whirlpool", "Zen Headbutt"]
         }
     },
-    "Palafin Zero": {
+    "Palafin Hero": {
         "Pokedex": {
             "pokedex_number": "0964",
             "type": "Water",
-            "description": "'''Palafin Zero''' (Japanese: イルカマン) is a Water-type Pokémon introduced in Generation IX, which is known as the 'Dolphin Pokémon'. It is standing at 1.3 meters tall and weighing around 60.2 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Palafin Hero''' (Japanese: イルカマン・マイティフォルム) is a Water-type Pokémon introduced in Generation IX, which is known as the 'Dolphin Pokémon'. It is standing at 1.8 meters tall and weighing around 97.4 kilograms, with a blue-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 100,
-            "Atk": 70,
-            "Def": 72,
-            "Sp. Atk": 53,
-            "Sp. Def": 62,
+            "Atk": 160,
+            "Def": 97,
+            "Sp. Atk": 106,
+            "Sp. Def": 87,
             "Speed": 100
         },
         "Defenses": {
@@ -56644,11 +56644,11 @@
             "tm": ["Avalanche", "Body Press", "Body Slam", "Bulldoze", "Chilling Water", "Crunch", "Curse", "Double Edge", "Earthquake", "Endure", "Facade", "Giga Impact", "Heavy Slam", "Hydro Pump", "Hyper Beam", "Ice Fang", "Liquidation", "Outrage", "Protect", "Rain Dance", "Rest", "Rock Slide", "Scary Face", "Sleep Talk", "Stomping Tantrum", "Substitute", "Surf", "Take Down", "Tera Blast", "Water Pulse", "Waterfall", "Zen Headbutt"]
         }
     },
-    "Tatsugiri Curly": {
+    "Tatsugiri": {
         "Pokedex": {
             "pokedex_number": "0978",
             "type": "Dragon, Water",
-            "description": "'''Tatsugiri Curly''' (Japanese: シャリタツ) is a Dragon/Water-type Pokémon introduced in Generation IX, which is known as the 'Mimicry Pokémon'. It is standing at 0.3 meters tall and weighing around 8.0 kilograms, with a pink-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Tatsugiri Curly''' (Japanese: シャリタツ・そったすがた) is a Dragon/Water-type Pokémon introduced in Generation IX, which is known as the 'Mimicry Pokémon'. It is standing at 0.3 meters tall and weighing around 8.0 kilograms, with a pink-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 68,
@@ -56689,7 +56689,7 @@
         "Pokedex": {
             "pokedex_number": "0978",
             "type": "Dragon, Water",
-            "description": "'''Tatsugiri Droopy''' (Japanese: シャリタツ) is a Dragon/Water-type Pokémon introduced in Generation IX, which is known as the 'Mimicry Pokémon'. It is standing at 0.3 meters tall and weighing around 8.0 kilograms, with a pink-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Tatsugiri Droopy''' (Japanese: シャリタツ・たれたすがた) is a Dragon/Water-type Pokémon introduced in Generation IX, which is known as the 'Mimicry Pokémon'. It is standing at 0.3 meters tall and weighing around 8.0 kilograms, with a pink-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 68,
@@ -56730,7 +56730,7 @@
         "Pokedex": {
             "pokedex_number": "0978",
             "type": "Dragon, Water",
-            "description": "'''Tatsugiri Stretchy''' (Japanese: シャリタツ) is a Dragon/Water-type Pokémon introduced in Generation IX, which is known as the 'Mimicry Pokémon'. It is standing at 0.3 meters tall and weighing around 8.0 kilograms, with a pink-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Tatsugiri Stretchy''' (Japanese: シャリタツ・のびたすがた) is a Dragon/Water-type Pokémon introduced in Generation IX, which is known as the 'Mimicry Pokémon'. It is standing at 0.3 meters tall and weighing around 8.0 kilograms, with a pink-colored body and a fish appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 68,
@@ -56909,7 +56909,7 @@
         "Pokedex": {
             "pokedex_number": "0982",
             "type": "Normal",
-            "description": "'''Dudunsparce''' (Japanese: ノココッチ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Land Snake Pokémon'. It is standing at 4.5 meters tall and weighing around 47.4 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Dudunsparce Two Segment''' (Japanese: ノココッチ・ふたふしのすがた) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Land Snake Pokémon'. It is standing at 3.6 meters tall and weighing around 39.2 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 125,
@@ -56952,11 +56952,11 @@
             "tm": ["Agility", "Air Slash", "Amnesia", "Baton Pass", "Blizzard", "Body Press", "Body Slam", "Breaking Swipe", "Bulldoze", "Calm Mind", "Chilling Water", "Curse", "Dig", "Double Edge", "Dragon Tail", "Drill Run", "Dual Wingbeat", "Earth Power", "Earthquake", "Endeavor", "Endure", "Facade", "Fire Blast", "Flamethrower", "Giga Impact", "Gyro Ball", "Heavy Slam", "Helping Hand", "Hex", "Hurricane", "Hyper Beam", "Hyper Voice", "Ice Beam", "Ice Spinner", "Lunge", "Mud Shot", "Mud Slap", "Outrage", "Pain Split", "Poison Jab", "Poison Tail", "Pounce", "Protect", "Psych Up", "Rain Dance", "Rest", "Rock Slide", "Rock Tomb", "Sandstorm", "Scale Shot", "Scary Face", "Shadow Ball", "Skitter Smack", "Sleep Talk", "Smart Strike", "Solar Beam", "Spite", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Stored Power", "Substitute", "Sunny Day", "Tailwind", "Take Down", "Tera Blast", "Thief", "Throat Chop", "Thunder", "Thunderbolt", "Toxic", "Uproar", "Wild Charge", "Zen Headbutt"]
         }
     },
-    "Dudunsparce Two Segment": {
+    "Dudunsparce Three Segment": {
         "Pokedex": {
             "pokedex_number": "0982",
             "type": "Normal",
-            "description": "'''Dudunsparce Two Segment''' (Japanese: ノココッチ) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Land Snake Pokémon'. It is standing at 3.6 meters tall and weighing around 39.2 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Dudunsparce Three Segment''' (Japanese: ノココッチ・みつふしのすがた) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Land Snake Pokémon'. It is standing at 4.5 meters tall and weighing around 47.4 kilograms, with a yellow-colored body and a squiggle appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 125,
@@ -57711,7 +57711,7 @@
         "Pokedex": {
             "pokedex_number": "0999",
             "type": "Ghost",
-            "description": "'''Gimmighoul''' (Japanese: コレクレー) is a Ghost-type Pokémon introduced in Generation IX, which is known as the 'Coin Chest Pokémon'. It is standing at 0.3 meters tall and weighing around 5.0 kilograms, with a brown-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Gimmighoul Chest''' (Japanese: コレクレー・はこフォルム) is a Ghost-type Pokémon introduced in Generation IX, which is known as the 'Coin Chest Pokémon'. It is standing at 0.3 meters tall and weighing around 5.0 kilograms, with a brown-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 45,
@@ -57741,7 +57741,7 @@
         "Pokedex": {
             "pokedex_number": "0999",
             "type": "Ghost",
-            "description": "'''Gimmighoul Roaming''' (Japanese: コレクレー) is a Ghost-type Pokémon introduced in Generation IX, which is known as the 'Coin Chest Pokémon'. It is standing at 0.1 meters tall and weighing around 1.0 kilograms, with a brown-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
+            "description": "'''Gimmighoul Roaming''' (Japanese: コレクレー・とほフォルム) is a Ghost-type Pokémon introduced in Generation IX, which is known as the 'Coin Chest Pokémon'. It is standing at 0.1 meters tall and weighing around 1.0 kilograms, with a brown-colored body and a blob appearance. This Pokémon is commonly found in various areas, and is often recognized for its incredible swiftness."
         },
         "Stats": {
             "HP": 45,
@@ -58881,7 +58881,7 @@
         "Pokedex": {
             "pokedex_number": "1017",
             "type": "Grass",
-            "description": "'''Ogerpon''' (Japanese: オーガポン) is a Grass-type Pokémon introduced in Generation IX, which is known as the 'Mask Pokémon'. It is standing at 1.2 meters tall and weighing around 39.8 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Ogerpon Teal Mask''' (Japanese: オーガポン・みどりのめん) is a Grass-type Pokémon introduced in Generation IX, which is known as the 'Mask Pokémon'. It is standing at 1.2 meters tall and weighing around 39.8 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 80,
@@ -58924,7 +58924,7 @@
         "Pokedex": {
             "pokedex_number": "1017",
             "type": "Grass, Rock",
-            "description": "'''Ogerpon Cornerstone Mask''' (Japanese: オーガポン) is a Grass/Rock-type Pokémon introduced in Generation IX, which is known as the 'Mask Pokémon'. It is standing at 1.2 meters tall and weighing around 39.8 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Ogerpon Cornerstone Mask''' (Japanese: オーガポン・いしずえのめん) is a Grass/Rock-type Pokémon introduced in Generation IX, which is known as the 'Mask Pokémon'. It is standing at 1.2 meters tall and weighing around 39.8 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 80,
@@ -58967,7 +58967,7 @@
         "Pokedex": {
             "pokedex_number": "1017",
             "type": "Grass, Fire",
-            "description": "'''Ogerpon Hearthflame Mask''' (Japanese: オーガポン) is a Grass/Fire-type Pokémon introduced in Generation IX, which is known as the 'Mask Pokémon'. It is standing at 1.2 meters tall and weighing around 39.8 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Ogerpon Hearthflame Mask''' (Japanese: オーガポン・かまどのめん) is a Grass/Fire-type Pokémon introduced in Generation IX, which is known as the 'Mask Pokémon'. It is standing at 1.2 meters tall and weighing around 39.8 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 80,
@@ -59010,7 +59010,7 @@
         "Pokedex": {
             "pokedex_number": "1017",
             "type": "Grass, Water",
-            "description": "'''Ogerpon Wellspring Mask''' (Japanese: オーガポン) is a Grass/Water-type Pokémon introduced in Generation IX, which is known as the 'Mask Pokémon'. It is standing at 1.2 meters tall and weighing around 39.8 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Ogerpon Wellspring Mask''' (Japanese: オーガポン・いどのめん) is a Grass/Water-type Pokémon introduced in Generation IX, which is known as the 'Mask Pokémon'. It is standing at 1.2 meters tall and weighing around 39.8 kilograms, with a green-colored body and a humanoid appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 80,
@@ -59363,7 +59363,7 @@
         "Pokedex": {
             "pokedex_number": "1024",
             "type": "Normal",
-            "description": "'''Terapagos Stellar''' (Japanese: テラパゴス) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Tera Pokémon'. It is standing at 1.7 meters tall and weighing around 77.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
+            "description": "'''Terapagos Stellar''' (Japanese: テラパゴス・ステラフォルム) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Tera Pokémon'. It is standing at 1.7 meters tall and weighing around 77.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its adaptability in various areas environments."
         },
         "Stats": {
             "HP": 160,
@@ -59403,7 +59403,7 @@
         "Pokedex": {
             "pokedex_number": "1024",
             "type": "Normal",
-            "description": "'''Terapagos Terastal''' (Japanese: テラパゴス) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Tera Pokémon'. It is standing at 0.3 meters tall and weighing around 16.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
+            "description": "'''Terapagos Terastal''' (Japanese: テラパゴス・テラスタルフォルム) is a Normal-type Pokémon introduced in Generation IX, which is known as the 'Tera Pokémon'. It is standing at 0.3 meters tall and weighing around 16.0 kilograms, with a blue-colored body and a quadruped appearance. This Pokémon is commonly found in various areas, and is often recognized for its impressive resilience in battle."
         },
         "Stats": {
             "HP": 95,

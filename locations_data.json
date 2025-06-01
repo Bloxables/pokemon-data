@@ -1,0 +1,1351 @@
+{
+    "Route 1": {
+    "starts_from": [ "Pallet Town" ],
+    "ends_to": [ "Viridian City" ],
+    "encounters": [ "Wurmple", "Rattata", "Pidgey", "Pidove", "Bidoof", "Budew", "Pikipek", "Bunnelby", "Yungoos", "Pikachu", "Squirtle", "Charmander", "Bulbasaur" ],
+    "trainers": 3,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Routes/Route%201.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Viridian City": {
+    "starts_from": [ "Route 1" ],
+    "ends_to": [ "Route 2" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": true,
+      "leader": "Giovanni",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Giovanni.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Earth%20Badge.png",
+      "type": "Ground",
+      "number": "8"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Cities/Viridian%20City.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Cities%20Birds%20Eye/Viridian%20City%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Cities%20Birds%20Eye/Marked/Viridian%20City%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Route 22": {
+    "starts_from": [ "Viridian City" ],
+    "ends_to": [ "Victory Road" ],
+    "encounters": [ "Rattata", "NidoranM", "Mankey", "Spearow", "NidoranF", "Pidgey", "Skiddo", "Mudbray", "Pansage", "Pansear", "Panpour", "Heracross", "Snubbull", "Cutiefly", "Rockruff" ],
+    "trainers": 2,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Routes/Route%2022.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Victory Road": {
+    "starts_from": [ "Route 22" ],
+    "ends_to": [ "Indigo Plateau" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Routes/Victory%20Road.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 2": {
+    "starts_from": [ "Viridian City" ],
+    "ends_to": [ "Viridian Forest" ],
+    "encounters": [ "Rattata", "Pidgey", "Caterpie", "Combee", "Zigzagoon", "Minun", "Weedle", "Plusle", "Sewaddle" ],
+    "trainers": 1,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Routes/Route%202.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Viridian Forest": {
+    "starts_from": [ "Route 2" ],
+    "ends_to": [ "Pewter City" ],
+    "encounters": [ "Scatterbug", "Metapod", "Combee", "Kakuna", "Wurmple", "Joltik", "Spinarak", "Petilil", "Sentret", "Zigzagoon", "Sunkern", "Cottonee", "Burmy", "Cherubi", "Pineco", "Venipede", "Ledyba", "Stunky", "Pikachu", "Illumise", "Eevee", "Munchlax", "Flabébé", "Teddiursa", "Weedle", "Volbeat", "Crabrawler", "Seedot", "Forretress" ],
+    "trainers": 1,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Routes/Viridian%20Forest.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Pewter City": {
+    "starts_from": [ "Viridian Forest" ],
+    "ends_to": [ "Route 3" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Cities/Pewter%20City.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Cities%20Birds%20Eye/Pewter%20City%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Cities%20Birds%20Eye/Marked/Pewter%20City%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Route 3": {
+    "starts_from": [ "Pewter City" ],
+    "ends_to": [ "Mt. Moon" ],
+    "encounters": [ "Kricketot", "Mankey", "Pidgey", "Spearow", "Patrat", "Jigglypuff", "Swablu", "Abra", "Snubbull", "Toedscool", "Cacnea", "Ralts" ],
+    "trainers": 5,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Routes/Route%203.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Mt. Moon": {
+    "starts_from": [ "Route 3" ],
+    "ends_to": [ "Route 4" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Mt.%20Moon.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 4": {
+    "starts_from": [ "Mt. Moon" ],
+    "ends_to": [ "Cerulean City" ],
+    "encounters": [ "Rattata", "Ekans", "Maschiff", "Spearow", "Magikarp", "Sandshrew", "Espurr", "Minccino" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%204.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Cerulean City": {
+    "starts_from": [ "Route 4" ],
+    "ends_to": [ "Route 5" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": true,
+      "leader": "Misty",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Misty.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Cascade%20Badge.png",
+      "type": "Water",
+      "number": "2"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Cerulean%20City.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Cerulean%20City%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Cerulean%20City%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Route 5": {
+    "starts_from": [ "Cerulean City" ],
+    "ends_to": [ "Route 6" ],
+    "encounters": [ "Mankey", "Meowth", "Bellsprout", "Oddish", "Drifloon", "Galarian Meowth", "Tarountula", "Abra", "Smoliv", "Klefki", "Alolan Meowth", "Totodile", "Cyndaquil", "Chikorita", "Mesprit", "Azelf", "Uxie" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%205.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 6": {
+    "starts_from": [ "Route 5" ],
+    "ends_to": [ "Vermillion City" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%206.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Vermillion City": {
+    "starts_from": [ "Route 6" ],
+    "ends_to": [ "Route 11" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": true,
+      "leader": "Lt. Surge",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Thunder%20Badge.png",
+      "type": "Electric",
+      "number": "3"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Vermillion%20City.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Vermillion%20City%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Vermillion%20City%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Aether Paradise": {
+    "starts_from": [ "Vermillion City" ],
+    "ends_to": [],
+    "encounters": [ "Gossifleur", "Stufful", "Wooloo", "Clobbopus", "Nickit", "Gulpin", "Sirfetch'd", "Stonjourner", "Rolycoly", "Snom", "Perrserker", "Yamper", "Silicobra", "Skwovet", "Morpeko", "Mr. Rime", "Falinks", "Munna", "Grookey", "Pincurchin", "Jangmo-o", "Scorbunny", "Sobble", "Drampa", "Spritzee", "Sizzlipede", "Blipbug", "Obstagoon", "Sinistea", "Chewtle", "Hatenna", "Cufant", "Dreepy", "Toxel", "Rookidee", "Impidimp", "Runerigus", "Mimikyu", "Cursola", "Oranguru", "Tapu Koko", "Tapu Fini", "Tapu Lele", "Tapu Bulu" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Aether%20Paradise.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Aether%20Paradise%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Aether%20Paradise%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Isle of Armor": {
+    "starts_from": [ "Vermillion City" ],
+    "ends_to": [],
+    "encounters": [ "Chansey", "Skinifier", "Shinifier", "Fomantis", "Kadabra", "Kirlia", "Blipbug", "Buneary", "Fletchinder", "Luxio", "Chewtle", "Skwovet", "Applin", "Galarian Slowpoke", "Scyther", "Heracross", "Pinsir", "Phione", "Skinifier", "Shinifier", "Shaymin", "Jirachi", "Manaphy", "Victini" ],
+    "trainers": 10,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Isle%20of%20Armor.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Isle%20of%20Armor%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Isle%20of%20Armor%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Glacier Cliffs": {
+    "starts_from": [ "Vermillion City" ],
+    "ends_to": [],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": true,
+      "leader": "Frosty/Blanche",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Thunder%20Badge.png",
+      "type": "Ice-dual",
+      "number": "11"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Glacier%20Cliffs.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Glacier%20Cliffs%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Glacier%20Cliffs%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Ice Zone 1": {
+    "starts_from": [ "Vermillion City" ],
+    "ends_to": [],
+    "encounters": [ "Snom", "Cryogonal", "Galarian Darumaka", "Bergmite", "Alolan Sandshrew", "Alolan Vulpix", "Arctovish", "Dracovish", "Arctozolt", "Dracozolt" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": true,
+      "leader": "Frosty/Blanche",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Thunder%20Badge.png",
+      "type": "Ice-dual",
+      "number": "11"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Ice Zone 2": {
+    "starts_from": [ "Vermillion City" ],
+    "ends_to": [],
+    "encounters": [ "Skitty", "Amaura", "Vanillite", "Galarian Darumaka", "Alolan Sandshrew", "Cramorant", "Arctovish", "Dracovish", "Arctozolt", "Dracozolt" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": true,
+      "leader": "Frosty/Blanche",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Thunder%20Badge.png",
+      "type": "Ice-dual",
+      "number": "11"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Ice Zone 3": {
+    "starts_from": [ "Vermillion City" ],
+    "ends_to": [],
+    "encounters": [ "Snom", "Swinub", "Amaura", "Spheal", "Cubchoo", "Alolan Vulpix", "Arctovish", "Dracovish", "Arctozolt", "Dracozolt" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": true,
+      "leader": "Frosty/Blanche",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Thunder%20Badge.png",
+      "type": "Ice-dual",
+      "number": "11"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 11": {
+    "starts_from": [ "Vermillion City" ],
+    "ends_to": [ "Route 12" ],
+    "encounters": [ "Ekans", "Diglett", "Drowzee", "Slakoth", "Galarian Linoone", "Sandshrew", "Dugtrio", "Tranquill", "Seviper", "Oricorio", "Zangoose", "Snorlax" ],
+    "trainers": 3,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%2011.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 12": {
+    "starts_from": [ "Route 11" ],
+    "ends_to": [ "Lavender Town" ],
+    "encounters": [ "Goldeen", "Krabby", "Dewpider", "Wingull", "Magikarp", "Poliwag", "Staryu", "Ducklett", "Tympole", "Mantyke", "Wynaut", "Buizel", "Swanna", "Popplio", "Quaxly", "Oshawott", "Galarian Slowpoke", "Keldeo" ],
+    "trainers": 3,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%2012.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Lavender Town": {
+    "starts_from": [ "Route 12" ],
+    "ends_to": [ "Route 10" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Lavender%20Town.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Lavender%20Town%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Lavender%20Town%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Pokémon Tower/Pokemon Tower": {
+    "starts_from": [ "Lavender Town" ],
+    "ends_to": [ "Route 10" ],
+    "encounters": [ "Gastly", "Misdreavus", "Duskull", "Shuppet", "Litwick", "Cubone", "Sinistea", "Banette", "Honedge", "Marshadow", "Giratina", "Champion Badge" ],
+    "trainers": 5,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Routes/Pokemon%20Tower.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 10": {
+    "starts_from": [ "Pokémon Tower" ],
+    "ends_to": [ "Route 7" ],
+    "encounters": [ "NidoranF", "Machop", "Voltorb", "Alolan Raichu", "Magnemite", "NidoranM", "Phantump", "Blitzle", "Onix", "Murkrow", "Shuppet", "Zapdos" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%2010.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 7": {
+    "starts_from": [ "Route 10" ],
+    "ends_to": [ "Route 8" ],
+    "encounters": [ "Ekans", "Pidgey", "Growlithe", "Vulpix", "Abra", "Pachirisu", "Sandshrew", "Pawmi", "Lotad", "Yanma", "Shroodle" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%207.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 8": {
+    "starts_from": [ "Route 7" ],
+    "ends_to": [ "Celadon City" ],
+    "encounters": [ "Galarian Ponyta", "Aromatisse", "Growlithe", "Vulpix", "Rattata", "Mankey", "Ekans", "Venonat", "Sandshrew", "Whismur" ],
+    "trainers": 6,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%208.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Celadon City": {
+    "starts_from": [ "Route 8" ],
+    "ends_to": [ "Route 16" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": true,
+      "leader": "Erika",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Erika.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Rainbow%20Badge.png",
+      "type": "Grass",
+      "number": "4"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Celadon%20City.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Celadon%20City%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Celadon%20City%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Mysterious Grotto": {
+    "starts_from": [],
+    "ends_to": [],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Mysterious%20Grotto.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Mysterious%20Grotto%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Mysterious%20Grotto%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Mysterious Grotto's Green Patches": {
+    "starts_from": [ "Celadon City" ],
+    "ends_to": [ "Mysterious Grotto's Brown Patches" ],
+    "encounters": [ "Houndour", "Hoothoot", "Raticate", "Pidgey", "Kadabra", "Noctowl", "Xatu" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Mysterious Grotto's Brown Patches": {
+    "starts_from": [ "Mysterious Grotto's Green Patches" ],
+    "ends_to": [ "Mysterious Grotto's Silver Patches" ],
+    "encounters": [ "Baltoy", "Spoink", "Machoke", "Torkoal", "Anorith", "Armaldo" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Mysterious Grotto's Silver Patches": {
+    "starts_from": [ "Mysterious Grotto's Brown Patches" ],
+    "ends_to": [],
+    "encounters": [ "Gyarados", "Snorunt", "Buizel", "Remoraid", "Mantine", "Relicanth" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "DeoxysPatch": {
+    "starts_from": [ "Mysterious Grotto's Green Patches" ],
+    "ends_to": [],
+    "encounters": [ "Pichu", "Deoxys" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 16": {
+    "starts_from": [ "Celadon City" ],
+    "ends_to": [ "Route 18" ],
+    "encounters": [ "Rattata", "Raticate", "Spearow", "Doduo", "Fearow", "Grimer", "Stantler", "Kecleon", "Tropius", "Girafarig", "Ferroseed", "Smeargle" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%2016.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 18": {
+    "starts_from": [ "Route 16" ],
+    "ends_to": [ "Fuchsia City" ],
+    "encounters": [],
+    "trainers": 23,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%2018.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Fuchsia City": {
+    "starts_from": [ "Route 16" ],
+    "ends_to": [ "Route 17" ],
+    "encounters": [ "Farfetch'd", "Tauros", "Spinarak", "Rhyhorn", "Morelull", "Exeggcute", "Tangela", "Nidorina", "Doduo", "Nidorino", "Skorupi", "Dragonair", "Dratini", "Kangaskhan", "Scyther", "Pinsir", "Chansey" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Fuchsia%20City.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Fuchsia%20City%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Fuchsia%20City%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Route 19": {
+    "starts_from": [ "Fuchsia City" ],
+    "ends_to": [ "Seafoam Cave" ],
+    "encounters": [ "Clamperl", "Psyduck", "Horsea", "Slowpoke", "Goldeen", "Shellder", "Galarian Corsola", "Staryu", "Tentacool", "Mantyke", "Ducklett", "Frillish", "Vanillish", "Politoed", "Skrelp", "Gastrodon", "Piplup", "Mudkip" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%2019.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Seafoam Cave": {
+    "starts_from": [ "Route 19" ],
+    "ends_to": [],
+    "encounters": [ "Zubat", "Chinchou", "Snorunt", "Swinub", "Spheal", "Seel", "Lapras", "Bergmite", "Corphish", "Bronzor", "Sneasel", "Lileep", "Articuno", "Kyurem" ],
+    "trainers": 1,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Seafoam%20Cave.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Mausoleum of Origins": {
+    "starts_from": [ "Fuchsia City" ],
+    "ends_to": [ "Outside Mausoleum of Origins" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Mausoleum%20of%20Origins.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Mausoleum%20of%20Origins%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Mausoleum%20of%20Origins%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Outside Mausoleum of Origins": {
+    "starts_from": [ "Fuchsia City" ],
+    "ends_to": [ "Inside Mausoleum of Origins" ],
+    "encounters": [ "Pidgeot", "Tangela", "Raticate", "Marill", "Hoothoot", "Dunsparce", "Swellow", "Shelmet", "Noctowl", "Tyrogue", "Fletchling", "Pancham", "Misdreavus", "Herdier", "Glameow", "Goomy", "Deerling", "Natu", "Drifloon", "Stunfisk", "Shroomish", "Cleffa", "Karrablast", "Igglybuff", "Lillipup", "Pawniard", "Gothita", "Smoochum", "Magby", "Elekid" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Inside Mausoleum of Origins": {
+    "starts_from": [ "Outside Mausoleum of Origins" ],
+    "ends_to": [ "Route 19" ],
+    "encounters": [ "Golett", "Drilbur", "Boldore", "Elgyem", "Phanpy", "Duosion", "Timburr", "Woobat", "Golbat", "Dwebble", "Klang", "Litwick", "Solosis", "Meditite", "Roggenrola", "Haunter", "Miltank", "Sigilyph", "Alolan Exeggutor", "Unown", "Shieldon", "Sableye", "Lugia", "Reshiram", "Zekrom" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Area Zero": {
+    "starts_from": [ "Fuchsia City" ],
+    "ends_to": [ "Area Zero Green Grass Patches" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Area%20Zero.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Area%20Zero%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Area%20Zero%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Area Zero Green Grass Patches": {
+    "starts_from": [ "Fuchsia City" ],
+    "ends_to": [ "Area Zero Red Grass Patches" ],
+    "encounters": [ "Salandit", "Numel", "Dreepy", "Kabuto", "Phanpy", "Deino", "Pawniard", "Cufant", "Glimmet", "Throh", "Raichu", "Gabite", "Weavile", "Dugtrio", "Sawk", "Capsakid", "Hydreigon", "Umbreon", "Bisharp", "Sableye", "Poltchageist", "Flittle", "Scream Tail", "Roaring Moon", "Slither Wing", "Cyclizar", "Great Tusk", "Sandy Shocks", "Flutter Mane", "Brute Bonnet", "Gimmighoul", "Walking Wake", "Gouging Fire", "Raging Bolt", "Munkidori", "Fezandipiti", "Okidogi", "Ogerpon", "Koraidon" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Area Zero Red Grass Patches": {
+    "starts_from": [ "Fuchsia City" ],
+    "ends_to": [ "Route 17" ],
+    "encounters": [ "Natu", "Beldum", "Magnemite", "Slowpoke", "Meditite", "Ferroseed", "Drowzee", "Abra", "Klink", "Muk", "Mawile", "Bronzong", "Honedge", "Chansey", "Hypno", "Mr. Rime", "Espeon", "Gardevoir", "Malamar", "Skarmory", "Tinkatink", "Iron Valiant", "Iron Jugulis", "Iron Thorns", "Iron Bundle", "Iron Treads", "Iron Hands", "Iron Moth", "Gimmighoul", "Cyclizar", "Pecharunt", "Iron Leaves", "Iron Boulder", "Iron Crown", "Munkidori", "Fezandipiti", "Okidogi", "Ogerpon", "Miraidon" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route 17": {
+    "starts_from": [ "Fuchsia City" ],
+    "ends_to": [ "Saffron City" ],
+    "encounters": [ "Koffing", "Ponyta", "Raticate", "Pidgeotto", "Doduo", "Venonat", "Spinda" ],
+    "trainers": 4,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%2017.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Saffron City": {
+    "starts_from": [ "Route 17" ],
+    "ends_to": [ "Route 21" ],
+    "encounters": [],
+    "trainers": 4,
+    "gym": {
+      "has_gym": true,
+      "leader": "Sabrina",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Sabrina.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Marsh%20Badge.png",
+      "type": "Psychic",
+      "number": "6"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Saffron%20City.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Saffron%20City%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Saffron%20City%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Route 21": {
+    "starts_from": [ "Saffron City" ],
+    "ends_to": [ "Water Powerplant" ],
+    "encounters": [ "Koffing", "Seel", "Raticate", "Trubbish", "Pidgeotto", "Hypno", "Electabuzz", "Audino" ],
+    "trainers": 2,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%2021.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Water Powerplant": {
+    "starts_from": [ "Route 21" ],
+    "ends_to": [ "Mt. Cinnabar" ],
+    "encounters": [ "Luxray", "Electrike", "Magnezone", "Wattrel", "Togedemaru", "Electivire", "Duraludon", "Riolu", "Beldum", "Meltan", "Rotom" ],
+    "trainers": 1,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Water%20Powerplant.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Mt. Cinnabar": {
+    "starts_from": [ "Water Powerplant" ],
+    "ends_to": [],
+    "encounters": [ "Dugtrio", "Magmar", "Heatmor", "Graveler", "Sandslash", "Machoke", "Rhyhorn", "Slugma", "Numel", "Salandit", "Lapras", "Magcargo", "Chimchar", "Torchic", "Turtonator", "Darmanitan", "Fuecoco", "Regice", "Moltres", "Volcanion" ],
+    "trainers": 2,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Cinnabar%20Volcano.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Cinnabar%20Volcano%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Cinnabar%20Volcano%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Cinnabar Volcano": {
+    "starts_from": [ "Water Powerplant" ],
+    "ends_to": [],
+    "encounters": [ "Dugtrio", "Magmar", "Heatmor", "Graveler", "Sandslash", "Machoke", "Rhyhorn", "Slugma", "Numel", "Salandit", "Lapras", "Magcargo", "Chimchar", "Torchic", "Turtonator", "Darmanitan", "Fuecoco", "Regice", "Moltres", "Volcanion" ],
+    "trainers": 2,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Cinnabar%20Volcano.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Cinnabar%20Volcano%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Cinnabar%20Volcano%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Indigo Plateau": {
+    "starts_from": [ "Victory Road" ],
+    "ends_to": [],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Indigo%20Plateau.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Indigo%20Plateau%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Indigo%20Plateau%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Elegant Valley": {
+    "starts_from": [ "Indigo Plateau" ],
+    "ends_to": [],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Elegant%20Valley.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Elegant%20Valley%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Elegant%20Valley%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Atk": {
+    "starts_from": [ "Indigo Plateau" ],
+    "ends_to": [ "Def" ],
+    "encounters": [ "Golett", "Machop", "Machoke", "Swinub", "Piloswine", "Zweilous", "Deino", "Fraxure", "Axew", "Absol", "Cranidos", "Palkia" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Def": {
+    "starts_from": [ "Atk" ],
+    "ends_to": [ "SpA" ],
+    "encounters": [ "Onix", "Sandslash", "Graveler", "Geodude", "Sandshrew", "Durant", "Cubone", "Palkia" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "SpA": {
+    "starts_from": [ "Def" ],
+    "ends_to": [ "SpD" ],
+    "encounters": [ "Psyduck", "Golduck", "Kirlia", "Oddish", "Gloom", "Roselia", "Budew", "Ralts", "Larvesta" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "SpD": {
+    "starts_from": [ "SpA" ],
+    "ends_to": [ "Speed" ],
+    "encounters": [ "Hoppip", "Drowzee", "Mime Jr.", "Lotad", "Venonat", "Mr. Mime", "Shiinotic", "Togepi" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Speed": {
+    "starts_from": [ "SpD" ],
+    "ends_to": [ "HP" ],
+    "encounters": [ "Meowth", "Pidgeotto", "Vulpix", "Tauros", "Ponyta", "Aipom", "Tynamo", "Cinccino", "Taillow" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "HP": {
+    "starts_from": [ "Speed" ],
+    "ends_to": [],
+    "encounters": [ "Wooper", "Chinchou", "Spheal", "Lapras" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Snow Canyon": {
+    "starts_from": [ "Indigo Plateau" ],
+    "ends_to": [],
+    "encounters": [ "Dewgong", "Amaura", "Snorunt", "Snover", "Hawlucha", "Piloswine", "Sealeo", "Crabominable", "Tyrunt", "Helioptile", "Clauncher", "Sneasel", "Jynx", "Delibird", "Fomantis", "Froslass", "Eiscue" ],
+    "trainers": 1,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Snow%20Canyon.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Almia Town": {
+    "starts_from": [],
+    "ends_to": [ "Desert Zone 2" ],
+    "encounters": [],
+    "trainers": 0,
+    "gym": {
+      "has_gym": true,
+      "leader": "Nicu",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Nicu.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Almia%20Badge.png",
+      "type": "Ghost",
+      "number": "10"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Almia%20Town.png",
+      "city": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Almia%20Town%20Birds%20Eye.png",
+      "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Almia%20Town%20Birds%20Eye%20-%20Marked.png"
+    }
+  },
+  "Desert Zone 2": {
+    "starts_from": [ "Desert Zone 1" ],
+    "ends_to": [ "Desert Town" ],
+    "encounters": [ "Galarian Zigzagoon", "Spinda", "Rufflet", "Bramblin", "Binacle", "Patrat", "Maractus", "Paldean Tauros Combat", "Makuhita", "Mandibuzz", "Torchic", "Mienfoo", "Litten", "Tepig" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Moving Sand": {
+    "starts_from": [ "Desert Zone 2" ],
+    "ends_to": [ "Desert Zone 1" ],
+    "encounters": [ "Galarian Stunfisk", "Paldean Wooper", "Palpitoad", "Alolan Diglett", "Alolan Geodude", "Klawf", "Alolan Marowak", "Sandygast" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Desert Zone 1": {
+    "starts_from": [ "Moving Sand" ],
+    "ends_to": [ "Deep Forest Zone 1" ],
+    "encounters": [ "Bramblin", "Komala", "Litleo", "Bouffalant", "Maractus", "Helioptile", "Mandibuzz", "Torchic", "Scorbunny", "Teddiursa", "Fennekin" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Deep Forest Zone 1": {
+    "starts_from": [ "Desert Zone 2" ],
+    "ends_to": [ "Deep Forest Zone 2" ],
+    "encounters": [ "Indeedee", "Spewpa", "Indeedee Female", "Bonsly", "Blipbug", "Sawsbuck", "Comfey", "Ledian", "Grubbin", "Swirlix", "Nincada", "Ariados", "Passimian", "Squawkabilly", "Carnivine", "Furfrou", "Milcery", "Applin", "Whimsicott", "Lilligant", "Snivy", "Alolan Muk", "Sprigatito" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Deep Forest Zone 2": {
+    "starts_from": [ "Deep Forest Zone 1" ],
+    "ends_to": [ "Deep Forest Zone 3" ],
+    "encounters": [ "Spewpa", "Bounsweet", "Swirlix", "Nincada", "Ledian", "Comfey", "Emolga", "Shroomish", "Ariados", "Alolan Grimer", "Sawsbuck", "Milcery", "Fomantis", "Munchlax", "Carnivine", "Squawkabilly Blue-Plummage", "Passimian", "Skorupi", "Grookey", "Whimsicott", "Chatot", "Turtwig", "Lilligant", "Foongus" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Deep Forest Zone 3": {
+    "starts_from": [ "Deep Forest Zone 2" ],
+    "ends_to": [],
+    "encounters": [ "Spewpa", "Nymble", "Bulbasaur", "Turtwig", "Sawsbuck", "Nincada", "Ledian", "Comfey", "Swirlix", "Ariados", "Squawkabilly Yellow-Plummage", "Chespin", "Carnivine", "Passimian", "Milcery", "Galarian Slowbro", "Treecko", "Rowlet", "Grookey", "Lilligant", "Whimsicott" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Desert Town": {
+    "starts_from": [ "Desert Zone 1" ],
+    "ends_to": [],
+    "encounters": [ "Tyrunt", "Amaura", "Rellor", "Tirtouga", "Archen", "Darumaka", "Orthworm", "Galarian Yamask", "Vullaby", "Cramorant" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Graveyard": {
+    "starts_from": [ "Desert Zone 1" ],
+    "ends_to": [],
+    "encounters": [ "Yamask", "Varoom", "Pumpkaboo", "Misdreavus", "Alolan Rattata", "Greavard", "Haunter", "Poochyena", "Sinistea", "Inkay", "Dhelmise" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Route Zarude": {
+    "starts_from": [ "Deep Forest Zone 3" ],
+    "ends_to": [],
+    "encounters": [ "Scyther", "Pinsir", "Wimpod", "Hisuian Voltorb", "Heracross", "Sizzlipede", "Squawkabilly White-Plummage", "Chespin", "Zarude" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Fishing": {
+    "starts_from": [],
+    "ends_to": [],
+    "encounters": [ "Magikarp", "Wooper", "Lotad", "Goldeen", "Horsea", "Krabby", "Tentacool", "Chinchou", "Basculin", "Remoraid", "Corphish", "Luvdisc", "Finneon", "Shellder", "Dewpider", "Wailmer", "Qwilfish", "Bruxish", "Surskit", "Arrokuda", "Feebas", "Wishiwashi", "Corsola", "Shellos", "Barboach", "Dratini", "Pyukumuku", "Alomomola", "Mareanie", "Wimpod", "Kyogre" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Swarms": {
+    "starts_from": [ "Fishing" ],
+    "ends_to": [ "Roulette" ],
+    "encounters": [ "Scraggy", "Croagunk", "Wailmer", "Azurill", "Grubbin", "Starly", "Nosepass", "Carbink", "Dedenne", "Shinx", "Carvanha", "Sandile", "Slakoth", "Castform", "Mareep", "Chimchar", "Litten", "Beldum", "Popplio", "Oshawott", "Snivy", "Treecko", "Chespin", "Bagon", "Torchic", "Rowlet", "Galarian Mr. Mime", "Tepig", "Fennekin", "Larvesta", "Turtwig", "Froakie", "Minior", "Lickitung", "Piplup", "Mudkip", "Hisuian Zorua", "Zorua", "Genesect", "Hoopa", "Shaymin", "Ditto" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "None",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  }
+}

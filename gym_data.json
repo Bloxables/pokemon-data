@@ -1,0 +1,58 @@
+{
+  "viridian": {
+    "name": "Viridian Gym",
+    "city": "Viridian City",
+    "region": "Kanto",
+    "leader": {
+      "name": "Giovanni",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Giovanni.png"
+    },
+    "badge": {
+      "name": "Earth Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Earth%20Badge.png"
+    },
+    "type": "Ground",
+    "number": 8,
+    "trainers": 5,
+    "description": "The final challenge before the Pokémon League. Specializes in Ground-type Pokémon. If your Pokémon are level 85 or higher, Giovanni will copy your team.",
+    "team": [
+      {
+        "name": "Garchomp",
+        "level": 81,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Dragon Claw", "Swords Dance", "Stone Edge"]
+      },
+      {
+        "name": "Krookodile",
+        "level": 81,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Crunch", "Knock Off", "Stealth Rock"]
+      },
+      {
+        "name": "Swampert",
+        "level": 81,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Waterfall", "Ice Punch", "Protect"]
+      },
+      {
+        "name": "Nidoking",
+        "level": 81,
+        "ability": "Rough Skin",
+        "moves": ["Earth Power", "Sludge Wave", "Thunderbolt", "Ice Beam"]
+      },
+      {
+        "name": "Mega Mewtwo Y",
+        "level": 81,
+        "ability": "Rough Skin",
+        "moves": ["Psychic", "Aura Sphere", "Shadow Ball", "Recover"]
+      },
+      {
+        "name": "Gliscor",
+        "level": 81,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Roost", "Toxic", "Substitute"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Viridian%20Gym.png"
+  }
+}

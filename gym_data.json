@@ -23,13 +23,258 @@
         "moves": ["TBD"]
       },
       {
-        "name": "Onyx",
+        "name": "Onix",
         "level": 14,
         "ability": "TBD",
         "moves": ["TBD"]
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Pewter%20Gym.png"
+  },
+  "cerulean": {
+    "name": "Cerulean Gym",
+    "city": "Cerulean City",
+    "region": "Kanto",
+    "leader": {
+      "name": "Misty",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Misty.png"
+    },
+    "badge": {
+      "name": "Cascade Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Cascade%20Badge.png"
+    },
+    "type": "Water",
+    "number": 2,
+    "trainers": 2,
+    "description": "Specializes in Water-type Pokémon. A swift current can sweep unprepared trainers away.",
+    "team": [
+      {
+        "name": "Staryu",
+        "level": 18,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Starmie",
+        "level": 21,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Cerulean%20Gym.png"
+  },
+
+  "vermillion": {
+    "name": "Vermilion Gym",
+    "city": "Vermilion City",
+    "region": "Kanto",
+    "leader": {
+      "name": "Lt. Surge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png"
+    },
+    "badge": {
+      "name": "Thunder Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Thunder%20Badge.png"
+    },
+    "type": "Electric",
+    "number": 3,
+    "trainers": 3,
+    "description": "Lt. Surge commands high-voltage Electric-types with military precision.",
+    "team": [
+      {
+        "name": "Voltorb",
+        "level": 21,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Pikachu",
+        "level": 23,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Raichu",
+        "level": 26,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Vermilion%20Gym.png"
+  },
+
+  "celadon": {
+    "name": "Celadon Gym",
+    "city": "Celadon City",
+    "region": "Kanto",
+    "leader": {
+      "name": "Erika",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Erika.png"
+    },
+    "badge": {
+      "name": "Rainbow Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Rainbow%20Badge.png"
+    },
+    "type": "Grass",
+    "number": 4,
+    "trainers": 4,
+    "description": "A peaceful gym filled with flowers and Grass-types. Don’t let the aroma fool you.",
+    "team": [
+      {
+        "name": "Victreebel",
+        "level": 29,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Tangela",
+        "level": 24,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Vileplume",
+        "level": 29,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Celadon%20Gym.png"
+  },
+
+  "fuchsia": {
+    "name": "Fuchsia Gym",
+    "city": "Fuchsia City",
+    "region": "Kanto",
+    "leader": {
+      "name": "Koga",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Koga.png"
+    },
+    "badge": {
+      "name": "Soul Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Soul%20Badge.png"
+    },
+    "type": "Poison",
+    "number": 5,
+    "trainers": 4,
+    "description": "A maze of invisible walls hides Koga’s poisonous and tactical team.",
+    "team": [
+      {
+        "name": "Koffing",
+        "level": 37,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Muk",
+        "level": 39,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Koffing",
+        "level": 37,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Weezing",
+        "level": 43,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Fuchsia%20Gym.png"
+  },
+
+  "saffron": {
+    "name": "Saffron Gym",
+    "city": "Saffron City",
+    "region": "Kanto",
+    "leader": {
+      "name": "Sabrina",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Sabrina.png"
+    },
+    "badge": {
+      "name": "Marsh Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Marsh%20Badge.png"
+    },
+    "type": "Psychic",
+    "number": 6,
+    "trainers": 4,
+    "description": "Teleporters warp the field, and Sabrina's Psychic-types hit fast and hard.",
+    "team": [
+      {
+        "name": "Kadabra",
+        "level": 38,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Mr. Mime",
+        "level": 37,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Venomoth",
+        "level": 38,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Alakazam",
+        "level": 43,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Saffron%20Gym.png"
+  },
+
+  "cinnabar": {
+    "name": "Cinnabar Gym",
+    "city": "Cinnabar Island",
+    "region": "Kanto",
+    "leader": {
+      "name": "Blaine",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Blaine.png"
+    },
+    "badge": {
+      "name": "Volcano Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Volcano%20Badge.png"
+    },
+    "type": "Fire",
+    "number": 7,
+    "trainers": 4,
+    "description": "Answer quiz questions or fight trainers in this blazing gym. Blaine’s Fire-types scorch the competition.",
+    "team": [
+      {
+        "name": "Growlithe",
+        "level": 42,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Ponyta",
+        "level": 40,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Rapidash",
+        "level": 42,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Arcanine",
+        "level": 47,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Cinnabar%20Gym.png"
   },
   "viridian": {
     "name": "Viridian Gym",

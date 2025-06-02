@@ -56,7 +56,7 @@
       },
       {
         "name": "Starmie",
-        "level": 21,
+        "level": 19,
         "ability": "TBD",
         "moves": ["TBD"]
       }
@@ -83,19 +83,25 @@
     "team": [
       {
         "name": "Voltorb",
-        "level": 21,
-        "ability": "TBD",
-        "moves": ["TBD"]
-      },
-      {
-        "name": "Pikachu",
         "level": 23,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
+        "name": "Magneton",
+        "level": 30,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
         "name": "Raichu",
-        "level": 26,
+        "level": 28,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Pikachu",
+        "level": 25,
         "ability": "TBD",
         "moves": ["TBD"]
       }
@@ -118,23 +124,29 @@
     "type": "Grass",
     "number": 4,
     "trainers": 4,
-    "description": "A peaceful gym filled with flowers and Grass-types. Don’t let the aroma fool you.",
+    "description": "A peaceful gym filled with flowers and Grass-types. Don't let the aroma fool you.",
     "team": [
       {
-        "name": "Victreebel",
-        "level": 29,
+        "name": "Tangela",
+        "level": 40,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
-        "name": "Tangela",
-        "level": 24,
+        "name": "Grookey",
+        "level": 40,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Victreebel",
+        "level": 42,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
         "name": "Vileplume",
-        "level": 29,
+        "level": 41,
         "ability": "TBD",
         "moves": ["TBD"]
       }
@@ -157,29 +169,29 @@
     "type": "Poison",
     "number": 5,
     "trainers": 4,
-    "description": "A maze of invisible walls hides Koga’s poisonous and tactical team.",
+    "description": "A maze of invisible walls hides Koga's poisonous and tactical team.",
     "team": [
       {
         "name": "Koffing",
-        "level": 37,
+        "level": 49,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Gengar",
+        "level": 56,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
         "name": "Muk",
-        "level": 39,
-        "ability": "TBD",
-        "moves": ["TBD"]
-      },
-      {
-        "name": "Koffing",
-        "level": 37,
+        "level": 51,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
         "name": "Weezing",
-        "level": 43,
+        "level": 52,
         "ability": "TBD",
         "moves": ["TBD"]
       }
@@ -206,25 +218,25 @@
     "team": [
       {
         "name": "Kadabra",
-        "level": 38,
-        "ability": "TBD",
-        "moves": ["TBD"]
-      },
-      {
-        "name": "Mr. Mime",
-        "level": 37,
+        "level": 58,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
         "name": "Venomoth",
-        "level": 38,
+        "level": 59,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
         "name": "Alakazam",
-        "level": 43,
+        "level": 64,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Mr. Mime",
+        "level": 59,
         "ability": "TBD",
         "moves": ["TBD"]
       }
@@ -247,29 +259,35 @@
     "type": "Fire",
     "number": 7,
     "trainers": 4,
-    "description": "Answer quiz questions or fight trainers in this blazing gym. Blaine’s Fire-types scorch the competition.",
+    "description": "Answer quiz questions or fight trainers in this blazing gym. Blaine's Fire-types scorch the competition.",
     "team": [
       {
         "name": "Growlithe",
-        "level": 42,
+        "level": 71,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
         "name": "Ponyta",
-        "level": 40,
+        "level": 69,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Charizard",
+        "level": 76,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
         "name": "Rapidash",
-        "level": 42,
+        "level": 70,
         "ability": "TBD",
         "moves": ["TBD"]
       },
       {
         "name": "Arcanine",
-        "level": 47,
+        "level": 75,
         "ability": "TBD",
         "moves": ["TBD"]
       }

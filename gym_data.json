@@ -19,14 +19,20 @@
       {
         "name": "Geodude",
         "level": 12,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Rock Head",
+        "moves": ["Tackle", "Defense Curl"],
+        "weaknesses": ["Water", "Grass", "Ice", "Fighting", "Ground", "Steel"],
+        "resistances": ["Normal", "Fire", "Poison", "Flying", "Rock"],
+        "immunities": ["Electric"]
       },
       {
         "name": "Onix",
         "level": 14,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Rock Head",
+        "moves": ["Tackle", "Screech", "Bind", "Bide"],
+        "weaknesses": ["Water", "Grass", "Ice", "Fighting", "Ground", "Steel"],
+        "resistances": ["Normal", "Fire", "Poison", "Flying", "Rock"],
+        "immunities": ["Electric"]
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Pewter%20Gym.png"
@@ -51,14 +57,20 @@
       {
         "name": "Staryu",
         "level": 18,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "None",
+        "moves": ["Tackle", "Water Gun"],
+        "weaknesses": ["Electric", "Grass"],
+        "resistances": ["Fire", "Water", "Ice", "Steel"],
+        "immunities": []
       },
       {
         "name": "Starmie",
         "level": 19,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "None",
+        "moves": ["Tackle", "Water Gun", "Harden"],
+        "weaknesses": ["Bug", "Ghost", "Grass", "Electric", "Dark"],
+        "resistances": ["Fire", "Water", "Ice", "Steel", "Psychic", "Fighting"],
+        "immunities": []
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Cerulean%20Gym.png"
@@ -84,26 +96,38 @@
       {
         "name": "Voltorb",
         "level": 23,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Soundproof",
+        "moves": ["Shock Wave", "Tackle", "Screech", "Sonic Boom"],
+        "weaknesses": ["Ground"],
+        "resistances": ["Electric", "Flying", "Steel"],
+        "immunities": []
       },
       {
         "name": "Magneton",
         "level": 30,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Magnet Pull",
+        "moves": ["Thunderbolt", "Supersonic", "Sonic Boom", "Thunder Wave"],
+        "weaknesses": ["Fire", "Fighting", "Ground"],
+        "resistances": ["Electric", "Flying", "Ice", "Normal", "Rock", "Steel", "Grass", "Psychic", "Bug", "Dragon", "Fairy"],
+        "immunities": ["Poison"]
       },
       {
         "name": "Raichu",
         "level": 28,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Static",
+        "moves": ["Thunderbolt", "Mega Punch", "Mega Kick", "Growl"],
+        "weaknesses": ["Ground"],
+        "resistances": ["Electric", "Flying", "Steel"],
+        "immunities": []
       },
       {
         "name": "Pikachu",
         "level": 25,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Static",
+        "moves": ["Shock Wave", "Thunder Wave", "Quick Attack", "Double Team"],
+        "weaknesses": ["Ground"],
+        "resistances": ["Electric", "Flying", "Steel"],
+        "immunities": []
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Vermillion%20Gym.png"
@@ -129,26 +153,38 @@
       {
         "name": "Tangela",
         "level": 40,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Chlorophyll",
+        "moves": ["Giga Drain", "Ancient Power", "Sleep Powder", "Synthesis"],
+        "weaknesses": ["Fire", "Ice", "Poison", "Flying", "Bug"],
+        "resistances": ["Water", "Electric", "Grass", "Ground"],
+        "immunities": []
       },
       {
         "name": "Grookey",
         "level": 40,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Overgrow",
+        "moves": ["Razor Leaf", "Slam", "Knock Off", "Taunt"],
+        "weaknesses": ["Fire", "Ice", "Poison", "Flying", "Bug"],
+        "resistances": ["Water", "Electric", "Grass", "Ground"],
+        "immunities": []
       },
       {
         "name": "Victreebel",
         "level": 42,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Chlorophyll",
+        "moves": ["Razor Leaf", "Sleep Powder", "Poison Powder", "Wrap"],
+        "weaknesses": ["Fire", "Ice", "Psychic", "Flying"],
+        "resistances": ["Water", "Electric", "Grass", "Fighting", "Fairy"],
+        "immunities": []
       },
       {
         "name": "Vileplume",
         "level": 41,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Chlorophyll",
+        "moves": ["Petal Dance", "Sleep Powder", "Poison Powder", "Mega Drain"],
+        "weaknesses": ["Fire", "Ice", "Psychic", "Flying"],
+        "resistances": ["Water", "Electric", "Grass", "Fighting", "Fairy"],
+        "immunities": []
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Celadon%20Gym.png"
@@ -174,26 +210,38 @@
       {
         "name": "Koffing",
         "level": 49,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Levitate",
+        "moves": ["Sludge", "Smokescreen", "Toxic", "Selfdestruct"],
+        "weaknesses": ["Psychic", "Ground"],
+        "resistances": ["Fighting", "Poison", "Bug", "Grass", "Fairy"],
+        "immunities": []
       },
       {
         "name": "Gengar",
         "level": 56,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "TBA",
+        "moves": ["TBA"],
+        "weaknesses": ["Ground", "Psychic", "Ghost", "Dark"],
+        "resistances": ["Grass", "Poison", "Bug", "Fairy"],
+        "immunities": ["Normal", "Fighting"]
       },
       {
         "name": "Muk",
         "level": 51,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Sticky Hold",
+        "moves": ["Minimize", "Sludge", "Acid Armor", "Toxic"],
+        "weaknesses": ["Psychic", "Ground"],
+        "resistances": ["Fighting", "Poison", "Bug", "Grass", "Fairy"],
+        "immunities": []
       },
       {
         "name": "Weezing",
         "level": 52,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Levitate",
+        "moves": ["Tackle", "Sludge", "Smokescreen", "Toxic"],
+        "weaknesses": ["Psychic", "Ground"],
+        "resistances": ["Fighting", "Poison", "Bug", "Grass", "Fairy"],
+        "immunities": []
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Fuchsia%20Gym.png"
@@ -219,26 +267,38 @@
       {
         "name": "Kadabra",
         "level": 58,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Synchronize",
+        "moves": ["Psybeam", "Reflect", "Future Sight", "Calm Mind"],
+        "weaknesses": ["Bug", "Ghost", "Dark"],
+        "resistances": ["Fighting", "Psychic"],
+        "immunities": []
       },
       {
         "name": "Venomoth",
         "level": 59,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Shield Dust",
+        "moves": ["Psybeam", "Gust", "Leech Life", "Supersonic"],
+        "weaknesses": ["Fire", "Flying", "Psychic", "Rock", "Electric", "Ice"],
+        "resistances": ["Fighting", "Poison", "Bug", "Grass", "Fairy"],
+        "immunities": []
       },
       {
         "name": "Alakazam",
         "level": 64,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Synchronize",
+        "moves": ["Psychic", "Recover", "Future Sight", "Calm Mind"],
+        "weaknesses": ["Bug", "Ghost", "Dark"],
+        "resistances": ["Fighting", "Psychic"],
+        "immunities": []
       },
       {
         "name": "Mr. Mime",
         "level": 59,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Soundproof",
+        "moves": ["Barrier", "Psybeam", "Baton Pass", "Calm Mind"],
+        "weaknesses": ["Bug", "Ghost", "Dark"],
+        "resistances": ["Fighting", "Psychic"],
+        "immunities": []
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Saffron%20Gym.png"
@@ -264,32 +324,47 @@
       {
         "name": "Growlithe",
         "level": 71,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Intimidate",
+        "moves": ["Bite", "Roar", "Take Down", "Fire Blast"],
+        "weaknesses": ["Water", "Ground", "Rock"],
+        "resistances": ["Fire", "Grass", "Ice", "Bug", "Steel", "Fairy"],
+        "immunities": []
       },
       {
         "name": "Ponyta",
         "level": 69,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Flash Fire",
+        "moves": ["Stomp", "Bounce", "Fire Spin", "Fire Blast"],
+        "weaknesses": ["Water", "Ground", "Rock"],
+        "resistances": ["Fire", "Grass", "Ice", "Bug", "Steel", "Fairy"],
+        "immunities": []
       },
       {
         "name": "Charizard",
         "level": 76,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Flash Fire",
+        "moves": ["Stomp", "Bounce", "Fire Spin", "Fire Blast"],
+        "weaknesses": ["Water", "Electric", "Rock"],
+        "resistances": ["Fire", "Grass", "Fighting", "Bug", "Steel", "Fairy"],
+        "immunities": ["Ground"]
       },
       {
         "name": "Rapidash",
         "level": 70,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Flash Fire",
+        "moves": ["Stomp", "Bounce", "Fire Spin", "Fire Blast"],
+        "weaknesses": ["Water", "Ground", "Rock"],
+        "resistances": ["Fire", "Grass", "Ice", "Bug", "Steel", "Fairy"],
+        "immunities": []
       },
       {
         "name": "Arcanine",
         "level": 75,
-        "ability": "TBD",
-        "moves": ["TBD"]
+        "ability": "Intimidate",
+        "moves": ["Bite", "Roar", "Take Down", "Fire Blast"],
+        "weaknesses": ["Water", "Ground", "Rock"],
+        "resistances": ["Fire", "Grass", "Ice", "Bug", "Steel", "Fairy"],
+        "immunities": []
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Cinnabar%20Gym.png"
@@ -319,31 +394,31 @@
       },
       {
         "name": "Krookodile",
-        "level": 81,
+        "level": 83,
         "ability": "Rough Skin",
         "moves": ["Earthquake", "Crunch", "Knock Off", "Stealth Rock"]
       },
       {
         "name": "Swampert",
-        "level": 81,
+        "level": 82,
         "ability": "Rough Skin",
         "moves": ["Earthquake", "Waterfall", "Ice Punch", "Protect"]
       },
       {
         "name": "Nidoking",
-        "level": 81,
+        "level": 85,
         "ability": "Rough Skin",
         "moves": ["Earth Power", "Sludge Wave", "Thunderbolt", "Ice Beam"]
       },
       {
         "name": "Mega Mewtwo Y",
-        "level": 81,
+        "level": 87,
         "ability": "Rough Skin",
         "moves": ["Psychic", "Aura Sphere", "Shadow Ball", "Recover"]
       },
       {
         "name": "Gliscor",
-        "level": 81,
+        "level": 83,
         "ability": "Rough Skin",
         "moves": ["Earthquake", "Roost", "Toxic", "Substitute"]
       }

@@ -390,37 +390,55 @@
         "name": "Garchomp",
         "level": 81,
         "ability": "Rough Skin",
-        "moves": ["Earthquake", "Dragon Claw", "Swords Dance", "Stone Edge"]
+        "moves": ["Earthquake", "Dragon Claw", "Swords Dance", "Stone Edge"],
+        "weaknesses": ["Ice", "Dragon", "Fairy"],
+        "resistances": ["Fire", "Poison", "Rock"],
+        "immunities": ["Electric"]
       },
       {
         "name": "Krookodile",
         "level": 83,
         "ability": "Rough Skin",
-        "moves": ["Earthquake", "Crunch", "Knock Off", "Stealth Rock"]
+        "moves": ["Earthquake", "Crunch", "Knock Off", "Stealth Rock"],
+        "weaknesses": ["Water", "Ice", "Grass", "Bug", "Fairy", "Fighting"],
+        "resistances": ["Rock", "Ghost", "Poison", "Dark"],
+        "immunities": ["Electric", "Psychic"]
       },
       {
         "name": "Swampert",
         "level": 82,
         "ability": "Rough Skin",
-        "moves": ["Earthquake", "Waterfall", "Ice Punch", "Protect"]
+        "moves": ["Earthquake", "Waterfall", "Ice Punch", "Protect"],
+        "weaknesses": ["Grass"],
+        "resistances": ["Fire", "Steel", "Poison", "Rock"],
+        "immunities": ["Electric"]
       },
       {
         "name": "Nidoking",
         "level": 85,
         "ability": "Rough Skin",
-        "moves": ["Earth Power", "Sludge Wave", "Thunderbolt", "Ice Beam"]
+        "moves": ["Earth Power", "Sludge Wave", "Thunderbolt", "Ice Beam"],
+        "weaknesses": ["Water", "Ice", "Ground", "Psychic"],
+        "resistances": ["Fighting", "Bug", "Rock", "Fairy"],
+        "immunities": ["Electric", "Poison"]
       },
       {
         "name": "Mega Mewtwo Y",
         "level": 87,
         "ability": "Rough Skin",
-        "moves": ["Psychic", "Aura Sphere", "Shadow Ball", "Recover"]
+        "moves": ["Psychic", "Aura Sphere", "Shadow Ball", "Recover"],
+        "weaknesses": ["Bug", "Ghost", "Dark"],
+        "resistances": ["Fighting", "Psychic"],
+        "immunities": []
       },
       {
         "name": "Gliscor",
         "level": 83,
         "ability": "Rough Skin",
-        "moves": ["Earthquake", "Roost", "Toxic", "Substitute"]
+        "moves": ["Earthquake", "Roost", "Toxic", "Substitute"],
+        "weaknesses": ["Water", "Ice"],
+        "resistances": ["Fighting", "Poison", "Bug"],
+        "immunities": ["Electric", "Ground"]
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Viridian%20Gym.png"

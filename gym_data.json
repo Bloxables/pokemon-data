@@ -1,4 +1,36 @@
 {
+  "pewter": {
+    "name": "Pewter Gym",
+    "city": "Pewter City",
+    "region": "Kanto",
+    "leader": {
+      "name": "Brock",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Brock.png"
+    },
+    "badge": {
+      "name": "Boulder Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Boulder%20Badge.png"
+    },
+    "type": "Rock",
+    "number": 1,
+    "trainers": 1,
+    "description": "Desc",
+    "team": [
+      {
+        "name": "Geodude",
+        "level": 12,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      },
+      {
+        "name": "Onyx",
+        "level": 14,
+        "ability": "TBD",
+        "moves": ["TBD"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Pewter%20Gym.png"
+  },
   "viridian": {
     "name": "Viridian Gym",
     "city": "Viridian City",

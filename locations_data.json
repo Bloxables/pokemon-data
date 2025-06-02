@@ -271,12 +271,12 @@
     "encounters": [ "Gossifleur", "Stufful", "Wooloo", "Clobbopus", "Nickit", "Gulpin", "Sirfetch'd", "Stonjourner", "Rolycoly", "Snom", "Perrserker", "Yamper", "Silicobra", "Skwovet", "Morpeko", "Mr. Rime", "Falinks", "Munna", "Grookey", "Pincurchin", "Jangmo-o", "Scorbunny", "Sobble", "Drampa", "Spritzee", "Sizzlipede", "Blipbug", "Obstagoon", "Sinistea", "Chewtle", "Hatenna", "Cufant", "Dreepy", "Toxel", "Rookidee", "Impidimp", "Runerigus", "Mimikyu", "Cursola", "Oranguru", "Tapu Koko", "Tapu Fini", "Tapu Lele", "Tapu Bulu" ],
     "trainers": 0,
     "gym": {
-      "has_gym": false,
-      "leader": "None",
+      "has_gym": true,
+      "leader": "Marie",
       "leader_image": "None",
       "badge_image": "None",
-      "type": "None",
-      "number": "None"
+      "type": "Dark",
+      "number": "9"
     },
     "images": {
       "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Aether%20Paradise.png",
@@ -818,7 +818,7 @@
   },
   "Area Zero Red Grass Patches": {
     "starts_from": [ "Fuchsia City" ],
-    "ends_to": [ "Route 17" ],
+    "ends_to": [],
     "encounters": [ "Natu", "Beldum", "Magnemite", "Slowpoke", "Meditite", "Ferroseed", "Drowzee", "Abra", "Klink", "Muk", "Mawile", "Bronzong", "Honedge", "Chansey", "Hypno", "Mr. Rime", "Espeon", "Gardevoir", "Malamar", "Skarmory", "Tinkatink", "Iron Valiant", "Iron Jugulis", "Iron Thorns", "Iron Bundle", "Iron Treads", "Iron Hands", "Iron Moth", "Gimmighoul", "Cyclizar", "Pecharunt", "Iron Leaves", "Iron Boulder", "Iron Crown", "Munkidori", "Fezandipiti", "Okidogi", "Ogerpon", "Miraidon" ],
     "trainers": 0,
     "gym": {

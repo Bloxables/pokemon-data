@@ -1,0 +1,7687 @@
+{
+  "Bulbasaur": {
+    "pokedex_number": 1,
+    "line": [
+      {
+        "name": "Bulbasaur",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Ivysaur",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Venusaur",
+        "forms": [],
+        "method": "Level 32"
+      }
+    ]
+  },
+  "Charmander": {
+    "pokedex_number": 4,
+    "line": [
+      {
+        "name": "Charmander",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Charmeleon",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Charizard",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Squirtle": {
+    "pokedex_number": 7,
+    "line": [
+      {
+        "name": "Squirtle",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Wartortle",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Blastoise",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Caterpie": {
+    "pokedex_number": 10,
+    "line": [
+      {
+        "name": "Caterpie",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Metapod",
+        "forms": [],
+        "method": "Level 7"
+      },
+      {
+        "name": "Butterfree",
+        "forms": [],
+        "method": "Level 10"
+      }
+    ]
+  },
+  "Weedle": {
+    "pokedex_number": 13,
+    "line": [
+      {
+        "name": "Weedle",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Kakuna",
+        "forms": [],
+        "method": "Level 7"
+      },
+      {
+        "name": "Beedrill",
+        "forms": [],
+        "method": "Level 10"
+      }
+    ]
+  },
+  "Pidgey": {
+    "pokedex_number": 16,
+    "line": [
+      {
+        "name": "Pidgey",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Pidgeotto",
+        "forms": [],
+        "method": "Level 18"
+      },
+      {
+        "name": "Pidgeot",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Rattata": {
+    "pokedex_number": 19,
+    "line": [
+      {
+        "name": "Rattata",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Raticate",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Spearow": {
+    "pokedex_number": 21,
+    "line": [
+      {
+        "name": "Spearow",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Fearow",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Ekans": {
+    "pokedex_number": 23,
+    "line": [
+      {
+        "name": "Ekans",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Arbok",
+        "forms": [],
+        "method": "Level 22"
+      }
+    ]
+  },
+  "Pichu": {
+    "pokedex_number": 172,
+    "line": [
+      {
+        "name": "Pichu",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Pikachu",
+        "forms": [],
+        "method": "Level up"
+      },
+      {
+        "name": "Raichu",
+        "forms": [],
+        "method": "Use Thunder Stone"
+      }
+    ]
+  },
+  "Sandshrew": {
+    "pokedex_number": 27,
+    "line": [
+      {
+        "name": "Sandshrew",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sandslash",
+        "forms": [],
+        "method": "Level 22"
+      }
+    ]
+  },
+  "Nidoran F": {
+    "pokedex_number": 29,
+    "line": [
+      {
+        "name": "Nidoran F",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Nidorina",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Nidoqueen",
+        "forms": [],
+        "method": "Use Moon Stone"
+      }
+    ]
+  },
+  "Nidoran M": {
+    "pokedex_number": 32,
+    "line": [
+      {
+        "name": "Nidoran M",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Nidorino",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Nidoking",
+        "forms": [],
+        "method": "Use Moon Stone"
+      }
+    ]
+  },
+  "Cleffa": {
+    "pokedex_number": 173,
+    "line": [
+      {
+        "name": "Cleffa",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Clefairy",
+        "forms": [],
+        "method": "Level up"
+      },
+      {
+        "name": "Clefable",
+        "forms": [],
+        "method": "Use Moon Stone"
+      }
+    ]
+  },
+  "Vulpix": {
+    "pokedex_number": 37,
+    "line": [
+      {
+        "name": "Vulpix",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Ninetales",
+        "forms": [],
+        "method": "Use Fire Stone"
+      }
+    ]
+  },
+  "Igglybuff": {
+    "pokedex_number": 174,
+    "line": [
+      {
+        "name": "Igglybuff",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Jigglypuff",
+        "forms": [],
+        "method": "Level up"
+      },
+      {
+        "name": "Wigglytuff",
+        "forms": [],
+        "method": "Use Moon Stone"
+      }
+    ]
+  },
+  "Zubat": {
+    "pokedex_number": 41,
+    "line": [
+      {
+        "name": "Zubat",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Golbat",
+        "forms": [],
+        "method": "Level 22"
+      },
+      {
+        "name": "Crobat",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Oddish": {
+    "pokedex_number": 43,
+    "line": [
+      {
+        "name": "Oddish",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gloom",
+        "forms": [],
+        "method": "Level 21"
+      },
+      {
+        "name": "Vileplume",
+        "forms": [],
+        "method": "Use Leaf Stone"
+      }
+    ]
+  },
+  "Paras": {
+    "pokedex_number": 46,
+    "line": [
+      {
+        "name": "Paras",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Parasect",
+        "forms": [],
+        "method": "Level 24"
+      }
+    ]
+  },
+  "Venonat": {
+    "pokedex_number": 48,
+    "line": [
+      {
+        "name": "Venonat",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Venomoth",
+        "forms": [],
+        "method": "Level 31"
+      }
+    ]
+  },
+  "Diglett": {
+    "pokedex_number": 50,
+    "line": [
+      {
+        "name": "Diglett",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dugtrio",
+        "forms": [],
+        "method": "Level 26"
+      }
+    ]
+  },
+  "Meowth": {
+    "pokedex_number": 52,
+    "line": [
+      {
+        "name": "Meowth",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Persian",
+        "forms": [],
+        "method": "Level 28"
+      }
+    ]
+  },
+  "Psyduck": {
+    "pokedex_number": 54,
+    "line": [
+      {
+        "name": "Psyduck",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Golduck",
+        "forms": [],
+        "method": "Level 33"
+      }
+    ]
+  },
+  "Mankey": {
+    "pokedex_number": 56,
+    "line": [
+      {
+        "name": "Mankey",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Primeape",
+        "forms": [],
+        "method": "Level 28"
+      },
+      {
+        "name": "Annihilape",
+        "forms": [],
+        "method": "Other"
+      }
+    ]
+  },
+  "Growlithe": {
+    "pokedex_number": 58,
+    "line": [
+      {
+        "name": "Growlithe",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Arcanine",
+        "forms": [],
+        "method": "Use Fire Stone"
+      }
+    ]
+  },
+  "Poliwag": {
+    "pokedex_number": 60,
+    "line": [
+      {
+        "name": "Poliwag",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Poliwhirl",
+        "forms": [],
+        "method": "Level 25"
+      },
+      {
+        "name": "Poliwrath",
+        "forms": [],
+        "method": "Use Water Stone"
+      }
+    ]
+  },
+  "Abra": {
+    "pokedex_number": 63,
+    "line": [
+      {
+        "name": "Abra",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Kadabra",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Alakazam",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Machop": {
+    "pokedex_number": 66,
+    "line": [
+      {
+        "name": "Machop",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Machoke",
+        "forms": [],
+        "method": "Level 28"
+      },
+      {
+        "name": "Machamp",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Bellsprout": {
+    "pokedex_number": 69,
+    "line": [
+      {
+        "name": "Bellsprout",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Weepinbell",
+        "forms": [],
+        "method": "Level 21"
+      },
+      {
+        "name": "Victreebel",
+        "forms": [],
+        "method": "Use Leaf Stone"
+      }
+    ]
+  },
+  "Tentacool": {
+    "pokedex_number": 72,
+    "line": [
+      {
+        "name": "Tentacool",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Tentacruel",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Geodude": {
+    "pokedex_number": 74,
+    "line": [
+      {
+        "name": "Geodude",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Graveler",
+        "forms": [],
+        "method": "Level 25"
+      },
+      {
+        "name": "Golem",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Ponyta": {
+    "pokedex_number": 77,
+    "line": [
+      {
+        "name": "Ponyta",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Rapidash",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Slowpoke": {
+    "pokedex_number": 79,
+    "line": [
+      {
+        "name": "Slowpoke",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Slowbro",
+        "forms": [],
+        "method": "Level 37"
+      }
+    ]
+  },
+  "Magnemite": {
+    "pokedex_number": 81,
+    "line": [
+      {
+        "name": "Magnemite",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Magneton",
+        "forms": [],
+        "method": "Level 30"
+      },
+      {
+        "name": "Magnezone",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Farfetch’d": {
+    "pokedex_number": 83,
+    "line": [
+      {
+        "name": "Farfetch’d",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sirfetchd",
+        "forms": [],
+        "method": "Three Critical Hits"
+      }
+    ]
+  },
+  "Doduo": {
+    "pokedex_number": 84,
+    "line": [
+      {
+        "name": "Doduo",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dodrio",
+        "forms": [],
+        "method": "Level 31"
+      }
+    ]
+  },
+  "Seel": {
+    "pokedex_number": 86,
+    "line": [
+      {
+        "name": "Seel",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dewgong",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Grimer": {
+    "pokedex_number": 88,
+    "line": [
+      {
+        "name": "Grimer",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Muk",
+        "forms": [],
+        "method": "Level 38"
+      }
+    ]
+  },
+  "Shellder": {
+    "pokedex_number": 90,
+    "line": [
+      {
+        "name": "Shellder",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Cloyster",
+        "forms": [],
+        "method": "Use Water Stone"
+      }
+    ]
+  },
+  "Gastly": {
+    "pokedex_number": 92,
+    "line": [
+      {
+        "name": "Gastly",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Haunter",
+        "forms": [],
+        "method": "Level 25"
+      },
+      {
+        "name": "Gengar",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Onix": {
+    "pokedex_number": 95,
+    "line": [
+      {
+        "name": "Onix",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Steelix",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Drowzee": {
+    "pokedex_number": 96,
+    "line": [
+      {
+        "name": "Drowzee",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Hypno",
+        "forms": [],
+        "method": "Level 26"
+      }
+    ]
+  },
+  "Krabby": {
+    "pokedex_number": 98,
+    "line": [
+      {
+        "name": "Krabby",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Kingler",
+        "forms": [],
+        "method": "Level 28"
+      }
+    ]
+  },
+  "Voltorb": {
+    "pokedex_number": 100,
+    "line": [
+      {
+        "name": "Voltorb",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Electrode",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Exeggcute": {
+    "pokedex_number": 102,
+    "line": [
+      {
+        "name": "Exeggcute",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Exeggutor",
+        "forms": [],
+        "method": "Use Leaf Stone"
+      }
+    ]
+  },
+  "Cubone": {
+    "pokedex_number": 104,
+    "line": [
+      {
+        "name": "Cubone",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Marowak",
+        "forms": [],
+        "method": "Level 28"
+      }
+    ]
+  },
+  "Tyrogue": {
+    "pokedex_number": 236,
+    "line": [
+      {
+        "name": "Tyrogue",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Hitmonlee",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Lickitung": {
+    "pokedex_number": 108,
+    "line": [
+      {
+        "name": "Lickitung",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lickilicky",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Koffing": {
+    "pokedex_number": 109,
+    "line": [
+      {
+        "name": "Koffing",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Weezing",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Rhyhorn": {
+    "pokedex_number": 111,
+    "line": [
+      {
+        "name": "Rhyhorn",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Rhydon",
+        "forms": [],
+        "method": "Level 42"
+      },
+      {
+        "name": "Rhyperior",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Happiny": {
+    "pokedex_number": 440,
+    "line": [
+      {
+        "name": "Happiny",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Chansey",
+        "forms": [],
+        "method": "Level up"
+      },
+      {
+        "name": "Blissey",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Tangela": {
+    "pokedex_number": 114,
+    "line": [
+      {
+        "name": "Tangela",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Tangrowth",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Kangaskhan": {
+    "pokedex_number": 115,
+    "line": [
+      {
+        "name": "Kangaskhan",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Horsea": {
+    "pokedex_number": 116,
+    "line": [
+      {
+        "name": "Horsea",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Seadra",
+        "forms": [],
+        "method": "Level 32"
+      },
+      {
+        "name": "Kingdra",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Goldeen": {
+    "pokedex_number": 118,
+    "line": [
+      {
+        "name": "Goldeen",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Seaking",
+        "forms": [],
+        "method": "Level 33"
+      }
+    ]
+  },
+  "Staryu": {
+    "pokedex_number": 120,
+    "line": [
+      {
+        "name": "Staryu",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Starmie",
+        "forms": [],
+        "method": "Use Water Stone"
+      }
+    ]
+  },
+  "Mime Jr": {
+    "pokedex_number": 439,
+    "line": [
+      {
+        "name": "Mime Jr",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Mr Mime",
+        "forms": [],
+        "method": "Level up"
+      },
+      {
+        "name": "Mr Rime",
+        "forms": [],
+        "method": "Level 42"
+      }
+    ]
+  },
+  "Scyther": {
+    "pokedex_number": 123,
+    "line": [
+      {
+        "name": "Scyther",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Scizor",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Smoochum": {
+    "pokedex_number": 238,
+    "line": [
+      {
+        "name": "Smoochum",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Jynx",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Elekid": {
+    "pokedex_number": 239,
+    "line": [
+      {
+        "name": "Elekid",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Electabuzz",
+        "forms": [],
+        "method": "Level 30"
+      },
+      {
+        "name": "Electivire",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Magby": {
+    "pokedex_number": 240,
+    "line": [
+      {
+        "name": "Magby",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Magmar",
+        "forms": [],
+        "method": "Level 30"
+      },
+      {
+        "name": "Magmortar",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Pinsir": {
+    "pokedex_number": 127,
+    "line": [
+      {
+        "name": "Pinsir",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Tauros": {
+    "pokedex_number": 128,
+    "line": [
+      {
+        "name": "Tauros",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Magikarp": {
+    "pokedex_number": 129,
+    "line": [
+      {
+        "name": "Magikarp",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gyarados",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Lapras": {
+    "pokedex_number": 131,
+    "line": [
+      {
+        "name": "Lapras",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Ditto": {
+    "pokedex_number": 132,
+    "line": [
+      {
+        "name": "Ditto",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Eevee": {
+    "pokedex_number": 133,
+    "line": [
+      {
+        "name": "Eevee",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Vaporeon",
+        "forms": [],
+        "method": "Use Water Stone"
+      }
+    ]
+  },
+  "Porygon": {
+    "pokedex_number": 137,
+    "line": [
+      {
+        "name": "Porygon",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Porygon2",
+        "forms": [],
+        "method": "Trade"
+      },
+      {
+        "name": "Porygon-Z",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Omanyte": {
+    "pokedex_number": 138,
+    "line": [
+      {
+        "name": "Omanyte",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Omastar",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Kabuto": {
+    "pokedex_number": 140,
+    "line": [
+      {
+        "name": "Kabuto",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Kabutops",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Aerodactyl": {
+    "pokedex_number": 142,
+    "line": [
+      {
+        "name": "Aerodactyl",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Munchlax": {
+    "pokedex_number": 446,
+    "line": [
+      {
+        "name": "Munchlax",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Snorlax",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Articuno": {
+    "pokedex_number": 144,
+    "line": [
+      {
+        "name": "Articuno",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Zapdos": {
+    "pokedex_number": 145,
+    "line": [
+      {
+        "name": "Zapdos",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Moltres": {
+    "pokedex_number": 146,
+    "line": [
+      {
+        "name": "Moltres",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Dratini": {
+    "pokedex_number": 147,
+    "line": [
+      {
+        "name": "Dratini",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dragonair",
+        "forms": [],
+        "method": "Level 30"
+      },
+      {
+        "name": "Dragonite",
+        "forms": [],
+        "method": "Level 55"
+      }
+    ]
+  },
+  "Mewtwo": {
+    "pokedex_number": 150,
+    "line": [
+      {
+        "name": "Mewtwo",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Mew": {
+    "pokedex_number": 151,
+    "line": [
+      {
+        "name": "Mew",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Chikorita": {
+    "pokedex_number": 152,
+    "line": [
+      {
+        "name": "Chikorita",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Bayleef",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Meganium",
+        "forms": [],
+        "method": "Level 32"
+      }
+    ]
+  },
+  "Cyndaquil": {
+    "pokedex_number": 155,
+    "line": [
+      {
+        "name": "Cyndaquil",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Quilava",
+        "forms": [],
+        "method": "Level 14"
+      },
+      {
+        "name": "Typhlosion",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Totodile": {
+    "pokedex_number": 158,
+    "line": [
+      {
+        "name": "Totodile",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Croconaw",
+        "forms": [],
+        "method": "Level 18"
+      },
+      {
+        "name": "Feraligatr",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Sentret": {
+    "pokedex_number": 161,
+    "line": [
+      {
+        "name": "Sentret",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Furret",
+        "forms": [],
+        "method": "Level 15"
+      }
+    ]
+  },
+  "Hoothoot": {
+    "pokedex_number": 163,
+    "line": [
+      {
+        "name": "Hoothoot",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Noctowl",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Ledyba": {
+    "pokedex_number": 165,
+    "line": [
+      {
+        "name": "Ledyba",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Ledian",
+        "forms": [],
+        "method": "Level 18"
+      }
+    ]
+  },
+  "Spinarak": {
+    "pokedex_number": 167,
+    "line": [
+      {
+        "name": "Spinarak",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Ariados",
+        "forms": [],
+        "method": "Level 22"
+      }
+    ]
+  },
+  "Chinchou": {
+    "pokedex_number": 170,
+    "line": [
+      {
+        "name": "Chinchou",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lanturn",
+        "forms": [],
+        "method": "Level 27"
+      }
+    ]
+  },
+  "Togepi": {
+    "pokedex_number": 175,
+    "line": [
+      {
+        "name": "Togepi",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Togetic",
+        "forms": [],
+        "method": "Level up"
+      },
+      {
+        "name": "Togekiss",
+        "forms": [],
+        "method": "Use Shiny Stone"
+      }
+    ]
+  },
+  "Natu": {
+    "pokedex_number": 177,
+    "line": [
+      {
+        "name": "Natu",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Xatu",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Mareep": {
+    "pokedex_number": 179,
+    "line": [
+      {
+        "name": "Mareep",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Flaaffy",
+        "forms": [],
+        "method": "Level 15"
+      },
+      {
+        "name": "Ampharos",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Azurill": {
+    "pokedex_number": 298,
+    "line": [
+      {
+        "name": "Azurill",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Marill",
+        "forms": [],
+        "method": "Level up"
+      },
+      {
+        "name": "Azumarill",
+        "forms": [],
+        "method": "Level 18"
+      }
+    ]
+  },
+  "Bonsly": {
+    "pokedex_number": 438,
+    "line": [
+      {
+        "name": "Bonsly",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sudowoodo",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Hoppip": {
+    "pokedex_number": 187,
+    "line": [
+      {
+        "name": "Hoppip",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Skiploom",
+        "forms": [],
+        "method": "Level 18"
+      },
+      {
+        "name": "Jumpluff",
+        "forms": [],
+        "method": "Level 27"
+      }
+    ]
+  },
+  "Aipom": {
+    "pokedex_number": 190,
+    "line": [
+      {
+        "name": "Aipom",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Ambipom",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Sunkern": {
+    "pokedex_number": 191,
+    "line": [
+      {
+        "name": "Sunkern",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sunflora",
+        "forms": [],
+        "method": "Use Sun Stone"
+      }
+    ]
+  },
+  "Yanma": {
+    "pokedex_number": 193,
+    "line": [
+      {
+        "name": "Yanma",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Yanmega",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Wooper": {
+    "pokedex_number": 194,
+    "line": [
+      {
+        "name": "Wooper",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Quagsire",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Murkrow": {
+    "pokedex_number": 198,
+    "line": [
+      {
+        "name": "Murkrow",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Honchkrow",
+        "forms": [],
+        "method": "Use Dusk Stone"
+      }
+    ]
+  },
+  "Misdreavus": {
+    "pokedex_number": 200,
+    "line": [
+      {
+        "name": "Misdreavus",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Mismagius",
+        "forms": [],
+        "method": "Use Dusk Stone"
+      }
+    ]
+  },
+  "Unown": {
+    "pokedex_number": 201,
+    "line": [
+      {
+        "name": "Unown",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Wynaut": {
+    "pokedex_number": 360,
+    "line": [
+      {
+        "name": "Wynaut",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Wobbuffet",
+        "forms": [],
+        "method": "Level 15"
+      }
+    ]
+  },
+  "Girafarig": {
+    "pokedex_number": 203,
+    "line": [
+      {
+        "name": "Girafarig",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Farigiraf",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Pineco": {
+    "pokedex_number": 204,
+    "line": [
+      {
+        "name": "Pineco",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Forretress",
+        "forms": [],
+        "method": "Level 31"
+      }
+    ]
+  },
+  "Dunsparce": {
+    "pokedex_number": 206,
+    "line": [
+      {
+        "name": "Dunsparce",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dudunsparce",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Gligar": {
+    "pokedex_number": 207,
+    "line": [
+      {
+        "name": "Gligar",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gliscor",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Snubbull": {
+    "pokedex_number": 209,
+    "line": [
+      {
+        "name": "Snubbull",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Granbull",
+        "forms": [],
+        "method": "Level 23"
+      }
+    ]
+  },
+  "Qwilfish": {
+    "pokedex_number": 211,
+    "line": [
+      {
+        "name": "Qwilfish",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Overqwil",
+        "forms": [],
+        "method": "Strong Style Move"
+      }
+    ]
+  },
+  "Shuckle": {
+    "pokedex_number": 213,
+    "line": [
+      {
+        "name": "Shuckle",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Heracross": {
+    "pokedex_number": 214,
+    "line": [
+      {
+        "name": "Heracross",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Sneasel": {
+    "pokedex_number": 215,
+    "line": [
+      {
+        "name": "Sneasel",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Weavile",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Teddiursa": {
+    "pokedex_number": 216,
+    "line": [
+      {
+        "name": "Teddiursa",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Ursaring",
+        "forms": [],
+        "method": "Level 30"
+      },
+      {
+        "name": "Ursaluna",
+        "forms": [],
+        "method": "Use Peat Block"
+      }
+    ]
+  },
+  "Slugma": {
+    "pokedex_number": 218,
+    "line": [
+      {
+        "name": "Slugma",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Magcargo",
+        "forms": [],
+        "method": "Level 38"
+      }
+    ]
+  },
+  "Swinub": {
+    "pokedex_number": 220,
+    "line": [
+      {
+        "name": "Swinub",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Piloswine",
+        "forms": [],
+        "method": "Level 33"
+      },
+      {
+        "name": "Mamoswine",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Corsola": {
+    "pokedex_number": 222,
+    "line": [
+      {
+        "name": "Corsola",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Cursola",
+        "forms": [],
+        "method": "Level 38"
+      }
+    ]
+  },
+  "Remoraid": {
+    "pokedex_number": 223,
+    "line": [
+      {
+        "name": "Remoraid",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Octillery",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Delibird": {
+    "pokedex_number": 225,
+    "line": [
+      {
+        "name": "Delibird",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Mantyke": {
+    "pokedex_number": 458,
+    "line": [
+      {
+        "name": "Mantyke",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Mantine",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Skarmory": {
+    "pokedex_number": 227,
+    "line": [
+      {
+        "name": "Skarmory",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Houndour": {
+    "pokedex_number": 228,
+    "line": [
+      {
+        "name": "Houndour",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Houndoom",
+        "forms": [],
+        "method": "Level 24"
+      }
+    ]
+  },
+  "Phanpy": {
+    "pokedex_number": 231,
+    "line": [
+      {
+        "name": "Phanpy",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Donphan",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Stantler": {
+    "pokedex_number": 234,
+    "line": [
+      {
+        "name": "Stantler",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Wyrdeer",
+        "forms": [],
+        "method": "Agile Style Move"
+      }
+    ]
+  },
+  "Smeargle": {
+    "pokedex_number": 235,
+    "line": [
+      {
+        "name": "Smeargle",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Miltank": {
+    "pokedex_number": 241,
+    "line": [
+      {
+        "name": "Miltank",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Raikou": {
+    "pokedex_number": 243,
+    "line": [
+      {
+        "name": "Raikou",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Entei": {
+    "pokedex_number": 244,
+    "line": [
+      {
+        "name": "Entei",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Suicune": {
+    "pokedex_number": 245,
+    "line": [
+      {
+        "name": "Suicune",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Larvitar": {
+    "pokedex_number": 246,
+    "line": [
+      {
+        "name": "Larvitar",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Pupitar",
+        "forms": [],
+        "method": "Level 30"
+      },
+      {
+        "name": "Tyranitar",
+        "forms": [],
+        "method": "Level 55"
+      }
+    ]
+  },
+  "Lugia": {
+    "pokedex_number": 249,
+    "line": [
+      {
+        "name": "Lugia",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Ho-Oh": {
+    "pokedex_number": 250,
+    "line": [
+      {
+        "name": "Ho-Oh",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Celebi": {
+    "pokedex_number": 251,
+    "line": [
+      {
+        "name": "Celebi",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Treecko": {
+    "pokedex_number": 252,
+    "line": [
+      {
+        "name": "Treecko",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Grovyle",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Sceptile",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Torchic": {
+    "pokedex_number": 255,
+    "line": [
+      {
+        "name": "Torchic",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Combusken",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Blaziken",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Mudkip": {
+    "pokedex_number": 258,
+    "line": [
+      {
+        "name": "Mudkip",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Marshtomp",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Swampert",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Poochyena": {
+    "pokedex_number": 261,
+    "line": [
+      {
+        "name": "Poochyena",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Mightyena",
+        "forms": [],
+        "method": "Level 18"
+      }
+    ]
+  },
+  "Zigzagoon": {
+    "pokedex_number": 263,
+    "line": [
+      {
+        "name": "Zigzagoon",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Linoone",
+        "forms": [],
+        "method": "Level 20"
+      },
+      {
+        "name": "Obstagoon",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Wurmple": {
+    "pokedex_number": 265,
+    "line": [
+      {
+        "name": "Wurmple",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Silcoon",
+        "forms": [],
+        "method": "Level 7"
+      },
+      {
+        "name": "Beautifly",
+        "forms": [],
+        "method": "Level 10"
+      }
+    ]
+  },
+  "Lotad": {
+    "pokedex_number": 270,
+    "line": [
+      {
+        "name": "Lotad",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lombre",
+        "forms": [],
+        "method": "Level 14"
+      },
+      {
+        "name": "Ludicolo",
+        "forms": [],
+        "method": "Use Water Stone"
+      }
+    ]
+  },
+  "Seedot": {
+    "pokedex_number": 273,
+    "line": [
+      {
+        "name": "Seedot",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Nuzleaf",
+        "forms": [],
+        "method": "Level 14"
+      },
+      {
+        "name": "Shiftry",
+        "forms": [],
+        "method": "Use Leaf Stone"
+      }
+    ]
+  },
+  "Taillow": {
+    "pokedex_number": 276,
+    "line": [
+      {
+        "name": "Taillow",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Swellow",
+        "forms": [],
+        "method": "Level 22"
+      }
+    ]
+  },
+  "Wingull": {
+    "pokedex_number": 278,
+    "line": [
+      {
+        "name": "Wingull",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Pelipper",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Ralts": {
+    "pokedex_number": 280,
+    "line": [
+      {
+        "name": "Ralts",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Kirlia",
+        "forms": [],
+        "method": "Level 20"
+      },
+      {
+        "name": "Gardevoir",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Surskit": {
+    "pokedex_number": 283,
+    "line": [
+      {
+        "name": "Surskit",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Masquerain",
+        "forms": [],
+        "method": "Level 22"
+      }
+    ]
+  },
+  "Shroomish": {
+    "pokedex_number": 285,
+    "line": [
+      {
+        "name": "Shroomish",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Breloom",
+        "forms": [],
+        "method": "Level 23"
+      }
+    ]
+  },
+  "Slakoth": {
+    "pokedex_number": 287,
+    "line": [
+      {
+        "name": "Slakoth",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Vigoroth",
+        "forms": [],
+        "method": "Level 18"
+      },
+      {
+        "name": "Slaking",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Nincada": {
+    "pokedex_number": 290,
+    "line": [
+      {
+        "name": "Nincada",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Ninjask",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Whismur": {
+    "pokedex_number": 293,
+    "line": [
+      {
+        "name": "Whismur",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Loudred",
+        "forms": [],
+        "method": "Level 20"
+      },
+      {
+        "name": "Exploud",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Makuhita": {
+    "pokedex_number": 296,
+    "line": [
+      {
+        "name": "Makuhita",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Hariyama",
+        "forms": [],
+        "method": "Level 24"
+      }
+    ]
+  },
+  "Nosepass": {
+    "pokedex_number": 299,
+    "line": [
+      {
+        "name": "Nosepass",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Probopass",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Skitty": {
+    "pokedex_number": 300,
+    "line": [
+      {
+        "name": "Skitty",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Delcatty",
+        "forms": [],
+        "method": "Use Moon Stone"
+      }
+    ]
+  },
+  "Sableye": {
+    "pokedex_number": 302,
+    "line": [
+      {
+        "name": "Sableye",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Mawile": {
+    "pokedex_number": 303,
+    "line": [
+      {
+        "name": "Mawile",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Aron": {
+    "pokedex_number": 304,
+    "line": [
+      {
+        "name": "Aron",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lairon",
+        "forms": [],
+        "method": "Level 32"
+      },
+      {
+        "name": "Aggron",
+        "forms": [],
+        "method": "Level 42"
+      }
+    ]
+  },
+  "Meditite": {
+    "pokedex_number": 307,
+    "line": [
+      {
+        "name": "Meditite",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Medicham",
+        "forms": [],
+        "method": "Level 37"
+      }
+    ]
+  },
+  "Electrike": {
+    "pokedex_number": 309,
+    "line": [
+      {
+        "name": "Electrike",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Manectric",
+        "forms": [],
+        "method": "Level 26"
+      }
+    ]
+  },
+  "Plusle": {
+    "pokedex_number": 311,
+    "line": [
+      {
+        "name": "Plusle",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Minun": {
+    "pokedex_number": 312,
+    "line": [
+      {
+        "name": "Minun",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Volbeat": {
+    "pokedex_number": 313,
+    "line": [
+      {
+        "name": "Volbeat",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Illumise": {
+    "pokedex_number": 314,
+    "line": [
+      {
+        "name": "Illumise",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Budew": {
+    "pokedex_number": 406,
+    "line": [
+      {
+        "name": "Budew",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Roselia",
+        "forms": [],
+        "method": "Level up"
+      },
+      {
+        "name": "Roserade",
+        "forms": [],
+        "method": "Use Shiny Stone"
+      }
+    ]
+  },
+  "Gulpin": {
+    "pokedex_number": 316,
+    "line": [
+      {
+        "name": "Gulpin",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Swalot",
+        "forms": [],
+        "method": "Level 26"
+      }
+    ]
+  },
+  "Carvanha": {
+    "pokedex_number": 318,
+    "line": [
+      {
+        "name": "Carvanha",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sharpedo",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Wailmer": {
+    "pokedex_number": 320,
+    "line": [
+      {
+        "name": "Wailmer",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Wailord",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Numel": {
+    "pokedex_number": 322,
+    "line": [
+      {
+        "name": "Numel",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Camerupt",
+        "forms": [],
+        "method": "Level 33"
+      }
+    ]
+  },
+  "Torkoal": {
+    "pokedex_number": 324,
+    "line": [
+      {
+        "name": "Torkoal",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Spoink": {
+    "pokedex_number": 325,
+    "line": [
+      {
+        "name": "Spoink",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Grumpig",
+        "forms": [],
+        "method": "Level 32"
+      }
+    ]
+  },
+  "Spinda": {
+    "pokedex_number": 327,
+    "line": [
+      {
+        "name": "Spinda",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Trapinch": {
+    "pokedex_number": 328,
+    "line": [
+      {
+        "name": "Trapinch",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Vibrava",
+        "forms": [],
+        "method": "Level 35"
+      },
+      {
+        "name": "Flygon",
+        "forms": [],
+        "method": "Level 45"
+      }
+    ]
+  },
+  "Cacnea": {
+    "pokedex_number": 331,
+    "line": [
+      {
+        "name": "Cacnea",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Cacturne",
+        "forms": [],
+        "method": "Level 32"
+      }
+    ]
+  },
+  "Swablu": {
+    "pokedex_number": 333,
+    "line": [
+      {
+        "name": "Swablu",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Altaria",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Zangoose": {
+    "pokedex_number": 335,
+    "line": [
+      {
+        "name": "Zangoose",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Seviper": {
+    "pokedex_number": 336,
+    "line": [
+      {
+        "name": "Seviper",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Lunatone": {
+    "pokedex_number": 337,
+    "line": [
+      {
+        "name": "Lunatone",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Solrock": {
+    "pokedex_number": 338,
+    "line": [
+      {
+        "name": "Solrock",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Barboach": {
+    "pokedex_number": 339,
+    "line": [
+      {
+        "name": "Barboach",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Whiscash",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Corphish": {
+    "pokedex_number": 341,
+    "line": [
+      {
+        "name": "Corphish",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Crawdaunt",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Baltoy": {
+    "pokedex_number": 343,
+    "line": [
+      {
+        "name": "Baltoy",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Claydol",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Lileep": {
+    "pokedex_number": 345,
+    "line": [
+      {
+        "name": "Lileep",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Cradily",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Anorith": {
+    "pokedex_number": 347,
+    "line": [
+      {
+        "name": "Anorith",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Armaldo",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Feebas": {
+    "pokedex_number": 349,
+    "line": [
+      {
+        "name": "Feebas",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Milotic",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Castform": {
+    "pokedex_number": 351,
+    "line": [
+      {
+        "name": "Castform",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Kecleon": {
+    "pokedex_number": 352,
+    "line": [
+      {
+        "name": "Kecleon",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Shuppet": {
+    "pokedex_number": 353,
+    "line": [
+      {
+        "name": "Shuppet",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Banette",
+        "forms": [],
+        "method": "Level 37"
+      }
+    ]
+  },
+  "Duskull": {
+    "pokedex_number": 355,
+    "line": [
+      {
+        "name": "Duskull",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dusclops",
+        "forms": [],
+        "method": "Level 37"
+      },
+      {
+        "name": "Dusknoir",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Tropius": {
+    "pokedex_number": 357,
+    "line": [
+      {
+        "name": "Tropius",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Chingling": {
+    "pokedex_number": 433,
+    "line": [
+      {
+        "name": "Chingling",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Chimecho",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Absol": {
+    "pokedex_number": 359,
+    "line": [
+      {
+        "name": "Absol",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Snorunt": {
+    "pokedex_number": 361,
+    "line": [
+      {
+        "name": "Snorunt",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Glalie",
+        "forms": [],
+        "method": "Level 42"
+      }
+    ]
+  },
+  "Spheal": {
+    "pokedex_number": 363,
+    "line": [
+      {
+        "name": "Spheal",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sealeo",
+        "forms": [],
+        "method": "Level 32"
+      },
+      {
+        "name": "Walrein",
+        "forms": [],
+        "method": "Level 44"
+      }
+    ]
+  },
+  "Clamperl": {
+    "pokedex_number": 366,
+    "line": [
+      {
+        "name": "Clamperl",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Huntail",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Relicanth": {
+    "pokedex_number": 369,
+    "line": [
+      {
+        "name": "Relicanth",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Luvdisc": {
+    "pokedex_number": 370,
+    "line": [
+      {
+        "name": "Luvdisc",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Bagon": {
+    "pokedex_number": 371,
+    "line": [
+      {
+        "name": "Bagon",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Shelgon",
+        "forms": [],
+        "method": "Level 30"
+      },
+      {
+        "name": "Salamence",
+        "forms": [],
+        "method": "Level 50"
+      }
+    ]
+  },
+  "Beldum": {
+    "pokedex_number": 374,
+    "line": [
+      {
+        "name": "Beldum",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Metang",
+        "forms": [],
+        "method": "Level 20"
+      },
+      {
+        "name": "Metagross",
+        "forms": [],
+        "method": "Level 45"
+      }
+    ]
+  },
+  "Regirock": {
+    "pokedex_number": 377,
+    "line": [
+      {
+        "name": "Regirock",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Regice": {
+    "pokedex_number": 378,
+    "line": [
+      {
+        "name": "Regice",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Registeel": {
+    "pokedex_number": 379,
+    "line": [
+      {
+        "name": "Registeel",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Latias": {
+    "pokedex_number": 380,
+    "line": [
+      {
+        "name": "Latias",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Latios": {
+    "pokedex_number": 381,
+    "line": [
+      {
+        "name": "Latios",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Kyogre": {
+    "pokedex_number": 382,
+    "line": [
+      {
+        "name": "Kyogre",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Groudon": {
+    "pokedex_number": 383,
+    "line": [
+      {
+        "name": "Groudon",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Rayquaza": {
+    "pokedex_number": 384,
+    "line": [
+      {
+        "name": "Rayquaza",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Jirachi": {
+    "pokedex_number": 385,
+    "line": [
+      {
+        "name": "Jirachi",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Deoxys": {
+    "pokedex_number": 386,
+    "line": [
+      {
+        "name": "Deoxys",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Turtwig": {
+    "pokedex_number": 387,
+    "line": [
+      {
+        "name": "Turtwig",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Grotle",
+        "forms": [],
+        "method": "Level 18"
+      },
+      {
+        "name": "Torterra",
+        "forms": [],
+        "method": "Level 32"
+      }
+    ]
+  },
+  "Chimchar": {
+    "pokedex_number": 390,
+    "line": [
+      {
+        "name": "Chimchar",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Monferno",
+        "forms": [],
+        "method": "Level 14"
+      },
+      {
+        "name": "Infernape",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Piplup": {
+    "pokedex_number": 393,
+    "line": [
+      {
+        "name": "Piplup",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Prinplup",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Empoleon",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Starly": {
+    "pokedex_number": 396,
+    "line": [
+      {
+        "name": "Starly",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Staravia",
+        "forms": [],
+        "method": "Level 14"
+      },
+      {
+        "name": "Staraptor",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Bidoof": {
+    "pokedex_number": 399,
+    "line": [
+      {
+        "name": "Bidoof",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Bibarel",
+        "forms": [],
+        "method": "Level 15"
+      }
+    ]
+  },
+  "Kricketot": {
+    "pokedex_number": 401,
+    "line": [
+      {
+        "name": "Kricketot",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Kricketune",
+        "forms": [],
+        "method": "Level 10"
+      }
+    ]
+  },
+  "Shinx": {
+    "pokedex_number": 403,
+    "line": [
+      {
+        "name": "Shinx",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Luxio",
+        "forms": [],
+        "method": "Level 15"
+      },
+      {
+        "name": "Luxray",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Cranidos": {
+    "pokedex_number": 408,
+    "line": [
+      {
+        "name": "Cranidos",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Rampardos",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Shieldon": {
+    "pokedex_number": 410,
+    "line": [
+      {
+        "name": "Shieldon",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Bastiodon",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Burmy": {
+    "pokedex_number": 412,
+    "line": [
+      {
+        "name": "Burmy",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Wormadam",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Combee": {
+    "pokedex_number": 415,
+    "line": [
+      {
+        "name": "Combee",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Vespiquen",
+        "forms": [],
+        "method": "Level 21"
+      }
+    ]
+  },
+  "Pachirisu": {
+    "pokedex_number": 417,
+    "line": [
+      {
+        "name": "Pachirisu",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Buizel": {
+    "pokedex_number": 418,
+    "line": [
+      {
+        "name": "Buizel",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Floatzel",
+        "forms": [],
+        "method": "Level 26"
+      }
+    ]
+  },
+  "Cherubi": {
+    "pokedex_number": 420,
+    "line": [
+      {
+        "name": "Cherubi",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Cherrim",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Shellos": {
+    "pokedex_number": 422,
+    "line": [
+      {
+        "name": "Shellos",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gastrodon",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Drifloon": {
+    "pokedex_number": 425,
+    "line": [
+      {
+        "name": "Drifloon",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Drifblim",
+        "forms": [],
+        "method": "Level 28"
+      }
+    ]
+  },
+  "Buneary": {
+    "pokedex_number": 427,
+    "line": [
+      {
+        "name": "Buneary",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lopunny",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Glameow": {
+    "pokedex_number": 431,
+    "line": [
+      {
+        "name": "Glameow",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Purugly",
+        "forms": [],
+        "method": "Level 38"
+      }
+    ]
+  },
+  "Stunky": {
+    "pokedex_number": 434,
+    "line": [
+      {
+        "name": "Stunky",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Skuntank",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Bronzor": {
+    "pokedex_number": 436,
+    "line": [
+      {
+        "name": "Bronzor",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Bronzong",
+        "forms": [],
+        "method": "Level 33"
+      }
+    ]
+  },
+  "Chatot": {
+    "pokedex_number": 441,
+    "line": [
+      {
+        "name": "Chatot",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Spiritomb": {
+    "pokedex_number": 442,
+    "line": [
+      {
+        "name": "Spiritomb",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Gible": {
+    "pokedex_number": 443,
+    "line": [
+      {
+        "name": "Gible",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gabite",
+        "forms": [],
+        "method": "Level 24"
+      },
+      {
+        "name": "Garchomp",
+        "forms": [],
+        "method": "Level 48"
+      }
+    ]
+  },
+  "Riolu": {
+    "pokedex_number": 447,
+    "line": [
+      {
+        "name": "Riolu",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lucario",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Hippopotas": {
+    "pokedex_number": 449,
+    "line": [
+      {
+        "name": "Hippopotas",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Hippowdon",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Skorupi": {
+    "pokedex_number": 451,
+    "line": [
+      {
+        "name": "Skorupi",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Drapion",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Croagunk": {
+    "pokedex_number": 453,
+    "line": [
+      {
+        "name": "Croagunk",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Toxicroak",
+        "forms": [],
+        "method": "Level 37"
+      }
+    ]
+  },
+  "Carnivine": {
+    "pokedex_number": 455,
+    "line": [
+      {
+        "name": "Carnivine",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Finneon": {
+    "pokedex_number": 456,
+    "line": [
+      {
+        "name": "Finneon",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lumineon",
+        "forms": [],
+        "method": "Level 31"
+      }
+    ]
+  },
+  "Snover": {
+    "pokedex_number": 459,
+    "line": [
+      {
+        "name": "Snover",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Abomasnow",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Rotom": {
+    "pokedex_number": 479,
+    "line": [
+      {
+        "name": "Rotom",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Uxie": {
+    "pokedex_number": 480,
+    "line": [
+      {
+        "name": "Uxie",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Mesprit": {
+    "pokedex_number": 481,
+    "line": [
+      {
+        "name": "Mesprit",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Azelf": {
+    "pokedex_number": 482,
+    "line": [
+      {
+        "name": "Azelf",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Dialga": {
+    "pokedex_number": 483,
+    "line": [
+      {
+        "name": "Dialga",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Palkia": {
+    "pokedex_number": 484,
+    "line": [
+      {
+        "name": "Palkia",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Heatran": {
+    "pokedex_number": 485,
+    "line": [
+      {
+        "name": "Heatran",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Regigigas": {
+    "pokedex_number": 486,
+    "line": [
+      {
+        "name": "Regigigas",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Giratina": {
+    "pokedex_number": 487,
+    "line": [
+      {
+        "name": "Giratina",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Cresselia": {
+    "pokedex_number": 488,
+    "line": [
+      {
+        "name": "Cresselia",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Phione": {
+    "pokedex_number": 489,
+    "line": [
+      {
+        "name": "Phione",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Manaphy",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Darkrai": {
+    "pokedex_number": 491,
+    "line": [
+      {
+        "name": "Darkrai",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Shaymin": {
+    "pokedex_number": 492,
+    "line": [
+      {
+        "name": "Shaymin",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Arceus": {
+    "pokedex_number": 493,
+    "line": [
+      {
+        "name": "Arceus",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Victini": {
+    "pokedex_number": 494,
+    "line": [
+      {
+        "name": "Victini",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Snivy": {
+    "pokedex_number": 495,
+    "line": [
+      {
+        "name": "Snivy",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Servine",
+        "forms": [],
+        "method": "Level 17"
+      },
+      {
+        "name": "Serperior",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Tepig": {
+    "pokedex_number": 498,
+    "line": [
+      {
+        "name": "Tepig",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Pignite",
+        "forms": [],
+        "method": "Level 17"
+      },
+      {
+        "name": "Emboar",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Oshawott": {
+    "pokedex_number": 501,
+    "line": [
+      {
+        "name": "Oshawott",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dewott",
+        "forms": [],
+        "method": "Level 17"
+      },
+      {
+        "name": "Samurott",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Patrat": {
+    "pokedex_number": 504,
+    "line": [
+      {
+        "name": "Patrat",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Watchog",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Lillipup": {
+    "pokedex_number": 506,
+    "line": [
+      {
+        "name": "Lillipup",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Herdier",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Stoutland",
+        "forms": [],
+        "method": "Level 32"
+      }
+    ]
+  },
+  "Purrloin": {
+    "pokedex_number": 509,
+    "line": [
+      {
+        "name": "Purrloin",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Liepard",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Pansage": {
+    "pokedex_number": 511,
+    "line": [
+      {
+        "name": "Pansage",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Simisage",
+        "forms": [],
+        "method": "Use Leaf Stone"
+      }
+    ]
+  },
+  "Pansear": {
+    "pokedex_number": 513,
+    "line": [
+      {
+        "name": "Pansear",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Simisear",
+        "forms": [],
+        "method": "Use Fire Stone"
+      }
+    ]
+  },
+  "Panpour": {
+    "pokedex_number": 515,
+    "line": [
+      {
+        "name": "Panpour",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Simipour",
+        "forms": [],
+        "method": "Use Water Stone"
+      }
+    ]
+  },
+  "Munna": {
+    "pokedex_number": 517,
+    "line": [
+      {
+        "name": "Munna",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Musharna",
+        "forms": [],
+        "method": "Use Moon Stone"
+      }
+    ]
+  },
+  "Pidove": {
+    "pokedex_number": 519,
+    "line": [
+      {
+        "name": "Pidove",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Tranquill",
+        "forms": [],
+        "method": "Level 21"
+      },
+      {
+        "name": "Unfezant",
+        "forms": [],
+        "method": "Level 32"
+      }
+    ]
+  },
+  "Blitzle": {
+    "pokedex_number": 522,
+    "line": [
+      {
+        "name": "Blitzle",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Zebstrika",
+        "forms": [],
+        "method": "Level 27"
+      }
+    ]
+  },
+  "Roggenrola": {
+    "pokedex_number": 524,
+    "line": [
+      {
+        "name": "Roggenrola",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Boldore",
+        "forms": [],
+        "method": "Level 25"
+      },
+      {
+        "name": "Gigalith",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Woobat": {
+    "pokedex_number": 527,
+    "line": [
+      {
+        "name": "Woobat",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Swoobat",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Drilbur": {
+    "pokedex_number": 529,
+    "line": [
+      {
+        "name": "Drilbur",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Excadrill",
+        "forms": [],
+        "method": "Level 31"
+      }
+    ]
+  },
+  "Audino": {
+    "pokedex_number": 531,
+    "line": [
+      {
+        "name": "Audino",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Timburr": {
+    "pokedex_number": 532,
+    "line": [
+      {
+        "name": "Timburr",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gurdurr",
+        "forms": [],
+        "method": "Level 25"
+      },
+      {
+        "name": "Conkeldurr",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Tympole": {
+    "pokedex_number": 535,
+    "line": [
+      {
+        "name": "Tympole",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Palpitoad",
+        "forms": [],
+        "method": "Level 25"
+      },
+      {
+        "name": "Seismitoad",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Throh": {
+    "pokedex_number": 538,
+    "line": [
+      {
+        "name": "Throh",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Sawk": {
+    "pokedex_number": 539,
+    "line": [
+      {
+        "name": "Sawk",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Sewaddle": {
+    "pokedex_number": 540,
+    "line": [
+      {
+        "name": "Sewaddle",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Swadloon",
+        "forms": [],
+        "method": "Level 20"
+      },
+      {
+        "name": "Leavanny",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Venipede": {
+    "pokedex_number": 543,
+    "line": [
+      {
+        "name": "Venipede",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Whirlipede",
+        "forms": [],
+        "method": "Level 22"
+      },
+      {
+        "name": "Scolipede",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Cottonee": {
+    "pokedex_number": 546,
+    "line": [
+      {
+        "name": "Cottonee",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Whimsicott",
+        "forms": [],
+        "method": "Use Sun Stone"
+      }
+    ]
+  },
+  "Petilil": {
+    "pokedex_number": 548,
+    "line": [
+      {
+        "name": "Petilil",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lilligant",
+        "forms": [],
+        "method": "Use Sun Stone"
+      }
+    ]
+  },
+  "Basculin": {
+    "pokedex_number": 550,
+    "line": [
+      {
+        "name": "Basculin",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Basculegion",
+        "forms": [],
+        "method": "Recoil Damage"
+      }
+    ]
+  },
+  "Sandile": {
+    "pokedex_number": 551,
+    "line": [
+      {
+        "name": "Sandile",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Krokorok",
+        "forms": [],
+        "method": "Level 29"
+      },
+      {
+        "name": "Krookodile",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Darumaka": {
+    "pokedex_number": 554,
+    "line": [
+      {
+        "name": "Darumaka",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Darmanitan",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Maractus": {
+    "pokedex_number": 556,
+    "line": [
+      {
+        "name": "Maractus",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Dwebble": {
+    "pokedex_number": 557,
+    "line": [
+      {
+        "name": "Dwebble",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Crustle",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Scraggy": {
+    "pokedex_number": 559,
+    "line": [
+      {
+        "name": "Scraggy",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Scrafty",
+        "forms": [],
+        "method": "Level 39"
+      }
+    ]
+  },
+  "Sigilyph": {
+    "pokedex_number": 561,
+    "line": [
+      {
+        "name": "Sigilyph",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Yamask": {
+    "pokedex_number": 562,
+    "line": [
+      {
+        "name": "Yamask",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Cofagrigus",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Tirtouga": {
+    "pokedex_number": 564,
+    "line": [
+      {
+        "name": "Tirtouga",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Carracosta",
+        "forms": [],
+        "method": "Level 37"
+      }
+    ]
+  },
+  "Archen": {
+    "pokedex_number": 566,
+    "line": [
+      {
+        "name": "Archen",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Archeops",
+        "forms": [],
+        "method": "Level 37"
+      }
+    ]
+  },
+  "Trubbish": {
+    "pokedex_number": 568,
+    "line": [
+      {
+        "name": "Trubbish",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Garbodor",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Zorua": {
+    "pokedex_number": 570,
+    "line": [
+      {
+        "name": "Zorua",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Zoroark",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Minccino": {
+    "pokedex_number": 572,
+    "line": [
+      {
+        "name": "Minccino",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Cinccino",
+        "forms": [],
+        "method": "Use Shiny Stone"
+      }
+    ]
+  },
+  "Gothita": {
+    "pokedex_number": 574,
+    "line": [
+      {
+        "name": "Gothita",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gothorita",
+        "forms": [],
+        "method": "Level 32"
+      },
+      {
+        "name": "Gothitelle",
+        "forms": [],
+        "method": "Level 41"
+      }
+    ]
+  },
+  "Solosis": {
+    "pokedex_number": 577,
+    "line": [
+      {
+        "name": "Solosis",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Duosion",
+        "forms": [],
+        "method": "Level 32"
+      },
+      {
+        "name": "Reuniclus",
+        "forms": [],
+        "method": "Level 41"
+      }
+    ]
+  },
+  "Ducklett": {
+    "pokedex_number": 580,
+    "line": [
+      {
+        "name": "Ducklett",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Swanna",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Vanillite": {
+    "pokedex_number": 582,
+    "line": [
+      {
+        "name": "Vanillite",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Vanillish",
+        "forms": [],
+        "method": "Level 35"
+      },
+      {
+        "name": "Vanilluxe",
+        "forms": [],
+        "method": "Level 47"
+      }
+    ]
+  },
+  "Deerling": {
+    "pokedex_number": 585,
+    "line": [
+      {
+        "name": "Deerling",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sawsbuck",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Emolga": {
+    "pokedex_number": 587,
+    "line": [
+      {
+        "name": "Emolga",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Karrablast": {
+    "pokedex_number": 588,
+    "line": [
+      {
+        "name": "Karrablast",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Escavalier",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Foongus": {
+    "pokedex_number": 590,
+    "line": [
+      {
+        "name": "Foongus",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Amoonguss",
+        "forms": [],
+        "method": "Level 39"
+      }
+    ]
+  },
+  "Frillish": {
+    "pokedex_number": 592,
+    "line": [
+      {
+        "name": "Frillish",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Jellicent",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Alomomola": {
+    "pokedex_number": 594,
+    "line": [
+      {
+        "name": "Alomomola",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Joltik": {
+    "pokedex_number": 595,
+    "line": [
+      {
+        "name": "Joltik",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Galvantula",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Ferroseed": {
+    "pokedex_number": 597,
+    "line": [
+      {
+        "name": "Ferroseed",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Ferrothorn",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Klink": {
+    "pokedex_number": 599,
+    "line": [
+      {
+        "name": "Klink",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Klang",
+        "forms": [],
+        "method": "Level 38"
+      },
+      {
+        "name": "Klinklang",
+        "forms": [],
+        "method": "Level 49"
+      }
+    ]
+  },
+  "Tynamo": {
+    "pokedex_number": 602,
+    "line": [
+      {
+        "name": "Tynamo",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Eelektrik",
+        "forms": [],
+        "method": "Level 39"
+      },
+      {
+        "name": "Eelektross",
+        "forms": [],
+        "method": "Use Thunder Stone"
+      }
+    ]
+  },
+  "Elgyem": {
+    "pokedex_number": 605,
+    "line": [
+      {
+        "name": "Elgyem",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Beheeyem",
+        "forms": [],
+        "method": "Level 42"
+      }
+    ]
+  },
+  "Litwick": {
+    "pokedex_number": 607,
+    "line": [
+      {
+        "name": "Litwick",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lampent",
+        "forms": [],
+        "method": "Level 41"
+      },
+      {
+        "name": "Chandelure",
+        "forms": [],
+        "method": "Use Dusk Stone"
+      }
+    ]
+  },
+  "Axew": {
+    "pokedex_number": 610,
+    "line": [
+      {
+        "name": "Axew",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Fraxure",
+        "forms": [],
+        "method": "Level 38"
+      },
+      {
+        "name": "Haxorus",
+        "forms": [],
+        "method": "Level 48"
+      }
+    ]
+  },
+  "Cubchoo": {
+    "pokedex_number": 613,
+    "line": [
+      {
+        "name": "Cubchoo",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Beartic",
+        "forms": [],
+        "method": "Level 37"
+      }
+    ]
+  },
+  "Cryogonal": {
+    "pokedex_number": 615,
+    "line": [
+      {
+        "name": "Cryogonal",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Shelmet": {
+    "pokedex_number": 616,
+    "line": [
+      {
+        "name": "Shelmet",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Accelgor",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Stunfisk": {
+    "pokedex_number": 618,
+    "line": [
+      {
+        "name": "Stunfisk",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Mienfoo": {
+    "pokedex_number": 619,
+    "line": [
+      {
+        "name": "Mienfoo",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Mienshao",
+        "forms": [],
+        "method": "Level 50"
+      }
+    ]
+  },
+  "Druddigon": {
+    "pokedex_number": 621,
+    "line": [
+      {
+        "name": "Druddigon",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Golett": {
+    "pokedex_number": 622,
+    "line": [
+      {
+        "name": "Golett",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Golurk",
+        "forms": [],
+        "method": "Level 43"
+      }
+    ]
+  },
+  "Pawniard": {
+    "pokedex_number": 624,
+    "line": [
+      {
+        "name": "Pawniard",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Bisharp",
+        "forms": [],
+        "method": "Level 52"
+      },
+      {
+        "name": "Kingambit",
+        "forms": [],
+        "method": "Other"
+      }
+    ]
+  },
+  "Bouffalant": {
+    "pokedex_number": 626,
+    "line": [
+      {
+        "name": "Bouffalant",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Rufflet": {
+    "pokedex_number": 627,
+    "line": [
+      {
+        "name": "Rufflet",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Braviary",
+        "forms": [],
+        "method": "Level 54"
+      }
+    ]
+  },
+  "Vullaby": {
+    "pokedex_number": 629,
+    "line": [
+      {
+        "name": "Vullaby",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Mandibuzz",
+        "forms": [],
+        "method": "Level 54"
+      }
+    ]
+  },
+  "Heatmor": {
+    "pokedex_number": 631,
+    "line": [
+      {
+        "name": "Heatmor",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Durant": {
+    "pokedex_number": 632,
+    "line": [
+      {
+        "name": "Durant",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Deino": {
+    "pokedex_number": 633,
+    "line": [
+      {
+        "name": "Deino",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Zweilous",
+        "forms": [],
+        "method": "Level 50"
+      },
+      {
+        "name": "Hydreigon",
+        "forms": [],
+        "method": "Level 64"
+      }
+    ]
+  },
+  "Larvesta": {
+    "pokedex_number": 636,
+    "line": [
+      {
+        "name": "Larvesta",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Volcarona",
+        "forms": [],
+        "method": "Level 59"
+      }
+    ]
+  },
+  "Cobalion": {
+    "pokedex_number": 638,
+    "line": [
+      {
+        "name": "Cobalion",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Terrakion": {
+    "pokedex_number": 639,
+    "line": [
+      {
+        "name": "Terrakion",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Virizion": {
+    "pokedex_number": 640,
+    "line": [
+      {
+        "name": "Virizion",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Tornadus": {
+    "pokedex_number": 641,
+    "line": [
+      {
+        "name": "Tornadus",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Thundurus": {
+    "pokedex_number": 642,
+    "line": [
+      {
+        "name": "Thundurus",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Reshiram": {
+    "pokedex_number": 643,
+    "line": [
+      {
+        "name": "Reshiram",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Zekrom": {
+    "pokedex_number": 644,
+    "line": [
+      {
+        "name": "Zekrom",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Landorus": {
+    "pokedex_number": 645,
+    "line": [
+      {
+        "name": "Landorus",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Kyurem": {
+    "pokedex_number": 646,
+    "line": [
+      {
+        "name": "Kyurem",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Keldeo": {
+    "pokedex_number": 647,
+    "line": [
+      {
+        "name": "Keldeo",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Meloetta": {
+    "pokedex_number": 648,
+    "line": [
+      {
+        "name": "Meloetta",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Genesect": {
+    "pokedex_number": 649,
+    "line": [
+      {
+        "name": "Genesect",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Chespin": {
+    "pokedex_number": 650,
+    "line": [
+      {
+        "name": "Chespin",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Quilladin",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Chesnaught",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Fennekin": {
+    "pokedex_number": 653,
+    "line": [
+      {
+        "name": "Fennekin",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Braixen",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Delphox",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Froakie": {
+    "pokedex_number": 656,
+    "line": [
+      {
+        "name": "Froakie",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Frogadier",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Greninja",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Bunnelby": {
+    "pokedex_number": 659,
+    "line": [
+      {
+        "name": "Bunnelby",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Diggersby",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Fletchling": {
+    "pokedex_number": 661,
+    "line": [
+      {
+        "name": "Fletchling",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Fletchinder",
+        "forms": [],
+        "method": "Level 17"
+      },
+      {
+        "name": "Talonflame",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Scatterbug": {
+    "pokedex_number": 664,
+    "line": [
+      {
+        "name": "Scatterbug",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Spewpa",
+        "forms": [],
+        "method": "Level 9"
+      },
+      {
+        "name": "Vivillon",
+        "forms": [],
+        "method": "Level 12"
+      }
+    ]
+  },
+  "Litleo": {
+    "pokedex_number": 667,
+    "line": [
+      {
+        "name": "Litleo",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Pyroar",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Flabebe": {
+    "pokedex_number": 669,
+    "line": [
+      {
+        "name": "Flabebe",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Floette",
+        "forms": [],
+        "method": "Level 19"
+      },
+      {
+        "name": "Florges",
+        "forms": [],
+        "method": "Use Shiny Stone"
+      }
+    ]
+  },
+  "Skiddo": {
+    "pokedex_number": 672,
+    "line": [
+      {
+        "name": "Skiddo",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gogoat",
+        "forms": [],
+        "method": "Level 32"
+      }
+    ]
+  },
+  "Pancham": {
+    "pokedex_number": 674,
+    "line": [
+      {
+        "name": "Pancham",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Pangoro",
+        "forms": [],
+        "method": "Level 32"
+      }
+    ]
+  },
+  "Furfrou": {
+    "pokedex_number": 676,
+    "line": [
+      {
+        "name": "Furfrou",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Espurr": {
+    "pokedex_number": 677,
+    "line": [
+      {
+        "name": "Espurr",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Meowstic",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Honedge": {
+    "pokedex_number": 679,
+    "line": [
+      {
+        "name": "Honedge",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Doublade",
+        "forms": [],
+        "method": "Level 35"
+      },
+      {
+        "name": "Aegislash",
+        "forms": [],
+        "method": "Use Dusk Stone"
+      }
+    ]
+  },
+  "Spritzee": {
+    "pokedex_number": 682,
+    "line": [
+      {
+        "name": "Spritzee",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Aromatisse",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Swirlix": {
+    "pokedex_number": 684,
+    "line": [
+      {
+        "name": "Swirlix",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Slurpuff",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Inkay": {
+    "pokedex_number": 686,
+    "line": [
+      {
+        "name": "Inkay",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Malamar",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Binacle": {
+    "pokedex_number": 688,
+    "line": [
+      {
+        "name": "Binacle",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Barbaracle",
+        "forms": [],
+        "method": "Level 39"
+      }
+    ]
+  },
+  "Skrelp": {
+    "pokedex_number": 690,
+    "line": [
+      {
+        "name": "Skrelp",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dragalge",
+        "forms": [],
+        "method": "Level 48"
+      }
+    ]
+  },
+  "Clauncher": {
+    "pokedex_number": 692,
+    "line": [
+      {
+        "name": "Clauncher",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Clawitzer",
+        "forms": [],
+        "method": "Level 37"
+      }
+    ]
+  },
+  "Helioptile": {
+    "pokedex_number": 694,
+    "line": [
+      {
+        "name": "Helioptile",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Heliolisk",
+        "forms": [],
+        "method": "Use Sun Stone"
+      }
+    ]
+  },
+  "Tyrunt": {
+    "pokedex_number": 696,
+    "line": [
+      {
+        "name": "Tyrunt",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Tyrantrum",
+        "forms": [],
+        "method": "Level 39"
+      }
+    ]
+  },
+  "Amaura": {
+    "pokedex_number": 698,
+    "line": [
+      {
+        "name": "Amaura",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Aurorus",
+        "forms": [],
+        "method": "Level 39"
+      }
+    ]
+  },
+  "Hawlucha": {
+    "pokedex_number": 701,
+    "line": [
+      {
+        "name": "Hawlucha",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Dedenne": {
+    "pokedex_number": 702,
+    "line": [
+      {
+        "name": "Dedenne",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Carbink": {
+    "pokedex_number": 703,
+    "line": [
+      {
+        "name": "Carbink",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Goomy": {
+    "pokedex_number": 704,
+    "line": [
+      {
+        "name": "Goomy",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sliggoo",
+        "forms": [],
+        "method": "Level 40"
+      },
+      {
+        "name": "Goodra",
+        "forms": [],
+        "method": "Level 50"
+      }
+    ]
+  },
+  "Klefki": {
+    "pokedex_number": 707,
+    "line": [
+      {
+        "name": "Klefki",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Phantump": {
+    "pokedex_number": 708,
+    "line": [
+      {
+        "name": "Phantump",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Trevenant",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Pumpkaboo": {
+    "pokedex_number": 710,
+    "line": [
+      {
+        "name": "Pumpkaboo",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gourgeist",
+        "forms": [],
+        "method": "Trade"
+      }
+    ]
+  },
+  "Bergmite": {
+    "pokedex_number": 712,
+    "line": [
+      {
+        "name": "Bergmite",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Avalugg",
+        "forms": [],
+        "method": "Level 37"
+      }
+    ]
+  },
+  "Noibat": {
+    "pokedex_number": 714,
+    "line": [
+      {
+        "name": "Noibat",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Noivern",
+        "forms": [],
+        "method": "Level 48"
+      }
+    ]
+  },
+  "Xerneas": {
+    "pokedex_number": 716,
+    "line": [
+      {
+        "name": "Xerneas",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Yveltal": {
+    "pokedex_number": 717,
+    "line": [
+      {
+        "name": "Yveltal",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Zygarde": {
+    "pokedex_number": 718,
+    "line": [
+      {
+        "name": "Zygarde",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Diancie": {
+    "pokedex_number": 719,
+    "line": [
+      {
+        "name": "Diancie",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Hoopa": {
+    "pokedex_number": 720,
+    "line": [
+      {
+        "name": "Hoopa",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Volcanion": {
+    "pokedex_number": 721,
+    "line": [
+      {
+        "name": "Volcanion",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Rowlet": {
+    "pokedex_number": 722,
+    "line": [
+      {
+        "name": "Rowlet",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dartrix",
+        "forms": [],
+        "method": "Level 17"
+      },
+      {
+        "name": "Decidueye",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Litten": {
+    "pokedex_number": 725,
+    "line": [
+      {
+        "name": "Litten",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Torracat",
+        "forms": [],
+        "method": "Level 17"
+      },
+      {
+        "name": "Incineroar",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Popplio": {
+    "pokedex_number": 728,
+    "line": [
+      {
+        "name": "Popplio",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Brionne",
+        "forms": [],
+        "method": "Level 17"
+      },
+      {
+        "name": "Primarina",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Pikipek": {
+    "pokedex_number": 731,
+    "line": [
+      {
+        "name": "Pikipek",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Trumbeak",
+        "forms": [],
+        "method": "Level 14"
+      },
+      {
+        "name": "Toucannon",
+        "forms": [],
+        "method": "Level 28"
+      }
+    ]
+  },
+  "Yungoos": {
+    "pokedex_number": 734,
+    "line": [
+      {
+        "name": "Yungoos",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gumshoos",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Grubbin": {
+    "pokedex_number": 736,
+    "line": [
+      {
+        "name": "Grubbin",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Charjabug",
+        "forms": [],
+        "method": "Level 20"
+      },
+      {
+        "name": "Vikavolt",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Crabrawler": {
+    "pokedex_number": 739,
+    "line": [
+      {
+        "name": "Crabrawler",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Crabominable",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Oricorio": {
+    "pokedex_number": 741,
+    "line": [
+      {
+        "name": "Oricorio",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Cutiefly": {
+    "pokedex_number": 742,
+    "line": [
+      {
+        "name": "Cutiefly",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Ribombee",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Rockruff": {
+    "pokedex_number": 744,
+    "line": [
+      {
+        "name": "Rockruff",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lycanroc",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Wishiwashi": {
+    "pokedex_number": 746,
+    "line": [
+      {
+        "name": "Wishiwashi",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Mareanie": {
+    "pokedex_number": 747,
+    "line": [
+      {
+        "name": "Mareanie",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Toxapex",
+        "forms": [],
+        "method": "Level 38"
+      }
+    ]
+  },
+  "Mudbray": {
+    "pokedex_number": 749,
+    "line": [
+      {
+        "name": "Mudbray",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Mudsdale",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Dewpider": {
+    "pokedex_number": 751,
+    "line": [
+      {
+        "name": "Dewpider",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Araquanid",
+        "forms": [],
+        "method": "Level 22"
+      }
+    ]
+  },
+  "Fomantis": {
+    "pokedex_number": 753,
+    "line": [
+      {
+        "name": "Fomantis",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lurantis",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Morelull": {
+    "pokedex_number": 755,
+    "line": [
+      {
+        "name": "Morelull",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Shiinotic",
+        "forms": [],
+        "method": "Level 24"
+      }
+    ]
+  },
+  "Salandit": {
+    "pokedex_number": 757,
+    "line": [
+      {
+        "name": "Salandit",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Salazzle",
+        "forms": [],
+        "method": "Level 33"
+      }
+    ]
+  },
+  "Stufful": {
+    "pokedex_number": 759,
+    "line": [
+      {
+        "name": "Stufful",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Bewear",
+        "forms": [],
+        "method": "Level 27"
+      }
+    ]
+  },
+  "Bounsweet": {
+    "pokedex_number": 761,
+    "line": [
+      {
+        "name": "Bounsweet",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Steenee",
+        "forms": [],
+        "method": "Level 18"
+      },
+      {
+        "name": "Tsareena",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Comfey": {
+    "pokedex_number": 764,
+    "line": [
+      {
+        "name": "Comfey",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Oranguru": {
+    "pokedex_number": 765,
+    "line": [
+      {
+        "name": "Oranguru",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Passimian": {
+    "pokedex_number": 766,
+    "line": [
+      {
+        "name": "Passimian",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Wimpod": {
+    "pokedex_number": 767,
+    "line": [
+      {
+        "name": "Wimpod",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Golisopod",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Sandygast": {
+    "pokedex_number": 769,
+    "line": [
+      {
+        "name": "Sandygast",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Palossand",
+        "forms": [],
+        "method": "Level 42"
+      }
+    ]
+  },
+  "Pyukumuku": {
+    "pokedex_number": 771,
+    "line": [
+      {
+        "name": "Pyukumuku",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Type: Null": {
+    "pokedex_number": 772,
+    "line": [
+      {
+        "name": "Type: Null",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Silvally",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Minior": {
+    "pokedex_number": 774,
+    "line": [
+      {
+        "name": "Minior",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Komala": {
+    "pokedex_number": 775,
+    "line": [
+      {
+        "name": "Komala",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Turtonator": {
+    "pokedex_number": 776,
+    "line": [
+      {
+        "name": "Turtonator",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Togedemaru": {
+    "pokedex_number": 777,
+    "line": [
+      {
+        "name": "Togedemaru",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Mimikyu": {
+    "pokedex_number": 778,
+    "line": [
+      {
+        "name": "Mimikyu",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Bruxish": {
+    "pokedex_number": 779,
+    "line": [
+      {
+        "name": "Bruxish",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Drampa": {
+    "pokedex_number": 780,
+    "line": [
+      {
+        "name": "Drampa",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Dhelmise": {
+    "pokedex_number": 781,
+    "line": [
+      {
+        "name": "Dhelmise",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Jangmo-o": {
+    "pokedex_number": 782,
+    "line": [
+      {
+        "name": "Jangmo-o",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Hakamo-o",
+        "forms": [],
+        "method": "Level 35"
+      },
+      {
+        "name": "Kommo-o",
+        "forms": [],
+        "method": "Level 45"
+      }
+    ]
+  },
+  "Tapu Koko": {
+    "pokedex_number": 785,
+    "line": [
+      {
+        "name": "Tapu Koko",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Tapu Lele": {
+    "pokedex_number": 786,
+    "line": [
+      {
+        "name": "Tapu Lele",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Tapu Bulu": {
+    "pokedex_number": 787,
+    "line": [
+      {
+        "name": "Tapu Bulu",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Tapu Fini": {
+    "pokedex_number": 788,
+    "line": [
+      {
+        "name": "Tapu Fini",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Cosmog": {
+    "pokedex_number": 789,
+    "line": [
+      {
+        "name": "Cosmog",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Cosmoem",
+        "forms": [],
+        "method": "Level 43"
+      },
+      {
+        "name": "Solgaleo",
+        "forms": [],
+        "method": "Level 53"
+      }
+    ]
+  },
+  "Nihilego": {
+    "pokedex_number": 793,
+    "line": [
+      {
+        "name": "Nihilego",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Buzzwole": {
+    "pokedex_number": 794,
+    "line": [
+      {
+        "name": "Buzzwole",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Pheromosa": {
+    "pokedex_number": 795,
+    "line": [
+      {
+        "name": "Pheromosa",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Xurkitree": {
+    "pokedex_number": 796,
+    "line": [
+      {
+        "name": "Xurkitree",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Celesteela": {
+    "pokedex_number": 797,
+    "line": [
+      {
+        "name": "Celesteela",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Kartana": {
+    "pokedex_number": 798,
+    "line": [
+      {
+        "name": "Kartana",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Guzzlord": {
+    "pokedex_number": 799,
+    "line": [
+      {
+        "name": "Guzzlord",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Necrozma": {
+    "pokedex_number": 800,
+    "line": [
+      {
+        "name": "Necrozma",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Magearna": {
+    "pokedex_number": 801,
+    "line": [
+      {
+        "name": "Magearna",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Marshadow": {
+    "pokedex_number": 802,
+    "line": [
+      {
+        "name": "Marshadow",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Poipole": {
+    "pokedex_number": 803,
+    "line": [
+      {
+        "name": "Poipole",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Naganadel",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Stakataka": {
+    "pokedex_number": 805,
+    "line": [
+      {
+        "name": "Stakataka",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Blacephalon": {
+    "pokedex_number": 806,
+    "line": [
+      {
+        "name": "Blacephalon",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Zeraora": {
+    "pokedex_number": 807,
+    "line": [
+      {
+        "name": "Zeraora",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Meltan": {
+    "pokedex_number": 808,
+    "line": [
+      {
+        "name": "Meltan",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Melmetal": {
+    "pokedex_number": 809,
+    "line": [
+      {
+        "name": "Melmetal",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Grookey": {
+    "pokedex_number": 810,
+    "line": [
+      {
+        "name": "Grookey",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Thwackey",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Rillaboom",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Scorbunny": {
+    "pokedex_number": 813,
+    "line": [
+      {
+        "name": "Scorbunny",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Raboot",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Cinderace",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Sobble": {
+    "pokedex_number": 816,
+    "line": [
+      {
+        "name": "Sobble",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Drizzile",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Inteleon",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Skwovet": {
+    "pokedex_number": 819,
+    "line": [
+      {
+        "name": "Skwovet",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Greedent",
+        "forms": [],
+        "method": "Level 24"
+      }
+    ]
+  },
+  "Rookidee": {
+    "pokedex_number": 821,
+    "line": [
+      {
+        "name": "Rookidee",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Corvisquire",
+        "forms": [],
+        "method": "Level 18"
+      },
+      {
+        "name": "Corviknight",
+        "forms": [],
+        "method": "Level 38"
+      }
+    ]
+  },
+  "Blipbug": {
+    "pokedex_number": 824,
+    "line": [
+      {
+        "name": "Blipbug",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dottler",
+        "forms": [],
+        "method": "Level 10"
+      },
+      {
+        "name": "Orbeetle",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Nickit": {
+    "pokedex_number": 827,
+    "line": [
+      {
+        "name": "Nickit",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Thievul",
+        "forms": [],
+        "method": "Level 18"
+      }
+    ]
+  },
+  "Gossifleur": {
+    "pokedex_number": 829,
+    "line": [
+      {
+        "name": "Gossifleur",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Eldegoss",
+        "forms": [],
+        "method": "Level 20"
+      }
+    ]
+  },
+  "Wooloo": {
+    "pokedex_number": 831,
+    "line": [
+      {
+        "name": "Wooloo",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dubwool",
+        "forms": [],
+        "method": "Level 24"
+      }
+    ]
+  },
+  "Chewtle": {
+    "pokedex_number": 833,
+    "line": [
+      {
+        "name": "Chewtle",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Drednaw",
+        "forms": [],
+        "method": "Level 22"
+      }
+    ]
+  },
+  "Yamper": {
+    "pokedex_number": 835,
+    "line": [
+      {
+        "name": "Yamper",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Boltund",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Rolycoly": {
+    "pokedex_number": 837,
+    "line": [
+      {
+        "name": "Rolycoly",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Carkol",
+        "forms": [],
+        "method": "Level 18"
+      },
+      {
+        "name": "Coalossal",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Applin": {
+    "pokedex_number": 840,
+    "line": [
+      {
+        "name": "Applin",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Flapple",
+        "forms": [],
+        "method": "Use Tart Apple"
+      }
+    ]
+  },
+  "Silicobra": {
+    "pokedex_number": 843,
+    "line": [
+      {
+        "name": "Silicobra",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sandaconda",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Cramorant": {
+    "pokedex_number": 845,
+    "line": [
+      {
+        "name": "Cramorant",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Arrokuda": {
+    "pokedex_number": 846,
+    "line": [
+      {
+        "name": "Arrokuda",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Barraskewda",
+        "forms": [],
+        "method": "Level 26"
+      }
+    ]
+  },
+  "Toxel": {
+    "pokedex_number": 848,
+    "line": [
+      {
+        "name": "Toxel",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Toxtricity",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Sizzlipede": {
+    "pokedex_number": 850,
+    "line": [
+      {
+        "name": "Sizzlipede",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Centiskorch",
+        "forms": [],
+        "method": "Level 28"
+      }
+    ]
+  },
+  "Clobbopus": {
+    "pokedex_number": 852,
+    "line": [
+      {
+        "name": "Clobbopus",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Grapploct",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Sinistea": {
+    "pokedex_number": 854,
+    "line": [
+      {
+        "name": "Sinistea",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Polteageist",
+        "forms": [],
+        "method": "Use Cracked Pot"
+      }
+    ]
+  },
+  "Hatenna": {
+    "pokedex_number": 856,
+    "line": [
+      {
+        "name": "Hatenna",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Hattrem",
+        "forms": [],
+        "method": "Level 32"
+      },
+      {
+        "name": "Hatterene",
+        "forms": [],
+        "method": "Level 42"
+      }
+    ]
+  },
+  "Impidimp": {
+    "pokedex_number": 859,
+    "line": [
+      {
+        "name": "Impidimp",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Morgrem",
+        "forms": [],
+        "method": "Level 32"
+      },
+      {
+        "name": "Grimmsnarl",
+        "forms": [],
+        "method": "Level 42"
+      }
+    ]
+  },
+  "Milcery": {
+    "pokedex_number": 868,
+    "line": [
+      {
+        "name": "Milcery",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Alcremie",
+        "forms": [],
+        "method": "Spin"
+      }
+    ]
+  },
+  "Falinks": {
+    "pokedex_number": 870,
+    "line": [
+      {
+        "name": "Falinks",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Pincurchin": {
+    "pokedex_number": 871,
+    "line": [
+      {
+        "name": "Pincurchin",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Snom": {
+    "pokedex_number": 872,
+    "line": [
+      {
+        "name": "Snom",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Frosmoth",
+        "forms": [],
+        "method": "Level up"
+      }
+    ]
+  },
+  "Stonjourner": {
+    "pokedex_number": 874,
+    "line": [
+      {
+        "name": "Stonjourner",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Eiscue": {
+    "pokedex_number": 875,
+    "line": [
+      {
+        "name": "Eiscue",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Indeedee": {
+    "pokedex_number": 876,
+    "line": [
+      {
+        "name": "Indeedee",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Morpeko": {
+    "pokedex_number": 877,
+    "line": [
+      {
+        "name": "Morpeko",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Cufant": {
+    "pokedex_number": 878,
+    "line": [
+      {
+        "name": "Cufant",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Copperajah",
+        "forms": [],
+        "method": "Level 34"
+      }
+    ]
+  },
+  "Dracozolt": {
+    "pokedex_number": 880,
+    "line": [
+      {
+        "name": "Dracozolt",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Arctozolt": {
+    "pokedex_number": 881,
+    "line": [
+      {
+        "name": "Arctozolt",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Dracovish": {
+    "pokedex_number": 882,
+    "line": [
+      {
+        "name": "Dracovish",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Arctovish": {
+    "pokedex_number": 883,
+    "line": [
+      {
+        "name": "Arctovish",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Duraludon": {
+    "pokedex_number": 884,
+    "line": [
+      {
+        "name": "Duraludon",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Archaludon",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Dreepy": {
+    "pokedex_number": 885,
+    "line": [
+      {
+        "name": "Dreepy",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Drakloak",
+        "forms": [],
+        "method": "Level 50"
+      },
+      {
+        "name": "Dragapult",
+        "forms": [],
+        "method": "Level 60"
+      }
+    ]
+  },
+  "Zacian": {
+    "pokedex_number": 888,
+    "line": [
+      {
+        "name": "Zacian",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Zamazenta": {
+    "pokedex_number": 889,
+    "line": [
+      {
+        "name": "Zamazenta",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Eternatus": {
+    "pokedex_number": 890,
+    "line": [
+      {
+        "name": "Eternatus",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Kubfu": {
+    "pokedex_number": 891,
+    "line": [
+      {
+        "name": "Kubfu",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Urshifu",
+        "forms": [],
+        "method": "Tower Of Darkness"
+      }
+    ]
+  },
+  "Zarude": {
+    "pokedex_number": 893,
+    "line": [
+      {
+        "name": "Zarude",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Regieleki": {
+    "pokedex_number": 894,
+    "line": [
+      {
+        "name": "Regieleki",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Regidrago": {
+    "pokedex_number": 895,
+    "line": [
+      {
+        "name": "Regidrago",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Glastrier": {
+    "pokedex_number": 896,
+    "line": [
+      {
+        "name": "Glastrier",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Spectrier": {
+    "pokedex_number": 897,
+    "line": [
+      {
+        "name": "Spectrier",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Calyrex": {
+    "pokedex_number": 898,
+    "line": [
+      {
+        "name": "Calyrex",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Enamorus": {
+    "pokedex_number": 905,
+    "line": [
+      {
+        "name": "Enamorus",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Sprigatito": {
+    "pokedex_number": 906,
+    "line": [
+      {
+        "name": "Sprigatito",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Floragato",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Meowscarada",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Fuecoco": {
+    "pokedex_number": 909,
+    "line": [
+      {
+        "name": "Fuecoco",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Crocalor",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Skeledirge",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Quaxly": {
+    "pokedex_number": 912,
+    "line": [
+      {
+        "name": "Quaxly",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Quaxwell",
+        "forms": [],
+        "method": "Level 16"
+      },
+      {
+        "name": "Quaquaval",
+        "forms": [],
+        "method": "Level 36"
+      }
+    ]
+  },
+  "Lechonk": {
+    "pokedex_number": 915,
+    "line": [
+      {
+        "name": "Lechonk",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Oinkologne",
+        "forms": [],
+        "method": "Level 18"
+      }
+    ]
+  },
+  "Tarountula": {
+    "pokedex_number": 917,
+    "line": [
+      {
+        "name": "Tarountula",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Spidops",
+        "forms": [],
+        "method": "Level 15"
+      }
+    ]
+  },
+  "Nymble": {
+    "pokedex_number": 919,
+    "line": [
+      {
+        "name": "Nymble",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Lokix",
+        "forms": [],
+        "method": "Level 24"
+      }
+    ]
+  },
+  "Pawmi": {
+    "pokedex_number": 921,
+    "line": [
+      {
+        "name": "Pawmi",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Pawmo",
+        "forms": [],
+        "method": "Level 18"
+      },
+      {
+        "name": "Pawmot",
+        "forms": [],
+        "method": "Other"
+      }
+    ]
+  },
+  "Tandemaus": {
+    "pokedex_number": 924,
+    "line": [
+      {
+        "name": "Tandemaus",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Maushold",
+        "forms": [],
+        "method": "Other"
+      }
+    ]
+  },
+  "Fidough": {
+    "pokedex_number": 926,
+    "line": [
+      {
+        "name": "Fidough",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dachsbun",
+        "forms": [],
+        "method": "Level 26"
+      }
+    ]
+  },
+  "Smoliv": {
+    "pokedex_number": 928,
+    "line": [
+      {
+        "name": "Smoliv",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Dolliv",
+        "forms": [],
+        "method": "Level 25"
+      },
+      {
+        "name": "Arboliva",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Squawkabilly": {
+    "pokedex_number": 931,
+    "line": [
+      {
+        "name": "Squawkabilly",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Nacli": {
+    "pokedex_number": 932,
+    "line": [
+      {
+        "name": "Nacli",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Naclstack",
+        "forms": [],
+        "method": "Level 24"
+      },
+      {
+        "name": "Garganacl",
+        "forms": [],
+        "method": "Level 38"
+      }
+    ]
+  },
+  "Charcadet": {
+    "pokedex_number": 935,
+    "line": [
+      {
+        "name": "Charcadet",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Armarouge",
+        "forms": [],
+        "method": "Use Auspicious Armor"
+      }
+    ]
+  },
+  "Tadbulb": {
+    "pokedex_number": 938,
+    "line": [
+      {
+        "name": "Tadbulb",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Bellibolt",
+        "forms": [],
+        "method": "Use Thunder Stone"
+      }
+    ]
+  },
+  "Wattrel": {
+    "pokedex_number": 940,
+    "line": [
+      {
+        "name": "Wattrel",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Kilowattrel",
+        "forms": [],
+        "method": "Level 25"
+      }
+    ]
+  },
+  "Maschiff": {
+    "pokedex_number": 942,
+    "line": [
+      {
+        "name": "Maschiff",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Mabosstiff",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Shroodle": {
+    "pokedex_number": 944,
+    "line": [
+      {
+        "name": "Shroodle",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Grafaiai",
+        "forms": [],
+        "method": "Level 28"
+      }
+    ]
+  },
+  "Bramblin": {
+    "pokedex_number": 946,
+    "line": [
+      {
+        "name": "Bramblin",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Brambleghast",
+        "forms": [],
+        "method": "Other"
+      }
+    ]
+  },
+  "Toedscool": {
+    "pokedex_number": 948,
+    "line": [
+      {
+        "name": "Toedscool",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Toedscruel",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Klawf": {
+    "pokedex_number": 950,
+    "line": [
+      {
+        "name": "Klawf",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Capsakid": {
+    "pokedex_number": 951,
+    "line": [
+      {
+        "name": "Capsakid",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Scovillain",
+        "forms": [],
+        "method": "Use Fire Stone"
+      }
+    ]
+  },
+  "Rellor": {
+    "pokedex_number": 953,
+    "line": [
+      {
+        "name": "Rellor",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Rabsca",
+        "forms": [],
+        "method": "Other"
+      }
+    ]
+  },
+  "Flittle": {
+    "pokedex_number": 955,
+    "line": [
+      {
+        "name": "Flittle",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Espathra",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Tinkatink": {
+    "pokedex_number": 957,
+    "line": [
+      {
+        "name": "Tinkatink",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Tinkatuff",
+        "forms": [],
+        "method": "Level 24"
+      },
+      {
+        "name": "Tinkaton",
+        "forms": [],
+        "method": "Level 38"
+      }
+    ]
+  },
+  "Wiglett": {
+    "pokedex_number": 960,
+    "line": [
+      {
+        "name": "Wiglett",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Wugtrio",
+        "forms": [],
+        "method": "Level 26"
+      }
+    ]
+  },
+  "Bombirdier": {
+    "pokedex_number": 962,
+    "line": [
+      {
+        "name": "Bombirdier",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Finizen": {
+    "pokedex_number": 963,
+    "line": [
+      {
+        "name": "Finizen",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Palafin",
+        "forms": [],
+        "method": "Other"
+      }
+    ]
+  },
+  "Varoom": {
+    "pokedex_number": 965,
+    "line": [
+      {
+        "name": "Varoom",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Revavroom",
+        "forms": [],
+        "method": "Level 40"
+      }
+    ]
+  },
+  "Cyclizar": {
+    "pokedex_number": 967,
+    "line": [
+      {
+        "name": "Cyclizar",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Orthworm": {
+    "pokedex_number": 968,
+    "line": [
+      {
+        "name": "Orthworm",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Glimmet": {
+    "pokedex_number": 969,
+    "line": [
+      {
+        "name": "Glimmet",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Glimmora",
+        "forms": [],
+        "method": "Level 35"
+      }
+    ]
+  },
+  "Greavard": {
+    "pokedex_number": 971,
+    "line": [
+      {
+        "name": "Greavard",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Houndstone",
+        "forms": [],
+        "method": "Level 30"
+      }
+    ]
+  },
+  "Flamigo": {
+    "pokedex_number": 973,
+    "line": [
+      {
+        "name": "Flamigo",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Cetoddle": {
+    "pokedex_number": 974,
+    "line": [
+      {
+        "name": "Cetoddle",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Cetitan",
+        "forms": [],
+        "method": "Use Ice Stone"
+      }
+    ]
+  },
+  "Veluza": {
+    "pokedex_number": 976,
+    "line": [
+      {
+        "name": "Veluza",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Dondozo": {
+    "pokedex_number": 977,
+    "line": [
+      {
+        "name": "Dondozo",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Tatsugiri": {
+    "pokedex_number": 978,
+    "line": [
+      {
+        "name": "Tatsugiri",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Great Tusk": {
+    "pokedex_number": 984,
+    "line": [
+      {
+        "name": "Great Tusk",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Scream Tail": {
+    "pokedex_number": 985,
+    "line": [
+      {
+        "name": "Scream Tail",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Brute Bonnet": {
+    "pokedex_number": 986,
+    "line": [
+      {
+        "name": "Brute Bonnet",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Flutter Mane": {
+    "pokedex_number": 987,
+    "line": [
+      {
+        "name": "Flutter Mane",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Slither Wing": {
+    "pokedex_number": 988,
+    "line": [
+      {
+        "name": "Slither Wing",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Sandy Shocks": {
+    "pokedex_number": 989,
+    "line": [
+      {
+        "name": "Sandy Shocks",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Treads": {
+    "pokedex_number": 990,
+    "line": [
+      {
+        "name": "Iron Treads",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Bundle": {
+    "pokedex_number": 991,
+    "line": [
+      {
+        "name": "Iron Bundle",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Hands": {
+    "pokedex_number": 992,
+    "line": [
+      {
+        "name": "Iron Hands",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Jugulis": {
+    "pokedex_number": 993,
+    "line": [
+      {
+        "name": "Iron Jugulis",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Moth": {
+    "pokedex_number": 994,
+    "line": [
+      {
+        "name": "Iron Moth",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Thorns": {
+    "pokedex_number": 995,
+    "line": [
+      {
+        "name": "Iron Thorns",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Frigibax": {
+    "pokedex_number": 996,
+    "line": [
+      {
+        "name": "Frigibax",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Arctibax",
+        "forms": [],
+        "method": "Level 35"
+      },
+      {
+        "name": "Baxcalibur",
+        "forms": [],
+        "method": "Level 54"
+      }
+    ]
+  },
+  "Gimmighoul": {
+    "pokedex_number": 999,
+    "line": [
+      {
+        "name": "Gimmighoul",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Gholdengo",
+        "forms": [],
+        "method": "Other"
+      }
+    ]
+  },
+  "Wo-Chien": {
+    "pokedex_number": 1001,
+    "line": [
+      {
+        "name": "Wo Chien",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Chien-Pao": {
+    "pokedex_number": 1002,
+    "line": [
+      {
+        "name": "Chien-Pao",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Ting-Lu": {
+    "pokedex_number": 1003,
+    "line": [
+      {
+        "name": "Ting Lu",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Chi-Yu": {
+    "pokedex_number": 1004,
+    "line": [
+      {
+        "name": "Chi Yu",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Roaring Moon": {
+    "pokedex_number": 1005,
+    "line": [
+      {
+        "name": "Roaring Moon",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Valiant": {
+    "pokedex_number": 1006,
+    "line": [
+      {
+        "name": "Iron Valiant",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Koraidon": {
+    "pokedex_number": 1007,
+    "line": [
+      {
+        "name": "Koraidon",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Miraidon": {
+    "pokedex_number": 1008,
+    "line": [
+      {
+        "name": "Miraidon",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Walking Wake": {
+    "pokedex_number": 1009,
+    "line": [
+      {
+        "name": "Walking Wake",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Leaves": {
+    "pokedex_number": 1010,
+    "line": [
+      {
+        "name": "Iron Leaves",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Poltchageist": {
+    "pokedex_number": 1012,
+    "line": [
+      {
+        "name": "Poltchageist",
+        "forms": [],
+        "method": null
+      },
+      {
+        "name": "Sinistcha",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Okidogi": {
+    "pokedex_number": 1014,
+    "line": [
+      {
+        "name": "Okidogi",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Munkidori": {
+    "pokedex_number": 1015,
+    "line": [
+      {
+        "name": "Munkidori",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Fezandipiti": {
+    "pokedex_number": 1016,
+    "line": [
+      {
+        "name": "Fezandipiti",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Ogerpon": {
+    "pokedex_number": 1017,
+    "line": [
+      {
+        "name": "Ogerpon",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Gouging Fire": {
+    "pokedex_number": 1020,
+    "line": [
+      {
+        "name": "Gouging Fire",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Raging Bolt": {
+    "pokedex_number": 1021,
+    "line": [
+      {
+        "name": "Raging Bolt",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Crown": {
+    "pokedex_number": 1023,
+    "line": [
+      {
+        "name": "Iron Crown",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Iron Boulder": {
+    "pokedex_number": 1022,
+    "line": [
+      {
+        "name": "Iron Boulder",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Terapagos": {
+    "pokedex_number": 1024,
+    "line": [
+      {
+        "name": "Terapagos",
+        "forms": [],
+        "method": null
+      }
+    ]
+  },
+  "Pecharunt": {
+    "pokedex_number": 1025,
+    "line": [
+      {
+        "name": "Pecharunt",
+        "forms": [],
+        "method": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+ html = f"""
+    <html>
+    <head>
+    <style>
+    body {{
+      width: 800px;
+      background: transparent;
+      font-family: 'Segoe UI', sans-serif;
+      color: #f0f0f0;
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }}
+    
+    .screenshot-padding {{
+      padding: 20px;
+      background: transparent;
+      box-sizing: content-box;
+    }}
+      
+    .city-card {{
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      margin: 0 auto;
+      gap: 24px;
+      padding: 150px 24px 24px;
+      border-radius: 16px;
+      box-shadow: 0 0 18px rgba(0,0,0,0.7);
+      background: linear-gradient(
+          to bottom,
+          rgba(0, 0, 0, 0.65) 0px,
+          rgba(44, 46, 68, 0.5) 200px,
+          #3a3b5c 100%
+        ),
+        url('{banner}');
+      background-size: cover;
+      background-position: center top;
+      background-repeat: no-repeat;
+    }}
+      
+    .city-header {{
+      position: absolute;
+      top: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 90%;
+      text-align: center;
+      padding: 12px;
+      border-radius: 12px;
+      backdrop-filter: blur(4px);
+      background: rgba(14, 15, 28, 0.6);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+      z-index: 2;
+    }}
+      
+    .city-banner {{
+        width: 100%;
+        display: block;
+        object-fit: cover;
+        transform: translateY(-20%);
+    }}
+      
+    .city-header h1 {{
+        margin: 0;
+        font-size: 32px;
+    }}
+      
+    .city-header .subtitle {{
+        font-size: 14px;
+        margin-top: 6px;
+        color: #ccc;
+    }}
+      
+    .details-section {{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        z-index: 1;
+        width: 100%;
+    }}
+      
+    .info-box {{
+        padding: 16px 20px;
+        border-radius: 12px;
+        backdrop-filter: blur(4px);
+        background: rgba(14, 15, 28, 0.4);
+        border: 1px solid rgba(255, 255, 255, 0.4);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    }}
+      
+    .info-box h2 {{
+        margin-top: 0;
+        font-size: 18px;
+        margin-bottom: 8px;
+        border-bottom: 1px solid #555;
+        padding-bottom: 4px;
+    }}
+      
+    .info-columns {{
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+    }}
+      
+    .info-columns .info-box {{
+        flex: 1 1 45%;
+    }}
+      
+    .gym-info-box {{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }}
+      
+    .leader-wrapper {{
+        position: relative;
+        width: 100px;
+        min-width: 100px;
+        border-radius: 12px;
+        backdrop-filter: blur(4px);
+        background: rgba(14, 15, 28, 0.4);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+        border: 1px solid rgba(255, 255, 255, 0.4);
+    }}
+      
+    .leader-wrapper img {{
+        width: 100%;
+        height: auto;
+        display: block;
+    }}
+      
+    .leader-wrapper .badge {{
+        position: absolute;
+        top: -12px;
+        left: -12px;
+        width: 32px;
+        height: 32px;
+        border-radius: 6px;
+        padding: 2px;
+        z-index: 2;
+    }}
+      
+    .dim {{
+        color: #aaa;
+    }}
+      
+    .type {{
+        font-weight: bold;
+        font-size: 16px;
+        color: #f3d23b;
+    }}
+      
+    .map-note {{
+        width: auto;
+        max-width: 100%;
+        font-size: 13px;
+        text-align: center;
+        color: #ddd;
+        padding: 14px 16px;
+        background: rgba(255, 255, 255, 0.06);
+        border-radius: 10px;
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        box-shadow: 0 0 6px rgba(0,0,0,0.4) inset, 0 1px 4px rgba(255,255,255,0.05);
+        margin-top: 12px;
+        font-style: italic;
+    }}
+    </style>
+    </head>
+    <body>
+    <div class="screenshot-padding"><div class="city-card"><div class="city-header"><h1>{name}</h1><div class="subtitle">{subtitle}</div></div><div class="details-section"><div class="info-columns"><div class="info-box"><h2>Connected Areas</h2><p><strong>Starts From:</strong> {starts}</p><p><strong>Ends To:</strong> {ends}</p></div><div class="info-box"><h2>Wild Encounters</h2>{encounters_html}</div></div>{gym_block}<div class="map-note">Use the <code>/map</code> command to view a bird's eye view of <strong>{name}</strong>.</div></div></div></div>
+    </body>
+    </html>
+    """
+    return html

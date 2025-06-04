@@ -195,7 +195,7 @@
   			<h2 class="section-title">Level-Up Moves</h2>
   			{level_count_html}
 		</div>
-                {group_into_grid(level_tiles)}
+                {level_up_html}
               </div>
               
               <div class="section">
@@ -203,7 +203,7 @@
   			<h2 class="section-title">TM Moves</h2>
   			{tm_count_html}
 		</div>
-                {group_into_grid(tm_tiles)}
+                {tm_html}
               </div>
               </div>
               {page_number_html}

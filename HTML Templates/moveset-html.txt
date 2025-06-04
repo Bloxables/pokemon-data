@@ -1,0 +1,211 @@
+            <style>
+            body {{
+              background-color: #0f0f0f;
+              color: #eee;
+              font-family: 'Inter', 'Poppins', sans-serif;
+              padding: 40px;
+              margin: 0;
+              display: flex;
+              justify-content: center;
+              width: 1800px;
+            }}
+            
+            .wrapper {{
+              width: 100%;
+              display: inline-block;
+              padding: 20px;
+            }}
+            
+            .move-title {{
+            text-align:center;
+            font-size: 36px;
+            font-weight: 600;
+            color: #f0f0f0;
+            margin-bottom: 40px;
+            text-shadow: 1px 1px 3px #000;
+            }}            
+            
+            .container {{
+              display: flex;
+              justify-content: space-between;
+              width: 95%;
+              margin: 0 auto;
+              gap: 1.5%;
+            }}
+            
+            .section {{
+              width: 48%;
+              background: #1e1e1e;
+              border: 1px solid #ccc;
+              border-radius: 20px;
+              padding: 24px;
+              box-shadow: 0 4px 30px rgba(0, 0, 0, 0.6);
+              position: relative;
+            }}
+            
+            .section::before {{
+            content: "";
+            position: absolute;
+            inset: 0;
+            background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Placeholder.png');
+            background-size: 75%;
+            background-repeat: no-repeat;
+            background-position: center;
+            opacity: 0.15;
+            z-index: 0;
+            }}
+            
+            .section-header {{
+              position: relative;
+            }}
+
+            .section-title {{
+              border-bottom: 2px solid #64b5f6;
+              color: #90caf9;
+              font-size: 32px;
+              margin-bottom: 20px;
+              padding-bottom: 6px;
+              text-transform: uppercase;
+              letter-spacing: 1px;
+            }}
+            
+            .count-badge {{
+              position: absolute;
+              top: -25px;
+              right: 0;
+              font-size: 0.85em;
+              color: #aaa;
+              background: #1a1a1a;
+              border: 1px solid #333;
+              padding: 2px 8px;
+              border-radius: 6px;
+            }}
+            
+            .section h2 {{
+              border-bottom: 2px solid #64b5f6;
+              color: #90caf9;
+              font-size: 32px;
+              margin-bottom: 20px;
+              padding-bottom: 6px;
+              text-transform: uppercase;
+              letter-spacing: 1px;
+            }}
+            
+            .move-row {{
+              display: grid;
+              grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+              gap: 18px;
+            }}
+            
+            .move-card {{
+              position: relative;
+              background-color: #2a2a2a80;
+              border-radius: 12px;
+              padding: 16px 20px;
+              display: flex;
+              flex-direction: column;
+              gap: 10px;
+              transition: all 0.2s ease-in-out;
+              border: 2px solid transparent;
+              backdrop-filter: blur(10px);
+            }}
+            
+            .move-card::after {{
+              content: "";
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              width: 75%;
+              height: 75%;
+              transform: translate(-50%, -50%);
+              background-image: var(--bg-icon);
+              background-size: contain;
+              background-repeat: no-repeat;
+              background-position: center;
+              opacity: 0.2;
+              z-index: 0;
+            }}
+            
+            .move-card > * {{
+              position: relative;
+              z-index: 1;
+            }}
+            
+            .move-info {{
+              display: flex;
+              flex-direction: column;
+              font-weight: 300;
+              gap: 6px;
+            }}
+            
+            .move-desc {{
+              font-size: 0.8em;
+              color: #ccc;
+              margin-top: 6px;
+              line-height: 1.3em;
+            }}
+            
+            .move-name {{
+              font-size: 1.15em;
+              font-weight: 600;
+              color: #fff;
+            }}
+            
+            .meta-line {{
+              font-size: 0.85em;
+              font-weight: 400;
+              color: #bbb;
+            }}
+            
+            .type-badge {{
+            position: absolute;
+            bottom: 10px;
+            right: 12px;
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 0.65em;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #fff;
+            }}
+            
+            .level-badge {{
+            position: absolute;
+            top: -24px;
+            right: -28px;
+            padding: 3px 8px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 0.85em;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #fff;
+            background-color: #333;
+            z-index: 2;
+            }}
+            </style>
+            </head>
+            <body>
+            <div class="wrapper">
+            <div class="move-title">{display_title}</div>
+              <div class="container">
+                <div class="section">
+                <div class="section-header">
+                  <h2 class="section-title">Level-Up Moves</h2>
+                  {f'<div class="count-badge">{level_count_display}</div>' if level_chunk else ''}
+                </div>
+                {group_into_grid(level_tiles)}
+              </div>
+              
+              <div class="section">
+                <div class="section-header">
+                  <h2 class="section-title">TM Moves</h2>
+                  {f'<div class="count-badge">{tm_count_display}</div>' if tm_chunk else ''}
+                </div>
+                {group_into_grid(tm_tiles)}
+              </div>
+              </div>
+              {page_number_html}
+            </div>
+          </body>
+          </html>

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+body {{
+  background-color: transparent;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}}
+    
+.screenshot-padding {{
+  padding: 20px;
+  background: transparent;
+  box-sizing: content-box;
+}}
+
+.container {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    width: 100%;
+    justify-content: center;
+    align-items: flex-start;
+}}
+
+.card {{
+    position: relative;
+    border-radius: 12px;
+    padding: 18px;
+    width: 500px;
+    color: #f1f1f1;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Eevee%20Night.png');
+    z-index: 2;
+}}
+
+.card:before {{
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    width: 105%;
+    height: 105%;
+    backdrop-filter: blur(3px);
+    background-color: rgba(0, 0, 0, 0.3);
+}}
+
+.header-row {{
+    gap: 16px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}}
+
+.pokemon-info {{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}}
+
+.pokemon-name {{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    text-shadow: 3px 4px 6px rgba(0, 0, 0, 0.7);
+    z-index: 2;
+}}
+
+.type-badges {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}}
+
+.pokemon-image-container {{
+    position: relative;
+    width: 100px;
+    padding: 25px;
+    border-radius: 12px;
+    backdrop-filter: blur(4px);
+    background: rgba(14, 15, 28, 0.4);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+}}
+
+.pokemon-image {{
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}}
+
+.dex-number {{
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #aaa;
+    opacity: 0.65;
+    z-index: 3;
+    padding: 5px;
+    border-radius: 6px;
+    backdrop-filter: blur(4px);
+    background: rgba(14, 15, 28, 0.8);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    border: 1px solid rgba(255,255,255,0.15);
+}}
+
+.type-styles {{
+    background-color: #aa9;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid;
+    padding: 4px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px rgba(0,0,0,.7);
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 120px;
+    white-space: nowrap;
+    overflow: hidden;
+    z-index: 2;
+}}
+
+.type-styles::before {{
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 8px;
+}}
+
+.type-styles-normal {{
+    background-color: #9099a1;
+    border-color: #a0a8ae;
+}}
+
+.type-styles-normal::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Normal%20Icon.png');
+}}
+
+.type-styles-fire {{
+    background-color: #ff9c54;
+    border-color: #ffaf75;
+}}
+
+.type-styles-fire::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Fire%20Icon.png');
+}}
+
+.type-styles-water {{
+    background-color: #4d90d5;
+    border-color: #649eda;
+}}
+
+.type-styles-water::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Water%20Icon.png');
+}}
+
+.type-styles-electric {{
+    background-color: #f3d23b;
+    border-color: #f4d857;
+}}
+
+.type-styles-electric::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Electric%20Icon.png');
+}}
+
+.type-styles-grass {{
+    background-color: #63bb5b;
+    border-color: #75c36e;
+}}
+
+.type-styles-grass::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Grass%20Icon.png');
+}}
+
+.type-styles-ice {{
+    background-color: #74cec0;
+    border-color: #8bd6ca;
+}}
+
+.type-styles-ice::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Ice%20Icon.png');
+}}
+
+.type-styles-fighting {{
+    background-color: #ce4069;
+    border-color: #d35579;
+}}
+
+.type-styles-fighting::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Fighting%20Icon.png');
+}}
+
+.type-styles-poison {{
+    background-color: #ab6ac8;
+    border-color: #b780d0;
+}}
+
+.type-styles-poison::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Poison%20Icon.png');
+}}
+
+.type-styles-ground {{
+    background-color: #d97746;
+    border-color: #dd885d;
+}}
+
+.type-styles-ground::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Ground%20Icon.png');
+}}
+
+.type-styles-flying {{
+    background-color: #8fa8dd;
+    border-color: #aabde5;
+}}
+
+.type-styles-flying::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Flying%20Icon.png');
+}}
+
+.type-styles-psychic {{
+    background-color: #f97176;
+    border-color: #fa9397;
+}}
+
+.type-styles-psychic::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Psychic%20Icon.png');
+}}
+
+.type-styles-bug {{
+    background-color: #90c12c;
+    border-color: #9dd033;
+}}
+
+.type-styles-bug::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Bug%20Icon.png');
+}}
+
+.type-styles-rock {{
+    background-color: #c7b78b;
+    border-color: #d2c5a1;
+}}
+
+.type-styles-rock::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Rock%20Icon.png');
+}}
+
+.type-styles-ghost {{
+    background-color: #5269ac;
+    border-color: #6277b4;
+}}
+
+.type-styles-ghost::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Ghost%20Icon.png');
+}}
+
+.type-styles-dragon {{
+    background-color: #0a6dc4;
+    border-color: #0a77d7;
+}}
+
+.type-styles-dragon::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Dragon%20Icon.png');
+}}
+
+.type-styles-dark {{
+    background-color: #5a5366;
+    border-color: #635b70;
+}}
+
+.type-styles-dark::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Dark%20Icon.png');
+}}
+
+.type-styles-steel {{
+    background-color: #5a8ea1;
+    border-color: #6899ab;
+}}
+
+.type-styles-steel::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Steel%20Icon.png');
+}}
+
+.type-styles-fairy {{
+    background-color: #ec8fe6;
+    border-color: #f1afed;
+}}
+
+.type-styles-fairy::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/No%20bg/Fairy%20Icon.png');
+}}
+
+.stat-bar-container {{
+    margin-top: 10px;
+    padding: 8px;
+    backdrop-filter: blur(8px);
+    background: rgba(14, 15, 28, 0.5);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 8px;
+    z-index: 2;
+}}
+
+.stat-bar-track {{
+    position: relative;
+    background-color: #979797;
+    border-radius: 4px;
+    min-height: 10px;
+    overflow: hidden;
+    z-index: 1;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}}
+
+.stat-bar-track-shine {{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 50%;
+    background-color: #7e7e7e;
+    z-index: 2;
+}}
+
+.stat-bar-fill-container {{
+    position: relative;
+    height: 10px;
+    overflow: hidden;
+    z-index: 3;
+}}
+
+.stat-bar-fill {{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 2px;
+    z-index: 3;
+}}
+
+.stat-bar-shine {{
+    position: relative;
+    width: 100%;
+    height: 50%;
+    border-radius: 2px;
+    z-index: 4;
+}}
+</style>
+</head>
+<body>
+<div class="screenshot-padding">
+  <div class="container">
+    {card1_html}
+    {card2_html}
+  </div>
+</div>
+</body>
+</html>

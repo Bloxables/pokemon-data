@@ -192,17 +192,17 @@
               <div class="container">
                 <div class="section">
                 <div class="section-header">
-                  <h2 class="section-title">Level-Up Moves</h2>
-                  {f'<div class="count-badge">{level_count_display}</div>' if level_chunk else ''}
-                </div>
+  			<h2 class="section-title">Level-Up Moves</h2>
+  			{level_count_html}
+		</div>
                 {group_into_grid(level_tiles)}
               </div>
               
               <div class="section">
                 <div class="section-header">
-                  <h2 class="section-title">TM Moves</h2>
-                  {f'<div class="count-badge">{tm_count_display}</div>' if tm_chunk else ''}
-                </div>
+  			<h2 class="section-title">TM Moves</h2>
+  			{tm_count_html}
+		</div>
                 {group_into_grid(tm_tiles)}
               </div>
               </div>

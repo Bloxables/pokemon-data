@@ -1,6 +1,6 @@
-    <html>
-    <head>
-    <style>
+<html>
+<head>
+<style>
     body {{
       width: 800px;
       background: transparent;
@@ -441,5 +441,5 @@
     </head>
     <body>
     <div class="screenshot-padding"><div class="gym-card"><div class="gym-header"><h1>{name}</h1><div class="subtitle">Located in {city}, {region} • Gym #{number}</div></div><div class="info-grid"><div class="leader-and-details"><div class="leader-img"><img class="leader" src="{leader['image']}" alt="{leader['name']}" /><img class="badge" src="{badge['image']}" alt="{badge['name']}" /></div><div class="details"><div><span class="label">Gym Leader:</span> <span class="value">{leader['name']}</span></div><div><span class="label">Type:</span> <span class="type-styles type-styles-{gym_type.lower()}">{gym_type}</span></div><div><span class="label">Trainers:</span> <span class="value">{trainers}</span></div><div class="description">{description}</div></div></div></div><div class="team-section"><h3>{leader['name']}'s Team</h3><div class="team">{team_html}</div></div></div></div>
-    </body>
-    </html>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+    "Cities": [
+        "Aether Paradise", "Almia Town", "Area Zero", "Celadon City", "Cinnabar Volcano",
+        "Elegant Valley", "Fuchsia City", "Glacier Cliffs", "Indigo Plateau", "Isle of Armor",
+        "Lavender Town", "Mausoleum of Origins", "Mysterious Grotto", "Pewter City",
+        "Saffron City", "Vermillion City", "Viridian City"
+    ],
+    "Gyms": [
+        "Pewter Gym", "Cerulean Gym", "Vermillion Gym", "Celadon Gym", "Saffron Gym",
+        "Cinnabar Gym", "Viridian Gym", "Elite Four", "Aether Gym", "Legend Four",
+        "Almia Gym", "Glacier Gym"
+    ],
+    "Routes": [
+        "Route 1", "Route 2", "Route 3", "Route 4", "Route 5", "Route 6",
+        "Route 7", "Route 8", "Route 10", "Route 11", "Route 12", "Route 16",
+        "Route 17", "Route 18", "Route 19", "Route 21", "Route 22", "Deep Forest Zone 1",
+        "Deep Forest Zone 2", "Deep Forest Zone 3", "Desert Zone 1", "Desert Zone 2",
+        "Desert Town", "Moving Sand", "Graveyard", "Area Zero Green Grass Patches",
+        "Area Zero Red Grass Patches"
+    ]
+}

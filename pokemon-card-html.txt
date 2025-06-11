@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>{name_key}</title>
+<style>
+.stat-bar-track {{
+    position: relative;
+    background-color: #979797;
+    border-radius: 4px;
+    min-height: 10px;
+    margin: 0 auto;
+    overflow: hidden;
+    z-index: 1;
+}}
+
+.stat-bar-track-shine {{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 50%;
+    background-color: #7e7e7e;
+    margin: 0 auto;
+    z-index: 2;
+}}
+
+.stat-bar-fill-container {{
+    position: relative;
+    height: 10px;
+    overflow: hidden;
+    animation: fillBar 1.5s ease-in-out forwards, fillBorder 1.5s ease-in-out forwards;
+    z-index: 3;
+}}
+
+.stat-bar-fill {{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 2px;
+    animation: fillColor 1.5s ease-in-out forwards;
+    z-index: 3;
+}}
+
+.stat-bar-shine {{
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 50%;
+    border-radius: 2px;
+    animation: fillShine 1.5s ease-in-out forwards;
+    z-index: 4;
+}}
+
+.type-styles {{
+	background-color: #aa9;
+	color: white;
+	border-radius: 5px;
+	border: 2px solid;
+	padding: 4px;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 2px rgba(0,0,0,.7);
+	text-align: center;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	min-width: 120px;
+	vertical-align: middle;
+	text-decoration: none;
+	white-space: nowrap;
+	overflow: hidden;
+}}
+
+.type-styles::before {{
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 8px;
+    vertical-align: middle;
+}}
+
+.type-styles-normal {{
+    background-color: #9099a1;
+    border-color: #a0a8ae;
+}}
+
+.type-styles-normal::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Normal%20Icon.png');
+}}
+
+.type-styles-fire {{
+    background-color: #ff9c54;
+    border-color: #ffaf75;
+}}
+
+.type-styles-fire::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Fire%20Icon.png');
+}}
+
+.type-styles-water {{
+    background-color: #4d90d5;
+    border-color: #649eda;
+}}
+
+.type-styles-water::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Water%20Icon.png');
+}}
+
+.type-styles-electric {{
+    background-color: #f3d23b;
+    border-color: #f4d857;
+}}
+
+.type-styles-electric::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Electric%20Icon.png');
+}}
+
+.type-styles-grass {{
+    background-color: #63bb5b;
+    border-color: #75c36e;
+}}
+
+.type-styles-grass::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Grass%20Icon.png');
+}}
+
+.type-styles-ice {{
+    background-color: #74cec0;
+    border-color: #8bd6ca;
+}}
+
+.type-styles-ice::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Ice%20Icon.png');
+}}
+
+.type-styles-fighting {{
+    background-color: #ce4069;
+    border-color: #d35579;
+}}
+
+.type-styles-fighting::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Fighting%20Icon.png');
+}}
+
+.type-styles-poison {{
+    background-color: #ab6ac8;
+    border-color: #b780d0;
+}}
+
+.type-styles-poison::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Poison%20Icon.png');
+}}
+
+.type-styles-ground {{
+    background-color: #d97746;
+    border-color: #dd885d;
+}}
+
+.type-styles-ground::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Ground%20Icon.png');
+}}
+
+.type-styles-flying {{
+    background-color: #8fa8dd;
+    border-color: #aabde5;
+}}
+
+.type-styles-flying::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Flying%20Icon.png');
+}}
+
+.type-styles-psychic {{
+    background-color: #f97176;
+    border-color: #fa9397;
+}}
+
+.type-styles-psychic::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Psychic%20Icon.png');
+}}
+
+.type-styles-bug {{
+    background-color: #90c12c;
+    border-color: #9dd033;
+}}
+
+.type-styles-bug::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Bug%20Icon.png');
+}}
+
+.type-styles-rock {{
+    background-color: #c7b78b;
+    border-color: #d2c5a1;
+}}
+
+.type-styles-rock::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Rock%20Icon.png');
+}}
+
+.type-styles-ghost {{
+    background-color: #5269ac;
+    border-color: #6277b4;
+}}
+
+.type-styles-ghost::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Ghost%20Icon.png');
+}}
+
+.type-styles-dragon {{
+    background-color: #0a6dc4;
+    border-color: #0a77d7;
+}}
+
+.type-styles-dragon::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Dragon%20Icon.png');
+}}
+
+.type-styles-dark {{
+    background-color: #5a5366;
+    border-color: #635b70;
+}}
+
+.type-styles-dark::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Dark%20Icon.png');
+}}
+
+.type-styles-steel {{
+    background-color: #5a8ea1;
+    border-color: #6899ab;
+}}
+
+.type-styles-steel::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Steel%20Icon.png');
+}}
+
+.type-styles-fairy {{
+    background-color: #ec8fe6;
+    border-color: #f1afed;
+}}
+
+.type-styles-fairy::before {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Fairy%20Icon.png');
+}}
+
+.background {{
+    background-image: url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Eevee%20Night.png');
+    background-repeat: round;
+    background-size: cover;
+    border-radius: 12px;
+}}
+
+.blur-box {{
+  background: #121212bd;
+  padding: 16px 20px;
+  border-radius: 10px;
+  border: 1px solid #555;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}}
+
+.base-chart-headers {{
+  border-bottom: 1px solid #777;
+  font-size: 16px;
+  margin-bottom: 4px;
+  color: #ccc;
+}}
+
+.stat-label {{
+  font-size: 16px;
+  color: #ccc;
+  width: 80px;
+}}
+
+.card {{
+    display: flex;
+    flex-direction: column;
+    width: 925px;
+    border: 3px solid transparent;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.5);
+    background-image:
+        url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Eevee%20Night.png'),
+        linear-gradient(45deg, {color1}, {color2});
+    background-size: cover, cover, cover;
+    background-position: center, center;
+    background-repeat: no-repeat, round, no-repeat;
+    background-origin: padding-box, border-box;
+    background-clip: padding-box, border-box;
+    padding: 30px 20px 20px 20px;
+    font-family: sans-serif;
+    gap: 20px;
+    color: #f1f1f1;
+    position: relative;
+}}
+</style>
+</head>
+<body style="padding: 50px 0px 5px 20px; background-color: transparent; justify-content: center;">
+  <div class="card" style="padding-top: {card_top_padding};">
+    <div style="position: absolute; top: -33px; display: flex; flex-direction: column; gap: 2px;">
+      <div class="blur-box" style="display: flex; flex-direction: column;">
+        <div style="display: flex; align-items: center; gap: 15px;">
+          <div style="font-size: 32px; font-weight: bold; color: #f3f3f3;">{display_name}</div>
+          <div style="font-size: 32px; color: #b9b9b9;">#{pokemon_number}</div>
+        </div>
+        <div style="font-style: italic; font-size: 14px; color: #ccc;">{form_display}</div>
+      </div>
+    </div>
+
+    <div style="position: absolute; top: -17px; right: 20px; display: flex; flex-direction: row; gap: 10px; align-items: center;">
+      {types_html}
+    </div>
+
+    <div style="margin-top: 40px; display: flex; justify-content: center; gap: 20px; align-items: stretch;">
+      <div class="blur-box" style="width: 140px; display: flex; justify-content: center; align-items: center;">
+        <div style="position:absolute; top: -10%; left: -10%;">
+          <img src="https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Pokeball.png" width='60px'/>
+        </div>
+        <img src="{image_url}" width="140px"/>
+      </div>
+      <div style="width: 1px; background: #555;"></div>
+      <div class="blur-box" style="width: 140px;">
+        <div class="base-chart-headers">Abilities</div>
+        <div style="font-size: 14px; color: #f0f0f0; line-height: 1.6;">{abilities_html}</div>
+      </div>
+      <div class="blur-box" style="flex: 1; font-size: 15px;">
+        <div class="base-chart-headers">Description</div>
+        <div style="font-size: 14px; color: #f0f0f0; line-height: 1.6;">{description}</div>
+      </div>
+    </div>
+
+    <div class="blur-box">
+      <div class="base-chart-headers" style="width: 100%;">Locations</div>
+      <div>{locations}</div>
+    </div>
+
+    <div style="display: flex; gap: 20px;">
+      <div class="blur-box" style="width: 50%;">
+        <div class="base-chart-headers" style="width: 100%;">Base Stats</div>
+        {base_stats_html}
+      </div>
+      <div class="blur-box" style="display: flex; flex-direction: column; gap: 10px; width: 50%;">
+        <div class="base-chart-headers" style="width: 100%;">Defenses</div>
+        <div style="border-bottom:1px solid #333; padding-bottom: 8px;"><b>Weaknesses:</b> {weaknesses}</div>
+        <div style="border-bottom:1px solid #333; padding-bottom: 8px;"><b>Resistances:</b> {resistances}</div>
+        <div><b>Immunities:</b> {immunities}</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

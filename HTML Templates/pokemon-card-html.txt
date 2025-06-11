@@ -320,7 +320,7 @@
         </div>
         <img src="{image_url}" width="140px"/>
       </div>
-      <div style="width: 1px; background: #555; opacity: 0.3;"></div>
+      <div style="width: 1px; background: #777;"></div>
       <div class="blur-box" style="width: 140px;">
         <div class="base-chart-headers">Abilities</div>
         <div style="font-size: 14px; color: #f0f0f0; line-height: 1.6;">{abilities_html}</div>

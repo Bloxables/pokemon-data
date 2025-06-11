@@ -322,7 +322,6 @@
         <div>{description}</div>
       </div>
     </div>
-  </div>
 
     <div class="blur-box">
       <div class="base-chart-headers" style="width: 100%;">Locations</div>

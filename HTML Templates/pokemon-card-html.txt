@@ -277,7 +277,7 @@
     box-shadow: 0 6px 16px rgba(0,0,0,0.5);
     background-image:
         url('https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Eevee%20Night.png'),
-        linear-gradient(45deg, {color1}, {color2});
+        linear-gradient(45deg, rgba(0,0,0), rgba(255,255,255));
     background-size: cover, cover, cover;
     background-position: center, center;
     background-repeat: no-repeat, round, no-repeat;

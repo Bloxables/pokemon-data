@@ -275,6 +275,55 @@
 }}
 </style>
 </head>
-<body style="padding: 50px 0px 5px 20px; background-color: transparent; justify-content: center;"><div class="card" style="padding-top: {card_top_padding};"><div style="position: absolute; top: -33px; display: flex; flex-direction: column; gap: 2px;"><div style="display: flex; flex-direction: column; background: #121212bd; padding: 12px 16px; border-radius: 10px; border: 1px solid #555; backdrop-filter: blur(10px);"><div style="display: flex; align-items: center; gap: 15px;"><div style="font-size: 32px; font-weight: bold; color: #f3f3f3;">{display_name}</div><div style="font-size: 32px; color: #b9b9b9;">#{pokemon_number}</div></div><div style="font-style: italic; font-size: 14px; color: #ccc;">{form_display}</div></div></div><div style="position: absolute; top: -17px; right: 20px; display: flex; flex-direction: row; gap: 10px; align-items: center;">{types_html}</div><div style="margin-top: 30px; display: flex; justify-content: center; gap: 30px; align-items: stretch;"><div style="min-width: 140px; display: flex; justify-content: center; align-items: center; background: #121212bd; padding: 16px 20px; border-radius: 10px; border: 1px solid #555; backdrop-filter: blur(5px); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);"><div style="position:absolute; top: -10%; left: -10%;"><img src='https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Pokeball.png' width='60px'/></div><img src="{image_url}" width="140px"/></div><div style="flex: 1; font-size: 15px; color: #e0e0e0; background: #121212bd; padding: 16px 20px; border-radius: 10px; border: 1px solid #555; backdrop-filter: blur(5px); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); white-space: normal; display: flex; align-items: center;"><div>{description}</div></div></div><div style="background: #121212bd; padding: 16px 20px; border-radius: 10px; border: 1px solid #555; backdrop-filter: blur(5px); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);"><div class="base-chart-headers" style="border-bottom: 1px solid #777; margin-bottom: 4px; width: 100%; font-size: 16px; color: #ccc;">Locations</div><div>{locations}</div></div><div style="background: #121212bd; padding: 16px 20px; border-radius: 10px; border: 1px solid #555; backdrop-filter: blur(5px); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);"><div class="base-chart-headers" style="border-bottom: 1px solid #777; margin-bottom: 4px; font-size: 16px; color: #ccc;">Abilities</div><div style="font-size: 14px; color: #f0f0f0; line-height: 1.6;">{abilities_html}</div></div><div style="display: flex; gap: 20px;"><div style="background: #121212bd; width: 50%; padding: 16px 20px; border-radius: 10px; border: 1px solid #555; backdrop-filter: blur(5px); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);"><div class="base-chart-headers" style="border-bottom: 1px solid #777; font-size: 16px; margin-bottom: 4px; color: #ccc; width:100%;">Base Stats</div>{base_stats_html}</div><div style="background: #121212bd; padding: 16px 20px; border-radius: 10px; display: flex; flex-direction: column; gap: 10px; width: 50%; border: 1px solid #555; backdrop-filter: blur(5px); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);"><div class="base-chart-headers" style="border-bottom: 1px solid #777; margin-bottom: 4px; font-size: 16px; color: #ccc; width: 100%;">Defenses</div><div style="border-bottom:1px solid #333; padding-bottom: 8px;"><b>Weaknesses:</b> {weaknesses}</div><div style="border-bottom:1px solid #333; padding-bottom: 8px;"><b>Resistances:</b> {resistances}</div><div><b>Immunities:</b> {immunities}</div></div></div></div>
+<body style="padding: 50px 0px 5px 20px; background-color: transparent; justify-content: center;">
+  <div class="card" style="padding-top: {card_top_padding};">
+    <div style="position: absolute; top: -33px; display: flex; flex-direction: column; gap: 2px;">
+      <div class="blur-box" style="display: flex; flex-direction: column;">
+        <div style="display: flex; align-items: center; gap: 15px;">
+          <div style="font-size: 32px; font-weight: bold; color: #f3f3f3;">{display_name}</div>
+          <div style="font-size: 32px; color: #b9b9b9;">#{pokemon_number}</div>
+        </div>
+        <div style="font-style: italic; font-size: 14px; color: #ccc;">{form_display}</div>
+      </div>
+    </div>
+
+    <div style="position: absolute; top: -17px; right: 20px; display: flex; flex-direction: row; gap: 10px; align-items: center;">
+      {types_html}
+    </div>
+
+    <div style="margin-top: 30px; display: flex; justify-content: center; gap: 30px; align-items: stretch;">
+      <div class="blur-box" style="min-width: 140px; display: flex; justify-content: center; align-items: center;">
+        <div style="position:absolute; top: -10%; left: -10%;">
+          <img src='https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Assets/Pokeball.png' width='60px'/>
+        </div>
+        <img src="{image_url}" width="140px"/>
+      </div>
+      <div class="blur-box">
+        <div class="base-chart-headers" style="border-bottom: 1px solid #777; margin-bottom: 4px; font-size: 16px; color: #ccc;">Abilities</div>
+        <div style="font-size: 14px; color: #f0f0f0; line-height: 1.6;">{abilities_html}</div>
+      </div>
+      <div class="blur-box" style="flex: 1; font-size: 15px; color: #e0e0e0; white-space: normal; display: flex; align-items: center;">
+        <div>{description}</div>
+      </div>
+    </div>
+
+    <div class="blur-box">
+      <div class="base-chart-headers" style="border-bottom: 1px solid #777; margin-bottom: 4px; width: 100%; font-size: 16px; color: #ccc;">Locations</div>
+      <div>{locations}</div>
+    </div>
+
+    <div style="display: flex; gap: 20px;">
+      <div class="blur-box" style="width: 50%;">
+        <div class="base-chart-headers" style="border-bottom: 1px solid #777; font-size: 16px; margin-bottom: 4px; color: #ccc; width:100%;">Base Stats</div>
+        {base_stats_html}
+      </div>
+      <div class="blur-box" style="display: flex; flex-direction: column; gap: 10px; width: 50%;">
+        <div class="base-chart-headers" style="border-bottom: 1px solid #777; margin-bottom: 4px; font-size: 16px; color: #ccc; width: 100%;">Defenses</div>
+        <div style="border-bottom:1px solid #333; padding-bottom: 8px;"><b>Weaknesses:</b> {weaknesses}</div>
+        <div style="border-bottom:1px solid #333; padding-bottom: 8px;"><b>Resistances:</b> {resistances}</div>
+        <div><b>Immunities:</b> {immunities}</div>
+      </div>
+    </div>
+  </div>
 </body>
 </html>

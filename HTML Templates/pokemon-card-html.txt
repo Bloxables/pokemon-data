@@ -252,6 +252,22 @@
     border-radius: 12px;
 }}
 
+.blur-box {{
+  background: #121212bd;
+  padding: 16px 20px;
+  border-radius: 10px;
+  border: 1px solid #555;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}}
+
+.base-chart-headers {{
+  border-bottom: 1px solid #777;
+  font-size: 16px;
+  margin-bottom: 4px;
+  color: #ccc;
+}}
+
 .card {{
     display: flex;
     flex-direction: column;
@@ -299,7 +315,7 @@
         <img src="{image_url}" width="140px"/>
       </div>
       <div class="blur-box">
-        <div class="base-chart-headers" style="border-bottom: 1px solid #777; margin-bottom: 4px; font-size: 16px; color: #ccc;">Abilities</div>
+        <div class="base-chart-headers">Abilities</div>
         <div style="font-size: 14px; color: #f0f0f0; line-height: 1.6;">{abilities_html}</div>
       </div>
       <div class="blur-box" style="flex: 1; font-size: 15px; color: #e0e0e0; white-space: normal; display: flex; align-items: center;">
@@ -308,17 +324,17 @@
     </div>
 
     <div class="blur-box">
-      <div class="base-chart-headers" style="border-bottom: 1px solid #777; margin-bottom: 4px; width: 100%; font-size: 16px; color: #ccc;">Locations</div>
+      <div class="base-chart-headers" style="width: 100%;">Locations</div>
       <div>{locations}</div>
     </div>
 
     <div style="display: flex; gap: 20px;">
       <div class="blur-box" style="width: 50%;">
-        <div class="base-chart-headers" style="border-bottom: 1px solid #777; font-size: 16px; margin-bottom: 4px; color: #ccc; width:100%;">Base Stats</div>
+        <div class="base-chart-headers" style="width: 100%;">Base Stats</div>
         {base_stats_html}
       </div>
       <div class="blur-box" style="display: flex; flex-direction: column; gap: 10px; width: 50%;">
-        <div class="base-chart-headers" style="border-bottom: 1px solid #777; margin-bottom: 4px; font-size: 16px; color: #ccc; width: 100%;">Defenses</div>
+        <div class="base-chart-headers" style="width: 100%;">Defenses</div>
         <div style="border-bottom:1px solid #333; padding-bottom: 8px;"><b>Weaknesses:</b> {weaknesses}</div>
         <div style="border-bottom:1px solid #333; padding-bottom: 8px;"><b>Resistances:</b> {resistances}</div>
         <div><b>Immunities:</b> {immunities}</div>

@@ -150,7 +150,7 @@
     .type {{
         font-weight: bold;
         font-size: 16px;
-        color: #f3d23b;
+        color: {type_color};
     }}
       
     .map-note {{

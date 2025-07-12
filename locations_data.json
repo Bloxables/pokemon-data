@@ -287,7 +287,7 @@
   "Isle of Armor": {
     "starts_from": [ "Vermillion City" ],
     "ends_to": [],
-    "encounters": [ "Chansey", "Skinifier", "Shinifier", "Fomantis", "Kadabra", "Kirlia", "Blipbug", "Buneary", "Fletchinder", "Luxio", "Chewtle", "Skwovet", "Applin", "Galarian Slowpoke", "Scyther", "Heracross", "Pinsir", "Phione", "Skinifier", "Shinifier", "Shaymin", "Jirachi", "Manaphy", "Victini" ],
+    "encounters": [ "Chansey", "Fomantis", "Kadabra", "Kirlia", "Blipbug", "Buneary", "Fletchinder", "Luxio", "Chewtle", "Skwovet", "Applin", "Galarian Slowpoke", "Scyther", "Heracross", "Pinsir", "Phione", "Shaymin", "Jirachi", "Manaphy", "Victini" ],
     "trainers": 10,
     "gym": {
       "has_gym": false,
@@ -436,7 +436,7 @@
       "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Lavender%20Town%20Birds%20Eye%20-%20Marked.png"
     }
   },
-  "Pokémon Tower/Pokemon Tower": {
+  " /Pokemon Tower": {
     "starts_from": [ "Lavender Town" ],
     "ends_to": [ "Route 10" ],
     "encounters": [ "Gastly", "Misdreavus", "Duskull", "Shuppet", "Litwick", "Cubone", "Sinistea", "Banette", "Honedge", "Marshadow", "Giratina", "Champion Badge" ],

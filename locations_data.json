@@ -564,7 +564,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Mysterious%20Grotto's%20Green%20Grass%20Patches.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -583,7 +583,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Mysterious%20Grotto's%20Brown%20Grass%20Patches.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -602,7 +602,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Mysterious%20Grotto's%20Brown%20Grass%20Patches.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -621,7 +621,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/DeoxysPatch.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -754,7 +754,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Outside%20Mausoleum%20of%20Origins.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -773,7 +773,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Inside%20Mausoleum%20of%20Origins.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -811,7 +811,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Area%20Zero%20Green%20Grass%20Patches.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -830,7 +830,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Area%20Zero%20Red%20Grass%20Patches.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1001,7 +1001,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Atk.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1020,7 +1020,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Def.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1039,7 +1039,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/SpA.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1058,7 +1058,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/SpD.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1077,7 +1077,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Speed.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1096,7 +1096,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/HP.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1139,25 +1139,6 @@
       "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Almia%20Town%20Birds%20Eye%20-%20Marked.png"
     }
   },
-  "Desert Zone 2": {
-    "starts_from": [ "Desert Zone 1" ],
-    "ends_to": [ "Desert Town" ],
-    "encounters": [ "Galarian Zigzagoon", "Spinda", "Rufflet", "Bramblin", "Binacle", "Patrat", "Maractus", "Paldean Tauros Combat", "Makuhita", "Mandibuzz", "Torchic", "Mienfoo", "Litten", "Tepig" ],
-    "trainers": 0,
-    "gym": {
-      "has_gym": false,
-      "leader": "None",
-      "leader_image": "None",
-      "badge_image": "None",
-      "type": "None",
-      "number": "None"
-    },
-    "images": {
-      "entrance": "None",
-      "city": "None",
-      "birds_eye-marked": "None"
-    }
-  },
   "Moving Sand": {
     "starts_from": [ "Desert Zone 2" ],
     "ends_to": [ "Desert Zone 1" ],
@@ -1172,7 +1153,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Moving%20Sand.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1191,7 +1172,26 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Desert%20Zone%201.png",
+      "city": "None",
+      "birds_eye-marked": "None"
+    }
+  },
+  "Desert Zone 2": {
+    "starts_from": [ "Desert Zone 1" ],
+    "ends_to": [ "Desert Town" ],
+    "encounters": [ "Galarian Zigzagoon", "Spinda", "Rufflet", "Bramblin", "Binacle", "Patrat", "Maractus", "Paldean Tauros Combat", "Makuhita", "Mandibuzz", "Torchic", "Mienfoo", "Litten", "Tepig" ],
+    "trainers": 0,
+    "gym": {
+      "has_gym": false,
+      "leader": "None",
+      "leader_image": "None",
+      "badge_image": "None",
+      "type": "None",
+      "number": "None"
+    },
+    "images": {
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Desert%20Zone%202.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1210,7 +1210,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Deep%20Forest%20Zone%201.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1229,7 +1229,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Deep%20Forest%20Zone%202.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1248,7 +1248,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Deep%20Forest%20Zone%203.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1267,7 +1267,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Desert%20Town.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1286,7 +1286,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Graveyard.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -1305,7 +1305,7 @@
       "number": "None"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Route%20Zarude.png",
       "city": "None",
       "birds_eye-marked": "None"
     }

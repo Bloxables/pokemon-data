@@ -436,7 +436,7 @@
       "birds_eye-marked": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities%20Birds%20Eye/Marked/Lavender%20Town%20Birds%20Eye%20-%20Marked.png"
     }
   },
-  " /Pokemon Tower": {
+  "Pokemon Tower": {
     "starts_from": [ "Lavender Town" ],
     "ends_to": [ "Route 10" ],
     "encounters": [ "Gastly", "Misdreavus", "Duskull", "Shuppet", "Litwick", "Cubone", "Sinistea", "Banette", "Honedge", "Marshadow", "Giratina", "Champion Badge" ],
@@ -917,12 +917,12 @@
     "encounters": [ "Dugtrio", "Magmar", "Heatmor", "Graveler", "Sandslash", "Machoke", "Rhyhorn", "Slugma", "Numel", "Salandit", "Lapras", "Magcargo", "Chimchar", "Torchic", "Turtonator", "Darmanitan", "Fuecoco", "Regice", "Moltres", "Volcanion" ],
     "trainers": 2,
     "gym": {
-      "has_gym": false,
-      "leader": "None",
-      "leader_image": "None",
-      "badge_image": "None",
-      "type": "None",
-      "number": "None"
+      "has_gym": true,
+      "leader": "Blaine",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Blaine.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Volcano%20Badge.png",
+      "type": "Fire",
+      "number": "7"
     },
     "images": {
       "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Cinnabar%20Volcano.png",
@@ -936,12 +936,12 @@
     "encounters": [ "Dugtrio", "Magmar", "Heatmor", "Graveler", "Sandslash", "Machoke", "Rhyhorn", "Slugma", "Numel", "Salandit", "Lapras", "Magcargo", "Chimchar", "Torchic", "Turtonator", "Darmanitan", "Fuecoco", "Regice", "Moltres", "Volcanion" ],
     "trainers": 2,
     "gym": {
-      "has_gym": false,
-      "leader": "None",
-      "leader_image": "None",
-      "badge_image": "None",
-      "type": "None",
-      "number": "None"
+      "has_gym": true,
+      "leader": "Blaine",
+      "leader_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Blaine.png",
+      "badge_image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Volcano%20Badge.png",
+      "type": "Fire",
+      "number": "7"
     },
     "images": {
       "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Cities/Cinnabar%20Volcano.png",

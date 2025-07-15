@@ -14,7 +14,7 @@
     "type": "Rock",
     "number": 1,
     "trainers": 1,
-    "description": "Desc",
+    "description": "Insert description here.",
     "team": [
       {
         "name": "Geodude",
@@ -75,10 +75,9 @@
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Cerulean%20Gym.png"
   },
-
   "vermillion": {
-    "name": "Vermilion Gym",
-    "city": "Vermilion City",
+    "name": "Vermillion Gym",
+    "city": "Vermillion City",
     "region": "Kanto",
     "leader": {
       "name": "Lt. Surge",
@@ -132,7 +131,6 @@
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Vermillion%20Gym.png"
   },
-
   "celadon": {
     "name": "Celadon Gym",
     "city": "Celadon City",
@@ -189,7 +187,6 @@
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Celadon%20Gym.png"
   },
-
   "fuchsia": {
     "name": "Fuchsia Gym",
     "city": "Fuchsia City",
@@ -246,7 +243,6 @@
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Fuchsia%20Gym.png"
   },
-
   "saffron": {
     "name": "Saffron Gym",
     "city": "Saffron City",
@@ -303,7 +299,6 @@
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Saffron%20Gym.png"
   },
-
   "cinnabar": {
     "name": "Cinnabar Gym",
     "city": "Cinnabar Island",
@@ -442,5 +437,153 @@
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Viridian%20Gym.png"
+  },
+  "aether": {
+    "name": "Aether Gym",
+    "city": "Aether City",
+    "region": "Alola",
+    "leader": {
+      "name": "Marie",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Marie.png"
+    },
+    "badge": {
+      "name": "Dark Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Dark%20Badge.png"
+    },
+    "type": "Dark",
+    "number": 9,
+    "trainers": 0,
+    "description": "The Aether Gym blends science and strength, using advanced tactics and rare Pokémon.",
+    "team": [
+      {
+        "name": "Crawdaunt",
+        "level": 93,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Dragon Claw", "Swords Dance", "Stone Edge"],
+        "weaknesses": ["Electric", "Grass", "Fighting", "Bug", "Fairy"],
+        "resistances": ["Fire", "Water", "Ice", "Ghost", "Dark", "Steel"],
+        "immunities": ["Psychic"]
+      },
+      {
+        "name": "Bisharp",
+        "level": 94,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Crunch", "Knock Off", "Stealth Rock"],
+        "weaknesses": ["Fire", "Fighting", "Ground"],
+        "resistances": ["Normal", "Grass", "Ice", "Flying", "Rock", "Ghost", "Dragon", "Dark", "Steel"],
+        "immunities": ["Poison", "Psychic"]
+      },
+      {
+        "name": "Tyranitar",
+        "level": 97,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Waterfall", "Ice Punch", "Protect"],
+        "weaknesses": ["Water", "Grass", "Fighting", "Ground", "Bug", "Steel", "Fairy"],
+        "resistances": ["Normal", "Fire", "Poison", "Flying", "Ghost", "Dark"],
+        "immunities": ["Psychic"]
+      },
+      {
+        "name": "Alolan Muk",
+        "level": 95,
+        "ability": "Rough Skin",
+        "moves": ["Earth Power", "Sludge Wave", "Thunderbolt", "Ice Beam"],
+        "weaknesses": ["Ground"],
+        "resistances": ["Grass", "Poison", "Ghost", "Dark"],
+        "immunities": ["Psychic"]
+      },
+      {
+        "name": "Hydreigon",
+        "level": 98,
+        "ability": "Rough Skin",
+        "moves": ["Psychic", "Aura Sphere", "Shadow Ball", "Recover"],
+        "weaknesses": ["Ice", "Fighting", "Bug", "Dragon", "Fairy"],
+        "resistances": ["Fire", "Water", "Electric", "Grass", "Ghost", "Dark"],
+        "immunities": ["Ground", "Psychic"]
+      },
+      {
+        "name": "Lugia",
+        "level": 96,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Roost", "Toxic", "Substitute"],
+        "weaknesses": ["Electric", "Ice", "Rock", "Ghost", "Dark"],
+        "resistances": ["Grass", "Fighting", "Psychic"],
+        "immunities": ["Ground"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Aether%20Gym.png"
+  },
+  "almia": {
+    "name": "Almia Gym",
+    "city": "Almia City",
+    "region": "Fiore",
+    "leader": {
+      "name": "Nicu",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Nicu.png"
+    },
+    "badge": {
+      "name": "Earth Badge",
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Almia%20Badge.png"
+    },
+    "type": "Ground",
+    "number": 8,
+    "trainers": 5,
+    "description": "Insert description here.",
+    "team": [
+      {
+        "name": "Dragapult",
+        "level": 100,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Dragon Claw", "Swords Dance", "Stone Edge"],
+        "weaknesses": ["Ice", "Ghost", "Dragon", "Dark", "Fairy"],
+        "resistances": ["Fire", "Water", "Electric", "Grass", "Poison", "Bug"],
+        "immunities": ["Normal", "Fighting"]
+      },
+      {
+        "name": "Blacephalon",
+        "level": 100,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Crunch", "Knock Off", "Stealth Rock"],
+        "weaknesses": ["Water", "Ground", "Rock", "Ghost", "Dark"],
+        "resistances": ["Fire", "Grass", "Ice", "Poison", "Bug", "Steel", "Fairy"],
+        "immunities": ["Normal", "Fighting"]
+      },
+      {
+        "name": "Mimikyu",
+        "level": 100,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Waterfall", "Ice Punch", "Protect"],
+        "weaknesses": ["Ghost", "Steel"],
+        "resistances": ["Bug"],
+        "immunities": ["Normal", "Fighting", "Dragon"]
+      },
+      {
+        "name": "Marshadow",
+        "level": 100,
+        "ability": "Rough Skin",
+        "moves": ["Earth Power", "Sludge Wave", "Thunderbolt", "Ice Beam"],
+        "weaknesses": ["Flying", "Psychic", "Ghost", "Fairy"],
+        "resistances": ["Rock", "Bug"],
+        "immunities": ["Normal", "Fighting"]
+      },
+      {
+        "name": "Dawn Wings Necrozma",
+        "level": 100,
+        "ability": "Rough Skin",
+        "moves": ["Psychic", "Aura Sphere", "Shadow Ball", "Recover"],
+        "weaknesses": ["Ghost", "Dark"],
+        "resistances": ["Poison", "Psychic"],
+        "immunities": ["Normal", "Fighting"]
+      },
+      {
+        "name": "Mega Sableye",
+        "level": 100,
+        "ability": "Rough Skin",
+        "moves": ["Earthquake", "Roost", "Toxic", "Substitute"],
+        "weaknesses": ["Fairy"],
+        "resistances": ["Poison"],
+        "immunities": ["Normal", "Fighting", "Psychic"]
+      }
+    ],
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Almia%20Gym.png"
   }
 }

@@ -658,7 +658,7 @@
             "immunities": []
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Lorelei's%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Lorelei%27s%20Room.png"
       },
       {
         "name": "Bruno",
@@ -729,7 +729,7 @@
             "immunities": ["Poison"]
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Bruno's%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Bruno%27s%20Room.png"
       },
       {
         "name": "Agatha",
@@ -800,7 +800,7 @@
             "immunities": ["Normal", "Fighting"]
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Agatha's%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Agatha%27s%20Room.png"
       },
       {
         "name": "Lance",
@@ -871,7 +871,7 @@
             "immunities": []
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Lance's%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Lance%27s%20Room.png"
       },
       {
         "name": "Champion Gary",
@@ -945,7 +945,7 @@
             "immunities": ["Ghost"]
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gary's%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gary%27s%20Room.png"
       }
     ]
   },
@@ -1021,7 +1021,7 @@
             "immunities": []
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Rares'%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Rares%27s%20Room.png"
       },
       {
         "name": "Calin",
@@ -1092,7 +1092,7 @@
           "immunities": ["Poison"]
         }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Calin's%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Calin%27s%20Room.png"
       },
       {
         "name": "Hami",
@@ -1163,7 +1163,7 @@
             "immunities": ["Dragon"]
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Hami's%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Hami%27s%20Room.png"
       },
       {
         "name": "Tahvosol",
@@ -1234,7 +1234,7 @@
             "immunities": ["Electric"]
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Tahvosol's%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Tahvosol%27s%20Room.png"
       },
       {
         "name": "Champion Nitro",
@@ -1306,7 +1306,7 @@
             "immunities": []
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Nitro's%20Room.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Nitro%27s%20Room.png"
       }
     ]
   }

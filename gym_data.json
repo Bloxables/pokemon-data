@@ -585,5 +585,365 @@
       }
     ],
     "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Almia%20Gym.png"
+  },
+  "elite_four": {
+    "name": "Elite Four",
+    "sub_gyms": [
+      {
+        "name": "Lorelei",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Ice",
+        "number": 1,
+        "trainers": 0,
+        "description": "Specializes in Ice-type Pokémon. The first challenge of the Elite Four.",
+        "leader": {
+          "name": "Lorelei",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lorelei.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Cloyster",
+            "level": 85,
+            "ability": "Skill Link",
+            "moves": ["Icicle Spear", "Shell Smash", "Hydro Pump", "Rock Blast"],
+            "weaknesses": ["Electric", "Grass", "Fighting", "Rock"],
+            "resistances": ["Ice", "Water"],
+            "immunities": []
+          },
+          {
+            "name": "Weavile",
+            "level": 85,
+            "ability": "Pressure",
+            "moves": ["Icicle Crash", "Knock Off", "Swords Dance", "Ice Shard"],
+            "weaknesses": ["Fire", "Bug", "Fighting", "Steel", "Fairy", "Rock"],
+            "resistances": ["Ice", "Dark"],
+            "immunities": ["Psychic"]
+          },
+          {
+            "name": "Galarian Darmanitan",
+            "level": 85,
+            "ability": "Gorilla Tactics",
+            "moves": ["Icicle Crash", "Earthquake", "U-turn", "Superpower"],
+            "weaknesses": ["Fire", "Fighting", "Rock", "Steel"],
+            "resistances": ["Ice"],
+            "immunities": []
+          },
+          {
+            "name": "Glastrier",
+            "level": 87,
+            "ability": "Chilling Neigh",
+            "moves": ["Icicle Crash", "High Horsepower", "Swords Dance", "Close Combat"],
+            "weaknesses": ["Fire", "Fighting", "Rock", "Steel"],
+            "resistances": ["Ice"],
+            "immunities": []
+          },
+          {
+            "name": "Mega Glalie",
+            "level": 88,
+            "ability": "Refrigerate",
+            "moves": ["Return", "Earthquake", "Ice Shard", "Explosion"],
+            "weaknesses": ["Fire", "Fighting", "Rock", "Steel"],
+            "resistances": ["Ice"],
+            "immunities": []
+          },
+          {
+            "name": "White Kyurem",
+            "level": 90,
+            "ability": "Turboblaze",
+            "moves": ["Ice Beam", "Fusion Flare", "Earth Power", "Draco Meteor"],
+            "weaknesses": ["Dragon", "Fairy", "Fighting", "Rock", "Steel"],
+            "resistances": ["Grass", "Electric", "Water"],
+            "immunities": []
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/E4/Lorelei%20Banner.png"
+      },
+      {
+        "name": "Bruno",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Fighting",
+        "number": 2,
+        "trainers": 0,
+        "description": "A master of raw strength and physical combat. Bruno's Fighting-types hit hard and fast.",
+        "leader": {
+          "name": "Bruno",
+          "image": "https://example.com/bruno.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Hawlucha",
+            "level": 90,
+            "ability": "Unburden",
+            "moves": ["Acrobatics", "Close Combat", "Swords Dance", "Taunt"],
+            "weaknesses": ["Electric", "Ice", "Fairy", "Flying", "Psychic"],
+            "resistances": ["Bug", "Fighting", "Grass", "Dark"],
+            "immunities": ["Ground"]
+          },
+          {
+            "name": "Conkeldurr",
+            "level": 90,
+            "ability": "Guts",
+            "moves": ["Drain Punch", "Mach Punch", "Knock Off", "Facade"],
+            "weaknesses": ["Psychic", "Flying", "Fairy"],
+            "resistances": ["Bug", "Rock", "Dark"],
+            "immunities": []
+          },
+          {
+            "name": "Urshifu Rapid Strike",
+            "level": 90,
+            "ability": "Unseen Fist",
+            "moves": ["Surging Strikes", "Close Combat", "U-turn", "Aqua Jet"],
+            "weaknesses": ["Electric", "Fairy", "Flying", "Psychic", "Grass"],
+            "resistances": ["Bug", "Rock", "Dark", "Water", "Ice", "Fire", "Steel"],
+            "immunities": []
+          },
+          {
+            "name": "Terrakion",
+            "level": 92,
+            "ability": "Justified",
+            "moves": ["Sacred Sword", "Stone Edge", "Swords Dance", "Earthquake"],
+            "weaknesses": ["Psychic", "Fairy", "Water", "Grass", "Ground", "Fighting", "Steel"],
+            "resistances": ["Bug", "Dark", "Rock", "Fire", "Normal", "Poison"],
+            "immunities": []
+          },
+          {
+            "name": "Pheromosa",
+            "level": 93,
+            "ability": "Beast Boost",
+            "moves": ["High Jump Kick", "U-turn", "Ice Beam", "Poison Jab"],
+            "weaknesses": ["Flying", "Fairy", "Psychic", "Fire"],
+            "resistances": ["Fighting", "Bug", "Grass", "Dark"],
+            "immunities": []
+          },
+          {
+            "name": "Mega Lucario",
+            "level": 95,
+            "ability": "Adaptability",
+            "moves": ["Close Combat", "Bullet Punch", "Extreme Speed", "Swords Dance"],
+            "weaknesses": ["Fire", "Ground", "Fighting"],
+            "resistances": ["Rock", "Grass", "Dark", "Bug", "Ice", "Dragon", "Steel"],
+            "immunities": ["Poison"]
+          }
+        ],
+        "gym-banner": "https://example.com/bruno_banner.png"
+      },
+      {
+        "name": "Agatha",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Ghost",
+        "number": 3,
+        "trainers": 0,
+        "description": "A veteran Ghost-type specialist. Her team twists reality with curses, illusions, and raw spectral power.",
+        "leader": {
+          "name": "Agatha",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Agatha.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Golurk",
+            "level": 95,
+            "ability": "Iron Fist",
+            "moves": ["Shadow Punch", "Earthquake", "Stealth Rock", "Dynamic Punch"],
+            "weaknesses": ["Water", "Ice", "Grass", "Ghost", "Dark"],
+            "resistances": ["Rock", "Poison", "Bug"],
+            "immunities": ["Normal", "Fighting", "Electric"]
+          },
+          {
+            "name": "Spectrier",
+            "level": 95,
+            "ability": "Grim Neigh",
+            "moves": ["Shadow Ball", "Substitute", "Nasty Plot", "Dark Pulse"],
+            "weaknesses": ["Ghost", "Dark"],
+            "resistances": ["Bug", "Poison"],
+            "immunities": ["Normal", "Fighting"]
+          },
+          {
+            "name": "Mimikyu Disguised",
+            "level": 95,
+            "ability": "Disguise",
+            "moves": ["Shadow Claw", "Play Rough", "Swords Dance", "Shadow Sneak"],
+            "weaknesses": ["Ghost", "Steel"],
+            "resistances": ["Bug"],
+            "immunities": ["Normal", "Fighting", "Dragon"]
+          },
+          {
+            "name": "Aegislash Shield",
+            "level": 97,
+            "ability": "Stance Change",
+            "moves": ["Shadow Ball", "King's Shield", "Flash Cannon", "Shadow Sneak"],
+            "weaknesses": ["Fire", "Ghost", "Ground", "Dark"],
+            "resistances": ["Normal", "Flying", "Rock", "Bug", "Steel", "Grass", "Ice", "Dragon", "Fairy"],
+            "immunities": ["Fighting", "Poison", "Normal"]
+          },
+          {
+            "name": "Giratina Origin",
+            "level": 98,
+            "ability": "Levitate",
+            "moves": ["Shadow Force", "Aura Sphere", "Dragon Pulse", "Calm Mind"],
+            "weaknesses": ["Ghost", "Ice", "Dragon", "Dark", "Fairy"],
+            "resistances": ["Bug", "Fire", "Grass", "Poison", "Electric", "Water"],
+            "immunities": ["Normal", "Fighting", "Ground"]
+          },
+          {
+            "name": "Mega Gengar",
+            "level": 99,
+            "ability": "Shadow Tag",
+            "moves": ["Shadow Ball", "Sludge Bomb", "Destiny Bond", "Focus Blast"],
+            "weaknesses": ["Psychic", "Ghost", "Dark", "Ground"],
+            "resistances": ["Grass", "Fairy", "Bug", "Poison"],
+            "immunities": ["Normal", "Fighting"]
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/E4/Agatha%20Banner.png"
+      },
+      {
+        "name": "Lance",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Dragon",
+        "number": 4,
+        "trainers": 0,
+        "description": "The final Elite Four member and a Dragon Master. Lance's team is the peak of speed, bulk, and destruction.",
+        "leader": {
+          "name": "Lance",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lance.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Goodra",
+            "level": 98,
+            "ability": "Sap Sipper",
+            "moves": ["Draco Meteor", "Sludge Bomb", "Thunderbolt", "Muddy Water"],
+            "weaknesses": ["Dragon", "Fairy", "Ice"],
+            "resistances": ["Electric", "Water", "Fire", "Grass"],
+            "immunities": []
+          },
+          {
+            "name": "Garchomp",
+            "level": 100,
+            "ability": "Rough Skin",
+            "moves": ["Earthquake", "Dragon Claw", "Stone Edge", "Swords Dance"],
+            "weaknesses": ["Ice", "Dragon", "Fairy"],
+            "resistances": ["Fire", "Rock", "Poison"],
+            "immunities": ["Electric"]
+          },
+          {
+            "name": "Salamence",
+            "level": 100,
+            "ability": "Intimidate",
+            "moves": ["Dragon Dance", "Outrage", "Earthquake", "Fire Fang"],
+            "weaknesses": ["Ice", "Dragon", "Fairy", "Rock"],
+            "resistances": ["Bug", "Fighting", "Fire", "Water", "Grass"],
+            "immunities": ["Ground"]
+          },
+          {
+            "name": "Latios",
+            "level": 100,
+            "ability": "Levitate",
+            "moves": ["Psychic", "Draco Meteor", "Recover", "Thunderbolt"],
+            "weaknesses": ["Bug", "Ghost", "Dragon", "Dark", "Fairy", "Ice"],
+            "resistances": ["Grass", "Electric", "Water", "Fighting", "Psychic", "Fire"],
+            "immunities": ["Ground"]
+          },
+          {
+            "name": "Dialga",
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Flash Cannon", "Dragon Pulse", "Earth Power", "Thunder Wave"],
+            "weaknesses": ["Fighting", "Ground"],
+            "resistances": ["Water", "Electric", "Normal", "Flying", "Rock", "Bug", "Steel", "Grass", "Psychic", "Poison"],
+            "immunities": ["Dragon"]
+          },
+          {
+            "name": "Eternatus",
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Dynamax Cannon", "Flamethrower", "Recover", "Sludge Wave"],
+            "weaknesses": ["Ice", "Psychic", "Dragon", "Ground"],
+            "resistances": ["Grass", "Fire", "Water", "Fighting", "Poison", "Bug"],
+            "immunities": []
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/E4/Lance%20Banner.png"
+      },
+      {
+        "name": "Champion Gary",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Mixed",
+        "number": 5,
+        "trainers": 0,
+        "description": "The reigning Champion. Gary brings unmatched versatility and power — with gods, legends, and relentless pressure.",
+        "leader": {
+          "name": "Gary",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Gary.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Heracross",
+            "level": 100,
+            "ability": "Guts",
+            "moves": ["Close Combat", "Megahorn", "Knock Off", "Stone Edge"],
+            "weaknesses": ["Flying", "Fire", "Psychic", "Fairy"],
+            "resistances": ["Bug", "Fighting", "Grass"],
+            "immunities": []
+          },
+          {
+            "name": "Alakazam",
+            "level": 100,
+            "ability": "Magic Guard",
+            "moves": ["Psychic", "Shadow Ball", "Focus Blast", "Recover"],
+            "weaknesses": ["Bug", "Ghost", "Dark"],
+            "resistances": ["Fighting", "Psychic"],
+            "immunities": []
+          },
+          {
+            "name": "Machamp",
+            "level": 100,
+            "ability": "No Guard",
+            "moves": ["Dynamic Punch", "Bullet Punch", "Stone Edge", "Knock Off"],
+            "weaknesses": ["Fairy", "Flying", "Psychic"],
+            "resistances": ["Rock", "Bug", "Dark"],
+            "immunities": []
+          },
+          {
+            "name": "Tyranitar",
+            "level": 100,
+            "ability": "Sand Stream",
+            "moves": ["Crunch", "Stone Edge", "Earthquake", "Dragon Dance"],
+            "weaknesses": ["Fighting", "Bug", "Fairy", "Water", "Grass", "Ground", "Steel"],
+            "resistances": ["Normal", "Fire", "Flying", "Ghost", "Dark", "Poison"],
+            "immunities": ["Psychic"]
+          },
+          {
+            "name": "Mewtwo",
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Psystrike", "Aura Sphere", "Recover", "Shadow Ball"],
+            "weaknesses": ["Bug", "Ghost", "Dark"],
+            "resistances": ["Fighting", "Psychic"],
+            "immunities": []
+          },
+          {
+            "name": "Arceus",
+            "level": 100,
+            "ability": "Multitype",
+            "moves": ["Judgment", "Earth Power", "Recover", "Calm Mind"],
+            "weaknesses": ["Fighting", "Bug", "Dark", "Fairy", "Ghost", "Dragon"],
+            "resistances": ["Normal"],
+            "immunities": ["Ghost"]
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/E4/Gary%20Banner.png"
+      }
+    ]
   }
 }

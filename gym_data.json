@@ -301,7 +301,7 @@
   },
   "cinnabar": {
     "name": "Cinnabar Gym",
-    "city": "Cinnabar Island",
+    "city": "Cinnabar Volcano",
     "region": "Kanto",
     "leader": {
       "name": "Blaine",
@@ -440,7 +440,7 @@
   },
   "aether": {
     "name": "Aether Gym",
-    "city": "Aether City",
+    "city": "Aether Paradise",
     "region": "Alola",
     "leader": {
       "name": "Marie",
@@ -514,7 +514,7 @@
   },
   "almia": {
     "name": "Almia Gym",
-    "city": "Almia City",
+    "city": "Almia Town",
     "region": "Fiore",
     "leader": {
       "name": "Nicu",

@@ -5,11 +5,11 @@
     "region": "Kanto",
     "leader": {
       "name": "Brock",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Brock.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Brock.png"
     },
     "badge": {
       "name": "Boulder Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Boulder%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Boulder%20Badge.png"
     },
     "type": "Rock",
     "number": 1,
@@ -35,7 +35,7 @@
         "immunities": ["Electric"]
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Pewter%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Pewter%20Gym.png"
   },
   "cerulean": {
     "name": "Cerulean Gym",
@@ -43,11 +43,11 @@
     "region": "Kanto",
     "leader": {
       "name": "Misty",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Misty.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Misty.png"
     },
     "badge": {
       "name": "Cascade Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Cascade%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Cascade%20Badge.png"
     },
     "type": "Water",
     "number": 2,
@@ -73,7 +73,7 @@
         "immunities": []
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Cerulean%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Cerulean%20Gym.png"
   },
   "vermillion": {
     "name": "Vermillion Gym",
@@ -81,11 +81,11 @@
     "region": "Kanto",
     "leader": {
       "name": "Lt. Surge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png"
     },
     "badge": {
       "name": "Thunder Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Thunder%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Thunder%20Badge.png"
     },
     "type": "Electric",
     "number": 3,
@@ -129,7 +129,7 @@
         "immunities": []
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Vermillion%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Vermillion%20Gym.png"
   },
   "celadon": {
     "name": "Celadon Gym",
@@ -137,11 +137,11 @@
     "region": "Kanto",
     "leader": {
       "name": "Erika",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Erika.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Erika.png"
     },
     "badge": {
       "name": "Rainbow Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Rainbow%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Rainbow%20Badge.png"
     },
     "type": "Grass",
     "number": 4,
@@ -185,7 +185,7 @@
         "immunities": []
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Celadon%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Celadon%20Gym.png"
   },
   "fuchsia": {
     "name": "Fuchsia Gym",
@@ -193,11 +193,11 @@
     "region": "Kanto",
     "leader": {
       "name": "Koga",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Koga.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Koga.png"
     },
     "badge": {
       "name": "Soul Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Soul%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Soul%20Badge.png"
     },
     "type": "Poison",
     "number": 5,
@@ -241,7 +241,7 @@
         "immunities": []
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Fuchsia%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Fuchsia%20Gym.png"
   },
   "saffron": {
     "name": "Saffron Gym",
@@ -249,11 +249,11 @@
     "region": "Kanto",
     "leader": {
       "name": "Sabrina",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Sabrina.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Sabrina.png"
     },
     "badge": {
       "name": "Marsh Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Marsh%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Marsh%20Badge.png"
     },
     "type": "Psychic",
     "number": 6,
@@ -297,7 +297,7 @@
         "immunities": []
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Saffron%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Saffron%20Gym.png"
   },
   "cinnabar": {
     "name": "Cinnabar Gym",
@@ -305,11 +305,11 @@
     "region": "Kanto",
     "leader": {
       "name": "Blaine",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Blaine.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Blaine.png"
     },
     "badge": {
       "name": "Volcano Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Volcano%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Volcano%20Badge.png"
     },
     "type": "Fire",
     "number": 7,
@@ -362,7 +362,7 @@
         "immunities": []
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Cinnabar%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Cinnabar%20Gym.png"
   },
   "viridian": {
     "name": "Viridian Gym",
@@ -370,11 +370,11 @@
     "region": "Kanto",
     "leader": {
       "name": "Giovanni",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Giovanni.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Giovanni.png"
     },
     "badge": {
       "name": "Earth Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/1-8/Earth%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/1-8/Earth%20Badge.png"
     },
     "type": "Ground",
     "number": 8,
@@ -436,7 +436,7 @@
         "immunities": ["Electric", "Ground"]
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Viridian%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Viridian%20Gym.png"
   },
   "aether": {
     "name": "Aether Gym",
@@ -444,11 +444,11 @@
     "region": "Alola",
     "leader": {
       "name": "Marie",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Marie.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Marie.png"
     },
     "badge": {
       "name": "Dark Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Aether%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Aether%20Badge.png"
     },
     "type": "Dark",
     "number": 9,
@@ -510,7 +510,7 @@
         "immunities": ["Ground"]
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Aether%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Aether%20Gym.png"
   },
   "almia": {
     "name": "Almia Gym",
@@ -518,11 +518,11 @@
     "region": "Fiore",
     "leader": {
       "name": "Nicu",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Nicu.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Nicu.png"
     },
     "badge": {
       "name": "Earth Badge",
-      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Almia%20Badge.png"
+      "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Almia%20Badge.png"
     },
     "type": "Ground",
     "number": 8,
@@ -584,7 +584,7 @@
         "immunities": ["Normal", "Fighting", "Psychic"]
       }
     ],
-    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Almia%20Gym.png"
+    "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Almia%20Gym.png"
   },
   "elite_four": {
     "name": "Elite Four",
@@ -596,7 +596,7 @@
         "type": "Ice",
         "number": 1,
         "trainers": 0,
-        "description": "Specializes in Ice-type Pokémon. The first challenge of the Elite Four.",
+        "description": "Lorelei is the first member of the Elite Four. She specializes in Ice-type Pokémon and is known for her calm, calculated battle style.",
         "leader": {
           "name": "Lorelei",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lorelei.png"
@@ -658,7 +658,7 @@
             "immunities": []
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/E4/Lorelei%20Banner.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Lorelei's%20Room.png"
       },
       {
         "name": "Bruno",
@@ -667,7 +667,7 @@
         "type": "Fighting",
         "number": 2,
         "trainers": 0,
-        "description": "A master of raw strength and physical combat. Bruno's Fighting-types hit hard and fast.",
+        "description": "Bruno is the second member of the Elite Four. A master of Fighting-type Pokémon, he believes in becoming stronger through rigorous physical and mental training.",
         "leader": {
           "name": "Bruno",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Bruno.png"
@@ -729,7 +729,7 @@
             "immunities": ["Poison"]
           }
         ],
-        "gym-banner": "https://example.com/bruno_banner.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Bruno's%20Room.png"
       },
       {
         "name": "Agatha",
@@ -738,7 +738,7 @@
         "type": "Ghost",
         "number": 3,
         "trainers": 0,
-        "description": "A veteran Ghost-type specialist. Her team twists reality with curses, illusions, and raw spectral power.",
+        "description": "Agatha is the third member of the Elite Four. She commands Ghost- and Poison-type Pokémon and battles with cunning and experience built over years of training.",
         "leader": {
           "name": "Agatha",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Agatha.png"
@@ -800,7 +800,7 @@
             "immunities": ["Normal", "Fighting"]
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/E4/Agatha%20Banner.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Agatha's%20Room.png"
       },
       {
         "name": "Lance",
@@ -809,7 +809,7 @@
         "type": "Dragon",
         "number": 4,
         "trainers": 0,
-        "description": "The final Elite Four member and a Dragon Master. Lance's team is the peak of speed, bulk, and destruction.",
+        "description": "Lance is the fourth and final member of the Elite Four. As a Dragon-type specialist, he's known for his bold, aggressive battle tactics and powerful team.",
         "leader": {
           "name": "Lance",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lance.png"
@@ -856,7 +856,7 @@
             "name": "Dialga",
             "level": 100,
             "ability": "Pressure",
-            "moves": ["Flash Cannon", "Dragon Pulse", "Earth Power", "Thunder Wave"],
+            "moves": ["Flash Cannon", "Dragon Pulse", "Earth Power", "Roar of Time"],
             "weaknesses": ["Fighting", "Ground"],
             "resistances": ["Water", "Electric", "Normal", "Flying", "Rock", "Bug", "Steel", "Grass", "Psychic", "Poison"],
             "immunities": ["Dragon"]
@@ -871,7 +871,7 @@
             "immunities": []
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/E4/Lance%20Banner.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Lance's%20Room.png"
       },
       {
         "name": "Champion Gary",
@@ -880,12 +880,15 @@
         "type": "Mixed",
         "number": 5,
         "trainers": 0,
-        "description": "The reigning Champion. Gary brings unmatched versatility and power — with gods, legends, and relentless pressure.",
+        "description": "Gary is the reigning Pokémon League Champion. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
         "leader": {
           "name": "Gary",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Gary.png"
         },
-        "badge": {},
+        "badge": {
+          "name": "Champion Badge",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Champion%20Badge.png"
+        },
         "team": [
           {
             "name": "Heracross",
@@ -942,7 +945,370 @@
             "immunities": ["Ghost"]
           }
         ],
-        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/E4/Gary%20Banner.png"
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gary's%20Room.png"
+      }
+    ]
+  },
+  "legend four": {
+    "name": "Legend Four",
+    "sub_gyms": [
+      {
+        "name": "Rares",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Dragon",
+        "number": 1,
+        "trainers": 0,
+        "description": "Rares is the first member of the Legend Four. He specializes in Dragon-type Pokémon and is known for his bold, aggressive battle tactics and powerful team.",
+        "leader": {
+          "name": "Rares",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Rares.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Palkia",
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Spacial Rend", "Fire Blast", "Hydro Pump", "Thunder"],
+            "weaknesses": ["Dragon", "Fairy"],
+            "resistances": ["Water", "Fire", "Steel"],
+            "immunities": []
+          },
+          {
+            "name": "Zekrom",
+            "level": 100,
+            "ability": "Teravolt",
+            "moves": ["Bolt Strike", "Outrage", "Fusion Bolt", "Dragon Dance"],
+            "weaknesses": ["Ice", "Ground", "Fairy", "Dragon"],
+            "resistances": ["Electric", "Fire", "Grass", "Steel", "Flying"],
+            "immunities": []
+          },
+          {
+            "name": "Mega Rayquaza",
+            "level": 100,
+            "ability": "Delta Stream",
+            "moves": ["Dragon Ascent", "Extreme Speed", "Earthquake", "V-Create"],
+            "weaknesses": ["Dragon", "Fairy", "Ice"],
+            "resistances": ["Fighting", "Bug", "Fire", "Water", "Grass"],
+            "immunities": ["Ground"]
+          },
+          {
+            "name": "Naganadel",
+            "level": 100,
+            "ability": "Beast Boost",
+            "moves": ["Sludge Wave", "Draco Meteor", "Flamethrower", "Nasty Plot"],
+            "weaknesses": ["Ice", "Dragon", "Psychic"],
+            "resistances": ["Bug", "Fighting", "Poison", "Grass", "Electric"],
+            "immunities": []
+          },
+          {
+            "name": "White Kyurem",
+            "level": 100,
+            "ability": "Turboblaze",
+            "moves": ["Ice Beam", "Fusion Flare", "Earth Power", "Draco Meteor"],
+            "weaknesses": ["Dragon", "Fairy", "Fighting", "Rock", "Steel"],
+            "resistances": ["Fire", "Electric", "Grass", "Water"],
+            "immunities": []
+          },
+          {
+            "name": "Black Kyurem",
+            "level": 100,
+            "ability": "Teravolt",
+            "moves": ["Fusion Bolt", "Ice Punch", "Dragon Claw", "Iron Head"],
+            "weaknesses": ["Fighting", "Fairy", "Dragon", "Rock", "Steel"],
+            "resistances": ["Electric", "Grass", "Water", "Ice"],
+            "immunities": []
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Rares'%20Room.png"
+      },
+      {
+        "name": "Calin",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Steel",
+        "number": 2,
+        "trainers": 0,
+        "description": "Calin is the second member of the Legend Four. A master of Steel-type Pokémon, he believes in becoming stronger through rigorous physical and mental training.",
+        "leader": {
+          "name": "Calin",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Calin.png"
+        },
+        "badge": {},
+        "team": [
+          {
+          "name": "Registeel",
+          "level": 100,
+          "ability": "Clear Body",
+          "moves": ["Seismic Toss", "Thunder Wave", "Stealth Rock", "Protect"],
+          "weaknesses": ["Fire", "Fighting", "Ground"],
+          "resistances": ["Normal", "Flying", "Grass", "Psychic", "Ice", "Dragon", "Fairy", "Rock", "Bug", "Steel"],
+          "immunities": "Poison"
+        },
+        {
+          "name": "Genesect",
+          "level": 100,
+          "ability": "Download",
+          "moves": ["Techno Blast", "U-turn", "Flamethrower", "Ice Beam"],
+          "weaknesses": ["Fire"],
+          "resistances": ["Normal", "Bug", "Dragon", "Steel", "Grass", "Psychic", "Fairy", "Ice"],
+          "immunities": "Poison"
+        },
+        {
+          "name": "Magearna",
+          "level": 100,
+          "ability": "Soul-Heart",
+          "moves": ["Fleur Cannon", "Flash Cannon", "Calm Mind", "Aura Sphere"],
+          "weaknesses": ["Ground", "Fire"],
+          "resistances": ["Normal", "Flying", "Rock", "Grass", "Psychic", "Ice", "Fairy", "Dragon", "Steel"],
+          "immunities": ["Poison"]
+        },
+        {
+          "name": "Mega Lucario",
+          "level": 100,
+          "ability": "Adaptability",
+          "moves": ["Close Combat", "Bullet Punch", "Extreme Speed", "Swords Dance"],
+          "weaknesses": ["Fire", "Fighting", "Ground"],
+          "resistances": ["Bug", "Dark", "Grass", "Ice", "Rock", "Steel", "Dragon"],
+          "immunities": "Poison"
+        },
+        {
+          "name": "Celesteela",
+          "level": 100,
+          "ability": "Beast Boost",
+          "moves": ["Heavy Slam", "Leech Seed", "Flamethrower", "Protect"],
+          "weaknesses": ["Electric", "Fire"],
+          "resistances": ["Bug", "Dragon", "Fairy", "Flying", "Grass", "Psychic", "Steel"],
+          "immunities": ["Ground", "Poison"]
+        },
+        {
+          "name": "Primal Dialga",
+          "level": 100,
+          "ability": "Pressure",
+          "moves": ["Roar of Time", "Flash Cannon", "Earth Power", "Dragon Pulse"],
+          "weaknesses": ["Fighting", "Ground"],
+          "resistances": ["Bug", "Flying", "Grass", "Psychic", "Rock", "Water", "Electric", "Normal"],
+          "immunities": ["Poison"]
+        }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Calin's%20Room.png"
+      },
+      {
+        "name": "Hami",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Fairy",
+        "number": 3,
+        "trainers": 0,
+        "description": "Hami is the third member of the Legend Four. He commands Fairy-type Pokémon and battles with cunning and experience built over years of training.",
+        "leader": {
+          "name": "Agatha",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Hami.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Klefki",
+            "level": 100,
+            "ability": "Prankster",
+            "moves": ["Thunder Wave", "Spikes", "Foul Play", "Reflect"],
+            "weaknesses": ["Ground", "Fire"],
+            "resistances": ["Dark", "Flying", "Grass", "Ice", "Psychic", "Rock"],
+            "immunities": ["Dragon", "Poison"]
+          },
+          {
+            "name": "Mimikyu Disguised",
+            "level": 100,
+            "ability": "Disguise",
+            "moves": ["Play Rough", "Shadow Claw", "Swords Dance", "Shadow Sneak"],
+            "weaknesses": ["Ghost", "Steel"],
+            "resistances": ["Bug"],
+            "immunities": ["Dragon", "Fighting", "Normal"]
+          },
+          {
+            "name": "Xerneas",
+            "level": 100,
+            "ability": "Fairy Aura",
+            "moves": ["Moonblast", "Thunderbolt", "Focus Blast", "Geomancy"],
+            "weaknesses": ["Steel", "Poison"],
+            "resistances": ["Dark", "Bug", "Fighting"],
+            "immunities": ["Dragon"]
+          },
+          {
+            "name": "Zacian Crowned",
+            "level": 100,
+            "ability": "Intrepid Sword",
+            "moves": ["Behemoth Blade", "Play Rough", "Close Combat", "Iron Head"],
+            "weaknesses": ["Fire", "Ground"],
+            "resistances": ["Dark", "Grass", "Ice", "Normal", "Psychic", "Rock"],
+            "immunities": ["Dragon", "Poison"]
+          },
+          {
+            "name": "Mega Diancie",
+            "level": 100,
+            "ability": "Magic Bounce",
+            "moves": ["Moonblast", "Diamond Storm", "Earth Power", "Calm Mind"],
+            "weaknesses": ["Steel", "Water", "Grass", "Ground"],
+            "resistances": ["Fire", "Dark", "Bug"],
+            "immunities": ["Dragon", "Poison"]
+          },
+          {
+            "name": "Tapu Lele",
+            "level": 100,
+            "ability": "Psychic Surge",
+            "moves": ["Psychic", "Moonblast", "Focus Blast", "Calm Mind"],
+            "weaknesses": ["Ghost", "Steel", "Poison"],
+            "resistances": ["Fighting", "Psychic"],
+            "immunities": ["Dragon"]
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Hami's%20Room.png"
+      },
+      {
+        "name": "Tahvosol",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Ground",
+        "number": 4,
+        "trainers": 0,
+        "description": "Tahvosol is the fourth and final member of the Legend Four. As a Ground-type specialist, he's known for his bold, aggressive battle tactics and powerful team.",
+        "leader": {
+          "name": "Tahvosol",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Tahvosol.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Garchomp",
+            "level": 100,
+            "ability": "Rough Skin",
+            "moves": ["Earthquake", "Dragon Claw", "Swords Dance", "Stone Edge"],
+            "weaknesses": ["Ice", "Dragon", "Fairy"],
+            "resistances": ["Poison", "Rock", "Fire"],
+            "immunities": ["Electric"]
+          },
+          {
+            "name": "Landorus",
+            "level": 100,
+            "ability": "Intimidate",
+            "moves": ["Earthquake", "U-turn", "Stone Edge", "Stealth Rock"],
+            "weaknesses": ["Ice", "Water"],
+            "resistances": ["Fighting", "Bug", "Poison"],
+            "immunities": ["Electric", "Ground"]
+          },
+          {
+            "name": "Swampert",
+            "level": 100,
+            "ability": "Torrent",
+            "moves": ["Earthquake", "Waterfall", "Ice Punch", "Protect"],
+            "weaknesses": ["Grass"],
+            "resistances": ["Fire", "Steel", "Poison", "Rock"],
+            "immunities": ["Electric"]
+          },
+          {
+            "name": "Excadrill",
+            "level": 100,
+            "ability": "Mold Breaker",
+            "moves": ["Earthquake", "Iron Head", "Rapid Spin", "Swords Dance"],
+            "weaknesses": ["Fire", "Fighting", "Water", "Ground"],
+            "resistances": ["Rock", "Fairy", "Steel", "Normal"],
+            "immunities": ["Electric", "Poison"]
+          },
+          {
+            "name": "Zygarde Complete",
+            "level": 100,
+            "ability": "Power Construct",
+            "moves": ["Thousand Arrows", "Dragon Dance", "Rest", "Substitute"],
+            "weaknesses": ["Dragon", "Ice", "Fairy"],
+            "resistances": ["Rock", "Poison"],
+            "immunities": ["Electric"]
+          },
+          {
+            "name": "Primal Groudon",
+            "level": 100,
+            "ability": "Desolate Land",
+            "moves": ["Precipice Blades", "Fire Punch", "Stone Edge", "Swords Dance"],
+            "weaknesses": ["Ground", "Water"],
+            "resistances": ["Bug", "Fairy", "Fire", "Poison", "Steel"],
+            "immunities": ["Electric"]
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Tahvosol's%20Room.png"
+      },
+      {
+        "name": "Champion Nitro",
+        "city": "Indigo Plateau",
+        "region": "Kanto",
+        "type": "Psychic",
+        "number": 5,
+        "trainers": 0,
+        "description": "Nitro is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "leader": {
+          "name": "Nitro",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Nitro.png"
+        },
+        "badge": {
+          "name": "Legend Badge",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Legend%20Badge.png"
+        },
+        "team": [
+          {
+            "name": "Urshifu Single Strike",
+            "level": 100,
+            "ability": "Unseen Fist",
+            "moves": ["Wicked Blow", "Close Combat", "Poison Jab", "Sucker Punch"],
+            "weaknesses": ["Fairy", "Flying", "Psychic"],
+            "resistances": ["Bug", "Dark", "Rock"],
+            "immunities": []
+          },
+          {
+            "name": "Marshadow",
+            "level": 100,
+            "ability": "Technician",
+            "moves": ["Spectral Thief", "Close Combat", "Shadow Sneak", "Bulk Up"],
+            "weaknesses": ["Fairy", "Flying", "Psychic", "Ghost"],
+            "resistances": ["Rock", "Bug", "Poison"],
+            "immunities": ["Normal", "Fighting"]
+          },
+          {
+            "name": "Primal Kyogre",
+            "level": 100,
+            "ability": "Primordial Sea",
+            "moves": ["Origin Pulse", "Ice Beam", "Thunder", "Calm Mind"],
+            "weaknesses": ["Electric", "Grass"],
+            "resistances": ["Fire", "Ice", "Steel", "Water"],
+            "immunities": []
+          },
+          {
+            "name": "Shaymin Sky",
+            "level": 100,
+            "ability": "Serene Grace",
+            "moves": ["Seed Flare", "Air Slash", "Earth Power", "Leech Seed"],
+            "weaknesses": ["Fire", "Ice", "Flying", "Poison", "Rock"],
+            "resistances": ["Fighting", "Water", "Grass", "Ground"],
+            "immunities": []
+          },
+          {
+            "name": "Arceus",
+            "level": 100,
+            "ability": "Multitype",
+            "moves": ["Judgment", "Recover", "Calm Mind", "Earth Power"],
+            "weaknesses": ["Fighting"],
+            "resistances": [],
+            "immunities": ["Ghost"]
+          },
+          {
+            "name": "Mega Mewtwo Y",
+            "level": 100,
+            "ability": "Insomnia",
+            "moves": ["Psychic", "Aura Sphere", "Shadow Ball", "Recover"],
+            "weaknesses": ["Ghost", "Bug", "Dark"],
+            "resistances": ["Fighting", "Psychic"],
+            "immunities": []
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Nitro's%20Room.png"
       }
     ]
   }

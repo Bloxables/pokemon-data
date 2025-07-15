@@ -173,12 +173,14 @@
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
-      gap: 20px;
-      background: #282a40;
-      padding: 12px 16px;
-      border-radius: 8px;
-      border: 1px solid #555;
       font-size: 14px;
+      gap: 20px;
+      padding: 12px 16px;
+      border: 1px solid #555;
+      border-radius: 12px;
+      backdrop-filter: blur(4px);
+      background: rgba(14, 15, 28, 0.4);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
     }}
 
     .team-flex {{

@@ -336,7 +336,7 @@
       "number": "11"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Ice%20Zone%201.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -355,7 +355,7 @@
       "number": "11"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Ice%20Zone%202.png",
       "city": "None",
       "birds_eye-marked": "None"
     }
@@ -374,7 +374,7 @@
       "number": "11"
     },
     "images": {
-      "entrance": "None",
+      "entrance": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Routes/Ice%20Zone%203.png",
       "city": "None",
       "birds_eye-marked": "None"
     }

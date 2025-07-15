@@ -670,7 +670,7 @@
         "description": "A master of raw strength and physical combat. Bruno's Fighting-types hit hard and fast.",
         "leader": {
           "name": "Bruno",
-          "image": "https://example.com/bruno.png"
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Bruno.png"
         },
         "badge": {},
         "team": [
@@ -782,7 +782,7 @@
             "immunities": ["Fighting", "Poison", "Normal"]
           },
           {
-            "name": "Giratina Origin",
+            "name": "Giratina Origin Forme",
             "level": 98,
             "ability": "Levitate",
             "moves": ["Shadow Force", "Aura Sphere", "Dragon Pulse", "Calm Mind"],

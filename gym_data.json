@@ -1044,7 +1044,7 @@
             "moves": ["Seismic Toss", "Thunder Wave", "Stealth Rock", "Protect"],
             "weaknesses": ["Fire", "Fighting", "Ground"],
             "resistances": ["Normal", "Flying", "Grass", "Psychic", "Ice", "Dragon", "Fairy", "Rock", "Bug", "Steel"],
-            "immunities": "Poison"
+            "immunities": ["Poison"]
           },
           {
             "name": "Genesect",
@@ -1053,7 +1053,7 @@
             "moves": ["Techno Blast", "U-turn", "Flamethrower", "Ice Beam"],
             "weaknesses": ["Fire"],
             "resistances": ["Normal", "Bug", "Dragon", "Steel", "Grass", "Psychic", "Fairy", "Ice"],
-            "immunities": "Poison"
+            "immunities": ["Poison"]
           },
           {
             "name": "Magearna",
@@ -1071,7 +1071,7 @@
             "moves": ["Close Combat", "Bullet Punch", "Extreme Speed", "Swords Dance"],
             "weaknesses": ["Fire", "Fighting", "Ground"],
             "resistances": ["Bug", "Dark", "Grass", "Ice", "Rock", "Steel", "Dragon"],
-            "immunities": "Poison"
+            "immunities": ["Poison"]
           },
           {
             "name": "Celesteela",
@@ -1375,7 +1375,7 @@
             "moves": ["Sacred Sword", "Stone Edge", "Swords Dance", "Protect"],
             "weaknesses": ["Water", "Grass", "Fighting", "Steel", "Ground", "Psychic", "Fairy"],
             "resistances": ["Normal", "Fire", "Flying", "Bug", "Dark", "Rock"],
-            "immunities": "Poison"
+            "immunities": ["Poison"]
           },
           {
             "name": "Tyrantrum",
@@ -1422,7 +1422,7 @@
             "moves": ["Waterfall", "Crunch", "Dragon Dance", "Substitute"],
             "weaknesses": ["Electric", "Rock"],
             "resistances": ["Fire", "Water", "Fighting", "Bug", "Steel"],
-            "immunities": "Ground"
+            "immunities": ["Ground"]
           },
           {
             "name": "Primal Kyogre",
@@ -1462,7 +1462,7 @@
             "moves": ["Moonblast", "Surf", "Calm Mind", "Taunt"],
             "weaknesses": ["Electric", "Grass", "Poison"],
             "resistances": ["Fighting", "Fire", "Water", "Dark", "Ice"],
-            "immunities": "Dragon"
+            "immunities": ["Dragon"]
           }
         ],
         "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Misty%27s%20Room.png"
@@ -1586,7 +1586,7 @@
             "moves": ["Leaf Blade", "Sacred Sword", "Smart Strike", "X-Scissor"],
             "weaknesses": ["Fire", "Fighting"],
             "resistances": ["Grass", "Electric", "Normal", "Psychic", "Dragon", "Fairy", "Bug", "Steel", "Flying", "Rock"],
-            "immunities": "Poison"
+            "immunities": ["Poison"]
           },
           {
             "name": "Lurantis",

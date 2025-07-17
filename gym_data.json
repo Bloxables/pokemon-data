@@ -1038,59 +1038,59 @@
         "badge": {},
         "team": [
           {
-          "name": "Registeel",
-          "level": 100,
-          "ability": "Clear Body",
-          "moves": ["Seismic Toss", "Thunder Wave", "Stealth Rock", "Protect"],
-          "weaknesses": ["Fire", "Fighting", "Ground"],
-          "resistances": ["Normal", "Flying", "Grass", "Psychic", "Ice", "Dragon", "Fairy", "Rock", "Bug", "Steel"],
-          "immunities": "Poison"
-        },
-        {
-          "name": "Genesect",
-          "level": 100,
-          "ability": "Download",
-          "moves": ["Techno Blast", "U-turn", "Flamethrower", "Ice Beam"],
-          "weaknesses": ["Fire"],
-          "resistances": ["Normal", "Bug", "Dragon", "Steel", "Grass", "Psychic", "Fairy", "Ice"],
-          "immunities": "Poison"
-        },
-        {
-          "name": "Magearna",
-          "level": 100,
-          "ability": "Soul-Heart",
-          "moves": ["Fleur Cannon", "Flash Cannon", "Calm Mind", "Aura Sphere"],
-          "weaknesses": ["Ground", "Fire"],
-          "resistances": ["Normal", "Flying", "Rock", "Grass", "Psychic", "Ice", "Fairy", "Dragon", "Steel"],
-          "immunities": ["Poison"]
-        },
-        {
-          "name": "Mega Lucario",
-          "level": 100,
-          "ability": "Adaptability",
-          "moves": ["Close Combat", "Bullet Punch", "Extreme Speed", "Swords Dance"],
-          "weaknesses": ["Fire", "Fighting", "Ground"],
-          "resistances": ["Bug", "Dark", "Grass", "Ice", "Rock", "Steel", "Dragon"],
-          "immunities": "Poison"
-        },
-        {
-          "name": "Celesteela",
-          "level": 100,
-          "ability": "Beast Boost",
-          "moves": ["Heavy Slam", "Leech Seed", "Flamethrower", "Protect"],
-          "weaknesses": ["Electric", "Fire"],
-          "resistances": ["Bug", "Dragon", "Fairy", "Flying", "Grass", "Psychic", "Steel"],
-          "immunities": ["Ground", "Poison"]
-        },
-        {
-          "name": "Primal Dialga",
-          "level": 100,
-          "ability": "Pressure",
-          "moves": ["Roar of Time", "Flash Cannon", "Earth Power", "Dragon Pulse"],
-          "weaknesses": ["Fighting", "Ground"],
-          "resistances": ["Bug", "Flying", "Grass", "Psychic", "Rock", "Water", "Electric", "Normal"],
-          "immunities": ["Poison"]
-        }
+            "name": "Registeel",
+            "level": 100,
+            "ability": "Clear Body",
+            "moves": ["Seismic Toss", "Thunder Wave", "Stealth Rock", "Protect"],
+            "weaknesses": ["Fire", "Fighting", "Ground"],
+            "resistances": ["Normal", "Flying", "Grass", "Psychic", "Ice", "Dragon", "Fairy", "Rock", "Bug", "Steel"],
+            "immunities": "Poison"
+          },
+          {
+            "name": "Genesect",
+            "level": 100,
+            "ability": "Download",
+            "moves": ["Techno Blast", "U-turn", "Flamethrower", "Ice Beam"],
+            "weaknesses": ["Fire"],
+            "resistances": ["Normal", "Bug", "Dragon", "Steel", "Grass", "Psychic", "Fairy", "Ice"],
+            "immunities": "Poison"
+          },
+          {
+            "name": "Magearna",
+            "level": 100,
+            "ability": "Soul-Heart",
+            "moves": ["Fleur Cannon", "Flash Cannon", "Calm Mind", "Aura Sphere"],
+            "weaknesses": ["Ground", "Fire"],
+            "resistances": ["Normal", "Flying", "Rock", "Grass", "Psychic", "Ice", "Fairy", "Dragon", "Steel"],
+            "immunities": ["Poison"]
+          },
+          {
+            "name": "Mega Lucario",
+            "level": 100,
+            "ability": "Adaptability",
+            "moves": ["Close Combat", "Bullet Punch", "Extreme Speed", "Swords Dance"],
+            "weaknesses": ["Fire", "Fighting", "Ground"],
+            "resistances": ["Bug", "Dark", "Grass", "Ice", "Rock", "Steel", "Dragon"],
+            "immunities": "Poison"
+          },
+          {
+            "name": "Celesteela",
+            "level": 100,
+            "ability": "Beast Boost",
+            "moves": ["Heavy Slam", "Leech Seed", "Flamethrower", "Protect"],
+            "weaknesses": ["Electric", "Fire"],
+            "resistances": ["Bug", "Dragon", "Fairy", "Flying", "Grass", "Psychic", "Steel"],
+            "immunities": ["Ground", "Poison"]
+          },
+          {
+            "name": "Primal Dialga",
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Roar of Time", "Flash Cannon", "Earth Power", "Dragon Pulse"],
+            "weaknesses": ["Fighting", "Ground"],
+            "resistances": ["Bug", "Flying", "Grass", "Psychic", "Rock", "Water", "Electric", "Normal"],
+            "immunities": ["Poison"]
+          }
         ],
         "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Calin%27s%20Room.png"
       },
@@ -1307,6 +1307,704 @@
           }
         ],
         "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Nitro%27s%20Room.png"
+      }
+    ]
+  },
+  "glacier": {
+    "name": "Glacier Gym",
+    "sub_gyms": [
+      {
+        "name": "Brock",
+        "city": "Glacier Cliffs",
+        "region": "Kanto",
+        "type": "Rock",
+        "number": 1,
+        "trainers": 0,
+        "description": "Brock is the first member of the Glacier Gym. He specializes in Rock-type Pokémon and is known for his bold, aggressive battle tactics and powerful team.",
+        "leader": {
+          "name": "Brock",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Brock.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Rampardos",
+            "shiny": true,
+            "level": 100,
+            "ability": "Sheer Force",
+            "moves": ["Head Smash", "Earthquake", "Zen Headbutt", "Rock Polish"],
+            "weaknesses": ["Water", "Grass", "Fighting", "Steel", "Ground"],
+            "resistances": ["Normal", "Fire", "Flying", "Poison"],
+            "immunities": []
+          },
+          {
+            "name": "Lycanroc Midnight",
+            "shiny": true,
+            "level": 100,
+            "ability": "No Guard",
+            "moves": ["Stone Edge", "Counter", "Sucker Punch", "Bulk Up"],
+            "weaknesses": ["Water", "Grass", "Fighting", "Steel", "Ground", "Fairy"],
+            "resistances": ["Normal", "Fire", "Flying", "Poison"],
+            "immunities": []
+          },
+          {
+            "name": "Regirock",
+            "shiny": true,
+            "level": 100,
+            "ability": "Clear Body",
+            "moves": ["Stone Edge", "Hammer Arm", "Iron Defense", "Thunder Wave"],
+            "weaknesses": ["Water", "Grass", "Fighting", "Steel", "Ground"],
+            "resistances": ["Normal", "Fire", "Flying", "Poison"],
+            "immunities": []
+          },
+          {
+            "name": "Rhyperior",
+            "shiny": true,
+            "level": 100,
+            "ability": "Solid Rock",
+            "moves": ["Rock Wrecker", "Earthquake", "Ice Punch", "Protect"],
+            "weaknesses": ["Water", "Grass", "Fighting", "Steel", "Ice", "Ground"],
+            "resistances": ["Normal", "Fire", "Flying", "Poison", "Rock"],
+            "immunities": ["Electric"]
+          },
+          {
+            "name": "Terrakion",
+            "shiny": true,
+            "level": 100,
+            "ability": "Justified",
+            "moves": ["Sacred Sword", "Stone Edge", "Swords Dance", "Protect"],
+            "weaknesses": ["Water", "Grass", "Fighting", "Steel", "Ground", "Psychic", "Fairy"],
+            "resistances": ["Normal", "Fire", "Flying", "Bug", "Dark", "Rock"],
+            "immunities": "Poison"
+          },
+          {
+            "name": "Tyrantrum",
+            "shiny": true,
+            "level": 100,
+            "ability": "Strong Jaw",
+            "moves": ["Head Smash", "Crunch", "Dragon Dance", "Earthquake"],
+            "weaknesses": ["Ice", "Dragon", "Fairy", "Fighting", "Ground", "Steel"],
+            "resistances": ["Normal", "Fire", "Flying", "Poison"],
+            "immunities": []
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Brock%27s%20Room.png"
+      },
+      {
+        "name": "Misty",
+        "city": "Glacier Cliffs",
+        "region": "Kanto",
+        "type": "Water",
+        "number": 2,
+        "trainers": 0,
+        "description": "Misty is the second member of the Legend Four. A master of Water-type Pokémon, he believes in becoming stronger through rigorous physical and mental training.",
+        "leader": {
+          "name": "Misty",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Misty.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Seismitoad",
+            "shiny": true,
+            "level": 100,
+            "ability": "Water Absorb",
+            "moves": ["Scald", "Earth Power", "Toxic", "Stealth Rock"],
+            "weaknesses": ["Grass"],
+            "resistances": ["Fire", "Poison", "Rock", "Steel"],
+            "immunities": ["Electric"]
+          },
+          {
+            "name": "Gyarados",
+            "shiny": true,
+            "level": 100,
+            "ability": "Intimidate",
+            "moves": ["Waterfall", "Crunch", "Dragon Dance", "Substitute"],
+            "weaknesses": ["Electric", "Rock"],
+            "resistances": ["Fire", "Water", "Fighting", "Bug", "Steel"],
+            "immunities": "Ground"
+          },
+          {
+            "name": "Primal Kyogre",
+            "shiny": true,
+            "level": 100,
+            "ability": "Primordial Sea",
+            "moves": ["Origin Pulse", "Ice Beam", "Thunder", "Calm Mind"],
+            "weaknesses": ["Grass", "Electric"],
+            "resistances": ["Fire", "Water", "Ice", "Steel"],
+            "immunities": []
+          },
+          {
+            "name": "Suicune",
+            "shiny": true,
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Scald", "Calm Mind", "Rest", "Sleep Talk"],
+            "weaknesses": ["Electric", "Grass"],
+            "resistances": ["Fire", "Water", "Ice", "Steel"],
+            "immunities": []
+          },
+          {
+            "name": "Swampert",
+            "shiny": true,
+            "level": 100,
+            "ability": "Torrent",
+            "moves": ["Earthquake", "Waterfall", "Ice Punch", "Protect"],
+            "weaknesses": ["Grass"],
+            "resistances": ["Fire", "Poison", "Rock", "Steel"],
+            "immunities": ["Electric"]
+          },
+          {
+            "name": "Tapu Fini",
+            "shiny": true,
+            "level": 100,
+            "ability": "Misty Surge",
+            "moves": ["Moonblast", "Surf", "Calm Mind", "Taunt"],
+            "weaknesses": ["Electric", "Grass", "Poison"],
+            "resistances": ["Fighting", "Fire", "Water", "Dark", "Ice"],
+            "immunities": "Dragon"
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Misty%27s%20Room.png"
+      },
+      {
+        "name": "Lt. Surge",
+        "city": "Glacier Cliffs",
+        "region": "Kanto",
+        "type": "Electric",
+        "number": 3,
+        "trainers": 0,
+        "description": "Lt. Surge is the third member of the Legend Four. He commands Electric-type Pokémon and battles with cunning and experience built over years of training.",
+        "leader": {
+          "name": "Lt. Surge",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Manectric",
+            "shiny": true,
+            "level": 100,
+            "ability": "Lightning Rod",
+            "moves": ["Thunderbolt", "Flamethrower", "Volt Switch", "Snarl"],
+            "weaknesses": ["Ground"],
+            "resistances": ["Electric", "Flying", "Steel"],
+            "immunities": []
+          },
+          {
+            "name": "Vikavolt",
+            "shiny": true,
+            "level": 100,
+            "ability": "Levitate",
+            "moves": ["Bug Buzz", "Thunderbolt", "Energy Ball", "Sticky Web"],
+            "weaknesses": ["Fire", "Ice", "Rock"],
+            "resistances": ["Electric", "Fighting", "Grass", "Steel"],
+            "immunities": ["Ground"]
+          },
+          {
+            "name": "Ampharos",
+            "shiny": true,
+            "level": 100,
+            "ability": "Static",
+            "moves": ["Thunderbolt", "Dragon Pulse", "Cotton Guard", "Heal Bell"],
+            "weaknesses": ["Ground"],
+            "resistances": ["Electric", "Flying", "Steel"],
+            "immunities": []
+          },
+          {
+            "name": "Toxtricity",
+            "shiny": true,
+            "level": 100,
+            "ability": "Punk Rock",
+            "moves": ["Overdrive", "Sludge Bomb", "Boomburst", "Shift Gear"],
+            "weaknesses": ["Ground", "Psychic"],
+            "resistances": ["Electric", "Grass", "Fairy", "Flying", "Bug", "Poison", "Steel"],
+            "immunities": []
+          },
+          {
+            "name": "Xurkitree",
+            "shiny": true,
+            "level": 100,
+            "ability": "Beast Boost",
+            "moves": ["Thunderbolt", "Energy Ball", "Dazzling Gleam", "Tail Glow"],
+            "weaknesses": ["Ground"],
+            "resistances": ["Electric", "Flying", "Steel"],
+            "immunities": []
+          },
+          {
+            "name": "Zeraora",
+            "shiny": true,
+            "level": 100,
+            "ability": "Volt Absorb",
+            "moves": ["Plasma Fists", "Close Combat", "Knock Off", "Volt Switch"],
+            "weaknesses": ["Ground"],
+            "resistances": ["Electric", "Flying", "Steel"],
+            "immunities": []
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Lt.%20Surge%27s%20Room.png"
+      },
+      {
+        "name": "Erika",
+        "city": "Glacier Cliffs",
+        "region": "Kanto",
+        "type": "Ground",
+        "number": 4,
+        "trainers": 0,
+        "description": "Erika is the fourth and final member of the Glacier Gym. As a Ground-type specialist, he's known for his bold, aggressive battle tactics and powerful team.",
+        "leader": {
+          "name": "Erika",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Erika.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Sceptile",
+            "shiny": true,
+            "level": 100,
+            "ability": "Unburden",
+            "moves": ["Leaf Storm", "Dragon Claw", "False Swipe", "Thunder Punch"],
+            "weaknesses": ["Fire", "Ice", "Flying", "Poison", "Bug"],
+            "resistances": ["Grass", "Electric", "Ground", "Water"],
+            "immunities": []
+          },
+          {
+            "name": "Zarude",
+            "shiny": true,
+            "level": 100,
+            "ability": "Leaf Guard",
+            "moves": ["Power Whip", "Darkest Lariat", "U-turn", "Leech Seed"],
+            "weaknesses": ["Fire", "Ice", "Flying", "Poison", "Bug", "Fairy", "Fighting"],
+            "resistances": ["Grass", "Electric", "Ground", "Ghost", "Dark", "Water"],
+            "immunities": []
+          },
+          {
+            "name": "Kartana",
+            "shiny": true,
+            "level": 100,
+            "ability": "Beast Boost",
+            "moves": ["Leaf Blade", "Sacred Sword", "Smart Strike", "X-Scissor"],
+            "weaknesses": ["Fire", "Fighting"],
+            "resistances": ["Grass", "Electric", "Normal", "Psychic", "Dragon", "Fairy", "Bug", "Steel", "Flying", "Rock"],
+            "immunities": "Poison"
+          },
+          {
+            "name": "Lurantis",
+            "shiny": true,
+            "level": 100,
+            "ability": "Contrary",
+            "moves": ["Leaf Storm", "Leech Life", "Superpower", "Poison Jab"],
+            "weaknesses": ["Fire", "Ice", "Flying", "Poison", "Bug"],
+            "resistances": ["Grass", "Electric", "Ground", "Water"],
+            "immunities": []
+          },
+          {
+            "name": "Tangrowth",
+            "shiny": true,
+            "level": 100,
+            "ability": "Regenerator",
+            "moves": ["Giga Drain", "Knock Off", "Sludge Bomb", "Sleep Powder"],
+            "weaknesses": ["Fire", "Ice", "Flying", "Poison", "Bug"],
+            "resistances": ["Grass", "Electric", "Ground", "Water"],
+            "immunities": []
+          },
+          {
+            "name": "Virizion",
+            "shiny": true,
+            "level": 100,
+            "ability": "Justified",
+            "moves": ["Leaf Blade", "Sacred Sword", "Stone Edge", "Swords Dance"],
+            "weaknesses": ["Fire", "Ice", "Flying", "Poison", "Psychic", "Fairy"],
+            "resistances": ["Grass", "Electric", "Ground", "Dark", "Rock", "Water"],
+            "immunities": []
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Erika%27s%20Room.png"
+      },
+      {
+        "name": "Koga",
+        "city": "Glacier Cliffs",
+        "region": "Kanto",
+        "type": "Psychic",
+        "number": 5,
+        "trainers": 0,
+        "description": "Koga is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "leader": {
+          "name": "Koga",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Koga.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Gengar",
+            "shiny": true,
+            "level": 100,
+            "ability": "Cursed Body",
+            "moves": ["Shadow Ball", "Sludge Bomb", "Focus Blast", "Destiny Bond"],
+            "weaknesses": ["Psychic", "Ghost", "Dark", "Ground"],
+            "resistances": ["Grass", "Fairy", "Bug", "Fighting", "Poison"],
+            "immunities": ["Normal", "Fighting"]
+          },
+          {
+            "name": "Dragalge",
+            "shiny": true,
+            "level": 100,
+            "ability": "Adaptability",
+            "moves": ["Draco Meteor", "Sludge Wave", "Hydro Pump", "Toxic Spikes"],
+            "weaknesses": ["Ground", "Ice", "Psychic", "Dragon"],
+            "resistances": ["Electric", "Water", "Fighting", "Fire", "Bug", "Poison"],
+            "immunities": []
+          },
+          {
+            "name": "Toxicroak",
+            "shiny": true,
+            "level": 100,
+            "ability": "Dry Skin",
+            "moves": ["Vacuum Wave", "Drain Punch", "Ice Punch", "Swords Dance"],
+            "weaknesses": ["Psychic", "Flying", "Ground"],
+            "resistances": ["Grass", "Dark", "Rock", "Bug", "Poison", "Fighting"],
+            "immunities": []
+          },
+          {
+            "name": "Naganadel",
+            "shiny": true,
+            "level": 100,
+            "ability": "Beast Boost",
+            "moves": ["Sludge Wave", "Draco Meteor", "Flamethrower", "Nasty Plot"],
+            "weaknesses": ["Ice", "Dragon", "Psychic", "Rock"],
+            "resistances": ["Fighting", "Bug", "Poison", "Grass", "Electric", "Fire"],
+            "immunities": ["Ground"]
+          },
+          {
+            "name": "Nihilego",
+            "shiny": true,
+            "level": 100,
+            "ability": "Beast Boost",
+            "moves": ["Power Gem", "Sludge Wave", "Thunderbolt", "Stealth Rock"],
+            "weaknesses": ["Psychic", "Ground", "Steel", "Water"],
+            "resistances": ["Fairy", "Flying", "Fire", "Poison", "Bug", "Normal"],
+            "immunities": []
+          },
+          {
+            "name": "Salazzle",
+            "shiny": true,
+            "level": 100,
+            "ability": "Corrosion",
+            "moves": ["Toxic", "Sludge Bomb", "Flamethrower", "Nasty Plot"],
+            "weaknesses": ["Water", "Psychic", "Rock"],
+            "resistances": ["Fairy", "Fire", "Grass", "Ice", "Bug", "Poison", "Fighting", "Steel"],
+            "immunities": ["Poison"]
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Koga%27s%20Room.png"
+      },
+      {
+        "name": "Sabrina",
+        "city": "Glacier Cliffs",
+        "region": "Kanto",
+        "type": "Psychic",
+        "number": 5,
+        "trainers": 0,
+        "description": "Sabrina is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "leader": {
+          "name": "Sabrina",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Sabrina.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Metagross",
+            "shiny": true,
+            "level": 100,
+            "ability": "Clear Body",
+            "moves": ["Meteor Mash", "Zen Headbutt", "Earthquake", "Agility"],
+            "weaknesses": ["Fire", "Ground", "Ghost", "Dark"],
+            "resistances": ["Rock", "Grass", "Ice", "Dragon", "Steel", "Fairy", "Normal", "Flying", "Psychic"],
+            "immunities": ["Poison"]
+          },
+          {
+            "name": "Deoxys",
+            "shiny": true,
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Psycho Boost", "Zap Cannon", "Extreme Speed", "Dark Pulse"],
+            "weaknesses": ["Bug", "Ghost", "Dark"],
+            "resistances": ["Fighting", "Psychic"],
+            "immunities": []
+          },
+          {
+            "name": "Gardevoir",
+            "shiny": true,
+            "level": 100,
+            "ability": "Trace",
+            "moves": ["Moonblast", "Energy Ball", "Hyper Voice", "Dream Eater"],
+            "weaknesses": ["Ghost", "Steel", "Poison"],
+            "resistances": ["Fighting", "Psychic"],
+            "immunities": ["Dragon"]
+          },
+          {
+            "name": "Hatterene",
+            "shiny": true,
+            "level": 100,
+            "ability": "Magic Bounce",
+            "moves": ["Psychic", "Mystical Fire", "Dazzling Gleam", "Calm Mind"],
+            "weaknesses": ["Ghost", "Steel"],
+            "resistances": ["Fighting", "Psychic"],
+            "immunities": ["Dragon"]
+          },
+          {
+            "name": "Mewtwo",
+            "shiny": true,
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Psystrike", "Aura Sphere", "Ice Beam", "Recover"],
+            "weaknesses": ["Bug", "Ghost", "Dark"],
+            "resistances": ["Fighting", "Psychic"],
+            "immunities": []
+          },
+          {
+            "name": "Necrozma",
+            "shiny": true,
+            "level": 100,
+            "ability": "Prism Armor",
+            "moves": ["Photon Geyser", "Earth Power", "Stealth Rock", "Moonlight"],
+            "weaknesses": ["Ghost", "Dark", "Bug"],
+            "resistances": ["Fighting", "Psychic"],
+            "immunities": []
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Sabrina%27s%20Room.png"
+      },
+      {
+        "name": "Blaine",
+        "city": "Glacier Cliffs",
+        "region": "Kanto",
+        "type": "Fire",
+        "number": 5,
+        "trainers": 0,
+        "description": "Blaine is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "leader": {
+          "name": "Blaine",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Blaine.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Cinderace",
+            "shiny": true,
+            "level": 100,
+            "ability": "Libero",
+            "moves": ["Headbutt", "Double-Edge", "U-turn", "Flame Change"],
+            "weaknesses": ["Water", "Ground", "Rock"],
+            "resistances": ["Bug", "Steel", "Fire", "Grass", "Ice", "Fairy"],
+            "immunities": []
+          },
+          {
+            "name": "Alolan Marowak",
+            "shiny": true,
+            "level": 100,
+            "ability": "Lightning Rod",
+            "moves": ["False Swipe", "Shadow Bone", "Bonemerang", "Bone Rush"],
+            "weaknesses": ["Water", "Ground", "Rock", "Ghost", "Dark"],
+            "resistances": ["Fire", "Grass", "Fairy", "Bug", "Steel", "Ice"],
+            "immunities": ["Normal", "Fighting", "Electric"]
+          },
+          {
+            "name": "Blacephalon",
+            "shiny": true,
+            "level": 100,
+            "ability": "Beast Boost",
+            "moves": ["Mind Blown", "Shadow Ball", "Flamethrower", "Trick"],
+            "weaknesses": ["Water", "Ground", "Rock", "Ghost", "Dark"],
+            "resistances": ["Fairy", "Fire", "Grass", "Ice", "Steel"],
+            "immunities": ["Normal", "Fighting"]
+          },
+          {
+            "name": "Heatran",
+            "shiny": true,
+            "level": 100,
+            "ability": "Flash Fire",
+            "moves": ["Magma Storm", "Earth Power", "Toxic", "Protect"],
+            "weaknesses": ["Water", "Fighting", "Ground"],
+            "resistances": ["Bug", "Steel", "Ice", "Dragon", "Fairy", "Grass", "Flying", "Psychic"],
+            "immunities": ["Poison", "Fire"]
+          },
+          {
+            "name": "Moltres",
+            "shiny": true,
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Hurricane", "Flamethrower", "Roost", "U-turn"],
+            "weaknesses": ["Water", "Electric", "Rock"],
+            "resistances": ["Bug", "Fairy", "Fighting", "Fire", "Grass", "Steel"],
+            "immunities": ["Ground"]
+          },
+          {
+            "name": "Primal Groudon",
+            "shiny": true,
+            "level": 100,
+            "ability": "Desolate Land",
+            "moves": ["Precipice Blades", "Fire Punch", "Swords Dance", "Stone Edge"],
+            "weaknesses": ["Ground", "Water"],
+            "resistances": ["Bug", "Fire", "Steel", "Fairy", "Poison"],
+            "immunities": ["Electric"]
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Blaine%27s%20Room.png"
+      },
+      {
+        "name": "Frosty",
+        "city": "Glacier Cliffs",
+        "region": "Kanto",
+        "type": "Ice",
+        "number": 5,
+        "trainers": 0,
+        "description": "Blaine is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "leader": {
+          "name": "Frosty",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Frosty.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Avalugg",
+            "shiny": true,
+            "level": 100,
+            "ability": "Sturdy",
+            "moves": ["Avalanche", "Body Press", "Recover", "Iron Defense"],
+            "weaknesses": ["Fighting", "Fire", "Rock", "Steel"],
+            "resistances": ["Ice"],
+            "immunities": []
+          },
+          {
+            "name": "Urshifu Single Strike",
+            "shiny": true,
+            "level": 100,
+            "ability": "Unseen Fist",
+            "moves": ["Wicked Blow", "Close Combat", "Sucker Punch", "U-turn"],
+            "weaknesses": ["Fairy", "Flying"],
+            "resistances": ["Rock", "Bug", "Dark"],
+            "immunities": ["Psychic"]
+          },
+          {
+            "name": "Frosmoth",
+            "shiny": true,
+            "level": 100,
+            "ability": "Ice Scales",
+            "moves": ["Bug Buzz", "Quiver Dance", "Ice Beam", "Giga Drain"],
+            "weaknesses": ["Fire", "Flying", "Rock", "Steel"],
+            "resistances": ["Grass", "Ice", "Ground"],
+            "immunities": []
+          },
+          {
+            "name": "White Kyurem",
+            "shiny": true,
+            "level": 100,
+            "ability": "Turboblaze",
+            "moves": ["Fusion Flare", "Ice Beam", "Earth Power", "Draco Meteor"],
+            "weaknesses": ["Dragon", "Fairy", "Rock", "Fighting", "Steel"],
+            "resistances": ["Electric", "Water", "Grass", "Fire"],
+            "immunities": []
+          },
+          {
+            "name": "Abomasnow",
+            "shiny": true,
+            "level": 100,
+            "ability": "Snow Warning",
+            "moves": ["Blizzard", "Giga Drain", "Earth Power", "Aurora Veil"],
+            "weaknesses": ["Fire", "Flying", "Bug", "Fighting", "Steel", "Poison", "Rock"],
+            "resistances": ["Water", "Ground", "Grass", "Electric"],
+            "immunities": []
+          },
+          {
+            "name": "Mamoswine",
+            "shiny": true,
+            "level": 100,
+            "ability": "Thick Fat",
+            "moves": ["Icicle Crash", "Earthquake", "Ice Shard", "Stealth Rock"],
+            "weaknesses": ["Fighting", "Fire", "Water", "Grass", "Steel"],
+            "resistances": ["Poison"],
+            "immunities": ["Electric"]
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Nitro%27s%20Room.png"
+      },
+      {
+        "name": "Blanche",
+        "city": "Glacier Cliffs",
+        "region": "Kanto",
+        "type": "Ice",
+        "number": 9,
+        "trainers": 0,
+        "description": "Blanche is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "leader": {
+          "name": "Blanche",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Blanche.png"
+        },
+        "badge": {},
+        "team": [
+          {
+            "name": "Galarian Darmanitan",
+            "shiny": true,
+            "level": 100,
+            "ability": "Gorilla Tactics",
+            "moves": ["Icicle Crash", "U-turn", "Earthquake", "Superpower"],
+            "weaknesses": ["Fire", "Fighting", "Rock", "Steel"],
+            "resistances": ["Ice"],
+            "immunities": []
+          },
+          {
+            "name": "Urshifu Single Strike",
+            "shiny": true,
+            "level": 100,
+            "ability": "Unseen Fist",
+            "moves": ["Wicked Blow", "Close Combat", "Iron Head", "U-turn"],
+            "weaknesses": ["Fairy", "Flying"],
+            "resistances": ["Rock", "Dark", "Bug"],
+            "immunities": ["Psychic"]
+          },
+          {
+            "name": "Weavile",
+            "shiny": true,
+            "level": 100,
+            "ability": "Pressure",
+            "moves": ["Icicle Crash", "Knock Off", "Ice Shard", "Swords Dance"],
+            "weaknesses": ["Fighting", "Rock", "Bug", "Steel", "Fairy", "Fire"],
+            "resistances": ["Ice", "Dark", "Ghost"],
+            "immunities": ["Psychic"]
+          },
+          {
+            "name": "White Kyurem",
+            "shiny": true,
+            "level": 100,
+            "ability": "Turboblaze",
+            "moves": ["Fusion Flare", "Ice Beam", "Earth Power", "Draco Meteor"],
+            "weaknesses": ["Dragon", "Fairy", "Fighting", "Rock", "Steel"],
+            "resistances": ["Electric", "Water", "Fire", "Grass"],
+            "immunities": []
+          },
+          {
+            "name": "Mega Glalie",
+            "shiny": true,
+            "level": 100,
+            "ability": "Refrigerate",
+            "moves": ["Return", "Ice Shard", "Explosion", "Crunch"],
+            "weaknesses": ["Fire", "Fighting", "Rock", "Steel"],
+            "resistances": ["Ice"],
+            "immunities": []
+          },
+          {
+            "name": "Cloyster",
+            "shiny": true,
+            "level": 100,
+            "ability": "Skill Link",
+            "moves": ["Icicle Spear", "Rock Blast", "Shell Smash", "Razor Shell"],
+            "weaknesses": ["Electric", "Grass", "Fighting", "Rock"],
+            "resistances": ["Water", "Ice"],
+            "immunities": []
+          }
+        ],
+        "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Blanche%20and%20Frosty%27s%20Room.png"
       }
     ]
   }

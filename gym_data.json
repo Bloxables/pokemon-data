@@ -14,7 +14,7 @@
     "type": "Rock",
     "number": 1,
     "trainers": 1,
-    "description": "Insert description here.",
+    "description": "Brock is the Pewter City Gym Leader who awards the Boulder Badge. Known for his “rock-hard willpower,” he strictly uses Rock-type Pokémon to test challengers and uphold the honor of strong Trainers.",
     "team": [
       {
         "name": "Geodude",
@@ -52,7 +52,7 @@
     "type": "Water",
     "number": 2,
     "trainers": 2,
-    "description": "Specializes in Water-type Pokémon. A swift current can sweep unprepared trainers away.",
+    "description": "Misty, the leader of Cerulean City's Gym, awards the Cascade Badge. Dubbed “the Tomboyish Mermaid,” she specializes in Water-type Pokémon, deploying an aggressive, all-out-offense style and constantly trains to perfect her technique.",
     "team": [
       {
         "name": "Staryu",
@@ -90,7 +90,7 @@
     "type": "Electric",
     "number": 3,
     "trainers": 3,
-    "description": "Lt. Surge commands high-voltage Electric-types with military precision.",
+    "description": "Lt. Surge, also called the “Lightning Lieutenant,” leads Vermilion Gym and awards the Thunder Badge. A former military pilot, he relies on powerful Electric-type Pokémon that once “zapped his enemies during the war.",
     "team": [
       {
         "name": "Voltorb",
@@ -146,7 +146,7 @@
     "type": "Grass",
     "number": 4,
     "trainers": 4,
-    "description": "A peaceful gym filled with flowers and Grass-types. Don't let the aroma fool you.",
+    "description": "Erika, known as the “Nature-Loving Princess,” oversees Celadon Gym and bestows the Rainbow Badge. A serene, elegant leader, she specializes in Grass-type Pokémon, often combining her love of flower arranging with her Pokémon care.",
     "team": [
       {
         "name": "Tangela",
@@ -202,7 +202,7 @@
     "type": "Poison",
     "number": 5,
     "trainers": 4,
-    "description": "A maze of invisible walls hides Koga's poisonous and tactical team.",
+    "description": "Koga leads Fuchsia City Gym and awards the Soul Badge. He specializes in Poison-type Pokémon and is a stealthy ninja-type character who focuses on status effects and precision strikes.",
     "team": [
       {
         "name": "Koffing",
@@ -258,7 +258,7 @@
     "type": "Psychic",
     "number": 6,
     "trainers": 4,
-    "description": "Teleporters warp the field, and Sabrina's Psychic-types hit fast and hard.",
+    "description": "Sabrina, from Saffron City Gym, grants the Marsh Badge and is a master of Psychic-type Pokémon. Calm and composed, she tests challengers with powerful telepathic and mind-control techniques.",
     "team": [
       {
         "name": "Kadabra",
@@ -314,7 +314,7 @@
     "type": "Fire",
     "number": 7,
     "trainers": 4,
-    "description": "Answer quiz questions or fight trainers in this blazing gym. Blaine's Fire-types scorch the competition.",
+    "description": "Blaine runs the Cinnabar Gym and gives out the Volcano Badge. A laid-back scientist at heart, he uses Fire-type Pokémon in a quiz-themed challenge that emphasizes both knowledge and strength.",
     "team": [
       {
         "name": "Growlithe",
@@ -379,7 +379,7 @@
     "type": "Ground",
     "number": 8,
     "trainers": 5,
-    "description": "The final challenge before the Pokémon League. Specializes in Ground-type Pokémon. If your Pokémon are level 85 or higher, Giovanni will copy your team.",
+    "description": "Giovanni, the Viridian Gym Leader who awards the Earth Badge, specializes in Ground-type Pokémon. He's also the secret boss of Team Rocket, balancing his role as a Gym Leader with his criminal organization.",
     "team": [
       {
         "name": "Garchomp",
@@ -1237,7 +1237,7 @@
         "gym-banner": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Tahvosol%27s%20Room.png"
       },
       {
-        "name": "Champion Nitro",
+        "name": "Legend Nitro",
         "city": "Indigo Plateau",
         "region": "Kanto",
         "type": "Psychic",
@@ -1249,6 +1249,8 @@
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Nitro.png"
         },
         "badge": {
+          "name": "Legend Badge",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Legend%20Badge.png"
         },
         "team": [
           {
@@ -1320,7 +1322,7 @@
         "type": "Rock",
         "number": 1,
         "trainers": 0,
-        "description": "Brock is the first member of the Glacier Gym. He specializes in Rock-type Pokémon and is known for his bold, aggressive battle tactics and powerful team.",
+        "description": "As the first opponent in the 11th Gym challenge, Brock returns not as the familiar beginner's test, but as a seasoned battler with sharpened tactics. His team now reflects years of growth, making him a formidable opener to the gauntlet ahead.",
         "leader": {
           "name": "Brock",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Brock.png"
@@ -1397,7 +1399,7 @@
         "type": "Water",
         "number": 2,
         "trainers": 0,
-        "description": "Misty is the second member of the Legend Four. A master of Water-type Pokémon, he believes in becoming stronger through rigorous physical and mental training.",
+        "description": "As the second returning Gym Leader in the 11th Gym challenge, Misty channels her once-volatile Water-type style into a calculated storm. Her refined battle sense makes her more than just a nostalgic rematch — she's a true early wall in this elite challenge.",
         "leader": {
           "name": "Misty",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Misty.png"
@@ -1474,7 +1476,7 @@
         "type": "Electric",
         "number": 3,
         "trainers": 0,
-        "description": "Lt. Surge is the third member of the Legend Four. He commands Electric-type Pokémon and battles with cunning and experience built over years of training.",
+        "description": "The third Gym Leader standing in your path during the 11th Gym challenge, Lt. Surge brings more than voltage — he brings war-forged precision. His electrifying presence in the gauntlet stuns even seasoned Trainers, proving his battlefield instincts have only intensified since Vermilion.",
         "leader": {
           "name": "Lt. Surge",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Lt.%20Surge.png"
@@ -1551,7 +1553,7 @@
         "type": "Ground",
         "number": 4,
         "trainers": 0,
-        "description": "Erika is the fourth and final member of the Glacier Gym. As a Ground-type specialist, he's known for his bold, aggressive battle tactics and powerful team.",
+        "description": "As the fourth opponent in the 11th Gym challenge, Erika's elegance masks an ever-evolving strategy. Her Grass-type team now strangles careless challengers with composure and control, marking the midpoint of this elite gauntlet.",
         "leader": {
           "name": "Erika",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Erika.png"
@@ -1628,7 +1630,7 @@
         "type": "Psychic",
         "number": 5,
         "trainers": 0,
-        "description": "Koga is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "description": "The fifth returning Gym Leader to block your path in the 11th Gym challenge, Koga strikes like poison in the bloodstream — slow, precise, and devastating. His ninja-like tactics dismantle the unprepared, leaving them broken before the final ascent.",
         "leader": {
           "name": "Koga",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Koga.png"
@@ -1703,9 +1705,9 @@
         "city": "Glacier Cliffs",
         "region": "Kanto",
         "type": "Psychic",
-        "number": 5,
+        "number": 6,
         "trainers": 0,
-        "description": "Sabrina is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "description": "As the sixth challenge of the 11th Gym, Sabrina bends the battlefield — and minds — to her psychic will. This is no simple battle, but a trial of clarity, instinct, and willpower. Few emerge from her illusion unshaken.",
         "leader": {
           "name": "Sabrina",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Sabrina.png"
@@ -1780,9 +1782,9 @@
         "city": "Glacier Cliffs",
         "region": "Kanto",
         "type": "Fire",
-        "number": 5,
+        "number": 7,
         "trainers": 0,
-        "description": "Blaine is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "description": "The final challenge before the Gym Leader is revealed, Blaine returns wreathed in flame. His Fire-types erupt with focused intensity, setting the last stage ablaze. Survive him, or turn to ash.",
         "leader": {
           "name": "Blaine",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Blaine.png"
@@ -1857,14 +1859,17 @@
         "city": "Glacier Cliffs",
         "region": "Kanto",
         "type": "Ice",
-        "number": 5,
+        "number": 8,
         "trainers": 0,
-        "description": "Blaine is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "description": "One of the two Gym Leaders at Glacier Cliffs, Frosty is known for his unshakable calm and calculated pressure. He commands a relentless Ice-based team that wears opponents down with bulk, setup, and snowballing offense. Behind his laid-back demeanor lies a battler who can turn a freeze into a full collapse.",
         "leader": {
           "name": "Frosty",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Frosty.png"
         },
-        "badge": {},
+        "badge": {
+          "name": "Glacier Badge",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Glacier%20Badge.png"
+        },
         "team": [
           {
             "name": "Avalugg",
@@ -1936,12 +1941,15 @@
         "type": "Ice",
         "number": 9,
         "trainers": 0,
-        "description": "Blanche is the reigning Pokémon League Legend. His diverse and highly trained team tests every skill a challenger has developed on their journey.",
+        "description": "Also leading the Glacier Cliffs Gym, Blanche is a master of surgical strikes and battlefield control. His team hits fast and punishes mistakes without hesitation. Cold, composed, and brutally efficient — defeating him is as much about discipline as raw power.",
         "leader": {
           "name": "Blanche",
           "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/main/Locations/Gyms/Gym%20Leaders/Blanche.png"
         },
-        "badge": {},
+        "badge": {
+          "name": "Glacier Badge",
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Glacier%20Badge.png"
+        },
         "team": [
           {
             "name": "Galarian Darmanitan",

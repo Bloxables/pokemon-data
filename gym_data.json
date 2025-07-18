@@ -1860,7 +1860,7 @@
         "region": "Kanto",
         "type": "Ice",
         "number": 8,
-        "trainers": 0,
+        "trainers": 7,
         "description": "One of the two Gym Leaders at Glacier Cliffs, Frosty is known for his unshakable calm and calculated pressure. He commands a relentless Ice-based team that wears opponents down with bulk, setup, and snowballing offense. Behind his laid-back demeanor lies a battler who can turn a freeze into a full collapse.",
         "leader": {
           "name": "Frosty",
@@ -1868,7 +1868,7 @@
         },
         "badge": {
           "name": "Glacier Badge",
-          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Badges/9-11%20%2B%20e4%20and%20l4/Glacier%20Badge.png"
+          "image": "https://raw.githubusercontent.com/Bloxables/pokemon-data/refs/heads/main/Locations/Gyms/Gym%20Leaders/Leader%20Placeholder.png"
         },
         "team": [
           {
@@ -1940,7 +1940,7 @@
         "region": "Kanto",
         "type": "Ice",
         "number": 9,
-        "trainers": 0,
+        "trainers": 7,
         "description": "Also leading the Glacier Cliffs Gym, Blanche is a master of surgical strikes and battlefield control. His team hits fast and punishes mistakes without hesitation. Cold, composed, and brutally efficient — defeating him is as much about discipline as raw power.",
         "leader": {
           "name": "Blanche",
